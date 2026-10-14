@@ -1,0 +1,105 @@
+{
+ "id": "SYNEW-152",
+ "verdict": "qualified",
+ "reason": "محل ألبسة نسائية في طرطوس (9.3 ألف متابع) ينشر تشكيلات جديدة حتى آب 2026 ولا يملك كتالوجاً رقمياً.",
+ "sells": "ألبسة نسائية تركية وأوروبية: قمصان وفساتين وسالوبيتات",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "Sham Fashion",
+  "followers": "9394",
+  "bio": "womens wear store/ European",
+  "address": "طرطوس - المشبكة - الشارع المقابل لفروج سكاف جانب محل بروكار",
+  "phones": [
+   "+963930662684"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-08"
+ },
+ "logo": "assets/SYNEW-152/logo.jpg",
+ "cover": "assets/SYNEW-152/cover.jpg",
+ "items": [
+  {
+   "name": "قميص تركي أصفر بكشكش",
+   "description": "",
+   "category": "قمصان",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-152/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "قميص تركي مورد بربطة",
+   "description": "",
+   "category": "قمصان",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-152/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "قميص تركي قرميدي",
+   "description": "",
+   "category": "قمصان",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-152/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان تركي برتقالي مورد",
+   "description": "",
+   "category": "فساتين",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-152/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان تركي مورد بأزرار",
+   "description": "",
+   "category": "فساتين",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-152/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان ساتان أخضر",
+   "description": "",
+   "category": "فساتين",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-152/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "سالوبيت أسود",
+   "description": "",
+   "category": "سالوبيتات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-152/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "سالوبيت زيتي",
+   "description": "",
+   "category": "سالوبيتات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-152/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

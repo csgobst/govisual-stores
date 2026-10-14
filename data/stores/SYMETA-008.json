@@ -1,0 +1,105 @@
+{
+ "id": "SYMETA-008",
+ "verdict": "qualified",
+ "reason": "متجر هدايا وعطور نشط في حلب ينشر منتجاته يومياً، ولا يملك منيو أو متجراً رقمياً (رابط لينكتري يحوي واتساب وإنستغرام وخريطة فقط).",
+ "sells": "هدايا، بوكيات ورد، عطور ومسك، مستحضرات تجميل",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "فور يو للهدايا",
+  "followers": "3.2 ألف",
+  "bio": "هدايا مميزة بكل حب، بوكيات ورد فاخرة، اجود انواع العطور الفرنسية، منتجات تجميل ومكياج",
+  "address": "حلب - سيف الدولة - مفرق الدوحة",
+  "phones": [
+   "+963988434250"
+  ],
+  "whatsapp": "+963988434250",
+  "instagram": "https://www.instagram.com/foryou.gift.sy",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYMETA-008/logo.jpg",
+ "cover": "assets/SYMETA-008/cover.jpg",
+ "items": [
+  {
+   "name": "بوكيه حرف ورد",
+   "description": "بوكيه ورد على شكل حرف",
+   "category": "بوكيات ورد",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-008/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "علبة هدية Love",
+   "description": "طلبية هدية من تركيا إلى سوريا",
+   "category": "هدايا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-008/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "برواظ أسماء شبابي",
+   "description": "برواظ بالأسماء هدية مناسبة للشباب",
+   "category": "هدايا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-008/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مسك الطهارة فانيلا",
+   "description": "مسك الطهارة 6 مل",
+   "category": "عطور ومسك",
+   "price": 150,
+   "currency": "SYP",
+   "price_text": "عرض خاص مسك الطهارة 6 مل السعر 150 ليرة فقط",
+   "image": "assets/SYMETA-008/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مسك الطهارة رمان",
+   "description": "مسك الطهارة 6 مل",
+   "category": "عطور ومسك",
+   "price": 150,
+   "currency": "SYP",
+   "price_text": "عرض خاص مسك الطهارة 6 مل السعر 150 ليرة فقط",
+   "image": "assets/SYMETA-008/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مسك الطهارة ياسمين",
+   "description": "مسك الطهارة 6 مل",
+   "category": "عطور ومسك",
+   "price": 150,
+   "currency": "SYP",
+   "price_text": "عرض خاص مسك الطهارة 6 مل السعر 150 ليرة فقط",
+   "image": "assets/SYMETA-008/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مسك الطهارة ملكي",
+   "description": "مسك الطهارة 6 مل",
+   "category": "عطور ومسك",
+   "price": 150,
+   "currency": "SYP",
+   "price_text": "عرض خاص مسك الطهارة 6 مل السعر 150 ليرة فقط",
+   "image": "assets/SYMETA-008/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مسك الطهارة روز",
+   "description": "مسك الطهارة 6 مل",
+   "category": "عطور ومسك",
+   "price": 150,
+   "currency": "SYP",
+   "price_text": "عرض خاص مسك الطهارة 6 مل السعر 150 ليرة فقط",
+   "image": "assets/SYMETA-008/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

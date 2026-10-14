@@ -1,0 +1,106 @@
+{
+ "id": "SYNEW-139",
+ "verdict": "maybe",
+ "reason": "محل حلويات عربية في حماة بمنتجات واضحة كثيرة وبلا منيو رقمي، لكن آخر منشور ظاهر يعود إلى أيلول 2024 فالصفحة تبدو متوقفة عن النشر.",
+ "sells": "حلويات عربية وشرقية، معمول، مالح، نمورة، بالإضافة إلى الكبة",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "حلويات النشار Al Nashar Sweets",
+  "followers": "10 ألف",
+  "bio": "متخصصون بالحلويات العربية والشرقية بكافة أنواعها، بالإضافة الى الكبة",
+  "address": "حماة، الشريعة، جانب مطعم أبو علو",
+  "phones": [
+   "+963952328665",
+   "2530857"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2024-09"
+ },
+ "logo": "assets/SYNEW-139/logo.jpg",
+ "cover": "assets/SYNEW-139/cover.jpg",
+ "items": [
+  {
+   "name": "هافانا فستق",
+   "description": "",
+   "category": "حلويات غربية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-139/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "هافانا شوكولا",
+   "description": "",
+   "category": "حلويات غربية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-139/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "معمول الراحة",
+   "description": "",
+   "category": "معمول",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-139/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "ترند دبي بالفستق",
+   "description": "",
+   "category": "حلويات غربية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-139/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مالح مشكل",
+   "description": "كعك وأصابع مالحة",
+   "category": "مالح",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-139/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "تمرية بالمكسرات",
+   "description": "",
+   "category": "حلويات شرقية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-139/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "نمورة لوزة كاجو",
+   "description": "",
+   "category": "نمورة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-139/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "نمورة باشا",
+   "description": "",
+   "category": "نمورة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-139/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

@@ -1,0 +1,22 @@
+{
+ "id": "SYNEW-116",
+ "verdict": "unreachable",
+ "reason": "فيسبوك يعرض 'هذا المحتوى غير متوفر حالياً' للصفحة (محذوفة أو مقيدة) في محاولتين.",
+ "sells": "مطعم ومقهى (حسب المصدر)",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "Verdant Cafe & Restaurant",
+  "followers": "",
+  "bio": "",
+  "address": "دمشق",
+  "phones": [],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "unknown"
+ },
+ "logo": "",
+ "cover": "",
+ "items": [],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

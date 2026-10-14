@@ -1,0 +1,103 @@
+{
+ "id": "SYMETA-038",
+ "verdict": "qualified",
+ "reason": "دار أزياء وفساتين سهرة في طرطوس نشطة على إنستغرام (374 منشوراً وريلز حديثة) ولا تملك متجراً أو كتالوجاً رقمياً.",
+ "sells": "فساتين سهرة وأعراس وخطوبة من تصميم Ayman ib designer",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "دار رنا للأزياء أيمن",
+  "followers": "6,773",
+  "bio": "Design and fashion (Queen)",
+  "address": "طرطوس - شرق شمال دوار الشرطة العسكرية - خلف مشفى الحاج صالح - جانب البسة شادوز",
+  "phones": [],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/dar_ranafashion_ayman",
+  "last_activity": "2026 (ريلز حديثة، التاريخ غير ظاهر)"
+ },
+ "logo": "assets/SYMETA-038/logo.jpg",
+ "cover": "",
+ "items": [
+  {
+   "name": "فستان سهرة فضي مكشوف الكتفين",
+   "description": "",
+   "category": "فساتين سهرة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-038/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان سهرة أزرق سمكة",
+   "description": "",
+   "category": "فساتين سهرة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-038/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان سهرة أسود مطرز",
+   "description": "",
+   "category": "فساتين سهرة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-038/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان مطرز بالأزرق",
+   "description": "",
+   "category": "فساتين سهرة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-038/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان خطوبة فضي",
+   "description": "dress by Ayman ib designer",
+   "category": "فساتين خطوبة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-038/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان خطوبة خمري",
+   "description": "",
+   "category": "فساتين خطوبة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-038/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان سهرة سماوي مطرز",
+   "description": "",
+   "category": "فساتين سهرة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-038/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان سهرة أصفر",
+   "description": "",
+   "category": "فساتين سهرة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-038/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

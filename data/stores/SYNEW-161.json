@@ -1,0 +1,53 @@
+{
+ "id": "SYNEW-161",
+ "verdict": "maybe",
+ "reason": "محل أزياء نسائية محتشمة في اللاذقية يعرض موديلات مانطو وجلابيات بلا قائمة رقمية، لكن الرابط صفحة غير رسمية وآخر المنشورات الظاهرة قبل نحو سنة ولا يوجد رقم تواصل.",
+ "sells": "أزياء نسائية محتشمة: مانطو وجلابيات وعبايات",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "مجبور لتصميم الازياء (Majbour fashion)",
+  "followers": "0",
+  "bio": "متجر ملابس نسائية - صفحة غير رسمية",
+  "address": "اللاذقية - تقاطع شارع هنانو وشارع القدس على الزاوية",
+  "phones": [],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2025"
+ },
+ "logo": "",
+ "cover": "assets/SYNEW-161/cover.jpg",
+ "items": [
+  {
+   "name": "مانطو كحلي بأزرار",
+   "description": "مانطو نسائي طويل بقصة كلاسيكية وأزرار أمامية",
+   "category": "مانطو",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-161/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "جلابية بكشكش",
+   "description": "جلابية طويلة بكشكش أمامي، متوفرة بالأسود والرمادي والبيج",
+   "category": "جلابيات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-161/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مانطو رمادي كلوش",
+   "description": "مانطو رمادي بأزرار مزدوجة وقصة كلوش",
+   "category": "مانطو",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-161/item03.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

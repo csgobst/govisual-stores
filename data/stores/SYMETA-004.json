@@ -1,0 +1,65 @@
+{
+ "id": "SYMETA-004",
+ "verdict": "qualified",
+ "reason": "متجر هدايا وبوكيهات نشط في الباب بحلب بفرعين، ينشر منتجاته باستمرار ولا يملك منيو أو متجراً رقمياً (الطلب عبر الدايركت).",
+ "sells": "بوكيهات ورد وهدايا وتيجان وستاندات ضيافة",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "متجر هديتي",
+  "followers": "14 ألف",
+  "bio": "💎 بوكيهات وهدايا بتصاميم مميزة 📍 سوريا - حلب - الباب 🏬 الفرع الأول : غولدن روز مول S43 🏬 الفرع الثاني : كريم مول F15 🚚 توصيل سريع | 📩 دايركت للطلب",
+  "address": "سوريا / حلب / الباب / غولدن روز مول S43 وكريم مول F15",
+  "phones": [
+   "+14784046211"
+  ],
+  "whatsapp": "+14784046211",
+  "instagram": "https://www.instagram.com/syria_gifts_1",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYMETA-004/logo.jpg",
+ "cover": "assets/SYMETA-004/cover.jpg",
+ "items": [
+  {
+   "name": "التاج العرايسي للأطفال",
+   "description": "تاج لؤلؤ مع فيونكة وشريط مكتوب حسب الطلب",
+   "category": "إكسسوارات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-004/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "ستاند ضيافة خشبي بالورود",
+   "description": "ستاند خشبي مزين بالورد والقلوب الزجاجية مع حفر الاسم والتاريخ",
+   "category": "ستاندات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-004/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "ستاند ضيافة بطابقين",
+   "description": "من أفخم وأرقى الستاندات",
+   "category": "ستاندات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-004/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بوكيه ورد وردي ملكي",
+   "description": "بوكيه ورد جوري وردي مع تاج",
+   "category": "بوكيهات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-004/item04.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

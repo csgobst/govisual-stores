@@ -1,0 +1,106 @@
+{
+ "id": "SYMETA-015",
+ "verdict": "maybe",
+ "reason": "متجر ملابس نسائية وأطفال نشط بدون منيو رقمي، لكنه في غزة (فلسطين) وليس في سوريا والأسعار بالشيكل.",
+ "sells": "ملابس نسائية وأطفال: فساتين سهرة، أطقم شتوية للأطفال",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "سنتر حلس للملابس الحريمي والأطفال",
+  "followers": "1.9 ألف",
+  "bio": "محل للبيع ملابس حريمي وأطفال",
+  "address": "الرمال، الشارع المقابل لكاظم، غزة، فلسطين",
+  "phones": [
+   "+972599410851",
+   "+970599410851"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/hls.ns",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYMETA-015/logo.jpg",
+ "cover": "assets/SYMETA-015/cover.jpg",
+ "items": [
+  {
+   "name": "فستان سهرة",
+   "description": "فستان سهرة أحمر طويل، عرض لفترة محدودة",
+   "category": "فساتين سهرة",
+   "price": null,
+   "currency": "",
+   "price_text": "250 شيكل بدل 500 شيكل",
+   "image": "assets/SYMETA-015/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم فرو بناتي رمادي",
+   "description": "جاكيت فرو مع بنطلون محبوك",
+   "category": "ملابس أطفال",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-015/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم صوف بناتي زهري",
+   "description": "كنزة وبنطلون محبوك زهري",
+   "category": "ملابس أطفال",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-015/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم فرو بناتي أبيض",
+   "description": "جاكيت فرو أبيض مع بنطلون",
+   "category": "ملابس أطفال",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-015/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم شتوي بناتي خمري",
+   "description": "كنزة وبنطلون بتطريز",
+   "category": "ملابس أطفال",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-015/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم بناتي أسود باللؤلؤ",
+   "description": "كنزة محبوكة باللؤلؤ مع بنطلون",
+   "category": "ملابس أطفال",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-015/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم رياضي ولادي",
+   "description": "هودي وبنطلون رياضي رمادي",
+   "category": "ملابس أطفال",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-015/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم جاكيت ولادي شتوي",
+   "description": "جاكيت بكابوشون مع بنطلون كارغو",
+   "category": "ملابس أطفال",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-015/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

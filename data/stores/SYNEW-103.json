@@ -1,0 +1,22 @@
+{
+ "id": "SYNEW-103",
+ "verdict": "maybe",
+ "reason": "صفحة غير رسمية مولّدة تلقائياً لمطعم في عيون الوادي، تحوي فقط تسجيلات زوار من 2016-2017 بلا منتجات ولا أرقام تواصل، فلا يمكن تأكيد نشاط المطعم.",
+ "sells": "مطعم وصالة مناسبات",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "مطعم الكرم عيون الوادي حمص سوريا",
+  "followers": "0",
+  "bio": "",
+  "address": "عيون الوادي، حمص",
+  "phones": [],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2017-06"
+ },
+ "logo": "",
+ "cover": "assets/SYNEW-103/cover.jpg",
+ "items": [],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

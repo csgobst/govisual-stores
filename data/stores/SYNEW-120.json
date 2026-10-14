@@ -1,0 +1,22 @@
+{
+ "id": "SYNEW-120",
+ "verdict": "unreachable",
+ "reason": "صفحة فيسبوك تظهر رسالة \"هذا المحتوى غير متوفر حالياً\" (محذوفة أو مقيدة) في محاولتين.",
+ "sells": "مطعم ومقهى",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "Balance Cafe & Restaurant",
+  "followers": "",
+  "bio": "",
+  "address": "دمشق",
+  "phones": [],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "unknown"
+ },
+ "logo": "",
+ "cover": "",
+ "items": [],
+ "checkedAt": "2026-10-15"
+}

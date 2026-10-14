@@ -1,0 +1,24 @@
+{
+ "id": "SYMETA-009",
+ "verdict": "not_qualified",
+ "reason": "كافيه نشط في حمص لكن لديه منيو رقمي كامل بالأسعار على موقع stay-connect.net/rawaa.",
+ "sells": "مقهى ومطعم: مشروبات، مناقيش، بيتزا، حلويات، أراكيل",
+ "has_digital_menu": true,
+ "menu_link": "https://stay-connect.net/rawaa",
+ "page": {
+  "title": "رواء كافيه - Rawaa Cafe",
+  "followers": "19 ألف",
+  "bio": "استمتع بأجمل اللحظات مع من تحب بكل /رواء/.",
+  "address": "حمص، شارع الحميدية، جانب مطعم خير الله سابقاً",
+  "phones": [
+   "+963965060002"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/rawaa.caffee/",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYMETA-009/logo.jpg",
+ "cover": "assets/SYMETA-009/cover.jpg",
+ "items": [],
+ "checkedAt": "2026-10-15"
+}

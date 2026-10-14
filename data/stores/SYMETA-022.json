@@ -1,0 +1,35 @@
+{
+ "id": "SYMETA-022",
+ "verdict": "maybe",
+ "reason": "محل ألبسة رجالية نشط (125 ألف متابع، فرعان في اللاذقية وجبلة) بلا منيو رقمي، لكن المنشورات الظاهرة إعلانات وفيديوهات ولا تظهر 3 منتجات واضحة.",
+ "sells": "ألبسة رجالية وبيجامات",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "cons .مواسم",
+  "followers": "125550",
+  "bio": "📍سوريا -اللاذقية 📍صليبه -مقابيل معجنات الصوفي 🔴 جبلة ـ دوار العمارة جانب سيسويت 👔 ألبسه رجاليه بإدارة: عمار ابو لفضل الوكيل الحصري في سوريا لشركة CONS العالمية",
+  "address": "اللاذقية - الصليبة مقابل معجنات الصوفي؛ جبلة - دوار العمارة جانب حلويات سيسويت",
+  "phones": [
+   "+963952277996"
+  ],
+  "whatsapp": "0952277996",
+  "instagram": "https://www.instagram.com/cons_seasons",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYMETA-022/logo.jpg",
+ "cover": "assets/SYMETA-022/cover.jpg",
+ "items": [
+  {
+   "name": "عرض أربع قطع",
+   "description": "أربع قطع بسعر 150 ألف، شحن لجميع المحافظات",
+   "category": "عروض",
+   "price": 150000,
+   "currency": "SYP",
+   "price_text": "اربع قطع بسعر 150 الف",
+   "image": "assets/SYMETA-022/item01.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

@@ -1,0 +1,105 @@
+{
+ "id": "SYMETA-071",
+ "verdict": "qualified",
+ "reason": "محل أحذية وحقائب نشط جداً في سلمية (14 ألف متابع، آخر منشور قبل 5 أيام) يعرض موديلات كثيرة دون أي كتالوج أو متجر رقمي.",
+ "sells": "أحذية وصنادل وشحاطات وحقائب نسائية، جملة ومفرق",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "بابل للاحذية والحقائب",
+  "followers": "14608",
+  "bio": "احذية حقائب - جملة ومفرق",
+  "address": "سلمية - شارع الست زينب مقابل المعتمدية (فرعان: بابل وبراند)",
+  "phones": [
+   "+963994924899"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYMETA-071/logo.jpg",
+ "cover": "",
+ "items": [
+  {
+   "name": "صندل زحف بفيونكة نمر",
+   "description": "صندل صيفي مريح بفيونكة بنقشة النمر، نمر 40-41",
+   "category": "صنادل",
+   "price": 20000,
+   "currency": "SYP",
+   "price_text": "٢٠ الف قديمة",
+   "image": "assets/SYMETA-071/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "صندل زحف بفيونكة زرقاء",
+   "description": "صندل صيفي مريح بفيونكة ملونة",
+   "category": "صنادل",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-071/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "سليبرات صيفية بألوان",
+   "description": "سليبرات مريحة بعدة ألوان، نمر 25 لـ 40",
+   "category": "شحاطات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-071/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "شحاطة نسائية بإكسسوار نجمة",
+   "description": "شحاطات نسائية بإكسسوارات معدنية وألوان متعددة",
+   "category": "شحاطات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-071/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "شحاطة بفراشة",
+   "description": "شحاطة نسائية مزينة بفراشة",
+   "category": "شحاطات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-071/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "صنادل وكعب نسائي",
+   "description": "تشكيلة صنادل وأحذية كعب بأسعار مخفضة",
+   "category": "أحذية نسائية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-071/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "سنيكرز أبيض بلاصق",
+   "description": "حذاء رياضي أبيض خفيف ومريح، نمر 37-41",
+   "category": "أحذية رياضية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-071/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "شحاطة H نسائية",
+   "description": "شحاطات بتصميم H وألوان متعددة",
+   "category": "شحاطات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-071/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

@@ -1,0 +1,75 @@
+{
+ "id": "SYMETA-017",
+ "verdict": "qualified",
+ "reason": "متجر هدايا وتنسيق خطوبة نشط في إدلب يعرض منتجاته على فيسبوك دون قائمة رقمية.",
+ "sells": "شالات، اكسسوارات، ساعات، عطور، باقات ورد وتنسيقات خطوبة",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "شعيب shuaib",
+  "followers": "5315",
+  "bio": "مركز لتسويق وبيع شالات-اكسسورات-ساعات-عطور جملة-مفرق",
+  "address": "إدلب غرب دوار الساعة",
+  "phones": [
+   "+352681132065"
+  ],
+  "whatsapp": "https://chat.whatsapp.com/J9xv7tAMdlwClJ8s7eB3rr",
+  "instagram": "https://www.instagram.com/shuiab.667",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYMETA-017/logo.jpg",
+ "cover": "assets/SYMETA-017/cover.jpg",
+ "items": [
+  {
+   "name": "باقة ورد زرقاء",
+   "description": "تنسيق وتفصيل حسب الطلب مع توصيل لكافة سوريا",
+   "category": "باقات ورد",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-017/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "باقة ورد بيضاء للخطوبة",
+   "description": "",
+   "category": "باقات ورد",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-017/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "تنسيقات خطوبة وهدايا",
+   "description": "تنسيق حسب الطلب",
+   "category": "تنسيقات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-017/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "خاتم الوعد",
+   "description": "",
+   "category": "اكسسوارات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-017/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "علب وكروت مناسبات",
+   "description": "",
+   "category": "تنسيقات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-017/item05.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

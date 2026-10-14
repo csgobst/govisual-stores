@@ -1,0 +1,95 @@
+{
+ "id": "SYNEW-150",
+ "verdict": "qualified",
+ "reason": "معرض أجهزة كهربائية منزلية في طرطوس ينشر منتجاته يومياً بمواصفات (أكتوبر 2026) ويرسل الأسعار بالخاص، ولديه قناة تلغرام وإنستغرام فقط بدون منيو أو متجر رقمي.",
+ "sells": "أجهزة كهربائية منزلية (Haier، Kenwood، Braun، DeLonghi وغيرها)",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "معرض العجي للأدوات المنزلية (العجي للتجارة)",
+  "followers": "61 ألف",
+  "bio": "مبيع كافة الأجهزة الكهربائية المنزلية من أشهر وأفضل الماركات العالمية: Haier, Kenwood, DeLonghi, Braun, LaGermania, BaByliss, Novalux, Ariete, Arda",
+  "address": "طرطوس، شارع الثورة، جنوب دوار الشرطة العسكرية السابق، بناء المتحدة 1",
+  "phones": [
+   "+963995118051"
+  ],
+  "whatsapp": "+963995118051",
+  "instagram": "https://www.instagram.com/elaji.trading",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYNEW-150/logo.jpg",
+ "cover": "assets/SYNEW-150/cover.jpg",
+ "items": [
+  {
+   "name": "غسالة هاير الذكية 9 كغ",
+   "description": "محرك إنفرتر ذكي AI، 1400 دورة، بخار وتعقيم - كفالة 3 سنين",
+   "category": "غسالات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-150/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مايكروويف هاير غطس 28 ليتر",
+   "description": "900 واط مع شواية 1000 واط، 6 برامج، تحكم باللمس",
+   "category": "أجهزة مطبخ",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-150/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "خلاط فواكه براون JB0115WH",
+   "description": "سعة 1.5 ليتر، 500 واط، مع مطحنة بهارات",
+   "category": "أجهزة مطبخ",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-150/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فرامة لحمة كينوود MG510",
+   "description": "استطاعة 1600 واط، جسم معدني، 3 مصافي، ملحقات للكبة والسجق",
+   "category": "أجهزة مطبخ",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-150/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "غسالة ونشافة هاير 10/6 كغ",
+   "description": "10 كغ غسيل و6 كغ تنشيف، محرك دايركت إنفرتر، 1400 دورة، 15 برنامج",
+   "category": "غسالات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-150/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "إبريق تسخين كهربائي براون WK300",
+   "description": "سعة 1.7 ليتر، 2280 واط، فلتر",
+   "category": "أجهزة مطبخ",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-150/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مايكروويف هاير 31 ليتر مع شواية",
+   "description": "مايكروويف أسود بشواية و6 برامج",
+   "category": "أجهزة مطبخ",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-150/item07.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

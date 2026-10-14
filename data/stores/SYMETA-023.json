@@ -1,0 +1,93 @@
+{
+ "id": "SYMETA-023",
+ "verdict": "qualified",
+ "reason": "صانعة جزادين يدوية من اللولو والكريستال في حمص تنشر منتجاتها باستمرار مع شحن للمحافظات ولا تملك متجراً رقمياً.",
+ "sells": "جزادين يدوية من اللولو والكريستال وأطقم إكسسوار وباقات عرائس",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "Rimas Bags",
+  "followers": "6.5 ألف",
+  "bio": "صناعة جزادين للولو والكريستال",
+  "address": "حمص",
+  "phones": [],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYMETA-023/logo.jpg",
+ "cover": "assets/SYMETA-023/cover.jpg",
+ "items": [
+  {
+   "name": "جزدان خرز أسود مع محفظة",
+   "description": "جزدان يدوي من الخرز مع محفظة صغيرة",
+   "category": "جزادين",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-023/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "جزدان لولو أبيض",
+   "description": "جزدان سهرة يدوي من اللولو",
+   "category": "جزادين",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-023/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "جزدان كريستال مع كيس ساتان",
+   "description": "متوفر بعدة ألوان",
+   "category": "جزادين",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-023/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "جزدان كريستال أزرق",
+   "description": "",
+   "category": "جزادين",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-023/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "ستاند ضيافة لولو بطابقين",
+   "description": "",
+   "category": "مشغولات يدوية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-023/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم كريستال (طوق وحلق)",
+   "description": "متوفر بالأسود والأحمر والفوشي",
+   "category": "إكسسوارات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-023/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "باقة عروس توليب",
+   "description": "",
+   "category": "مشغولات يدوية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-023/item07.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

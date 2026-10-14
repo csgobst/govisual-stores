@@ -1,0 +1,95 @@
+{
+ "id": "SYNEW-163",
+ "verdict": "maybe",
+ "reason": "محل ألبسة نسائية في اللاذقية بمنتجات واضحة ولا متجر رقمي، لكن آخر منشور على فيسبوك يعود إلى نوفمبر 2021 فالصفحة تبدو غير نشطة.",
+ "sells": "ألبسة نسائية: جواكيت ومعاطف شتوية وبلوزات وجينز",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "ألبسة جعفر النسائية - Women's Clothing Jafar",
+  "followers": "4.9 ألف",
+  "bio": "",
+  "address": "اللاذقية، شارع هنانو",
+  "phones": [
+   "+963992266855"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/jafar_fashion24",
+  "last_activity": "2021-11"
+ },
+ "logo": "assets/SYNEW-163/logo.jpg",
+ "cover": "assets/SYNEW-163/cover.jpg",
+ "items": [
+  {
+   "name": "جاكيت جينز مموه PARIS",
+   "description": "",
+   "category": "جواكيت",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-163/item01.jpg",
+   "source_url": "https://www.facebook.com/jafar.fashion/posts/pfbid0SnW9QH1tP6NGT4TkZANTCBcdCF5YTz84wsGuWxApcBjKTgNhEMMpz9ZB9hh9TM9el"
+  },
+  {
+   "name": "جاكيت منفوخ بفرو مع حزام",
+   "description": "",
+   "category": "معاطف شتوية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-163/item02.jpg",
+   "source_url": "https://www.facebook.com/jafar.fashion/posts/pfbid02MDtu8NdUYW7RmCiQ9uaq4Ef4M1XAMf7TNBDSGecj5mBQiK1vda7iAAaE1Gq6e9Lvl"
+  },
+  {
+   "name": "جاكيت منفوخ أبيض بفرو",
+   "description": "",
+   "category": "معاطف شتوية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-163/item03.jpg",
+   "source_url": "https://www.facebook.com/jafar.fashion/posts/pfbid02MDtu8NdUYW7RmCiQ9uaq4Ef4M1XAMf7TNBDSGecj5mBQiK1vda7iAAaE1Gq6e9Lvl"
+  },
+  {
+   "name": "صدرية منفوخة بفرو",
+   "description": "",
+   "category": "معاطف شتوية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-163/item04.jpg",
+   "source_url": "https://www.facebook.com/jafar.fashion/posts/pfbid02MDtu8NdUYW7RmCiQ9uaq4Ef4M1XAMf7TNBDSGecj5mBQiK1vda7iAAaE1Gq6e9Lvl"
+  },
+  {
+   "name": "معطف مموه بقبعة فرو",
+   "description": "",
+   "category": "معاطف شتوية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-163/item05.jpg",
+   "source_url": "https://www.facebook.com/jafar.fashion/posts/pfbid02RHgQbw6ttr26JWDYdV2y4af9S98DMYhWtHbujdrMBxi1iM4ZJwndoqTex5CU1oSQl"
+  },
+  {
+   "name": "بلوزة بأزرار كريستال",
+   "description": "متوفرة بعدة ألوان",
+   "category": "بلوزات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-163/item06.jpg",
+   "source_url": "https://www.facebook.com/jafar.fashion/posts/pfbid0btkc2afkuMvEv51BhMg59hcxY29NQjL1Kvkc4nN57kgihKbcexuBhJDU26fqM8rEl"
+  },
+  {
+   "name": "توب نمري بدانتيل",
+   "description": "",
+   "category": "بلوزات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-163/item07.jpg",
+   "source_url": "https://www.facebook.com/jafar.fashion/posts/pfbid034HfAiMeKMhF6bhj6V381eodfeTS6kDCRfJcrCxBAVmMGEu1abaimxa5jiygT1Lzol"
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

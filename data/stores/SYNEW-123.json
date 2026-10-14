@@ -1,0 +1,106 @@
+{
+ "id": "SYNEW-123",
+ "verdict": "maybe",
+ "reason": "مطعم وكافيه في المالكي بدمشق ينشر عروض وجبات بأسعار ولا منيو رقمي، لكن آخر منشور فعلي في يونيو 2025 (بعده تحديث صورة فقط) فالنشاط الحالي غير مؤكد.",
+ "sells": "وجبات مطعم شرقية وعروض إفطار ومشروبات وأركيلة",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "Boulevard Restaurant&Cafe - بوليفارد المالكي",
+  "followers": "17 ألف",
+  "bio": "four stars restaurant & caffe",
+  "address": "دمشق، المالكي، شارع زنوبيا (المزة مقابل القصر العدلي)",
+  "phones": [
+   "0943001010",
+   "3730000"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2025-06"
+ },
+ "logo": "assets/SYNEW-123/logo.jpg",
+ "cover": "",
+ "items": [
+  {
+   "name": "وجبة إفطار يوم عرفة",
+   "description": "وجبة دجاج من اختياركم مع سلطة وشوربة وسوفت درينك وقهوة",
+   "category": "عروض",
+   "price": 110000,
+   "currency": "SYP",
+   "price_text": "110.000 للشخص الواحد",
+   "image": "assets/SYNEW-123/item01.jpg",
+   "source_url": "https://www.facebook.com/Boulevard.malki/posts/pfbid033PtmGHu9JwbHP5bQ6caUcCHzBo6tLiY9a27HatwNo3Me1RZ3Yi7uP924mm7xUe5Al"
+  },
+  {
+   "name": "عرض يوم الخميس",
+   "description": "وجبة دجاج من اختياركم مع 5 أنواع مقبلات باردة ونوعين سلطة وسوفت درينك وقهوة",
+   "category": "عروض",
+   "price": 150000,
+   "currency": "SYP",
+   "price_text": "150.000 ل.س للشخص الواحد",
+   "image": "assets/SYNEW-123/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "وجبة دجاج مع مقبلات وأركيلة",
+   "description": "وجبة دجاج مع مقبلات ونوعين سلطة ومشروب ساخن وأركيلة",
+   "category": "عروض",
+   "price": 175000,
+   "currency": "SYP",
+   "price_text": "بس ب 175.000 للشخص الواحد",
+   "image": "assets/SYNEW-123/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "سوفت درينك وأركيلة وحلويات",
+   "description": "",
+   "category": "مشروبات وأركيلة",
+   "price": 70000,
+   "currency": "SYP",
+   "price_text": "بس ب 70.000 للشخص الواحد",
+   "image": "assets/SYNEW-123/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "سهرة رمضان اليومية",
+   "description": "مشروب ساخن ومشروب بارد وتحلاية وأركيلة",
+   "category": "عروض",
+   "price": 59000,
+   "currency": "SYP",
+   "price_text": "59000 للشخص الواحد",
+   "image": "assets/SYNEW-123/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "شاكرية بالموزات وفريكة بالدجاج",
+   "description": "مع مقبلات وفطائر وشوربة عدس أو فطر وفتة بسمنة",
+   "category": "إفطار رمضان",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-123/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كبة لبنية ودجاج بالفرن",
+   "description": "مع مقبلات وفطائر وشوربة وفتة",
+   "category": "إفطار رمضان",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-123/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مقلوبة بيتنجان ودجاج بالفرن",
+   "description": "مع مقبلات وفطائر وشوربة وفتة",
+   "category": "إفطار رمضان",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-123/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

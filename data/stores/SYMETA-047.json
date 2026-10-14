@@ -1,0 +1,66 @@
+{
+ "id": "SYMETA-047",
+ "verdict": "qualified",
+ "reason": "مركز لبيع اللابتوبات في دمشق ينشر أجهزته بمواصفاتها على فيسبوك دون متجر أو كتالوج رقمي.",
+ "sells": "لابتوبات جديدة ومستعملة وخدمات صيانة",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "MEGA STORE",
+  "followers": "1211",
+  "bio": "مركز MEGA STORE هو مركز متخصص بكافة خدمات التكنولوجيا من مبيع شراء صيانة",
+  "address": "دمشق - البحصة - مقابل فندق برج الذهبي - دخلة تيما للصرافة",
+  "phones": [
+   "+963941111543",
+   "0982203554"
+  ],
+  "whatsapp": "https://whatsapp.com/channel/0029VbCcfjd8aKvHk2Bq5y3p",
+  "instagram": "https://www.instagram.com/mega.syria",
+  "last_activity": "2026-08"
+ },
+ "logo": "assets/SYMETA-047/logo.jpg",
+ "cover": "assets/SYMETA-047/cover.jpg",
+ "items": [
+  {
+   "name": "DELL Precision 3571",
+   "description": "Core i5-12600H، رام 16GB، SSD 512GB، كرت NVIDIA T600 4GB، شاشة 15.6 FHD",
+   "category": "لابتوبات",
+   "price": null,
+   "currency": "USD",
+   "price_text": "",
+   "image": "assets/SYMETA-047/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "DELL Latitude 3420",
+   "description": "Core i5-1135G7، رام 8GB، SSD 256GB، شاشة 14.1 FHD، عرض للطلاب مع 5 هدايا",
+   "category": "لابتوبات",
+   "price": null,
+   "currency": "USD",
+   "price_text": "",
+   "image": "assets/SYMETA-047/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "DELL Latitude 5590",
+   "description": "Core i7 جيل ثامن، رام 8GB، SSD 256GB، كرت NVIDIA MX130 2GB، شاشة 15.6",
+   "category": "لابتوبات",
+   "price": null,
+   "currency": "USD",
+   "price_text": "",
+   "image": "assets/SYMETA-047/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "لابتوب محطة عمل DELL جيل 11",
+   "description": "للهندسة والريندر مع كرت شاشة Nvidia منفصل",
+   "category": "لابتوبات",
+   "price": null,
+   "currency": "USD",
+   "price_text": "",
+   "image": "assets/SYMETA-047/item04.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

@@ -1,0 +1,26 @@
+{
+ "id": "SYNEW-102",
+ "verdict": "maybe",
+ "reason": "مطعم ومسبح في فيروزة بحمص بلا منيو رقمي، لكن آخر منشور يعود إلى حزيران 2022 ولا تظهر أي أطباق أو أسعار في المنشورات (حفلات ومسبح فقط).",
+ "sells": "مطعم وسهرات ومسبح صيفي",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "مطعم ومسبح مسايا",
+  "followers": "12462",
+  "bio": "مطعم - جلوس في الهواء الطلق",
+  "address": "فيروزة، حمص",
+  "phones": [
+   "+963312653407",
+   "0312653406",
+   "0943229432"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2022-06"
+ },
+ "logo": "assets/SYNEW-102/logo.jpg",
+ "cover": "assets/SYNEW-102/cover.jpg",
+ "items": [],
+ "checkedAt": "2026-10-15"
+}

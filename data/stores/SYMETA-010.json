@@ -1,0 +1,24 @@
+{
+ "id": "SYMETA-010",
+ "verdict": "not_qualified",
+ "reason": "الصفحة المرتبطة تعود لبوتيك في كربلاء بالعراق (رقم +964) وليست متجراً سورياً في حمص، فالرابط لا يطابق النشاط المطلوب.",
+ "sells": "ألبسة نسائية وملابس داخلية وعطور ومكياج",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "بوتيك مالك شاهين",
+  "followers": "27 ألف",
+  "bio": "عطور - مكياج - ملابس داخلية",
+  "address": "كربلاء / شارع صاحب الزمان",
+  "phones": [
+   "+9647706866866"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYMETA-010/logo.jpg",
+ "cover": "assets/SYMETA-010/cover.jpg",
+ "items": [],
+ "checkedAt": "2026-10-15"
+}

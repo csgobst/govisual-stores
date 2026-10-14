@@ -1,0 +1,24 @@
+{
+ "id": "SYNEW-080",
+ "verdict": "maybe",
+ "reason": "صفحة فيسبوك غير رسمية مولدة تلقائياً لمتجر هدايا في حلب بدون أي منشورات أو صور، والنشاط الفعلي قد يكون على حساب إنستغرام numberonealeppo الذي لم يُفحص.",
+ "sells": "هدايا",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "Number One",
+  "followers": "0",
+  "bio": "متجر هدايا",
+  "address": "حلب، الفرقان، شارع الاكسبريس",
+  "phones": [
+   "+963212682557"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/numberonealeppo/",
+  "last_activity": "unknown"
+ },
+ "logo": "",
+ "cover": "",
+ "items": [],
+ "checkedAt": "2026-10-15"
+}

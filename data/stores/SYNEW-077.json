@@ -1,0 +1,105 @@
+{
+ "id": "SYNEW-077",
+ "verdict": "qualified",
+ "reason": "متجر هدايا وألعاب وقرطاسية نشط في حلب يعرض منتجاته على فيسبوك دون متجر أو كتالوج رقمي.",
+ "sells": "هدايا، كاسات وحافظات، حقائب مدرسية ورياضية، ألعاب وليغو، قرطاسية",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "EVA Gift Shop",
+  "followers": "2394",
+  "bio": "we sell : gifts , Wooden toys for kids , school stationery",
+  "address": "حلب - ساحة العزيزية، طلعة كنيسة اللاتين",
+  "phones": [
+   "+963992085662"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/eva_gift_shop",
+  "last_activity": "2026-09"
+ },
+ "logo": "assets/SYNEW-077/logo.jpg",
+ "cover": "assets/SYNEW-077/cover.jpg",
+ "items": [
+  {
+   "name": "كاسات متة حافظة",
+   "description": "مع شفاطة ستانلس، ألوان متعددة",
+   "category": "كاسات وحافظات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-077/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كاسة ستانلس موديل برميل",
+   "description": "للقهوة والنسكافيه",
+   "category": "كاسات وحافظات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-077/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كاسة ستانلي صغيرة",
+   "description": "",
+   "category": "كاسات وحافظات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-077/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حافظة بغطاء خشبي",
+   "description": "",
+   "category": "كاسات وحافظات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-077/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "عرض حقيبة مدرسية مع مطرة ولانش بوكس ومقلمة",
+   "description": "حصراً المجموعة الظاهرة بالصورة",
+   "category": "مستلزمات مدرسية",
+   "price": 22,
+   "currency": "USD",
+   "price_text": "22$",
+   "image": "assets/SYNEW-077/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "ليغو أكثر من 5000 قطعة",
+   "description": "أشكال متعددة للكبار والصغار",
+   "category": "ألعاب",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-077/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "شنطة رياضية T60",
+   "description": "ألوان متعددة، قابلة للغسيل مع مكان للحذاء",
+   "category": "حقائب",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-077/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "شنطة أطفال ستيتش",
+   "description": "للروضة والتمرين، كمية محدودة",
+   "category": "حقائب",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-077/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

@@ -9,3 +9,9 @@ Static page (no server) for the GoVisual team to work through 184 Syrian busines
 - **Sharing:** your data is saved in your own browser. Use **Sync & Backup** to export your progress as JSON and import teammates' files. Files merge by keeping the newest update.
 
 Rebuild after editing the CSV or template: `python src/build.py`.
+
+## Page checks (browser-verified store data)
+Every store page was opened in headless Chrome (no login) and checked against what GoVisual needs: it sells real products, has no digital menu yet, is active, and has items we can build a catalog from.
+- `data/stores/<ID>.json`: verdict (`qualified` / `maybe` / `not_qualified` / `unreachable`), reason, contact info, logo, cover, and up to 8 latest items (name, category, price or null, image).
+- `assets/<ID>/`: resized logo, cover and item images.
+- Re-check a store: `cd tools && npm i`, then from this folder `node tools/scrape.mjs <ID>`, review it, write the JSON, `python tools/save_store.py <ID>` and `python src/build.py`. Full procedure: `tools/AGENT_BRIEF.md`.

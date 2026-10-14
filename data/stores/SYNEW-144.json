@@ -1,0 +1,88 @@
+{
+ "id": "SYNEW-144",
+ "verdict": "qualified",
+ "reason": "شركة مواد غذائية وتوزيع في حماة منذ 1965 بصفحة نشطة (20 ألف متابع، آخر منشور قبل أيام) تعرض منتجاتها ووكالاتها ولا تملك كتالوج أو متجراً رقمياً.",
+ "sells": "مواد غذائية: سمنة، زيوت، بقوليات وحبوب، سكر وطحين، معلبات ومرتديلا، مفرزات، مشروبات",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "شركة الأنطكلي التجارية",
+  "followers": "20 ألف",
+  "bio": "تأسست شركة الانطكلي التجارية بداية عام 1965 الحاج مصطفى والحاج سهل الانطكلي رحمهم الله وشعارها (الانطكلي تجارة مال قبان)",
+  "address": "حماة",
+  "phones": [
+   "+963958111460",
+   "+963958111466",
+   "+963332220228",
+   "+963332537012"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYNEW-144/logo.jpg",
+ "cover": "assets/SYNEW-144/cover.jpg",
+ "items": [
+  {
+   "name": "سمنة الانطكلي",
+   "description": "السمن النباتي الأصلي بالنكهة الحيوانية",
+   "category": "سمون وزيوت",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-144/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مرتديلا دجاج ريان فود",
+   "description": "مركز توزيع معتمد لمنتجات ريان فود",
+   "category": "معلبات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-144/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مرتديلا دجاج لِيان بالكسترا",
+   "description": "",
+   "category": "معلبات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-144/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مفرزات لازيتا دجاج وخضروات",
+   "description": "الوكيل الحصري في مدينة حماة",
+   "category": "مفرزات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-144/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مشروب الطاقة ردبول",
+   "description": "أورجينال - الوكيل الحصري في حماة",
+   "category": "مشروبات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-144/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بقوليات وحبوب الانطكلي",
+   "description": "برغل، رز، عدس، فاصولياء، ذرة بوشار، سكر، طحين",
+   "category": "بقوليات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-144/item06.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

@@ -1,0 +1,22 @@
+{
+ "id": "SYNEW-178",
+ "verdict": "unreachable",
+ "reason": "فشل الوصول مرتين: صفحة فيسبوك (33 Chocolate) تعرض جدار تسجيل الدخول فقط دون أي محتوى.",
+ "sells": "",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "33 Chocolate",
+  "followers": "",
+  "bio": "",
+  "address": "",
+  "phones": [],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "unknown"
+ },
+ "logo": "",
+ "cover": "",
+ "items": [],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

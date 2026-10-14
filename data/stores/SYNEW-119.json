@@ -1,0 +1,22 @@
+{
+ "id": "SYNEW-119",
+ "verdict": "maybe",
+ "reason": "الرابط صفحة مكان غير رسمية لمقهى قرنفل في دمشق بلا منشورات من المالك ولا منتجات، وآخر نشاط إشارة زائر في كانون الثاني 2019، فلا يمكن تأكيد أنه ما زال يعمل.",
+ "sells": "مقهى (مشروبات)",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "قرنفل",
+  "followers": "0",
+  "bio": "Cafe - صفحة غير رسمية",
+  "address": "دمشق، سوريا",
+  "phones": [],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2019-01"
+ },
+ "logo": "",
+ "cover": "assets/SYNEW-119/cover.jpg",
+ "items": [],
+ "checkedAt": "2026-10-15"
+}

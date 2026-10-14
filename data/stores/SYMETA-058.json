@@ -1,0 +1,75 @@
+{
+ "id": "SYMETA-058",
+ "verdict": "maybe",
+ "reason": "مركز صيانة موبايلات ولابتوب نشط في اللاذقية يبيع أحياناً أجهزة مستعملة، لكن نشاطه الأساسي خدمات صيانة ومنتجاته قطع فردية بلا أسعار معلنة.",
+ "sells": "صيانة موبايلات ولابتوب، بيع موبايلات مستعملة وجديدة وإكسسوارات",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "K.T.C مركز خويلد للتكنولوجيا",
+  "followers": "1.6 ألف",
+  "bio": "مركز خويلد للتكنولوجيا لكافة خدمات الموبايل واللابتوب وأنظمة الحماية والشبكات",
+  "address": "اللاذقية - الصليبة - مقابل فيتامينات الصوفي",
+  "phones": [
+   "+963932046754"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYMETA-058/logo.jpg",
+ "cover": "assets/SYMETA-058/cover.jpg",
+ "items": [
+  {
+   "name": "iPhone XR سماوي 64GB",
+   "description": "مستعمل نظيف، بطارية 79%، face id واقف (تم البيع)",
+   "category": "موبايلات مستعملة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-058/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "موبايل برتقالي",
+   "description": "",
+   "category": "موبايلات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-058/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "Infinix GT 30 Pro",
+   "description": "",
+   "category": "موبايلات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-058/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "iPhone 11 أسود",
+   "description": "مستعمل",
+   "category": "موبايلات مستعملة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-058/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "موبايل أسود مستعمل",
+   "description": "",
+   "category": "موبايلات مستعملة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-058/item05.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

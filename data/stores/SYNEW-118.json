@@ -1,0 +1,95 @@
+{
+ "id": "SYNEW-118",
+ "verdict": "qualified",
+ "reason": "مطعم شرقي نشط جداً في دمشق القديمة (31 ألف متابع، نشر اليوم) يعرض أطباقه بصور احترافية ولا يظهر له رابط منيو رقمي على الصفحة.",
+ "sells": "مأكولات شامية وشرقية: سلطات، مقبلات، كبة، أطباق لحوم",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "Darmisk Restaurant دارمسك",
+  "followers": "31 ألف",
+  "bio": "مطعم شرقي - تناول الطعام داخل المطعم واستلام الطلبات",
+  "address": "دمشق - مدحت باشا - الدقاقين",
+  "phones": [
+   "+963950544544"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYNEW-118/logo.jpg",
+ "cover": "assets/SYNEW-118/cover.jpg",
+ "items": [
+  {
+   "name": "سلطة بندورة وجبنة",
+   "description": "بداية خفيفة ونكهة مميزة",
+   "category": "سلطات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-118/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "سلطة شمندر وخضار",
+   "description": "",
+   "category": "سلطات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-118/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "لحمة بالكاجو",
+   "description": "",
+   "category": "أطباق رئيسية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-118/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حمص باللحمة",
+   "description": "",
+   "category": "مقبلات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-118/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "ملك السفرة",
+   "description": "طبق لحمة بالجوز والرمان",
+   "category": "أطباق رئيسية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-118/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كبة صاجية",
+   "description": "كبة صاجية بنكهة هنية",
+   "category": "كبة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-118/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فتة شامية",
+   "description": "",
+   "category": "أطباق رئيسية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-118/item07.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

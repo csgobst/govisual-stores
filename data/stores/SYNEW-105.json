@@ -1,0 +1,22 @@
+{
+ "id": "SYNEW-105",
+ "verdict": "maybe",
+ "reason": "مطعم بطاطا في حمص صفحته موجودة لكنها بلا منشورات ولا صور ولا صورة شعار، فلا يمكن تحديد منتجات أو التأكد من نشاطه.",
+ "sells": "وجبات بطاطا (مطعم)",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "آيدونيل / Idonel potato hut",
+  "followers": "5.9 ألف",
+  "bio": "",
+  "address": "حمص",
+  "phones": [],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "unknown"
+ },
+ "logo": "",
+ "cover": "",
+ "items": [],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

@@ -1,0 +1,45 @@
+{
+ "id": "SYNEW-099",
+ "verdict": "maybe",
+ "reason": "صالة ألبسة نسائية كبيرة في حمص (106 ألف متابع) بلا منيو رقمي، لكن آخر منشور ظاهر يعود لتشرين الأول 2025 والصور لا تُظهر إلا قطعتين واضحتين.",
+ "sells": "ألبسة نسائية",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "Shadows Fashion _ Homs",
+  "followers": "106 ألف",
+  "bio": "صالة شادوز للألبسة النسائية",
+  "address": "حمص، الكورنيش، إشارة سامسونغ (صالة سامسونغ سابقاً)",
+  "phones": [
+   "+963312211386"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2025-10"
+ },
+ "logo": "assets/SYNEW-099/logo.jpg",
+ "cover": "assets/SYNEW-099/cover.jpg",
+ "items": [
+  {
+   "name": "أطقم رياضية خريفية",
+   "description": "تشكيلة الخريف",
+   "category": "ألبسة رياضية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-099/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "جاكيت جينز مطرز باللؤلؤ",
+   "description": "",
+   "category": "جواكيت",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-099/item02.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

@@ -1,0 +1,43 @@
+{
+ "id": "SYNEW-132",
+ "verdict": "maybe",
+ "reason": "محل ألبسة نسائية في دير حسان بلا كتالوج رقمي، لكن الصفحة غير رسمية وآخر نشاط فيها عام 2021 ولا يظهر سوى صنفين.",
+ "sells": "ألبسة نسائية وجلابيات",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "ملبوسات الرؤى",
+  "followers": "0",
+  "bio": "",
+  "address": "دير حسان - الطريق العام - مقابل سوبر ماركت أبو حمزة، الدانا، إدلب",
+  "phones": [],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2021-10"
+ },
+ "logo": "",
+ "cover": "",
+ "items": [
+  {
+   "name": "كلابية نسواني مخمل تركي (بنفسجي)",
+   "description": "مطرزة، كمية محدودة",
+   "category": "جلابيات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "عرض خاص: بس 4",
+   "image": "assets/SYNEW-132/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كلابية نسواني مخمل تركي (أخضر)",
+   "description": "مطرزة، كمية محدودة",
+   "category": "جلابيات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "عرض خاص: بس 4",
+   "image": "assets/SYNEW-132/item02.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

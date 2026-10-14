@@ -1,0 +1,103 @@
+{
+ "id": "SYMETA-070",
+ "verdict": "qualified",
+ "reason": "محل إكسسوارات وجزادين في المزة 86 بدمشق ينشر منتجاته مع الأسعار على الصور (آخر منشور يوليو 2026) ولا يملك منيو أو متجر رقمي.",
+ "sells": "جزادين نسائية وشناتي رجالية وعطور سبلاش ومكياج",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "اكسسوارات ومكياجات روج",
+  "followers": "949",
+  "bio": "تسوق وبيع بالتجزئة",
+  "address": "دمشق - مزة 86، شارع أهلا بها الطلة",
+  "phones": [],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-07"
+ },
+ "logo": "assets/SYMETA-070/logo.jpg",
+ "cover": "assets/SYMETA-070/cover.jpg",
+ "items": [
+  {
+   "name": "جزدان نسائي جينز بحزام",
+   "description": "جزدان يد بلون أزرق جينز مع حزام معدني",
+   "category": "جزادين نسائية",
+   "price": 120000,
+   "currency": "SYP",
+   "price_text": "120.000",
+   "image": "assets/SYMETA-070/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "جزدان كتف مونوغرام",
+   "description": "جزدان كتف صغير بنقشة كحلية",
+   "category": "جزادين نسائية",
+   "price": 110000,
+   "currency": "SYP",
+   "price_text": "110.000",
+   "image": "assets/SYMETA-070/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "جزدان كروس أبيض",
+   "description": "جزدان كروس أبيض بطبعة أحرف وإطار معدني",
+   "category": "جزادين نسائية",
+   "price": 110000,
+   "currency": "SYP",
+   "price_text": "110.000",
+   "image": "assets/SYMETA-070/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "جزدان كتف أسود مبطن",
+   "description": "جزدان كتف أسود بخطوط مبطنة",
+   "category": "جزادين نسائية",
+   "price": 65000,
+   "currency": "SYP",
+   "price_text": "65.000",
+   "image": "assets/SYMETA-070/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "جزدان ZARA أسود",
+   "description": "جزدان يد أسود مع إيشارب ونقشة نمر",
+   "category": "جزادين نسائية",
+   "price": 75000,
+   "currency": "SYP",
+   "price_text": "75.000",
+   "image": "assets/SYMETA-070/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "جزدان يد أسود D",
+   "description": "جزدان يد صغير أسود بحرف D معدني",
+   "category": "جزادين نسائية",
+   "price": 90000,
+   "currency": "SYP",
+   "price_text": "90.000",
+   "image": "assets/SYMETA-070/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "شنتاية رجالي جلد Jeep",
+   "description": "شنتاية كتف رجالية جلد بني",
+   "category": "شناتي رجالية",
+   "price": 60000,
+   "currency": "SYP",
+   "price_text": "60.000",
+   "image": "assets/SYMETA-070/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "شنتاية رجالي CAT",
+   "description": "شنتاية كتف رجالية كحلية من كاتربيلر",
+   "category": "شناتي رجالية",
+   "price": 85000,
+   "currency": "SYP",
+   "price_text": "85.000",
+   "image": "assets/SYMETA-070/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

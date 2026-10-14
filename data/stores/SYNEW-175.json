@@ -1,0 +1,22 @@
+{
+ "id": "SYNEW-175",
+ "verdict": "unreachable",
+ "reason": "صفحة فيسبوك تظهر رسالة \"هذا المحتوى غير متوفر حاليًا\" (محذوفة أو مقيدة) في محاولتين.",
+ "sells": "",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "Perfume Lab",
+  "followers": "",
+  "bio": "",
+  "address": "",
+  "phones": [],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "unknown"
+ },
+ "logo": "",
+ "cover": "",
+ "items": [],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

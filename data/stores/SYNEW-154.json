@@ -1,0 +1,33 @@
+{
+ "id": "SYNEW-154",
+ "verdict": "maybe",
+ "reason": "الرابط صفحة مكان غير رسمية في طرطوس بلا متابعين؛ المنشورات الحديثة فيها من «مجوهرات معين سخية» (مجوهرات وليس ملابس) ولا يظهر سوى قطعة واحدة، فالبائع الفعلي يحتاج تحققاً من صفحته الخاصة.",
+ "sells": "مجوهرات ذهب (مجوهرات معين سخية داخل المجمع)",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "مجمع سخية",
+  "followers": "0",
+  "bio": "",
+  "address": "طرطوس",
+  "phones": [],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "",
+ "cover": "",
+ "items": [
+  {
+   "name": "سلسال ذهب حورية البحر",
+   "description": "",
+   "category": "مجوهرات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-154/item01.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

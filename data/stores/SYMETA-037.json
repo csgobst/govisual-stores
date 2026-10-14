@@ -1,0 +1,22 @@
+{
+ "id": "SYMETA-037",
+ "verdict": "unreachable",
+ "reason": "حساب إنستغرام noursouvenirsyria غير متوفر (صفحة Profile غير متوفرة) في المحاولتين.",
+ "sells": "",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "Souvenir سوفنير",
+  "followers": "",
+  "bio": "",
+  "address": "",
+  "phones": [],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/noursouvenirsyria",
+  "last_activity": "unknown"
+ },
+ "logo": "",
+ "cover": "",
+ "items": [],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

@@ -1,0 +1,103 @@
+{
+ "id": "SYMETA-028",
+ "verdict": "qualified",
+ "reason": "صفحة بيع ألبسة تركية وصينية في حلب تنشر قطعها مع شحن للمحافظات، آخر نشاط نيسان 2026، ولا تملك متجراً رقمياً (لا يوجد رقم هاتف ظاهر).",
+ "sells": "ألبسة نسائية تركية وصينية (بلوزات، بروتيلات، أطقم سهرة، فساتين)",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "بيت الموضة almamahdi410",
+  "followers": "122",
+  "bio": "بيع ألبسة تركية وصيني في مدينة حلب وشحن للمحافظات",
+  "address": "حلب",
+  "phones": [],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-04"
+ },
+ "logo": "assets/SYMETA-028/logo.jpg",
+ "cover": "assets/SYMETA-028/cover.jpg",
+ "items": [
+  {
+   "name": "بلوزة كحلي مطرزة بالخرز",
+   "description": "آخر قطعة",
+   "category": "بلوزات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-028/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بلوزة مربعات بيضاء",
+   "description": "",
+   "category": "بلوزات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-028/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بروتيل ليكرا بدانتيل أسود",
+   "description": "قماش ليكرا",
+   "category": "بروتيلات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-028/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بروتيل ليكرا فوشيا",
+   "description": "قماش ليكرا، عدة ألوان",
+   "category": "بروتيلات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-028/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بروتيل كحلي بنجوم",
+   "description": "",
+   "category": "بروتيلات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-028/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم سهرة مميز",
+   "description": "",
+   "category": "أطقم سهرة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-028/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بلوزة سهرة تقيلة بيضاء",
+   "description": "قياس ستاندر",
+   "category": "بلوزات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-028/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بلوزة سهرة تقيلة زهرية",
+   "description": "قياس ستاندر",
+   "category": "بلوزات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-028/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

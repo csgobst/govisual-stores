@@ -1,0 +1,85 @@
+{
+ "id": "SYMETA-053",
+ "verdict": "qualified",
+ "reason": "محل حقائب جملة ومفرق نشط جداً في حمص ينشر تشكيلاته يومياً على فيسبوك دون أي منيو أو متجر رقمي.",
+ "sells": "حقائب نسائية وجامعية وسهرة وحقائب سفر (سكدور)",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "مركز تخفيضات حقائب حاحا تفاحة",
+  "followers": "54 ألف",
+  "bio": "حقائب جملة ومفرق 0956002324",
+  "address": "حمص، الزهراء، الشارع الرئيسي مقابل زين للاتصالات",
+  "phones": [
+   "0956002324"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYMETA-053/logo.jpg",
+ "cover": "assets/SYMETA-053/cover.jpg",
+ "items": [
+  {
+   "name": "حقيبة سهرة لماعة",
+   "description": "حقيبة سهرة ثقيلة بلمعة",
+   "category": "حقائب سهرة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-053/item01.jpg",
+   "source_url": "https://www.facebook.com/reel/29197401456511050/"
+  },
+  {
+   "name": "حقيبة يد بعقدة ملونة",
+   "description": "موديل بإيد الربط بألوان متعددة",
+   "category": "حقائب نسائية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-053/item02.jpg",
+   "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02pxtSZ3VxNaoGj38RL5yK4xwovUMrzmEvYLPWAPh4MTTYwAf6SD76s7s7UDysHJTql&id=100078661575467"
+  },
+  {
+   "name": "حقيبة يد نمرية لماعة",
+   "description": "",
+   "category": "حقائب نسائية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-053/item03.jpg",
+   "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02pxtSZ3VxNaoGj38RL5yK4xwovUMrzmEvYLPWAPh4MTTYwAf6SD76s7s7UDysHJTql&id=100078661575467"
+  },
+  {
+   "name": "حقيبة يد فوشي لماعة",
+   "description": "",
+   "category": "حقائب نسائية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-053/item04.jpg",
+   "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02pxtSZ3VxNaoGj38RL5yK4xwovUMrzmEvYLPWAPh4MTTYwAf6SD76s7s7UDysHJTql&id=100078661575467"
+  },
+  {
+   "name": "حقائب سفر سيليكون ضد الكسر",
+   "description": "سيليكون معالج ضد الكسر مع توسيع كامل، ألوان متعددة",
+   "category": "حقائب سفر",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-053/item05.jpg",
+   "source_url": "https://www.facebook.com/reel/4558707527733010/"
+  },
+  {
+   "name": "حقيبة جينز",
+   "description": "",
+   "category": "حقائب نسائية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-053/item06.jpg",
+   "source_url": "https://www.facebook.com/reel/1079319878347186/"
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

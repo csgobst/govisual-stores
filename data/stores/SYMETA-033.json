@@ -1,0 +1,22 @@
+{
+ "id": "SYMETA-033",
+ "verdict": "unreachable",
+ "reason": "الصفحة تظهر رسالة \"هذا المحتوى غير متوفر حاليًا\" مع جدار تسجيل دخول في محاولتين، فلا يمكن رؤية أي منشورات.",
+ "sells": "هدايا وهاند ميد (حسب القائمة)",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "Lord Gift Store",
+  "followers": "",
+  "bio": "",
+  "address": "حلب، الموغامبو",
+  "phones": [],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "unknown"
+ },
+ "logo": "",
+ "cover": "",
+ "items": [],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

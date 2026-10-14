@@ -1,0 +1,105 @@
+{
+ "id": "SYMETA-054",
+ "verdict": "maybe",
+ "reason": "بوتيك ألبسة وعطور ومستحضرات تجميل في اللاذقية بلا منيو رقمي ومنتجات بأسعار واضحة، لكن آخر منشور ظاهر يعود إلى آب 2023 والصفحة صغيرة (158 متابعاً).",
+ "sells": "ألبسة نسائية (كنزات وأطقم رياضية)، عطور، هدايا، مستحضرات تجميل",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "Boutique Alwan&soha",
+  "followers": "158",
+  "bio": "ألبسة - عطورات - هدايا - مستحضرات تجميل وعنايا بالبشرة",
+  "address": "اللاذقية - طريق بوقا - مفرق مخزن صالحه - مقابل صيدلية نقولا حداد",
+  "phones": [
+   "+963966096202"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2023-08"
+ },
+ "logo": "assets/SYMETA-054/logo.jpg",
+ "cover": "assets/SYMETA-054/cover.jpg",
+ "items": [
+  {
+   "name": "كنزة بطبعة بومة",
+   "description": "توصيل ضمن المحافظة وشحن للمحافظات",
+   "category": "كنزات",
+   "price": 25000,
+   "currency": "SYP",
+   "price_text": "الكنزة ب ٢٥ الف",
+   "image": "assets/SYMETA-054/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كنزة SUMMER سوداء",
+   "description": "",
+   "category": "كنزات",
+   "price": 25000,
+   "currency": "SYP",
+   "price_text": "الكنزة ب ٢٥ الف",
+   "image": "assets/SYMETA-054/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كنزة زرقاء بطبعة ورد",
+   "description": "",
+   "category": "كنزات",
+   "price": 25000,
+   "currency": "SYP",
+   "price_text": "الكنزة ب ٢٥ الف",
+   "image": "assets/SYMETA-054/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كنزة Stay Chic",
+   "description": "عرض لمدة أسبوع أو حتى نفاذ الكمية",
+   "category": "كنزات",
+   "price": 20000,
+   "currency": "SYP",
+   "price_text": "الكنزة ب ٢٠ الف",
+   "image": "assets/SYMETA-054/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كنزة ROSE زهرية",
+   "description": "",
+   "category": "كنزات",
+   "price": 20000,
+   "currency": "SYP",
+   "price_text": "الكنزة ب ٢٠ الف",
+   "image": "assets/SYMETA-054/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كنزة Sea You Soon",
+   "description": "",
+   "category": "كنزات",
+   "price": 20000,
+   "currency": "SYP",
+   "price_text": "الكنزة ب ٢٠ الف",
+   "image": "assets/SYMETA-054/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم رياضي كنزة وتايت",
+   "description": "بألوان متعددة",
+   "category": "أطقم",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-054/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مسكرة رموش essence",
+   "description": "مسكرة إيطالية أصلية مكفولة",
+   "category": "تجميل",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-054/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

@@ -1,0 +1,106 @@
+{
+ "id": "SYMETA-049",
+ "verdict": "maybe",
+ "reason": "محل هدايا وإكسسوارات في المزة يبيع قبعات وطواقي وصنادل بلا منيو رقمي، لكن آخر منشور ظاهر يعود إلى آب 2022 فالصفحة تبدو غير نشطة.",
+ "sells": "هدايا وعطورات، قبعات وطواقي، صنادل وشحاطات",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "محلات smile (TARB Gallery)",
+  "followers": "9.6 ألف",
+  "bio": "عطورات هدايا",
+  "address": "دمشق، مزة شيخ سعد، دخلة بن الشيخ سعد",
+  "phones": [
+   "+963999664838",
+   "+963968735600"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2022-08"
+ },
+ "logo": "assets/SYMETA-049/logo.jpg",
+ "cover": "assets/SYMETA-049/cover.jpg",
+ "items": [
+  {
+   "name": "قبعة قش صيفية بشريطة مورّدة",
+   "description": "تشكيلة 2022 بألوان متعددة",
+   "category": "قبعات نسائية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-049/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "قبعة قش بيج بفراشات",
+   "description": "",
+   "category": "قبعات نسائية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-049/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طاقية كاسكيت ماركات",
+   "description": "طواقي بماركات عالمية",
+   "category": "طواقي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "بسعر العرض",
+   "image": "assets/SYMETA-049/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طاقية كاسكيت أرماني",
+   "description": "",
+   "category": "طواقي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-049/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طاقية رياضية شبك",
+   "description": "ألوان متعددة",
+   "category": "طواقي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-049/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "صندل نسائي جلد",
+   "description": "ألوان متعددة",
+   "category": "صنادل",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-049/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "صندل نسائي مجدول",
+   "description": "",
+   "category": "صنادل",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-049/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "قبعات أطفال ملونة",
+   "description": "تشكيلة طواقي للأولاد",
+   "category": "قبعات أطفال",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-049/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

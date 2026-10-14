@@ -1,0 +1,85 @@
+{
+ "id": "SYMETA-025",
+ "verdict": "qualified",
+ "reason": "معرض أدوات منزلية نشط جداً في الحسكة ينشر منتجاته يومياً ويشحن لكل المحافظات بدون منيو أو متجر رقمي.",
+ "sells": "أدوات منزلية ومطبخ ومنظفات، جملة ومفرق",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "معرض فهد للأدوات المنزلية",
+  "followers": "26 ألف",
+  "bio": "معرض فهد للأدوات المنزلية بيع بالتجزئة والجملة أدوات منزلية منظفات وجميع ماتحتاجه في منزلك",
+  "address": "الحسكة - معبدة جانب شارع الدكاترة",
+  "phones": [
+   "+963936828925"
+  ],
+  "whatsapp": "+963936828925",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYMETA-025/logo.jpg",
+ "cover": "assets/SYMETA-025/cover.jpg",
+ "items": [
+  {
+   "name": "صينية تقديم ستانلس ستيل مدهب",
+   "description": "لون ثابت، ماركة ريفال الإماراتي، مقاس 40×33",
+   "category": "أدوات تقديم",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-025/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم مصافي ستانلس ستيل 4 قطع",
+   "description": "مقاوم للصدأ، قياس 22 و24 و26 و28 سم",
+   "category": "أدوات مطبخ",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-025/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "علبة محارم خشب بامبو",
+   "description": "علبة محارم خشب بامبو أصلي",
+   "category": "ديكور منزلي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-025/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "ستاند مع 8 علب توابل بلور كريستال",
+   "description": "ستاند توابل مع 8 علب كريستال",
+   "category": "أدوات مطبخ",
+   "price": 90000,
+   "currency": "SYP",
+   "price_text": "90 ألف",
+   "image": "assets/SYMETA-025/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "غطاء غسالة توماتيك مخمل دانتيل",
+   "description": "متوفر بكل الألوان",
+   "category": "مفروشات منزلية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-025/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "ملقط معكرونة ومقالي",
+   "description": "ملقط ستانلس ستيل",
+   "category": "أدوات مطبخ",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-025/item06.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

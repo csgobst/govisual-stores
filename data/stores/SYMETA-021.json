@@ -1,0 +1,106 @@
+{
+ "id": "SYMETA-021",
+ "verdict": "qualified",
+ "reason": "متجر تجميل وإكسسوارات نشط في اللاذقية (نشر منذ ساعات) يبيع منتجات واضحة ويستقبل الطلبات عبر واتساب دون أي متجر أو كتالوج رقمي.",
+ "sells": "مستحضرات تجميل وعناية وإكسسوارات وحقائب للكوادر الطبية",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "Zero Plus Beauty | زيرو بلس",
+  "followers": "1540",
+  "bio": "منتجات تجميل وعناية أصلية 100% - زيارة المحل | توصيل لكافة المناطق - اطلبي عبر الواتساب",
+  "address": "اللاذقية - الزراعة - شارع بنت الشاويش، أول دخلة على اليسار، مقابل كافيه صباح و مسا",
+  "phones": [
+   "0985332743",
+   "+963930122923"
+  ],
+  "whatsapp": "0985332743",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYMETA-021/logo.jpg",
+ "cover": "assets/SYMETA-021/cover.jpg",
+ "items": [
+  {
+   "name": "حقيبة السماعات الطبية",
+   "description": "هيكل صلب مقاوم للصدمات والأمطار، تقسيم داخلي للأدوات، متوفرة بـ 6 ألوان",
+   "category": "إكسسوارات طبية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-021/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "إكسسوارات الكوادر الطبية",
+   "description": "قلادات وتعليقات بتصاميم طبية",
+   "category": "إكسسوارات طبية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-021/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بلاك نبض",
+   "description": "تعليقة بتصميم نبض القلب",
+   "category": "إكسسوارات طبية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-021/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "شامبو هيد آند شولدرز منثول",
+   "description": "شامبو ضد القشرة بالمنثول المنعش",
+   "category": "عناية بالشعر",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-021/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "شامبو هيد آند شولدرز بالفحم",
+   "description": "شامبو ضد القشرة بالفحم المنشط",
+   "category": "عناية بالشعر",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-021/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "شامبو هيد آند شولدرز ناعم وحريري",
+   "description": "",
+   "category": "عناية بالشعر",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-021/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "باليت ظلال عيون",
+   "description": "باليت ظلال وبلاشر بألوان ترابية",
+   "category": "مكياج",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-021/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "سلسلة فخذ",
+   "description": "إكسسوار سلسلة ذهبية للفخذ",
+   "category": "إكسسوارات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-021/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

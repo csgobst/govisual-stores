@@ -1,0 +1,22 @@
+{
+ "id": "SYNEW-180",
+ "verdict": "not_qualified",
+ "reason": "فرع سوري لسلسلة ألعاب كبيرة لديها متجر إلكتروني كامل (newboystore.com مع سلة شراء، موجه للسعودية) ومرتبط من الصفحة، فلديها كتالوج رقمي بالفعل.",
+ "sells": "ألعاب أطفال ونيرسري من براندات عالمية (Hasbro، Play-Doh، فلة)",
+ "has_digital_menu": true,
+ "menu_link": "https://www.newboystore.com/",
+ "page": {
+  "title": "NewBoy Store Syria",
+  "followers": "38 ألف",
+  "bio": "تجدون في محلات نيوبوي ستور كل ما تتمنونه من الألعاب والنيرسري المميزة من أشهر البراندات العالمية في فروعنا المنتشرة في سوريا",
+  "address": "دمشق، أوتوستراد المزة - بناء عساسة رقم 10",
+  "phones": [],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYNEW-180/logo.jpg",
+ "cover": "assets/SYNEW-180/cover.jpg",
+ "items": [],
+ "checkedAt": "2026-10-15"
+}

@@ -1,0 +1,103 @@
+{
+ "id": "SYMETA-002",
+ "verdict": "qualified",
+ "reason": "متجر هدايا نشط ينشر منتجاته يومياً على فيسبوك ولا يملك منيو أو متجراً رقمياً، وتظهر منتجات كثيرة واضحة.",
+ "sells": "هدايا وألعاب وقرطاسية وإكسسوارات",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "Flamingo Gifts",
+  "followers": "563",
+  "bio": "من هنا تبدأ السعاده 🦩 هدايا والعاب مميزة لكل المناسبات🎁 لدينا خدمة توصيل❤️ دمشق-المزة",
+  "address": "دمشق - المزة - جانب ساحة عروس الجبل",
+  "phones": [],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/flamingo.gifts2026",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYMETA-002/logo.jpg",
+ "cover": "",
+ "items": [
+  {
+   "name": "كوب متة سيراميك",
+   "description": "كوب متة مع مصاصة معدنية",
+   "category": "هدايا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-002/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "رواية سكوروبيوس",
+   "description": "رواية للكاتبة شهد قربان",
+   "category": "كتب",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-002/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مؤشر اليد",
+   "description": "عصا مؤشر قابلة للتمديد بألوان متعددة",
+   "category": "قرطاسية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-002/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "الحافظة الرياضية",
+   "description": "مطرة مياه رياضية عملية",
+   "category": "هدايا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-002/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "ساعة البومة الكيوت",
+   "description": "ساعة منبه على شكل بومة",
+   "category": "هدايا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-002/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "سلسال ذهبي بدلاية",
+   "description": "",
+   "category": "إكسسوارات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-002/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "دبدوب بطة كبير",
+   "description": "لعبة محشوة على شكل بطة",
+   "category": "ألعاب",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-002/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "سلسال آية الكرسي",
+   "description": "",
+   "category": "إكسسوارات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-002/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

@@ -1,0 +1,105 @@
+{
+ "id": "SYNEW-148",
+ "verdict": "maybe",
+ "reason": "محل ألبسة نسائية في طرطوس بأسعار واضحة على الصور وبلا متجر رقمي، لكن آخر منشور يعود إلى تشرين الثاني 2023 وكان إعلان تصفية كامل المحل، فقد يكون مغلقاً.",
+ "sells": "ألبسة نسائية: جينزات وبناطيل، فساتين سبور شيك، توينزات وأطقم - جملة ومفرق",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "ألبسة جوجو - طرطوس",
+  "followers": "23.8 ألف",
+  "bio": "أسعار مخفضة - أرقى الجينزات - فساتين سبور شيك مميزة - جملة + مفرق - أرخص الأسعار",
+  "address": "طرطوس - زاوية مقهى المنشية",
+  "phones": [
+   "+963944508194"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2023-11"
+ },
+ "logo": "assets/SYNEW-148/logo.jpg",
+ "cover": "assets/SYNEW-148/cover.jpg",
+ "items": [
+  {
+   "name": "توينز شتوي",
+   "description": "تصفية",
+   "category": "توينزات وأطقم",
+   "price": 150000,
+   "currency": "SYP",
+   "price_text": "تصفية توينز شتوي بس 150 الف",
+   "image": "assets/SYNEW-148/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بلوزة + بنطال",
+   "description": "تصفية",
+   "category": "توينزات وأطقم",
+   "price": 50000,
+   "currency": "SYP",
+   "price_text": "تصفية بلوزة + بنطال بس 50 الف",
+   "image": "assets/SYNEW-148/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بنطال قماش أزرق",
+   "description": "تصفية",
+   "category": "بناطيل",
+   "price": 35000,
+   "currency": "SYP",
+   "price_text": "تصفية 35000",
+   "image": "assets/SYNEW-148/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بلوزة ملونة",
+   "description": "تصفية",
+   "category": "بلوزات",
+   "price": 25000,
+   "currency": "SYP",
+   "price_text": "تصفية بس 25000",
+   "image": "assets/SYNEW-148/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم قميص وبنطال زهري",
+   "description": "تصفية",
+   "category": "توينزات وأطقم",
+   "price": 75000,
+   "currency": "SYP",
+   "price_text": "تصفية طقم بس 75000",
+   "image": "assets/SYNEW-148/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بنطال بناتي مدرسي",
+   "description": "عرض اليوم",
+   "category": "بناطيل",
+   "price": 35000,
+   "currency": "SYP",
+   "price_text": "بس اليوم 35000",
+   "image": "assets/SYNEW-148/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان سهرة أحمر مورد",
+   "description": "",
+   "category": "فساتين",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-148/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "قميص خمري",
+   "description": "تصفية",
+   "category": "بلوزات",
+   "price": 50000,
+   "currency": "SYP",
+   "price_text": "تصفية بس 50000",
+   "image": "assets/SYNEW-148/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

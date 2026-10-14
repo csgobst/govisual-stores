@@ -1,0 +1,55 @@
+{
+ "id": "SYMETA-041",
+ "verdict": "maybe",
+ "reason": "متجر هدايا وبوكسات في حلب بلا قائمة رقمية، لكنه شبه متوقف: آخر منشور في نوفمبر 2023 ومتابع واحد فقط.",
+ "sells": "بوكسات هدايا وورد ومكياج",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "melaGifts",
+  "followers": "1",
+  "bio": "متجر بيع وتصميم الهدايا",
+  "address": "حلب، سوريا",
+  "phones": [
+   "+963942006773"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2023-11"
+ },
+ "logo": "assets/SYMETA-041/logo.jpg",
+ "cover": "assets/SYMETA-041/cover.jpg",
+ "items": [
+  {
+   "name": "بوكس الشتوية",
+   "description": "بوكس هدية شتوي مع دمى وجوارب، التوصيل ضمن حلب",
+   "category": "بوكسات هدايا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-041/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بوكس مكياج مع ورد ودبدوب",
+   "description": "بوكس مكياج مع ورود ودبدوب",
+   "category": "بوكسات هدايا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-041/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "باقة ورد",
+   "description": "باقة ورد طبيعي مشكلة",
+   "category": "ورد",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-041/item03.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

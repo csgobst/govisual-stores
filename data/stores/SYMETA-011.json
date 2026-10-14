@@ -1,0 +1,56 @@
+{
+ "id": "SYMETA-011",
+ "verdict": "qualified",
+ "reason": "سلسلة مطاعم مأكولات شرقية ومناسف نشطة جداً (نشر منذ يوم، 58 ألف متابع، فروع حمص وحماة ومرسين) ولا يوجد لديها منيو رقمي.",
+ "sells": "مأكولات شرقية ومناسف عربية وفطور",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "مطعم الحمرا فرع 4",
+  "followers": "58570",
+  "bio": "كافة المأكولات الشرقية والمناسف العربية",
+  "address": "حمص - سوريا؛ حماة - القصور؛ Toroslar, Mersin, Turkey",
+  "phones": [
+   "0935027000",
+   "+905397444156"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYMETA-011/logo.jpg",
+ "cover": "assets/SYMETA-011/cover.jpg",
+ "items": [
+  {
+   "name": "منسف أردني",
+   "description": "منسف لحم مع خبز الشراك",
+   "category": "مناسف",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-011/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "لحم مناسف طازج",
+   "description": "لحم غنم طازج مطبوخ للمناسف والولائم",
+   "category": "مناسف وولائم",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-011/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "عرض الفطور",
+   "description": "فطور شرقي في فرع حمص",
+   "category": "فطور",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

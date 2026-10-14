@@ -1,0 +1,73 @@
+{
+ "id": "SYMETA-064",
+ "verdict": "qualified",
+ "reason": "محل ألبسة عائلية وأحذية في شارع الثورة بطرطوس بصفحة نشطة جداً (53 ألف متابع، منشورات يومية) ولا يملك منيو أو متجراً رقمياً.",
+ "sells": "ألبسة لجميع أفراد العائلة، أحذية وجزادين",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "AB",
+  "followers": "53 ألف",
+  "bio": "ألبسة لجميع أفراد العائلة & أحذية وجزادين",
+  "address": "طرطوس - شارع الثورة",
+  "phones": [],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYMETA-064/logo.jpg",
+ "cover": "assets/SYMETA-064/cover.jpg",
+ "items": [
+  {
+   "name": "بنطال فليس مبطن ولادي",
+   "description": "من 6 سنين لل 16 سنة",
+   "category": "ولادي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-064/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم صوف نسائي",
+   "description": "ألوان كثيرة متوفرة",
+   "category": "نسائي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-064/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بنطال فليس مبطن بناتي",
+   "description": "أسود وكحلي، من 6 سنين لل 16",
+   "category": "بناتي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-064/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بنطال جينز واسع نسائي",
+   "description": "من تشكيلة الجينزات",
+   "category": "نسائي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-064/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بلوزة صوف مقلمة بياقة",
+   "description": "رجعنا كررنا هي البلوزة",
+   "category": "نسائي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-064/item05.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

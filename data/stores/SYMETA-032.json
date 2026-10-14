@@ -1,0 +1,85 @@
+{
+ "id": "SYMETA-032",
+ "verdict": "maybe",
+ "reason": "متجر هدايا ونباتات صناعية نشط في حلب مع أسعار واضحة، لكن مصدر سابق يذكر متجراً إلكترونياً (mygift.altonji.shop) والصفحة تربط altonji.net، ولم يمكن فتح الرابط للتأكد.",
+ "sells": "هدايا وعلب مناسبات ونباتات وأشجار صناعية",
+ "has_digital_menu": false,
+ "menu_link": "https://mygift.altonji.shop/",
+ "page": {
+  "title": "MY GIFT",
+  "followers": "2251",
+  "bio": "صفحة مخصصة لعرض منتجات خاصة بالهدايا و علب المناسبات",
+  "address": "حلب، سوريا",
+  "phones": [
+   "+963987821937"
+  ],
+  "whatsapp": "0987821937",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYMETA-032/logo.jpg",
+ "cover": "assets/SYMETA-032/cover.jpg",
+ "items": [
+  {
+   "name": "شجرة صناعية ارتفاع متر",
+   "description": "شامل الحوض والأحجار، نوعية ممتازة",
+   "category": "نباتات صناعية",
+   "price": 400000,
+   "currency": "SYP",
+   "price_text": "ب 400 الف",
+   "image": "assets/SYMETA-032/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "شجرة نخيل صناعية 180 سم",
+   "description": "آخر قطعة متوفرة",
+   "category": "نباتات صناعية",
+   "price": 50,
+   "currency": "USD",
+   "price_text": "بسعر 50 دولار",
+   "image": "assets/SYMETA-032/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "نبتة صناعية (عرض سريع)",
+   "description": "آخر قطعة",
+   "category": "نباتات صناعية",
+   "price": 15,
+   "currency": "USD",
+   "price_text": "اخر قطعه بسعر 15 دولار",
+   "image": "assets/SYMETA-032/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مجموعة بروتين الشعر Spanglemore",
+   "description": "نظام البروتين الطبيعي المتكامل للشعر",
+   "category": "عناية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-032/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "شجرة أريكا صناعية",
+   "description": "",
+   "category": "نباتات صناعية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-032/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "شجرة زهر أبيض صناعية",
+   "description": "",
+   "category": "نباتات صناعية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-032/item06.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

@@ -1,0 +1,105 @@
+{
+ "id": "SYMETA-031",
+ "verdict": "maybe",
+ "reason": "متجر أدوات منزلية وهدايا في حلب بمنتجات واضحة كثيرة ورابط موقعه لا يعمل (410)، لكن آخر منشور مؤرخ ظاهر يعود إلى أبريل 2025 فقد يكون غير نشط.",
+ "sells": "أدوات منزلية وضيافة وهدايا: فناجين ومرطبانات وأطباق فخار وصحون وشمعدانات",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "Sun Light Store",
+  "followers": "563",
+  "bio": "متجر Sun Light يرحب بكم - اترك طلبك وسوف يتم الرد بأقرب وقت",
+  "address": "حلب - الحمدانية - دوار الإطفائية - السوق التجاري",
+  "phones": [
+   "+963969393346"
+  ],
+  "whatsapp": "https://chat.whatsapp.com/JzgUT4dVjRO9wLVAVj56TM",
+  "instagram": "https://www.instagram.com/sunl.ightstore",
+  "last_activity": "2025-04"
+ },
+ "logo": "assets/SYMETA-031/logo.jpg",
+ "cover": "assets/SYMETA-031/cover.jpg",
+ "items": [
+  {
+   "name": "مرطبانات زجاج بغطاء خشب وغزال ذهبي",
+   "description": "طقم مرطبانات زجاجية للضيافة بغطاء خشبي",
+   "category": "ضيافة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-031/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "إبريق زجاج بغطاء خشبي",
+   "description": "إبريق زجاجي مضلع مع ملعقة",
+   "category": "ضيافة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-031/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم زبادي فخار",
+   "description": "أطباق فخار للتقديم والفرن",
+   "category": "مطبخ",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-031/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "شمعدان كريستال ثلاثي",
+   "description": "شمعدان بثلاث كاسات كريستال على حامل ذهبي",
+   "category": "ديكور",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-031/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم كاسات وعلبة محارم كريستال",
+   "description": "كاسات وعلبة محارم بنقشة كريستال ذهبية",
+   "category": "ضيافة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-031/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "ماغ زجاج بغطاء وردة",
+   "description": "ماغ زجاجي بغطاء خشبي ووردة",
+   "category": "ماغات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-031/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم صحون سيراميك أزرق",
+   "description": "صحون وزبادي بنقشة زرقاء",
+   "category": "صحون",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-031/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم سفرة منقوش أزرق",
+   "description": "طقم صحون تقديم بنقشة زرقاء وبيضاء",
+   "category": "صحون",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-031/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

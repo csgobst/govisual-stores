@@ -1,0 +1,85 @@
+{
+ "id": "SYMETA-063",
+ "verdict": "maybe",
+ "reason": "محل ألبسة نسائية في طرطوس بمنتجات واضحة ولا منيو رقمي، لكن آخر منشور ظاهر على فيسبوك يعود إلى يونيو 2023 فيبدو غير نشط.",
+ "sells": "ألبسة نسائية: جواكيت وبلوزات وبناطيل جينز وتيشرتات",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "جوى فاشن _ Jawa Fashion",
+  "followers": "3.2 ألف",
+  "bio": "ألبسة جوى - الموقع: شارع هنانو أول دخلة بعد حلويات لطفي",
+  "address": "طرطوس، المشبكة، سوق الدهب (شارع هنانو)",
+  "phones": [
+   "+963988749818"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/fashion_with_jawa",
+  "last_activity": "2023-06"
+ },
+ "logo": "assets/SYMETA-063/logo.jpg",
+ "cover": "assets/SYMETA-063/cover.jpg",
+ "items": [
+  {
+   "name": "جاكيت نسائي كلاسيك",
+   "description": "موجود أربع ألوان وبعدة قياسات",
+   "category": "جواكيت",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-063/item01.jpg",
+   "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02SAF8qmYYjMzU5L7eahSKLzixe6BH4JZpPnrzYNvJrFaisv4DjoDWC8vwEKunwjbAl&id=100064186086810"
+  },
+  {
+   "name": "بلوزة مورّدة",
+   "description": "موجود ٣ ألوان",
+   "category": "بلوزات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-063/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بنطال جينز أبيض خصر عالي",
+   "description": "زر واحد، قياسات 36 إلى 44",
+   "category": "جينز",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-063/item03.jpg",
+   "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02jDaWEW3nzRfcL8K2pw6A8smNKvrxsxr6tMEFsiM2B9KMiD8QJ4FsDL37uXSFcyEtl&id=100064186086810"
+  },
+  {
+   "name": "بنطال جينز كارغو",
+   "description": "خصر عالي زر واحد، قياسات 36 إلى 44",
+   "category": "جينز",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-063/item04.jpg",
+   "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02jDaWEW3nzRfcL8K2pw6A8smNKvrxsxr6tMEFsiM2B9KMiD8QJ4FsDL37uXSFcyEtl&id=100064186086810"
+  },
+  {
+   "name": "تيشرت YES I'M COLD",
+   "description": "بلوزة خفيفة، موجود أربع ألوان",
+   "category": "تيشرتات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-063/item05.jpg",
+   "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02z5ga6MvhYHgeeiQmcLBPamWFVvEV3PPCEjrMZxkPJ5siR728Y2HyLeB6LxUXsq52l&id=100064186086810"
+  },
+  {
+   "name": "بلوزة دانتيل أبيض",
+   "description": "القطعة التقيلة بالأبيض الملكي",
+   "category": "بلوزات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-063/item06.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

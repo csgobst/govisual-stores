@@ -1,0 +1,73 @@
+{
+ "id": "SYNEW-177",
+ "verdict": "maybe",
+ "reason": "محل شوكولا وهدايا فاخرة في صافيتا بمنتجات واضحة لكن آخر منشور ديسمبر 2022 ولا يوجد رقم تواصل.",
+ "sells": "شوكولا بحشوات متنوعة، حلويات العيد، هدايا كريستال وقيشاني ونحاس",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "Bassem ghrawy chocolate شوكولا غراوي",
+  "followers": "1821",
+  "bio": "شوكولا غراوي الفاخرة وهدايا مميزة من الكريستال والقيشاني",
+  "address": "صافيتا",
+  "phones": [],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2022-12"
+ },
+ "logo": "assets/SYNEW-177/logo.jpg",
+ "cover": "assets/SYNEW-177/cover.jpg",
+ "items": [
+  {
+   "name": "صندوق شوكولا بحشوات مختلفة",
+   "description": "تشيز كيك، غزل بنات، أوريو، برالينيه، فيريرو، لوتس، بندق، فستق حلبي وغيرها",
+   "category": "شوكولا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-177/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حلو العيد بالسمن العربي",
+   "description": "",
+   "category": "حلويات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-177/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "علب شوكولا العيد المزينة",
+   "description": "",
+   "category": "شوكولا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-177/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "صحن ضيافة نحاس مع شوكولا غزل البنات",
+   "description": "",
+   "category": "هدايا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-177/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "صحن كريستال موزاييك للزينة",
+   "description": "",
+   "category": "هدايا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-177/item05.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

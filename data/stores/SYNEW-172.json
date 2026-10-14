@@ -1,0 +1,105 @@
+{
+ "id": "SYNEW-172",
+ "verdict": "qualified",
+ "reason": "محل ألبسة نسائية في القامشلي (Rodi fashion / By Rody) نشط حتى آذار 2026 ويعرض منتجات واضحة دون أي كتالوج رقمي.",
+ "sells": "ألبسة نسائية: بلايز وقمصان وفساتين وبناطيل رياضية وجواكيت",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "Rodi fashion",
+  "followers": "5616",
+  "bio": "نسعى دائماً لإرضاء الزبائن الكرام",
+  "address": "القامشلي - شارع زهربيان",
+  "phones": [
+   "+963988943992"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-03"
+ },
+ "logo": "assets/SYNEW-172/logo.jpg",
+ "cover": "assets/SYNEW-172/cover.jpg",
+ "items": [
+  {
+   "name": "بلوزة بيضاء بأكمام دانتيل",
+   "description": "",
+   "category": "بلايز",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-172/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "قميص ساتان مطبع",
+   "description": "",
+   "category": "قمصان",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-172/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "جاكيت بليزر بيج",
+   "description": "",
+   "category": "جواكيت",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-172/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بنطال رياضي Nike",
+   "description": "عدة ألوان",
+   "category": "بناطيل",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-172/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان أسود مورد",
+   "description": "",
+   "category": "فساتين",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-172/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان نمري بحزام",
+   "description": "",
+   "category": "فساتين",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-172/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بلوزة كروس مورد",
+   "description": "",
+   "category": "بلايز",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-172/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بلوزة بأزرار كتف",
+   "description": "أسود وأبيض",
+   "category": "بلايز",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-172/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

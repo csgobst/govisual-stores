@@ -1,0 +1,105 @@
+{
+ "id": "SYMETA-051",
+ "verdict": "maybe",
+ "reason": "مكتبة وقرطاسية وألعاب في دمشق بمنتجات واضحة وبلا قائمة رقمية، لكن آخر منشور يعود إلى مارس 2023 فتبدو الصفحة غير نشطة.",
+ "sells": "قرطاسية ولوازم مكتبية وألعاب وهدايا وكتب وروايات وطباعة",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "مكتبة اقرأ - Eqraa Stationery",
+  "followers": "135",
+  "bio": "قرطاسية - لوازم مكتبية - العاب - هدايا - تصوير مستندات",
+  "address": "دمشق - الجسر الأبيض - دوار الجبة",
+  "phones": [
+   "+963112757133"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2023-03"
+ },
+ "logo": "assets/SYMETA-051/logo.jpg",
+ "cover": "assets/SYMETA-051/cover.jpg",
+ "items": [
+  {
+   "name": "مفكرة رمضان للصغار",
+   "description": "مفكرة لتنظيم العبادات والنشاطات خلال شهر رمضان",
+   "category": "مفكرات",
+   "price": 8000,
+   "currency": "SYP",
+   "price_text": "مفكرة الصغار سعرها ٨٠٠٠",
+   "image": "assets/SYMETA-051/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مفكرة رمضان للكبار",
+   "description": "مفكرة رمضان معنى لتنظيم العبادات والنشاطات",
+   "category": "مفكرات",
+   "price": 13000,
+   "currency": "SYP",
+   "price_text": "مفكرة الكبار سعرها ١٣٠٠٠",
+   "image": "assets/SYMETA-051/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "روايات للإعارة",
+   "description": "روايات متوفرة لمكتبة الإعارة (أدهم شرقاوي وغيرها)",
+   "category": "كتب وروايات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-051/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "سيارة تحكم عن بعد مع مقود",
+   "description": "سيارة رياضية بالريموت بمقود تحكم",
+   "category": "ألعاب",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-051/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "سيارة ريموت فيراري صفراء",
+   "description": "",
+   "category": "ألعاب",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-051/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "سيارة معدنية كبيرة لامبورغيني",
+   "description": "من تشكيلة السيارات المعدنية بحجم كبير",
+   "category": "ألعاب",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-051/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "سيارة معدنية هامر",
+   "description": "من تشكيلة السيارات المعدنية بحجم كبير",
+   "category": "ألعاب",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-051/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مقلمة بسحاب",
+   "description": "مقالم متنوعة الأشكال والتصاميم",
+   "category": "قرطاسية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-051/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

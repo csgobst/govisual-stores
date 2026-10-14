@@ -1,0 +1,56 @@
+{
+ "id": "SYMETA-027",
+ "verdict": "qualified",
+ "reason": "تاجر مواد غذائية ومنظفات جملة ومفرق في تلكلخ ينشر بضاعته على فيسبوك دون قائمة رقمية.",
+ "sells": "مواد غذائية، منظفات، أعلاف وحبوب زراعية (جملة ومفرق)",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "قليشة للتجارة",
+  "followers": "8559",
+  "bio": "جميع انواع مواد غذائية جملة _ مفرق",
+  "address": "تلكلخ - طريق عين الخضراء، حمص",
+  "phones": [
+   "+963956085473",
+   "0981557590"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-09"
+ },
+ "logo": "assets/SYMETA-027/logo.jpg",
+ "cover": "assets/SYMETA-027/cover.jpg",
+ "items": [
+  {
+   "name": "ملح الجاسم 10 كيلو",
+   "description": "",
+   "category": "مواد غذائية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-027/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "منظفات ومواد تنظيف",
+   "description": "عروض وبضاعة مكفولة",
+   "category": "منظفات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-027/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "دبس فليفلة",
+   "description": "",
+   "category": "مواد غذائية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-027/item03.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

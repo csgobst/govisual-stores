@@ -1,0 +1,85 @@
+{
+ "id": "SYNEW-146",
+ "verdict": "qualified",
+ "reason": "محل بياضات ولانجري وبيجامات نسائية في طرطوس ينشر منتجاته باستمرار حتى أكتوبر 2026 مع توصيل، ولا يملك كتالوجاً رقمياً.",
+ "sells": "بيجامات نسائية، لانجري، قفاطين وملابس نوم",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "نعومي",
+  "followers": "12 ألف",
+  "bio": "محل بياضات و لانجري و بيجامات نسائية للمرأة المميزة",
+  "address": "طرطوس - المنشية - عبارة حور العين - مقابل مدرسة الخنساء",
+  "phones": [
+   "+963985307775"
+  ],
+  "whatsapp": "",
+  "instagram": "ghofran_zein",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYNEW-146/logo.jpg",
+ "cover": "assets/SYNEW-146/cover.jpg",
+ "items": [
+  {
+   "name": "بجامة قطن ربيعي",
+   "description": "قياس M, L, XL, 2XL",
+   "category": "بيجامات",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYNEW-146/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم جاكيت بقبعة مع بنطال",
+   "description": "",
+   "category": "أطقم منزلية",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYNEW-146/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بجامة نص كم مشجرة",
+   "description": "",
+   "category": "بيجامات",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYNEW-146/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "قفطان شيفون مبطن",
+   "description": "قفطان مطرز ذهبي",
+   "category": "قفاطين",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYNEW-146/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بجامة نوم قطن رقيق ربيعي",
+   "description": "قياس S, M",
+   "category": "بيجامات",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYNEW-146/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "لانجري عرايسي",
+   "description": "تفاصيل دانتيل عرايسي فاخر",
+   "category": "لانجري",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYNEW-146/item06.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

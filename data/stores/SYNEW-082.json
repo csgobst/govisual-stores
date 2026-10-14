@@ -1,0 +1,22 @@
+{
+ "id": "SYNEW-082",
+ "verdict": "unreachable",
+ "reason": "صفحة فيسبوك غير متوفرة: تظهر رسالة (هذا المحتوى غير متوفر حاليًا) أي أنها محذوفة أو مقيدة.",
+ "sells": "",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "راجعين كافيه",
+  "followers": "",
+  "bio": "",
+  "address": "",
+  "phones": [],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "unknown"
+ },
+ "logo": "",
+ "cover": "",
+ "items": [],
+ "checkedAt": "2026-10-15"
+}

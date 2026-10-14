@@ -1,0 +1,45 @@
+{
+ "id": "SYNEW-170",
+ "verdict": "maybe",
+ "reason": "مطعم مشاوي نشط في الرقة (آخر منشور أغسطس 2026) بلا منيو رقمي، لكن المنشورات صور للمحل والتصاميم الدعائية ولا يمكن تمييز أكثر من صنفين بدون أسعار.",
+ "sells": "مشاوي وكباب",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "مطعم العليان",
+  "followers": "12 ألف",
+  "bio": "مستعدين لكافة الطلبات - لكافة أنواع المشاوي",
+  "address": "الرقة",
+  "phones": [
+   "+963994228194"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-08"
+ },
+ "logo": "assets/SYNEW-170/logo.jpg",
+ "cover": "assets/SYNEW-170/cover.jpg",
+ "items": [
+  {
+   "name": "كباب على الفحم",
+   "description": "كباب لحم مشوي على الفحم",
+   "category": "مشاوي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-170/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "صحن مشاوي مشكلة",
+   "description": "أسياخ كباب وشقف مع بندورة وفليفلة مشوية",
+   "category": "مشاوي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-170/item02.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

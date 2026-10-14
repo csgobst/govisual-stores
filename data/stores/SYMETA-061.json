@@ -1,0 +1,105 @@
+{
+ "id": "SYMETA-061",
+ "verdict": "maybe",
+ "reason": "محل حلويات عربية بفرعين في طرطوس بمنتجات واضحة وبلا قائمة رقمية، لكن آخر منشور ظاهر يعود إلى أبريل 2023 فتبدو الصفحة غير نشطة.",
+ "sells": "حلويات عربية: مبرومة وبقلاوة وبلورية وعش البلبل وحلويات بالفستق والكاجو وبيتي فور",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "حلويات غسّان الحوراني وأولاده",
+  "followers": "4044",
+  "bio": "فرع 1 طرطوس دوار الطلائع مقابل شركة السعدي - فرع 2 المنطار جنوب البلدية طريق عام طرابلس",
+  "address": "طرطوس - دوار الطلائع مقابل شركة السعدي؛ المنطار - جنوب البلدية - طريق عام طرابلس",
+  "phones": [
+   "+963944359321"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2023-04"
+ },
+ "logo": "assets/SYMETA-061/logo.jpg",
+ "cover": "assets/SYMETA-061/cover.jpg",
+ "items": [
+  {
+   "name": "مبرومة بالفستق الحلبي والكاجو",
+   "description": "",
+   "category": "حلويات عربية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-061/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "تشكيلة حلويات عربية مشكلة",
+   "description": "بقلاوة وأصابع وكول وشكور بالفستق",
+   "category": "حلويات عربية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-061/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بلورية",
+   "description": "صينية بلورية",
+   "category": "حلويات عربية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-061/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "علب حلويات هدايا",
+   "description": "علب حلويات مشكلة للهدايا والمناسبات",
+   "category": "علب هدايا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-061/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بيتي فور وكعك مشكل",
+   "description": "بيتي فور بالشوكولا وجوز الهند والمربى",
+   "category": "بيتي فور",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-061/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "صينية حلويات مشكلة",
+   "description": "كول وشكور وبقلاوة مع بيتي فور",
+   "category": "حلويات عربية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-061/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "عش البلبل بالفستق",
+   "description": "",
+   "category": "حلويات عربية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-061/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "عش البلبل باللوز",
+   "description": "",
+   "category": "حلويات عربية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-061/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

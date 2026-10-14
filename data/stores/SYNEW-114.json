@@ -1,0 +1,83 @@
+{
+ "id": "SYNEW-114",
+ "verdict": "maybe",
+ "reason": "صفحة قديمة لمحل تجميل وإكسسوارات في دمشق تحمل صور منتجات، لكن آخر نشاط آب 2023 وتغيّر اسمها ووصفها إلى «السلطان» وبيع قطع كمبيوتر، فالمتجر غالباً غير نشط بهذا النشاط.",
+ "sells": "مستحضرات تجميل (Max Factor) وإكسسوارات وساعات (سابقاً)",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "Ghofran cosmetic (Bosltan)",
+  "followers": "1.1 ألف",
+  "bio": "مهندس مدني +أختصاصي برمجة +هرد وير+مستور لقطع الكمبيوتر كافة",
+  "address": "دمشق - البحصة",
+  "phones": [],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/ajbahaa",
+  "last_activity": "2023-08"
+ },
+ "logo": "assets/SYNEW-114/logo.jpg",
+ "cover": "",
+ "items": [
+  {
+   "name": "حلق وأقراط إكسسوار",
+   "description": "تشكيلة أقراط معروضة",
+   "category": "إكسسوارات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-114/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "ساعات نسائية ملونة",
+   "description": "",
+   "category": "ساعات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-114/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "أطقم سلاسل وعقود",
+   "description": "",
+   "category": "إكسسوارات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-114/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بودرة برونزر Max Factor",
+   "description": "Bronzing Powder",
+   "category": "مكياج",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-114/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "Max Factor Pan Stik",
+   "description": "كريم أساس ستيك",
+   "category": "مكياج",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-114/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "ماسكارا Max Factor Masterpiece",
+   "description": "",
+   "category": "مكياج",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-114/item06.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

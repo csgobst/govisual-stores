@@ -1,0 +1,95 @@
+{
+ "id": "SYMETA-024",
+ "verdict": "qualified",
+ "reason": "متجر أدوات منزلية ومطبخ نشط جداً في دمشق (80 ألف متابع، منشورات يومية بمنتجات جديدة) ولا يملك منيو أو متجراً رقمياً.",
+ "sells": "أدوات منزلية ومطبخ وتنظيم وتنظيف",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "كل شي عنا",
+  "followers": "80 ألف",
+  "bio": "متجر متخصص بزيادة هرمون السعادة ✨❤️ - متجر شامل ومتنوع",
+  "address": "دمشق، ساحة المرجة فوق صالة برادات الحافظ، الطابق الثاني",
+  "phones": [
+   "+963944293345"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/kulu_shyeanaa",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYMETA-024/logo.jpg",
+ "cover": "assets/SYMETA-024/cover.jpg",
+ "items": [
+  {
+   "name": "أكياس شبكية لمصفاة المجلى",
+   "description": "للاستعمال مرة واحدة، المغلف 100 قطعة",
+   "category": "مطبخ",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-024/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "ستاند رفوف معدني بأرفف خشبية",
+   "description": "هيكل معدني قوي وأرفف خشبية متينة للمطبخ أو المستودع أو الديكور",
+   "category": "تنظيم",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-024/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "قواعد مانعة لاهتزاز الغسالة",
+   "description": "تستخدم أيضاً كقواعد للبراد ومختلف أثاث المنزل",
+   "category": "منزليات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-024/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حامل فرشاة ومعجون أسنان",
+   "description": "حامل حائط ملون مع كاسات",
+   "category": "حمام",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-024/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "قطاعة نايلون التغليف",
+   "description": "علبة قطاعة لنايلون الطعام",
+   "category": "مطبخ",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-024/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "أكياس تزيين الحلويات",
+   "description": "أكياس كريمة للتزيين",
+   "category": "مطبخ",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-024/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كبسولات غسيل Laundry Beads",
+   "description": "كبسولات منظف للغسالة",
+   "category": "تنظيف",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-024/item07.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

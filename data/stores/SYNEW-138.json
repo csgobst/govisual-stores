@@ -1,0 +1,95 @@
+{
+ "id": "SYNEW-138",
+ "verdict": "maybe",
+ "reason": "متجر هدايا وإكسسوار في حماة بمنتجات واضحة وبلا كتالوج رقمي، لكن آخر منشور ظاهر يعود إلى أيلول 2025 فيبدو غير نشط مؤخراً.",
+ "sells": "هدايا، إكسسوار وأساور ومحابس محفورة بالاسم، تحف، لمبديرات، عطورات",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "هدايا غاردينيا - Gardenia Gifts",
+  "followers": "13.5 ألف",
+  "bio": "هدايا غاردينيا - اكسسوار - ساعات - تحف - عطورات",
+  "address": "حماة - شارع ابن رشد - نزلة السيدة عائشة (النزلة المؤدية لركن الطيبات)",
+  "phones": [
+   "0954154003"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/ab.acc1998",
+  "last_activity": "2025-09"
+ },
+ "logo": "assets/SYNEW-138/logo.jpg",
+ "cover": "assets/SYNEW-138/cover.jpg",
+ "items": [
+  {
+   "name": "إسوارة طيارة وبوصلة",
+   "description": "أي موديل أي تصميم، كفالة لون مدى الحياة",
+   "category": "إكسسوار",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-138/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "لمبديرات شخصيات رمضان",
+   "description": "شخصيات رمضان الخاصة بقناة MBC",
+   "category": "تحف وإنارة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-138/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كرة تلج معتقة أنتيكا",
+   "description": "مقاس وسط",
+   "category": "تحف",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-138/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "محبس محفور بالاسم",
+   "description": "",
+   "category": "إكسسوار",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-138/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حوجلات إنارة",
+   "description": "",
+   "category": "تحف وإنارة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-138/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "إطار صورة برج إيفل",
+   "description": "",
+   "category": "إطارات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-138/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "سلسال خريطة سوريا",
+   "description": "",
+   "category": "إكسسوار",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-138/item07.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

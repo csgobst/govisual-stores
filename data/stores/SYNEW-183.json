@@ -1,0 +1,83 @@
+{
+ "id": "SYNEW-183",
+ "verdict": "maybe",
+ "reason": "صانعة شوكولا يدوية بمنتجات واضحة ولا متجر رقمي، لكن آخر منشور في ديسمبر 2021 ولا يوجد عنوان أو رقم تواصل، فالنشاط الحالي غير مؤكد.",
+ "sells": "شوكولا يدوية: قلوب شوكولا للتكسير، ألواح مزينة، علب وصواني شوكولا للمناسبات",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "Reem's Chocolate - شوكولا ريم",
+  "followers": "864",
+  "bio": "متجر شوكولاتة",
+  "address": "",
+  "phones": [],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2021-12"
+ },
+ "logo": "assets/SYNEW-183/logo.jpg",
+ "cover": "assets/SYNEW-183/cover.jpg",
+ "items": [
+  {
+   "name": "قلب شوكولا للتكسير مع مطرقة",
+   "description": "قلب شوكولا محشي للمناسبات وأعياد الميلاد",
+   "category": "هدايا شوكولا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-183/item01.jpg",
+   "source_url": "https://www.facebook.com/reemschocolate/posts/pfbid02JWxg395LUmPFeuN4qi59xcbtr7dRKHzrQEjEShXgQFsFskLnDvuFv26x6KWzzyjxl"
+  },
+  {
+   "name": "علبة شوكولا الميلاد",
+   "description": "علبة مزينة بشريطة",
+   "category": "علب شوكولا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-183/item02.jpg",
+   "source_url": "https://www.facebook.com/reemschocolate/posts/pfbid0378nTWnoZ3wDSFhQ5NSbT6UjtNz5xeeQn999F2JiDburQvRjqrHq1QmtniT5oxzo3l"
+  },
+  {
+   "name": "ألواح شوكولا مزينة",
+   "description": "ألواح شوكولا بزينة الميلاد",
+   "category": "ألواح شوكولا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-183/item03.jpg",
+   "source_url": "https://www.facebook.com/reemschocolate/posts/pfbid0HjkP2TWoZdYGJgVXH2vKDDdwP6mXLBUsHMagCZZsfCY2ybHawHw5tFSvS4F2A2yul"
+  },
+  {
+   "name": "ألواح شوكولا الكريسماس",
+   "description": "طلب خاص",
+   "category": "ألواح شوكولا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-183/item04.jpg",
+   "source_url": "https://www.facebook.com/reemschocolate/posts/pfbid0UKWWPT8D1AnJmVj4gLpTvxXXghTF442SRtxikSkZti1G4Ef8S8Ej4TEeuSFWBYosl"
+  },
+  {
+   "name": "علب شوكولا دارك بحشوة زبيب",
+   "description": "",
+   "category": "علب شوكولا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-183/item05.jpg",
+   "source_url": "https://www.facebook.com/reemschocolate/posts/pfbid08ybQqSjTrvogf5WevUTipU4sce9p6kRK1t49joRh3gajuM6MuCG5H6YT4Gam73e4l"
+  },
+  {
+   "name": "صينية شوكولا مشكلة",
+   "description": "",
+   "category": "صواني شوكولا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-183/item06.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

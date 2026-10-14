@@ -1,0 +1,108 @@
+{
+ "id": "SYNEW-121",
+ "verdict": "qualified",
+ "reason": "مطعم نشط في المزة بدمشق (25 ألف متابع، آخر منشور في أكتوبر 2026، غيّر اسمه إلى شيلان) ينشر أطباقه وعروض الغداء دون أي منيو رقمي.",
+ "sells": "مأكولات شرقية وغربية وعروض غداء وفطور ومشروبات وميلك شيك",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "مطعم صدف (شيلان حالياً)",
+  "followers": "25591",
+  "bio": "مطعم - تم تغيير اسم المطعم من صدف إلى شيلان",
+  "address": "دمشق - المزة - طريق بيروت الدولي - قبل طلعة الأكرم",
+  "phones": [
+   "+963116129277",
+   "+963116129276",
+   "0930945555",
+   "0930895555"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/shelanrestaurant",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYNEW-121/logo.jpg",
+ "cover": "assets/SYNEW-121/cover.jpg",
+ "items": [
+  {
+   "name": "ميلك شيك فريز",
+   "description": "ميلك شيك كريمي بالفريز مع كريمة",
+   "category": "مشروبات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-121/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "ميلك شيك شوكولا",
+   "description": "ميلك شيك شوكولا مع كريمة",
+   "category": "مشروبات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-121/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "عرض الغداء",
+   "description": "سفرة تجمع الأكل الشرقي والغربي: رز بالدجاج، كبة، كوردون بلو ومقبلات",
+   "category": "عروض",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-121/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كوردون بلو",
+   "description": "قرمشة من برا وطراوة من جوا مع صوص وخضار",
+   "category": "أطباق رئيسية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-121/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "دجاج بالصوص الأحمر",
+   "description": "صدر دجاج مع صوص أحمر وجبنة وبطاطا",
+   "category": "أطباق رئيسية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-121/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "سفرة فطور شرقي",
+   "description": "فطور شرقي متكامل بأطباق متنوعة",
+   "category": "فطور",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-121/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "لحمة مشوية بالليمون",
+   "description": "قطع لحم متبلة مع فليفلة وليمون",
+   "category": "مقبلات ساخنة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-121/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بطاطا مع لحمة",
+   "description": "مكعبات بطاطا مع لحم مفروم وبقدونس",
+   "category": "مقبلات ساخنة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-121/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

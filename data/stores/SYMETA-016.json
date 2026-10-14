@@ -1,0 +1,86 @@
+{
+ "id": "SYMETA-016",
+ "verdict": "qualified",
+ "reason": "معرض أدوات منزلية نشط ينشر منتجاته يومياً بالصور مع توصيل، ولا يملك متجراً أو منيو رقمياً.",
+ "sells": "أدوات منزلية ومطبخ وفناجين ومواد تجميل",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "مارشميلو",
+  "followers": "6.9 ألف",
+  "bio": "معرض لبيع الادوات المنزلية ومواد التجميل، مواكبة احدث المنتجات وتقديمها باساليب ريادية",
+  "address": "ادلب - سراقب - جنوب دوار السوق على طريق المركز الثقافي",
+  "phones": [
+   "+963937451882",
+   "+352681505924"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYMETA-016/logo.jpg",
+ "cover": "assets/SYMETA-016/cover.jpg",
+ "items": [
+  {
+   "name": "طقم طناجر غرانيت رباعي JOI",
+   "description": "4 طناجر بمقاسات 20-24-28-33، تعمل على الليزرية، غطاء بلور حراري",
+   "category": "أدوات المطبخ",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYMETA-016/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "ملعقة عسل خشب",
+   "description": "مقاس 17 سم",
+   "category": "أدوات المطبخ",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYMETA-016/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم فناجين قهوة مع دباسي",
+   "description": "6 فناجين مع 6 دباسي ضمن بوكس، 4 رسمات",
+   "category": "فناجين وضيافة",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYMETA-016/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "زبادي بورسلان مذهبة",
+   "description": "زبادي بورسلان تقيل بحواف ذهبية",
+   "category": "فناجين وضيافة",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYMETA-016/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "دباسي خشب بامبو",
+   "description": "معزولة ضد المي، 4 موديلات، تباع بالقطعة أو بالدزينة",
+   "category": "أدوات المطبخ",
+   "price": 10,
+   "currency": "TRY",
+   "price_text": "سعر القطعة ١٠ ليرات تركية",
+   "image": "assets/SYMETA-016/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم فناجين قهوة نقشة زرقاء",
+   "description": "",
+   "category": "فناجين وضيافة",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYMETA-016/item06.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

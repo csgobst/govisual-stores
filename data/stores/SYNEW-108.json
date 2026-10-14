@@ -1,0 +1,75 @@
+{
+ "id": "SYNEW-108",
+ "verdict": "maybe",
+ "reason": "متجر هدايا وأدوات منزلية في القصور بدمشق بمنتجات واضحة وبلا كتالوج رقمي، لكن آخر منشور ظاهر يعود إلى تشرين الأول 2021 فالصفحة تبدو متوقفة.",
+ "sells": "هدايا وأدوات منزلية وديكور (زجاجيات، ساعات حائط، مزهريات، تماثيل)",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "Al Achkar Gift Shop & Houseware",
+  "followers": "1.7 ألف",
+  "bio": "Over the past 30 years and so far, we bring the best collections of gifts",
+  "address": "دمشق - القصور - شارع الكندي - جانب شوكولا زنبركجي",
+  "phones": [
+   "+963944354555"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2021-10"
+ },
+ "logo": "assets/SYNEW-108/logo.jpg",
+ "cover": "assets/SYNEW-108/cover.jpg",
+ "items": [
+  {
+   "name": "جاط مورانو أزرق",
+   "description": "Blue Murano Glass Bowl",
+   "category": "زجاجيات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-108/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "صينية مقبلات مستطيلة بمقبض خشبي",
+   "description": "",
+   "category": "أدوات منزلية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-108/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "ساعة حائط خشب",
+   "description": "تصميم أنيق",
+   "category": "ديكور",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-108/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مزهرية زجاج مت مع باقة ورد صناعي",
+   "description": "",
+   "category": "ديكور",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-108/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "تماثيل ريزين",
+   "description": "مجموعة تماثيل ديكور",
+   "category": "ديكور",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-108/item05.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

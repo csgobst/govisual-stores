@@ -1,0 +1,24 @@
+{
+ "id": "SYNEW-167",
+ "verdict": "maybe",
+ "reason": "مسبح ومطعم في طفس بدرعا، الصفحة تعرض المسبح وأدعية فقط دون أي أطباق، وآخر نشر أبريل 2022.",
+ "sells": "مسبح ومطعم",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "مسبح و مطعم اهل الخير",
+  "followers": "2977",
+  "bio": "مسبح ومطعم اهل الخير",
+  "address": "درعا - طفس - طريق المزيريب",
+  "phones": [
+   "+963933861615"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2022-04"
+ },
+ "logo": "assets/SYNEW-167/logo.jpg",
+ "cover": "assets/SYNEW-167/cover.jpg",
+ "items": [],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

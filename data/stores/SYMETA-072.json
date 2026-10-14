@@ -1,0 +1,56 @@
+{
+ "id": "SYMETA-072",
+ "verdict": "qualified",
+ "reason": "مخبز ومعجنات نشط جداً في ضاحية قدسيا (38 ألف متابع ومنشورات يومية) ولا يظهر له أي منيو رقمي.",
+ "sells": "خبز ومعجنات وفطائر وحلويات",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "Bread House بيت الخبز",
+  "followers": "38303",
+  "bio": "بيت الخبز .. بيتك الثاني 🤎 خدمة الزبائن: رباعي 9582 - موبايل 0957541138 - ريف دمشق، ضاحية قدسيا، ساحة تروي، جزيرة E1",
+  "address": "ريف دمشق - ضاحية قدسيا - ساحة تروي - جزيرة E1",
+  "phones": [
+   "+963957541138",
+   "9582"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/bread_house9582",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYMETA-072/logo.jpg",
+ "cover": "assets/SYMETA-072/cover.jpg",
+ "items": [
+  {
+   "name": "فطيرة لبنانية",
+   "description": "فطيرة طازجة مقرمشة من برا وهشة من جوا",
+   "category": "فطائر",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-072/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فطيرة بيتزا بالخضار",
+   "description": "",
+   "category": "فطائر",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-072/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "تشكيلة خبز وكرواسان",
+   "description": "خبز إفرنجي وباغيت وكرواسان طازج",
+   "category": "مخبوزات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-072/item03.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

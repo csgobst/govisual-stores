@@ -1,0 +1,105 @@
+{
+ "id": "SYNEW-112",
+ "verdict": "maybe",
+ "reason": "متجر إكسسوارات وهدايا يدوية في المزة بلا كتالوج رقمي ومنتجات واضحة، لكن آخر منشورات المنتجات من تموز 2023 وآخر منشور (أيلول) مجرد إعلان عودة وتحويل إلى إنستغرام.",
+ "sells": "إكسسوارات يدوية (قلائد طين محفورة، أساور) وصابون طبيعي وهدايا",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "Phenix Basic فينيكس",
+  "followers": "4231",
+  "bio": "Basic vintage style",
+  "address": "دمشق - المزة جبل - طلعة فلافل على كيفك قبل الحاجز",
+  "phones": [
+   "+963999284592"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-09 (آخر منتج 2023-07)"
+ },
+ "logo": "assets/SYNEW-112/logo.jpg",
+ "cover": "assets/SYNEW-112/cover.jpg",
+ "items": [
+  {
+   "name": "طوق حفر يدوي بالكتابة",
+   "description": "الكتابة واللون حسب الطلب",
+   "category": "قلائد",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-112/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "قلادة فيل من الطين",
+   "description": "Elephant handmade clay necklace",
+   "category": "قلائد",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-112/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "قلادة مستوحاة من الطبيعة",
+   "description": "قلادة يدوية بألوان البحر",
+   "category": "قلائد",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-112/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "قلادة يدوية بالاسم",
+   "description": "اللون والنص حسب الطلب",
+   "category": "قلائد",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-112/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كتاب صغير (قلادة أو ميدالية)",
+   "description": "بغلاف أي كتاب تحبه، حسب الطلب",
+   "category": "ميداليات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-112/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "سلسال نواعم",
+   "description": "",
+   "category": "أساور وسلاسل",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-112/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "سوار أوبال وردي",
+   "description": "pink opal bracelet",
+   "category": "أساور وسلاسل",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-112/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "صابون طبيعي",
+   "description": "برائحة اللافندر وجوز الهند والفانيلا",
+   "category": "صابون طبيعي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-112/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

@@ -1,0 +1,96 @@
+{
+ "id": "SYMETA-034",
+ "verdict": "qualified",
+ "reason": "محل هدايا وورد ومستحضرات تجميل في نبل بريف حلب يعرض منتجاته وأسعاره على إنستغرام ولا يملك منيو أو متجراً رقمياً.",
+ "sells": "هدايا، بوكيهات ورد، مكياج ومستحضرات تجميل، شالات وعطور",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "Benô بينو - makeup gifts store",
+  "followers": "653",
+  "bio": "هدايا . ورد . ميك أب . مستحضرات تجميل",
+  "address": "نبل - ريف حلب - عبارة النعناع - شرق الساحة العامة",
+  "phones": [
+   "+963952201509",
+   "+963958468980"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/beno_7011",
+  "last_activity": "2026-08"
+ },
+ "logo": "assets/SYMETA-034/logo.jpg",
+ "cover": "assets/SYMETA-034/cover.jpg",
+ "items": [
+  {
+   "name": "عطر العاروس",
+   "description": "عرض خاص بمناسبة نجاح طلاب البكلوريا",
+   "category": "عطور",
+   "price": 10000,
+   "currency": "SYP",
+   "price_text": "10,000 ل.س",
+   "image": "assets/SYMETA-034/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "شال",
+   "description": "شالات بألوان متعددة - عرض خاص",
+   "category": "إكسسوارات",
+   "price": 10000,
+   "currency": "SYP",
+   "price_text": "10,000 ل.س",
+   "image": "assets/SYMETA-034/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بوكيه ورد أحمر",
+   "description": "بوكيه ورد جوري أحمر",
+   "category": "ورد",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-034/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بوكيه ورد أبيض وأحمر",
+   "description": "",
+   "category": "ورد",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-034/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مسكة عروس",
+   "description": "مسكة عاروس ورد مع خيش",
+   "category": "ورد",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-034/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بوكيه ورد ملون بالخيش",
+   "description": "",
+   "category": "ورد",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-034/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فنجان قهوة مزخرف",
+   "description": "فنجان وصحن بنقوش ورد",
+   "category": "هدايا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-034/item07.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

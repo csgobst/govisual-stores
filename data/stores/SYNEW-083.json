@@ -1,0 +1,85 @@
+{
+ "id": "SYNEW-083",
+ "verdict": "qualified",
+ "reason": "مطعم نشط في حلب ينشر أطباقه أسبوعياً بصور احترافية ولا يظهر له أي منيو رقمي أو رابط طلب.",
+ "sells": "مأكولات شرقية وغربية: كباب، كبة، باستا، شرحات، سلطات",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "شاذلي",
+  "followers": "30 ألف",
+  "bio": "يقدم لكم مطعم شاذلي جميع أنواع المأكولات الشرقية والغربية",
+  "address": "حلب، موكامبو، مجمع الشهباء، مفرق البولمان",
+  "phones": [
+   "+963933571334"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYNEW-083/logo.jpg",
+ "cover": "assets/SYNEW-083/cover.jpg",
+ "items": [
+  {
+   "name": "كبة قصابية",
+   "description": "على الطريقة الشرقية",
+   "category": "أطباق شرقية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-083/item01.jpg",
+   "source_url": "https://www.facebook.com/shazliRest/posts/pfbid023AF3tBTUhEYeiLQX7NV9NASAcfp7tJqkmrEods7V6UiAMqkryfvcNQXDbpeuxZvrl"
+  },
+  {
+   "name": "شرحات البيستو",
+   "description": "بطعم كريمي ولذيذ، مع رز وخضار",
+   "category": "أطباق غربية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-083/item02.jpg",
+   "source_url": "https://www.facebook.com/shazliRest/posts/pfbid0ZgYGcecLztfvs36JGEdKp4vSj5HrfWUKdfof7AwroPNba3TQ4ZpKUC1dPvRiGohVl"
+  },
+  {
+   "name": "بينا ألفريدو بالبيستو",
+   "description": "باستا غنية وشهية",
+   "category": "باستا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-083/item03.jpg",
+   "source_url": "https://www.facebook.com/shazliRest/posts/pfbid023o3ftUoXZF1mjS69xKFJ5zWvsqYEaKknje4NdTVUbDW38NT6z7umxu85zfML7uFDl"
+  },
+  {
+   "name": "تبولة",
+   "description": "",
+   "category": "سلطات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-083/item04.jpg",
+   "source_url": "https://www.facebook.com/reel/2061093038111299/"
+  },
+  {
+   "name": "كباب إزميرلي",
+   "description": "",
+   "category": "مشاوي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-083/item05.jpg",
+   "source_url": "https://www.facebook.com/shazliRest/posts/pfbid02yeTNfYam62whjpfWcYH9J2dFSjSYPf9K2L1gu2DYHTTEP8aDvkNL4FwZuJbRTBEJl"
+  },
+  {
+   "name": "كباب أورفلي",
+   "description": "على أصوله",
+   "category": "مشاوي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-083/item06.jpg",
+   "source_url": "https://www.facebook.com/shazliRest/posts/pfbid0sxeDVwpegWkbUMGAjUndcS6pbPm4PkdWdZcrufuNdcWsKkMDWjzTTQuEf9aRfmpgl"
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

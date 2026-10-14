@@ -1,0 +1,105 @@
+{
+ "id": "SYNEW-090",
+ "verdict": "qualified",
+ "reason": "سنتر تجميل وإكسسوارات كبير في حلب ينشر منتجاته يومياً (آخر منشور أكتوبر 2026) والزبائن يسألون عن الأسعار في التعليقات، ولا يملك منيو أو متجر رقمي.",
+ "sells": "مكياج وعناية وعطور وحقائب وإكسسوارات",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "سنتر مورى Seit 2001",
+  "followers": "55 ألف",
+  "bio": "كل شيء في مكان واحد - Moura Center: Where you get your aura",
+  "address": "حلب - نزلة أدونيس، شارع الجامعة",
+  "phones": [
+   "+963965841320"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/center_moura_2001",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYNEW-090/logo.jpg",
+ "cover": "assets/SYNEW-090/cover.jpg",
+ "items": [
+  {
+   "name": "بابوج فرو شتوي",
+   "description": "بابوج فرو ناعم متوفر بـ4 ألوان",
+   "category": "أحذية منزلية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-090/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "جهاز إزالة شعر الحواجب ENZO",
+   "description": "جهاز قلم لإزالة شعر الحواجب والوجه",
+   "category": "أجهزة تجميل",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-090/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حقيبة ظهر وردية",
+   "description": "حقيبة ظهر نسائية وردية بشعار معدني",
+   "category": "حقائب",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-090/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حقيبة ظهر سوداء",
+   "description": "حقيبة ظهر سوداء مع ميدالية",
+   "category": "حقائب",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-090/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حقيبة ظهر بيج",
+   "description": "حقيبة ظهر بيج بنقشة مبطنة",
+   "category": "حقائب",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-090/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حقيبة ظهر بنية بنقشة",
+   "description": "حقيبة ظهر بنية بنقشة حروف",
+   "category": "حقائب",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-090/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بخاخ لوريال لتغطية فراغات الشعر",
+   "description": "L'Oréal Magic Retouch بعدة درجات",
+   "category": "عناية بالشعر",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-090/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "لوشن فازلين مرطب ومعطر للجسم",
+   "description": "Vaseline Intensive Care بعدة أنواع",
+   "category": "عناية بالبشرة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-090/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

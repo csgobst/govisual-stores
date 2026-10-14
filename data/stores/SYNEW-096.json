@@ -1,0 +1,65 @@
+{
+ "id": "SYNEW-096",
+ "verdict": "maybe",
+ "reason": "محل ألبسة في حمص يبيع ملابس أطفال ونسائية بالطلب والشحن، لكن آخر منشور كان في سبتمبر 2024 فالصفحة تبدو غير نشطة.",
+ "sells": "ألبسة أطفال وولادي ومحير ونسائي (طلبيات وشحن من Shein)",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "كريستال للألبسة",
+  "followers": "696",
+  "bio": "اجمل ملبوسات ب ب والولادي والمحير لعمر 16 سنة",
+  "address": "حمص، الارمن الجنوبي، الشارع العريض، بالقرب من معرض وائل",
+  "phones": [
+   "+963932214609"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2024-09"
+ },
+ "logo": "assets/SYNEW-096/logo.jpg",
+ "cover": "assets/SYNEW-096/cover.jpg",
+ "items": [
+  {
+   "name": "جاكيت فليس مصوف بقبعة",
+   "description": "ستاندر حتى 42، 3 ألوان: أسود/حديدي، رمادي/أسود، أسود/رمادي",
+   "category": "جواكيت",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYNEW-096/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "جاكيت منفوخ قصير",
+   "description": "متوفر بعدة ألوان، شحن وتوصيل",
+   "category": "جواكيت",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYNEW-096/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان سهرة وردي Shein",
+   "description": "شحن مباشر من Shein",
+   "category": "فساتين",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYNEW-096/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم شورت رجالي Shein",
+   "description": "قميص مشجر مع شورت، شحن مباشر",
+   "category": "ألبسة رجالية",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYNEW-096/item04.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

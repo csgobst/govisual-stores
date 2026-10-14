@@ -1,0 +1,96 @@
+{
+ "id": "SYNEW-164",
+ "verdict": "maybe",
+ "reason": "محل مفروشات في اللاذقية بلا منيو رقمي ويعرض أطقماً واضحة، لكن آخر منشور ظاهر يعود إلى كانون الأول 2018 فالصفحة تبدو متوقفة.",
+ "sells": "مفروشات: أطقم كنب وزوايا، صوفايات، غرف نوم وضيوف، سفرة، مطابخ ميلامين (جملة ومفرق)",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "مفروشات الكشتعاري",
+  "followers": "1.6 ألف",
+  "bio": "الصفحة الرسمية والحصرية لمفروشات الكشتعاري - غرف جلوس، ضيوف، نوم، سفرة، مطابخ ميلامين - جملة ومفرق",
+  "address": "اللاذقية",
+  "phones": [
+   "+963944336419",
+   "+963936554058"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2018-12"
+ },
+ "logo": "assets/SYNEW-164/logo.jpg",
+ "cover": "",
+ "items": [
+  {
+   "name": "طقم كنب بني مع كرسي",
+   "description": "بضاعة مكفولة وأسعار تناسب الجميع",
+   "category": "غرف جلوس",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-164/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "صوفا صندوق خشب شوح",
+   "description": "صوفايات صندوق وخشب شوح",
+   "category": "صوفايات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-164/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم كنب أزرق",
+   "description": "طقم جديد",
+   "category": "غرف جلوس",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-164/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم كنب أخضر",
+   "description": "",
+   "category": "غرف جلوس",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-164/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم زاوية + ثنائية",
+   "description": "طراحات سحاب + مخدات سحاب + صندوق",
+   "category": "زوايا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-164/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "زاوية خمري ورمادي",
+   "description": "",
+   "category": "زوايا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-164/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "خزانة وتسريحة خشب",
+   "description": "",
+   "category": "غرف نوم",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-164/item07.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

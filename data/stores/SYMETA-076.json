@@ -1,0 +1,75 @@
+{
+ "id": "SYMETA-076",
+ "verdict": "qualified",
+ "reason": "متجر هدايا وألعاب في حلب ينشر مسكات عروس وبوكيهات وستاندات هدايا، آخر نشاط مايو 2026 ولا يملك كتالوجاً رقمياً.",
+ "sells": "هدايا وألعاب، مسكات عروس، بوكيهات ورد، ستاندات وتنسيقات هدايا",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "ميمو",
+  "followers": "20 ألف",
+  "bio": "متجر لبيع الهدايا والألعاب، سمعتنا مستمدة من تعاملنا المميز مع زبائننا، جودة بضائعنا، أسعارنا المميزة",
+  "address": "حلب - طلعة ادونيس - مقابل حلويات سحسول - محل ميمو",
+  "phones": [
+   "+963958932922"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-05"
+ },
+ "logo": "assets/SYMETA-076/logo.jpg",
+ "cover": "assets/SYMETA-076/cover.jpg",
+ "items": [
+  {
+   "name": "مسكة عروس حسب الطلب",
+   "description": "ورد جوري أحمر وأبيض مع مقبض لؤلؤ",
+   "category": "مسكات عروس",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYMETA-076/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بوكيه ورد جوري أحمر",
+   "description": "بوكيه تقيل مع جبسوفيلا وتغليف أبيض",
+   "category": "بوكيهات ورد",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYMETA-076/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "ستاند العيدية",
+   "description": "ستاند أكريليك 'أنت كل أعيادي' مع ورد وحامل نقود",
+   "category": "ستاندات هدايا",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYMETA-076/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "ستاند خطوبة بالأسماء",
+   "description": "ستاند ذهبي محفور بالأسماء والتاريخ مع علب محابس",
+   "category": "ستاندات هدايا",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYMETA-076/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بوكس هدية مكياج مع دمية",
+   "description": "تنسيق هدية بمنتجات مكياج وعطور ودمية وورد",
+   "category": "تنسيقات هدايا",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYMETA-076/item05.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

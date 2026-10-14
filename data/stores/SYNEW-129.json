@@ -1,0 +1,55 @@
+{
+ "id": "SYNEW-129",
+ "verdict": "maybe",
+ "reason": "معرض فنون وحرف يدوية وخدمات ديكور في دمشق بلا منيو رقمي، لكن معظم المحتوى خدمات تصميم وتنفيذ وآخر منشور في تموز 2021 فالصفحة تبدو متوقفة.",
+ "sells": "تصميم وتنفيذ ديكور، طاولات خشب وريزن، قطع يدوية، طباعة وإعلان",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "زوايا (Zawaya Art Gallery)",
+  "followers": "3.3 ألف",
+  "bio": "تصميم وتنفيذ ديكور - تصميم اعلانات وطباعة - انشاء مشاريع",
+  "address": "دمشق، سوريا",
+  "phones": [
+   "+963932648660"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2021-07"
+ },
+ "logo": "assets/SYNEW-129/logo.jpg",
+ "cover": "assets/SYNEW-129/cover.jpg",
+ "items": [
+  {
+   "name": "مجسمات خراف صوف يدوية",
+   "description": "Hand made",
+   "category": "قطع يدوية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-129/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طاولات خشب طبيعي مع ريزن",
+   "description": "Hand made",
+   "category": "أثاث",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-129/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "أرضيات وجدران خشبية مقطعية",
+   "description": "تنفيذ ديكور",
+   "category": "ديكور",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-129/item03.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

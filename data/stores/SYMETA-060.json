@@ -1,0 +1,55 @@
+{
+ "id": "SYMETA-060",
+ "verdict": "maybe",
+ "reason": "وكيل دهانات DYO التركية في حلب ونشط (سبتمبر 2026) بلا منيو رقمي، لكن الصفحة جديدة وصغيرة ولا تعرض سوى منتجين أو ثلاثة بدون أسعار.",
+ "sells": "دهانات DYO التركية للجدران الداخلية",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "Dyo Syria (مجموعة ماسي التجارية)",
+  "followers": "206",
+  "bio": "مجموعة ماسي التجارية | Masy Group - الوكيل الحصري لشركة DYO التركية في سوريا",
+  "address": "حلب",
+  "phones": [
+   "+963934112510"
+  ],
+  "whatsapp": "+963934112510",
+  "instagram": "https://www.instagram.com/masy._.group",
+  "last_activity": "2026-09"
+ },
+ "logo": "assets/SYMETA-060/logo.jpg",
+ "cover": "assets/SYMETA-060/cover.jpg",
+ "items": [
+  {
+   "name": "DYOJEN Soft Mat",
+   "description": "طلاء جدران داخلي فاخر بلمسة مطفية ناعمة، سهل التنظيف",
+   "category": "دهانات داخلية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-060/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "Dyo Dinamik İpek Mat",
+   "description": "طلاء جدران داخلية قابل للغسل يعتمد على السيليكون",
+   "category": "دهانات داخلية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-060/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "Dyo Dinamik طبقة أخيرة",
+   "description": "طلاء طبقة أخيرة للجدران الداخلية مضاف إليه السيليكون وقابل للمسح",
+   "category": "دهانات داخلية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-060/item03.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

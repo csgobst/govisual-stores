@@ -1,0 +1,22 @@
+{
+ "id": "SYMETA-006",
+ "verdict": "not_qualified",
+ "reason": "الرابط يفتح ملفاً شخصياً لشيف وصانع محتوى مقيم في تركيا (أبو درويش الشامي) ينشر ريلز طبخ، وليس محل حلويات يبيع داخل سوريا.",
+ "sells": "لا يبيع؛ محتوى طبخ وحلويات شرقية",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "أبو درويش الشامي",
+  "followers": "10 ألف",
+  "bio": "شيف في مجال المطاعم الشرقية والغربية.. منشئ محتوى رقمي · طباخ · فنان كوميدي. يقيم في تركيا، من محافظة دمشق",
+  "address": "تركيا",
+  "phones": [],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYMETA-006/logo.jpg",
+ "cover": "assets/SYMETA-006/cover.jpg",
+ "items": [],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

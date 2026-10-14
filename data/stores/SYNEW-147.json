@@ -1,0 +1,95 @@
+{
+ "id": "SYNEW-147",
+ "verdict": "qualified",
+ "reason": "متجر هدايا ومكياج في طرطوس ينشر منتجاته على فيسبوك (آخر نشر يونيو 2026) دون قائمة أو متجر رقمي.",
+ "sells": "هدايا، مكياج Flormar، سلال هدايا، شموع شعنينة مزينة",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "Rayan Gifts",
+  "followers": "5749",
+  "bio": "Best of the best",
+  "address": "طرطوس - شارع هنانو",
+  "phones": [
+   "+963944225916"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-06"
+ },
+ "logo": "assets/SYNEW-147/logo.jpg",
+ "cover": "assets/SYNEW-147/cover.jpg",
+ "items": [
+  {
+   "name": "كريم أساس Flormar Perfect Coverage",
+   "description": "يوحد لون البشرة ويخفي العيوب",
+   "category": "مكياج",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-147/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "أحمر شفاه Flormar",
+   "description": "ألوان متعددة حسب الطلب",
+   "category": "مكياج",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-147/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم شفاه Flormar (قلم + روج + غلوس)",
+   "description": "",
+   "category": "مكياج",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-147/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "سلة هدايا مكياج للصبايا",
+   "description": "",
+   "category": "سلال هدايا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-147/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "شمعة شعنينة مزينة بالورد",
+   "description": "ألوان وموديلات حسب الطلب",
+   "category": "شموع مناسبات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-147/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "شمعة شعنينة على شكل صليب",
+   "description": "",
+   "category": "شموع مناسبات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-147/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "شمعة شعنينة ذهبية",
+   "description": "",
+   "category": "شموع مناسبات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-147/item07.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

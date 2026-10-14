@@ -1,0 +1,22 @@
+{
+ "id": "SYNEW-143",
+ "verdict": "maybe",
+ "reason": "صفحة غير رسمية مولّدة تلقائياً لمطعم في كفربو، فيها فقط تسجيلات زوار وصور حفلات (آخرها 2026-09) بلا أي أطباق أو أسعار أو أرقام تواصل، فلا يمكن تحديد 3 أصناف.",
+ "sells": "مطعم وصالة حفلات ومناسبات",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "كفربو مطعم سوريانا",
+  "followers": "0",
+  "bio": "",
+  "address": "كفربو، سوريانا، حماة",
+  "phones": [],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-09"
+ },
+ "logo": "",
+ "cover": "assets/SYNEW-143/cover.jpg",
+ "items": [],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

@@ -1,0 +1,95 @@
+{
+ "id": "SYMETA-052",
+ "verdict": "qualified",
+ "reason": "مركز تصوير وطباعة في جرمانا يبيع هدايا مطبوعة (كاسات، ميداليات، براويز، صخور) ونشط حتى حزيران 2026 دون أي كتالوج رقمي.",
+ "sells": "هدايا مطبوعة بالصور وبراويز وتابلوهات وخدمات تصوير وطباعة",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "مركز شعلان للتصوير والطباعة - Shaalan Photography Centre",
+  "followers": "4302",
+  "bio": "خدماتنا: طباعة (صور/حرارية/UV) - تابلويات/براويظ - تصوير (داخلي/إعلاني) - هدايا / هاند ميد",
+  "address": "جرمانا - الشارع العام - مقابل سويت لاند",
+  "phones": [
+   "+963943600036"
+  ],
+  "whatsapp": "0943600036",
+  "instagram": "",
+  "last_activity": "2026-06"
+ },
+ "logo": "assets/SYMETA-052/logo.jpg",
+ "cover": "assets/SYMETA-052/cover.jpg",
+ "items": [
+  {
+   "name": "كاسة مطبوعة بتصميمك",
+   "description": "طباعة حرارية على الكاسات بتصميم خاص",
+   "category": "طباعة حرارية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-052/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "صورة مطبوعة على صخر",
+   "description": "طباعة صورة على حجر بشكل قلب",
+   "category": "هدايا مطبوعة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-052/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "ميدالية صور",
+   "description": "ميدالية مفاتيح بصور مخصصة",
+   "category": "هدايا مطبوعة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-052/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فاصل كتاب بالصور",
+   "description": "فاصل كتاب على شكل شريط فيلم",
+   "category": "هدايا مطبوعة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-052/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بلاطة سيراميك بصورة",
+   "description": "صورة مطبوعة على بلاطة مع حامل",
+   "category": "براويز",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-052/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طارة تطريز بالاسم",
+   "description": "طارة مزينة باسم المولود والتاريخ",
+   "category": "هدايا مواليد",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-052/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "لوح خشبي بصور مغناطيس",
+   "description": "",
+   "category": "هدايا مطبوعة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-052/item07.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

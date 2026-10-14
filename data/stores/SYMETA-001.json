@@ -1,0 +1,45 @@
+{
+ "id": "SYMETA-001",
+ "verdict": "maybe",
+ "reason": "مخبز وحلويات ومقهى في دمشق بلا قائمة رقمية، لكن المنشورات معايدات وريلز ولا يظهر منها أكثر من منتجين واضحين وبلا أسعار، وآخر نشاط في مارس.",
+ "sells": "مخبوزات وحلويات ومعجنات وبوظة ومشروبات وأراكيل",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "أفران شمسين - Chamsine Bakery Syria",
+  "followers": "425",
+  "bio": "أفران شمسين الاول بسوريا - كافة أنواع المخبوزات والحلويات والمعجنات، جلسات مميزة وجميع المشروبات والاراكيل",
+  "address": "دمشق - أتستراد درعا - أفران شمسين",
+  "phones": [
+   "+963933333422"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-03"
+ },
+ "logo": "assets/SYMETA-001/logo.jpg",
+ "cover": "assets/SYMETA-001/cover.jpg",
+ "items": [
+  {
+   "name": "كأس بوظة",
+   "description": "بوظة تقدم بكأس زجاجي",
+   "category": "بوظة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-001/item01.jpg",
+   "source_url": "https://www.facebook.com/reel/1349018540174877/"
+  },
+  {
+   "name": "بوظة بالكيلو",
+   "description": "تشكيلة بوظة من البراد",
+   "category": "بوظة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-001/item02.jpg",
+   "source_url": "https://www.facebook.com/reel/1429304628150003/"
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

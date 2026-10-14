@@ -1,0 +1,105 @@
+{
+ "id": "SYNEW-133",
+ "verdict": "maybe",
+ "reason": "محل أقمشة وستائر ومفروشات في إدلب بمنتجات واضحة ولا متجر رقمي، لكن آخر منشور في مارس 2024 فيبدو غير نشط على فيسبوك.",
+ "sells": "ستائر وأطقم كنب وغرف جلوس وتخوت وفرشات (تفصيل وجاهز، جملة ومفرق)",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "قجي أقمشة ستائر و مفروشات",
+  "followers": "6.3 ألف",
+  "bio": "تفصيل وجاهز البيع جملة ومفرق",
+  "address": "إدلب: فرع أول شارع الكنيسة، فرع ثاني شمالي الساعة ساحة المالية القديمة مقابل الكمال للسجاد",
+  "phones": [
+   "+963932555717"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2024-03"
+ },
+ "logo": "assets/SYNEW-133/logo.jpg",
+ "cover": "",
+ "items": [
+  {
+   "name": "طقم كنب زاوية أخضر وبيج",
+   "description": "",
+   "category": "أطقم كنب",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-133/item01.jpg",
+   "source_url": "https://www.facebook.com/mfroshat.kojy/posts/pfbid02oYKpb4ZSNBnjnwLVyrBt9U3shmXFkCQtb7aMLCpJKA46XsHkviGHZRNvW61pQeTJl"
+  },
+  {
+   "name": "ستارة مطرزة مع كرنيش",
+   "description": "مصنوعة بأجود أنواع الأقمشة والتطريز",
+   "category": "ستائر",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-133/item02.jpg",
+   "source_url": "https://www.facebook.com/mfroshat.kojy/posts/pfbid036YGrYkJmgnEQH7eQLiTrhdfaZ9ZJNR5rhgtzmkajQDFV77TiUyuAoQGmPU27iaPul"
+  },
+  {
+   "name": "ستارة تول مطرزة بكرنيش أحمر",
+   "description": "",
+   "category": "ستائر",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-133/item03.jpg",
+   "source_url": "https://www.facebook.com/mfroshat.kojy/posts/pfbid036YGrYkJmgnEQH7eQLiTrhdfaZ9ZJNR5rhgtzmkajQDFV77TiUyuAoQGmPU27iaPul"
+  },
+  {
+   "name": "تخت مع فرشة Leydi سوبر بلاس",
+   "description": "فرشة تخت بطبقة مزدوجة طبية، صناعة تركية",
+   "category": "تخوت وفرشات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-133/item04.jpg",
+   "source_url": "https://www.facebook.com/mfroshat.kojy/posts/pfbid0219VofXeQGb658gDHcdNi8jKFYRTh6J2SFsSSFNhsJhMf5WNzVBZy6QkBTpezekLNl"
+  },
+  {
+   "name": "تخت مفرد مع فرشة",
+   "description": "",
+   "category": "تخوت وفرشات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-133/item05.jpg",
+   "source_url": "https://www.facebook.com/mfroshat.kojy/posts/pfbid0219VofXeQGb658gDHcdNi8jKFYRTh6J2SFsSSFNhsJhMf5WNzVBZy6QkBTpezekLNl"
+  },
+  {
+   "name": "طقم سبور 3+3+1+1 مع طاولة",
+   "description": "خشب سويد، إسفنج سوبر أول، قماش مبطن موهير",
+   "category": "أطقم كنب",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-133/item06.jpg",
+   "source_url": "https://www.facebook.com/mfroshat.kojy/posts/pfbid023gVcvKX3rb9GiXgsirfjANRpzqkdQ2VMabCMqhTHu4Vho4FTgaevY74kjQaQkVMWl"
+  },
+  {
+   "name": "طقم كنب زاوية رمادي",
+   "description": "",
+   "category": "أطقم كنب",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-133/item07.jpg",
+   "source_url": "https://www.facebook.com/mfroshat.kojy/posts/pfbid02hpyuAAhDh9g7VzeD835KMJLz4LJ4orhECZmz3PV1oSLVaeQbNUxaQJjYgoY6y2MMl"
+  },
+  {
+   "name": "طقم كنب زاوية كحلي",
+   "description": "",
+   "category": "أطقم كنب",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-133/item08.jpg",
+   "source_url": "https://www.facebook.com/mfroshat.kojy/posts/pfbid02hpyuAAhDh9g7VzeD835KMJLz4LJ4orhECZmz3PV1oSLVaeQbNUxaQJjYgoY6y2MMl"
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

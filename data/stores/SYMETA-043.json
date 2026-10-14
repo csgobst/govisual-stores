@@ -1,0 +1,103 @@
+{
+ "id": "SYMETA-043",
+ "verdict": "maybe",
+ "reason": "متجر هدايا وشموع يدوية في حمص بمنتجات واضحة لكن آخر منشور على فيسبوك في فبراير 2024 والمتابعون 56 فقط، فقد يكون غير نشط.",
+ "sells": "شموع معطرة يدوية وأطقم كونكريت وهدايا مناسبات وزينة رمضان",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "lily's gift shop",
+  "followers": "56",
+  "bio": "متجر فنون وهدايا يدوية",
+  "address": "حمص",
+  "phones": [],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/lilys_giftshop11",
+  "last_activity": "2024-02"
+ },
+ "logo": "assets/SYMETA-043/logo.jpg",
+ "cover": "assets/SYMETA-043/cover.jpg",
+ "items": [
+  {
+   "name": "طقم كونكريت 4 قطع",
+   "description": "صينية مع علبة ومزهرية وحامل شمعة",
+   "category": "كونكريت",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-043/item01.jpg",
+   "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0ZfSuMPRVskbGPZnTyjF99suUYSxaGWrpG6ieAFjUPotgetjjrsgqDu4QPfUuHVMFl&id=61551471222027"
+  },
+  {
+   "name": "شمعة الوردة الملكية",
+   "description": "",
+   "category": "شموع",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-043/item02.jpg",
+   "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02DJZK3xDPpbmkq6LX1Gii7rRSv1MG9vU5J5rnf8Q5EpLUsdsZzMbSAdYVJc1QoZPWl&id=61551471222027"
+  },
+  {
+   "name": "صحن تمر هلال رمضان",
+   "description": "",
+   "category": "زينة رمضان",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-043/item03.jpg",
+   "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02iqxMscFX1ci1eP4TVtAeMFRCm2GVy5Gt2PteQeJri9JXcdikMpeQT2ymURbq98chl&id=61551471222027"
+  },
+  {
+   "name": "مدفع رمضان مع فانوس مضيء",
+   "description": "",
+   "category": "زينة رمضان",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-043/item04.jpg",
+   "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02iqxMscFX1ci1eP4TVtAeMFRCm2GVy5Gt2PteQeJri9JXcdikMpeQT2ymURbq98chl&id=61551471222027"
+  },
+  {
+   "name": "باقة ورد من الشمع المعطر",
+   "description": "وردة مصنوعة من الشمع المعطر هدية للشريك",
+   "category": "شموع",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-043/item05.jpg",
+   "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0ZJiaw5S5qzjx1fgkZuVXixCU3pxtE2nQPRwDRmasChH3HdKy6wNvi3LsEANMfvkl&id=61551471222027"
+  },
+  {
+   "name": "أسماء من الشمع مع كوستر كونكريت",
+   "description": "",
+   "category": "شموع",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-043/item06.jpg",
+   "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0PVPJ4NbBtmKJFyZhYSm5tAVppNfxPWwhpvcpJZdDu4nmLAuvhi7KZzsaA1yJXmhXl&id=61551471222027"
+  },
+  {
+   "name": "هدية تخرج باسم",
+   "description": "هدية تذكارية للتخرج أو أي مناسبة",
+   "category": "هدايا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-043/item07.jpg",
+   "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02TKJKtCxAkPibDsF8p2m2zhTYoeDz5xz5xY76Ait4ann5eUmk4Q1QRKmWnJ3auT9Ql&id=61551471222027"
+  },
+  {
+   "name": "شمعدان زهرة اللوتس",
+   "description": "",
+   "category": "شموع",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-043/item08.jpg",
+   "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0A7fZzpi1ghxFoS8nECRpyZd3Z1FsGHTsr5aZVZUqizdW7whV98ZAcZnyHXvAXF95l&id=61551471222027"
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

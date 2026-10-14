@@ -1,0 +1,108 @@
+{
+ "id": "SYNEW-174",
+ "verdict": "qualified",
+ "reason": "محل حلويات حلبي عريق (منذ 1961) نشط جداً (81 ألف متابع، منشور قبل ساعات) يشحن لكل المحافظات؛ موقعه مدونة ووردبريس مجانية بلا متجر أو أسعار، فلا يملك منيو رقمياً.",
+ "sells": "حلويات وضيافة غربية حلبية: شوكولا، راحة وملبن، هريسة وغريبة اللوز، مرصبان، ملبس، شراب اللوز، مربيات وفواكه مجففة، كاتو، بن، علب هدايا",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "حلويات شاهر الصباغ Confections Al Sabbagh 1961",
+  "followers": "81 ألف",
+  "bio": "أفخر أنواع الحلويات و الضيافات الغربية تأسيس عام 1961 - شحن لجميع المحافظات السورية",
+  "address": "حلب - العبارة والمارتيني",
+  "phones": [
+   "+963933213325",
+   "+963933213316",
+   "+963966311215",
+   "+963940888380"
+  ],
+  "whatsapp": "+963933213316",
+  "instagram": "https://www.instagram.com/shaheralsabbagh.1961",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYNEW-174/logo.jpg",
+ "cover": "assets/SYNEW-174/cover.jpg",
+ "items": [
+  {
+   "name": "راحة بالفستق والورد",
+   "description": "راحة حلقوم محشوة فستق حلبي ومغطاة بورد مجفف",
+   "category": "راحة وملبن",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-174/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "ملبن بالفستق الحلبي",
+   "description": "",
+   "category": "راحة وملبن",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-174/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "نوغا بيضاء بالفستق",
+   "description": "",
+   "category": "حلويات فاخرة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-174/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مرصبان وردة بالفستق",
+   "description": "مرصبان لوز محشو فستق",
+   "category": "مرصبان",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-174/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "هريسة اللوز",
+   "description": "",
+   "category": "هريسة وغريبة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-174/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "غريبة لوز بالفستق",
+   "description": "قطع ملونة بطبقات فستق",
+   "category": "هريسة وغريبة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-174/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "تمر محشي ومن السلوى",
+   "description": "",
+   "category": "ضيافة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-174/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "تشكيلة ضيافة فاخرة",
+   "description": "شوكولا وحلويات متنوعة وعلب هدايا",
+   "category": "هدايا وعلب ضيافة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-174/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

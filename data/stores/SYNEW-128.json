@@ -1,0 +1,55 @@
+{
+ "id": "SYNEW-128",
+ "verdict": "qualified",
+ "reason": "متجر أدوات منزلية وهدايا ضخم ونشط في دمشق (101 ألف متابع، نشر اليوم) يعطي الأسعار بالرسائل الخاصة فقط ولا يملك متجراً أو كتالوجاً رقمياً.",
+ "sells": "أدوات منزلية، أطقم سفرة، ترامس، تحف وهدايا، كهربائيات، إكسسوارات - جملة ومفرق",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "مركز يا بلاش",
+  "followers": "101 ألف",
+  "bio": "أدوات منزلية - تحف - هدايا - كهربائيات - إكسسوارات - جملة ومفرق",
+  "address": "دمشق",
+  "phones": [
+   "+963988811567"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYNEW-128/logo.jpg",
+ "cover": "assets/SYNEW-128/cover.jpg",
+ "items": [
+  {
+   "name": "ترمس Dubai",
+   "description": "4 مقاسات",
+   "category": "ترامس",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-128/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم علب توابل/سكرية بتصميم الغزالة",
+   "description": "مع أغطية خشبية وحامل خشبي وملاعق مطابقة",
+   "category": "أدوات مطبخ",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-128/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم سفرة البروكار",
+   "description": "عائلة البروكار كاملة: صحون، فناجين، كاسات",
+   "category": "أطقم سفرة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-128/item03.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

@@ -1,0 +1,86 @@
+{
+ "id": "SYMETA-005",
+ "verdict": "qualified",
+ "reason": "محل حلويات ومعجنات نشط في حلب ينشر منتجاته يومياً ولا يملك منيو رقمي أو متجر إلكتروني.",
+ "sells": "حلويات ومعجنات: دونات، سينابون، تارت فواكه، كاتو، بيتفور",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "رافي للحلويات والمعجنات",
+  "followers": "45 ألف",
+  "bio": "محل حلويات مختص دونات/كروصان/سينابون/ميني صندويش",
+  "address": "حلب الجديدة جنوبي مقابل أرينا مول، حلب",
+  "phones": [
+   "+963955569824",
+   "+963943658363"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYMETA-005/logo.jpg",
+ "cover": "assets/SYMETA-005/cover.jpg",
+ "items": [
+  {
+   "name": "تارت فواكه",
+   "description": "تارت بالكريمة مع فواكه طازجة (كيوي، دراغون فروت، دراق)",
+   "category": "حلويات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-005/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "دونات محشية",
+   "description": "دونات محشية بالكريمة والصوص",
+   "category": "دونات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-005/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "سينابون",
+   "description": "سينابون بصوص الشوكولا أو الكريمة البيضاء",
+   "category": "سينابون",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-005/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "تشكيلة حلويات اليوم",
+   "description": "إكلير، ملفيه، دونات وتارت",
+   "category": "حلويات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-005/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "علبة بيتفور",
+   "description": "بيتفور وبسكويت بعلبة هدية",
+   "category": "بيتفور",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-005/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "دونات مشكل",
+   "description": "دونات بالشوكولا والكراميل والزينة الملونة",
+   "category": "دونات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-005/item06.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

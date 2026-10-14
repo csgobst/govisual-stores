@@ -1,0 +1,22 @@
+{
+ "id": "SYNEW-122",
+ "verdict": "maybe",
+ "reason": "الصفحة غير رسمية (مولدة تلقائياً من فيسبوك منذ 2015) بلا متابعين ولا منشورات ولا صور منتجات، فلا يمكن التأكد من نشاط المقهى أو استخراج أصناف.",
+ "sells": "مقهى ومطعم",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "Maranello caffe / Damascus",
+  "followers": "0",
+  "bio": "",
+  "address": "دمشق، سوريا",
+  "phones": [],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "unknown"
+ },
+ "logo": "",
+ "cover": "",
+ "items": [],
+ "checkedAt": "2026-10-15"
+}

@@ -1,0 +1,75 @@
+{
+ "id": "SYMETA-066",
+ "verdict": "qualified",
+ "reason": "مكتبة في حي الوعر بحمص تبيع قرطاسية وحقائب مدرسية وتنشر موديلاتها، آخر نشاط يوليو 2026 ولا تملك كتالوجاً رقمياً.",
+ "sells": "قرطاسية ولوازم مدرسية وحقائب، تصوير وطباعة حرارية على الأكواب",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "مكتبة الوليد _ Al WALED",
+  "followers": "692",
+  "bio": "قرطاسية ولوازم مدرسية، تصوير ملفات ومستندات، تصوير فوتوغرافي، طباعة حرارية (أكواب)",
+  "address": "حمص _ الوعر _ مقابل مشفى الوليد",
+  "phones": [
+   "0987450647"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-07"
+ },
+ "logo": "assets/SYMETA-066/logo.jpg",
+ "cover": "assets/SYMETA-066/cover.jpg",
+ "items": [
+  {
+   "name": "حقيبة ترولي Lexi LP.5402-T",
+   "description": "قياس 17 إنش مع عربة، قماش مطاطي مقاوم للماء Jacquard، 3 طبقات 5 سحابات، 5 ألوان",
+   "category": "حقائب مدرسية",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYMETA-066/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حقيبة ترولي Lexi LP.5403-T",
+   "description": "قياس 17 إنش مع عربة، قماش مقاوم للماء PU، طبقتان 4 سحابات، 12 لون",
+   "category": "حقائب مدرسية",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYMETA-066/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حقيبة ظهر Lexi LP.5501",
+   "description": "قياس 18 إنش، Oxford مقاوم للماء، 3 طبقات 6 سحابات، 4 موديلات",
+   "category": "حقائب مدرسية",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYMETA-066/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم حقيبة Lexi LP.4303-SET",
+   "description": "قياس 16 إنش، مجموعة 3 قطع (حقيبة، حقيبة طعام، مقلمة)",
+   "category": "حقائب مدرسية",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYMETA-066/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حقيبة ترولي ماشا والدب Lexi LP.5410-T",
+   "description": "ترولي مع مقلمة بتصميم ماشا والدب",
+   "category": "حقائب مدرسية",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYMETA-066/item05.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

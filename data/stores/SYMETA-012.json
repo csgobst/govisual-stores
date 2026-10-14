@@ -1,0 +1,65 @@
+{
+ "id": "SYMETA-012",
+ "verdict": "qualified",
+ "reason": "محل ألبسة أطفال نشط جداً (68 ألف متابع ومنشورات يومية) يعرض بضاعته بالصور والفيديو دون أي كتالوج رقمي.",
+ "sells": "ألبسة أطفال (بيبي ووسط ومحير)",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "كتاكيت لألبسة الأطفال",
+  "followers": "68636",
+  "bio": "صفحة مختصة بعرض ازياء اطفال ب.ب/وسط/محير",
+  "address": "حمص - ساحة الزهراء - مقابل السورية للتجارة",
+  "phones": [
+   "+963988488993"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYMETA-012/logo.jpg",
+ "cover": "assets/SYMETA-012/cover.jpg",
+ "items": [
+  {
+   "name": "هودي ولادي New York",
+   "description": "طقم/هودي رمادي وكحلي للأولاد",
+   "category": "ألبسة أولاد",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-012/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "جاكيت فرو بناتي",
+   "description": "جاكيت فرو زهري للبنات",
+   "category": "ألبسة بنات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-012/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بلايز بناتي ملونة",
+   "description": "بلايز بناتي بألوان متعددة",
+   "category": "ألبسة بنات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-012/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "صدرية منفوخة ولادية",
+   "description": "صدرية شتوية زيتية للأولاد",
+   "category": "ألبسة أولاد",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-012/item04.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

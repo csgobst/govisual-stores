@@ -1,0 +1,22 @@
+{
+ "id": "SYNEW-084",
+ "verdict": "unreachable",
+ "reason": "صفحة فيسبوك تعرض «هذا المحتوى غير متوفر حالياً» بدون تسجيل دخول، فلا يمكن التحقق من النشاط أو المنتجات.",
+ "sells": "عطور وتجميل (حسب المصدر)",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "Sephora Firas Maktabi",
+  "followers": "",
+  "bio": "",
+  "address": "حلب",
+  "phones": [],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "unknown"
+ },
+ "logo": "",
+ "cover": "",
+ "items": [],
+ "checkedAt": "2026-10-15"
+}

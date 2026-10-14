@@ -1,0 +1,103 @@
+{
+ "id": "SYMETA-030",
+ "verdict": "qualified",
+ "reason": "حساب إنستغرام لمشروع منزلي في اللاذقية يبيع قطع ديكور وسوفينيرات مصنوعة يدوياً ويعرضها بالصور، ولا يوجد رابط متجر أو منيو رقمي.",
+ "sells": "قطع ديكور جبسية وسوفينيرات ومباخر وشموع",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "O5ten - أختين",
+  "followers": "474",
+  "bio": "قطع ديكور وسوفينيرات لكل مناسباتك - حكاية شغف وإبداع جمعت اختين - قريباً شحن لجميع المحافظات",
+  "address": "اللاذقية",
+  "phones": [],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/o5ten/",
+  "last_activity": "unknown"
+ },
+ "logo": "assets/SYMETA-030/logo.jpg",
+ "cover": "",
+ "items": [
+  {
+   "name": "مبخرة سيراميك",
+   "description": "مبخرة بيضاء بنقشة أبيض وأسود",
+   "category": "مباخر",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-030/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم ديكور صدف",
+   "description": "صحن صدف وفازة ومجسمات صدف بيضاء",
+   "category": "ديكور",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-030/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حامل شموع مع معطر",
+   "description": "صينية جبسية مع شمعتين ومعطر أعواد",
+   "category": "شموع ومعطرات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-030/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مبخرة وشمعة جبسية",
+   "description": "طقم مبخرة وعلبة بيضاء على صينية",
+   "category": "مباخر",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-030/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "أصداف ذهبية مع ورد",
+   "description": "مجسم صدفة ذهبية تستخدم كفازة",
+   "category": "ديكور",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-030/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "صحن صدف وردي",
+   "description": "صحن ديكور بشكل صدفة باللون الوردي",
+   "category": "ديكور",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-030/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مبخرة حجرية مع شمعة",
+   "description": "مبخرة بملمس حجري مع شمعة",
+   "category": "مباخر",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-030/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مجسم أيدي الدعاء",
+   "description": "مجسم يدين جبسي مع مسبحة",
+   "category": "سوفينيرات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-030/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

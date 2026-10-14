@@ -1,0 +1,75 @@
+{
+ "id": "SYMETA-062",
+ "verdict": "maybe",
+ "reason": "محل ألبسة أوروبية (بالة) للأطفال بعدة فروع في طرطوس وصافيتا وبلا كتالوج رقمي، لكن آخر منشور ظاهر يعود إلى أيار 2021 فتبدو الصفحة غير نشطة.",
+ "sells": "ألبسة أوروبية أورجينال للأطفال والنساء والرجال (بالة)",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "البسة اوربية اورجينال Mk",
+  "followers": "16167",
+  "bio": "متجر ملابس أطفال وصغار",
+  "address": "طريق العام طرطوس-صافيتا، شرق مفرق منية يحمور، مقابل محل الحوراني",
+  "phones": [
+   "+963996609195"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2021-05"
+ },
+ "logo": "assets/SYMETA-062/logo.jpg",
+ "cover": "assets/SYMETA-062/cover.jpg",
+ "items": [
+  {
+   "name": "فستان بناتي مورد",
+   "description": "",
+   "category": "ألبسة بنات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-062/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان بناتي أخضر مورد",
+   "description": "",
+   "category": "ألبسة بنات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-062/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان هيلو كيتي",
+   "description": "",
+   "category": "ألبسة بنات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-062/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان أسود",
+   "description": "",
+   "category": "ألبسة بنات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-062/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم ولادي جينز مع كنزة",
+   "description": "",
+   "category": "ألبسة أولاد",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-062/item05.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

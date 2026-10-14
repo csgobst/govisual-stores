@@ -1,0 +1,105 @@
+{
+ "id": "SYNEW-092",
+ "verdict": "qualified",
+ "reason": "محل ألبسة نسائية جاهزة جملة ومفرق في حمص، ينشر موديلات جديدة باستمرار (تشرين الأول 2026) ولا يملك كتالوجاً رقمياً.",
+ "sells": "ألبسة نسائية جاهزة: فساتين وأطقم وجواكيت وبيجامات رياضية",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "جنيد للالبسة",
+  "followers": "3330",
+  "bio": "محلات لبيع الألبسة الجاهزة ( جملة - مفرق)",
+  "address": "حمص - السوق خلف الجامع الكبير",
+  "phones": [
+   "+963933512212"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYNEW-092/logo.jpg",
+ "cover": "",
+ "items": [
+  {
+   "name": "طقم كنزة مقلمة مع بنطال (موديل 6061)",
+   "description": "فري سايز، 7 ألوان",
+   "category": "أطقم",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-092/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان مخمل (موديل 1148)",
+   "description": "6 ألوان",
+   "category": "فساتين",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-092/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان مع بوليرو مطرز (موديل 1140)",
+   "description": "6 ألوان",
+   "category": "فساتين",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-092/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان مطرز بالدانتيل (موديل 1132)",
+   "description": "6 ألوان",
+   "category": "فساتين",
+   "price": 300000,
+   "currency": "SYP",
+   "price_text": "السعر 300الف",
+   "image": "assets/SYNEW-092/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان بياقة كشكش (موديل 1145)",
+   "description": "3 ألوان",
+   "category": "فساتين",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-092/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم كنزة مع شال (موديل 6063)",
+   "description": "فري سايز",
+   "category": "أطقم",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-092/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بيجامة رياضية مخمل",
+   "description": "مقاسات M-L-XL، عدة ألوان",
+   "category": "بيجامات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-092/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "جاكيت نسائي بزنار",
+   "description": "",
+   "category": "جواكيت",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-092/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

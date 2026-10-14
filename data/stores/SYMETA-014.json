@@ -1,0 +1,55 @@
+{
+ "id": "SYMETA-014",
+ "verdict": "qualified",
+ "reason": "محل ألبسة جملة ومفرق في سوق الناعورة بحمص بصفحة نشطة جداً (67 ألف متابع، منشورات يومية) ولا يملك منيو أو متجراً رقمياً، والزبائن يسألون عن الأسعار بالتعليقات.",
+ "sells": "ألبسة رجالية وولادية جملة ومفرق (جواكيت، بجامات، هوديات)",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "ملبوسات السقا",
+  "followers": "67 ألف",
+  "bio": "البيع جملة / مفرق - ارخص الاسعار ب حمص كلا - للاستفسار 0997792108 رابط مجموعة الوتس للجملة",
+  "address": "حمص - سوق الناعورة جانب بناء الاوقاف او جانب بناء المهندسين او خلف سوق المسقوف",
+  "phones": [
+   "+963997792108"
+  ],
+  "whatsapp": "https://chat.whatsapp.com/JXkYbX9vbD1D2u8WeAzQZH",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYMETA-014/logo.jpg",
+ "cover": "assets/SYMETA-014/cover.jpg",
+ "items": [
+  {
+   "name": "هودي ولادي مطبوع",
+   "description": "هوديات وبجامات ولادي بكل الأنواع",
+   "category": "ولادي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-014/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "جاكيت رجالي",
+   "description": "تشكيلة جواكيت رجالي",
+   "category": "رجالي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-014/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بجامات ولادي مغلفة",
+   "description": "بجامات ولادي جملة ومفرق",
+   "category": "ولادي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-014/item03.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

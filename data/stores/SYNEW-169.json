@@ -1,0 +1,103 @@
+{
+ "id": "SYNEW-169",
+ "verdict": "qualified",
+ "reason": "متجر ألبسة أطفال نشط جداً في درعا (آخر منشور قبل 3 أيام) بتشكيلات وموديلات كثيرة، وموقعه riva-daraa.com لا يعمل (النطاق غير موجود) فلا يوجد كتالوج رقمي فعلي.",
+ "sells": "ألبسة أطفال: بجامات وأطقم، لباس مدرسي، حقائب مدرسية",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "ريفا Riva",
+  "followers": "19 ألف",
+  "bio": "من أفخر مايتم إنتاجه لأناقة أبنائكم",
+  "address": "درعا، شارع الشهداء خلف بناء الطيران، أول محل بالشارع",
+  "phones": [],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYNEW-169/logo.jpg",
+ "cover": "assets/SYNEW-169/cover.jpg",
+ "items": [
+  {
+   "name": "طقم ولادي مخمل F",
+   "description": "موديل 3056، ألوان متعددة",
+   "category": "أطقم أولادي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-169/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم أطفال بكنزة هودي YES مع حقيبة",
+   "description": "موديل 3005، ألوان متعددة",
+   "category": "أطقم أطفال",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-169/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم بناتي مخمل بسحاب",
+   "description": "موديل 9380، مقاسات 12-14-16",
+   "category": "أطقم بناتي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-169/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم بناتي مطرز",
+   "description": "موديل 9252، مقاسات 6-8-10",
+   "category": "أطقم بناتي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-169/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حقيبة مدرسية فراشة بناتي",
+   "description": "",
+   "category": "حقائب مدرسية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-169/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حقيبة مدرسية مع دبدوب باندا",
+   "description": "",
+   "category": "حقائب مدرسية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-169/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "جاكيت بناتي زهري بسحاب",
+   "description": "TOP ELEVEN",
+   "category": "جواكيت",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-169/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "صدرية مدرسية زرقاء بناتي",
+   "description": "موديل 091، مقاسات 1-2-3-4",
+   "category": "لباس مدرسي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-169/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

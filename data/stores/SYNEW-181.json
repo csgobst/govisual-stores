@@ -1,0 +1,93 @@
+{
+ "id": "SYNEW-181",
+ "verdict": "qualified",
+ "reason": "محل تجميل وإكسسوارات وهدايا في سوق كشكول بدمشق ينشر منتجاته بانتظام (آخر منشور 15 مارس 2026) دون أي كتالوج رقمي، مع ملاحظة عدم وجود رقم هاتف ظاهر.",
+ "sells": "مكياج وعناية بشرة وعطور وهدايا وإكسسوارات شعر وأوشحة وكفوف وحقائب",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "Queen Beauty Gallery",
+  "followers": "2449",
+  "bio": "Makeup - skin care - perfumes - gifts - accessories - watches - bags. مكياجات - عناية بشرة - عطور - هدايا - إكسسوارات - ساعات - حقائب",
+  "address": "دمشق - سوق كشكول مقابل أحذية ماسة",
+  "phones": [],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-03"
+ },
+ "logo": "assets/SYNEW-181/logo.jpg",
+ "cover": "assets/SYNEW-181/cover.jpg",
+ "items": [
+  {
+   "name": "أظافر لاصقة للبنات الصغار",
+   "description": "أظافر جاهزة برسومات كرتونية، 12 قطعة",
+   "category": "أظافر",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-181/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مطاط للشعر",
+   "description": "علبة مطاطات شعر ملونة نوعية ممتازة",
+   "category": "إكسسوارات شعر",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-181/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "شكلات وبكلات أطفال",
+   "description": "تشكيلة شكلات وبكلات شعر ملونة",
+   "category": "إكسسوارات شعر",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-181/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "جل حواجب Music Flower",
+   "description": "جل حواجب وأيلاينر مع فرشاة، ثبات طول اليوم",
+   "category": "مكياج",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-181/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "اسكارف موهير",
+   "description": "اسكارف موهير دافئ بألوان البيج والرمادي والأحمر",
+   "category": "أوشحة",
+   "price": 15000,
+   "currency": "SYP",
+   "price_text": "بس ب 15 ألف",
+   "image": "assets/SYNEW-181/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كفوف رجالي جلد",
+   "description": "كفوف رجالي جلد أجنبي مبطنة فرو",
+   "category": "كفوف",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-181/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كفوف نسائية جلد بفيونكة",
+   "description": "كفوف نسائية جلد مبطنة فرو بعدة ألوان",
+   "category": "كفوف",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-181/item07.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

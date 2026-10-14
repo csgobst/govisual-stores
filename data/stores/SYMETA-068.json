@@ -1,0 +1,96 @@
+{
+ "id": "SYMETA-068",
+ "verdict": "qualified",
+ "reason": "متجر مكياج وإكسسوارات كبير ونشط جداً في طرطوس (74 ألف متابع وفرعان) يعرض منتجاته يومياً ويستقبل الطلبات عبر واتساب دون أي كتالوج رقمي.",
+ "sells": "مستحضرات تجميل ومكياج، عناية بالشعر، إكسسوارات وطواقي",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "وايت طرطوس",
+  "followers": "74 ألف",
+  "bio": "شارع هنانو بعد موالح نقارش داخل عبارة هنانو، او الدخلة جانب محمصة هلا اسمها دخلة خان الحرير",
+  "address": "طرطوس - شارع هنانو مقابل خان الحرير؛ الفرع الثاني (الديفا وايت) دوير الشيخ سعد مقابل صيدلية نور فارما",
+  "phones": [
+   "0951422324",
+   "+963993711628"
+  ],
+  "whatsapp": "0951422324",
+  "instagram": "https://www.instagram.com/white.tartous",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYMETA-068/logo.jpg",
+ "cover": "assets/SYMETA-068/cover.jpg",
+ "items": [
+  {
+   "name": "طوق نجوم ذهبي",
+   "description": "طوق فرفشة بديزاين خفيف وناعم",
+   "category": "إكسسوارات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-068/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طوق قلوب ذهبي",
+   "description": "طوق فرفشة بديزاين خفيف وناعم",
+   "category": "إكسسوارات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-068/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بلاشر سائل Kiss Beauty GO! Liquid Blush",
+   "description": "ملمس مخملي، ثبات عالي، متوفر بـ 4 درجات",
+   "category": "مكياج",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-068/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بلاشر خدود ثلاثي Diamond Beauty",
+   "description": "درجتين بلاشر مع درجة بلاش بلمعة، أورجينال",
+   "category": "مكياج",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-068/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حمرة وكونتور Rose Berry",
+   "description": "حمرة مات بثبات ومظهر مخملي",
+   "category": "مكياج",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-068/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مجموعة فرش مكياج Sarah Beauty",
+   "description": "4 فرش أساسية",
+   "category": "أدوات مكياج",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-068/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حمام زيت كارسيل كولاجين",
+   "description": "حمام زيت للشعر من ميس روز",
+   "category": "عناية بالشعر",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-068/item07.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

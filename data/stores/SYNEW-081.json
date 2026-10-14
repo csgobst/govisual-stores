@@ -1,0 +1,105 @@
+{
+ "id": "SYNEW-081",
+ "verdict": "qualified",
+ "reason": "متجر هدايا وورد نشط جداً في حلب (نشر منذ ساعات، 10 آلاف متابع) يعرض باقات وبوكسات كثيرة ويستقبل الطلبات بالواتساب دون كتالوج رقمي (رابط بلوجر فقط).",
+ "sells": "باقات ورد وبوكسات هدايا وساعات ودباديب وديكورات منزلية",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "Cadou Store | كادو ستور",
+  "followers": "10936",
+  "bio": "your gift and more ...",
+  "address": "حلب، سوريا (التوصيل متوفر)",
+  "phones": [
+   "+963940001480"
+  ],
+  "whatsapp": "0940001480",
+  "instagram": "https://www.instagram.com/storecadou",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYNEW-081/logo.jpg",
+ "cover": "assets/SYNEW-081/cover.jpg",
+ "items": [
+  {
+   "name": "البوكس الملكي الرجالي",
+   "description": "ساعة ذهبية وعطر فخم ومسبحة محفورة بالاسم مع ورد أزرق سماوي",
+   "category": "بوكسات هدايا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-081/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "باقة جوري زهري للخطيبة",
+   "description": "باقة ضخمة من الجوري الزهري الطبيعي مع الجبسوفيل",
+   "category": "باقات ورد",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-081/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "باقة خطوبة مميزة",
+   "description": "ورود بتدرجات الموف والبنفسجي مع الأقحوان والجبسوفيل الأبيض",
+   "category": "باقات ورد",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-081/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "باقة ورد أبيض",
+   "description": "باقة ورد أبيض بتغليف بني فاخر",
+   "category": "باقات ورد",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-081/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم ساعات كوبل",
+   "description": "طقم ساعات كلاسيكي رجالي ونسائي بلون ذهبي داخل علبة مميزة",
+   "category": "ساعات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-081/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "باقة التميز",
+   "description": "ورد أحمر مع شوكولا فيريرو روشيه",
+   "category": "باقات ورد",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-081/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "دباديب كبيرة",
+   "description": "دبدوب أحمر وزهري هدية من القلب للقلب",
+   "category": "دباديب",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-081/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "لوحات إسلامية",
+   "description": "لوحات إسلامية مميزة للديكور المنزلي",
+   "category": "ديكور",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-081/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

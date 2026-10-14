@@ -1,0 +1,55 @@
+{
+ "id": "SYNEW-137",
+ "verdict": "qualified",
+ "reason": "محل ألبسة أوروبية (بالة) نشط جداً في حماة بـ61 ألف متابع يعرض بضاعته بالفيديو ولا يملك كتالوجاً رقمياً.",
+ "sells": "ألبسة أوروبية رجالي ونسائي وأطفال وأحذية، بالقطعة وبالكيلو",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "شادو للألبسة الأوربية (الجديدة)",
+  "followers": "61064",
+  "bio": "سوريا_حماة_القصور_شارع حجازي_اول _مفرق_مدرسة_عمر_السفاف",
+  "address": "حماة - القصور - منتصف شارع حجازي - أول مفرق مدرسة عمر السفاف",
+  "phones": [
+   "+963988252538"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYNEW-137/logo.jpg",
+ "cover": "assets/SYNEW-137/cover.jpg",
+ "items": [
+  {
+   "name": "كنزات وبلوزات نسائي LC Waikiki",
+   "description": "",
+   "category": "نسائي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-137/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كنزات ولادي ومحير وجنزات LC Waikiki",
+   "description": "بناتي وصبياني",
+   "category": "أطفال",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-137/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "ألبسة أوروبية مشكلة بالكيلو",
+   "description": "رجالي ونسائي وأطفال، بالكيلو وعالميزان",
+   "category": "بالكيلو",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-137/item03.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

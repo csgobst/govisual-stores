@@ -1,0 +1,103 @@
+{
+ "id": "SYMETA-039",
+ "verdict": "qualified",
+ "reason": "متجر هدايا نشط في حمص (آخر منشور قبل أيام) يبيع هدايا ومحافظ وتنسيقات ورد، والطلبات عبر الرسائل دون أي منيو أو متجر رقمي.",
+ "sells": "هدايا، باقات ورد، بوكسات هدايا، محافظ جلدية، فناجين وإكسسوارات",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "متجر فور ايفر For ever store",
+  "followers": "3 آلاف",
+  "bio": "متجر هدايا فورايفر - نصنع ذكريات تدوم للأبد. DM for orders",
+  "address": "حمص، الدبلان",
+  "phones": [],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYMETA-039/logo.jpg",
+ "cover": "assets/SYMETA-039/cover.jpg",
+ "items": [
+  {
+   "name": "باقة ورد (طبيعي أو صناعي)",
+   "description": "تنسيقات وباقات ورد حسب الطلب",
+   "category": "ورد",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-039/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "هدية وردة مغلفة",
+   "description": "",
+   "category": "هدايا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-039/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فنجان الغيمة",
+   "description": "فنجان سيراميك وردي مع صحن",
+   "category": "فناجين",
+   "price": 35000,
+   "currency": "SYP",
+   "price_text": "فناجين الغيمة ب35 الف",
+   "image": "assets/SYMETA-039/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بوكس تقديم المهر بالورد",
+   "description": "تنسيق حسب الطلب",
+   "category": "بوكسات هدايا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-039/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بوكس هدية ستيتش",
+   "description": "دمية ستيتش مع إكسسوارات",
+   "category": "بوكسات هدايا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-039/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "محفظة جلد رجالية بنية",
+   "description": "",
+   "category": "محافظ",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "بسعر العرض",
+   "image": "assets/SYMETA-039/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "محفظة جلد ألوان متنوعة",
+   "description": "",
+   "category": "محافظ",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-039/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "ميداليات علم الثورة",
+   "description": "",
+   "category": "إكسسوارات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-039/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

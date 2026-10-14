@@ -1,0 +1,75 @@
+{
+ "id": "SYNEW-127",
+ "verdict": "maybe",
+ "reason": "محل حلويات وكيك في النبك لكن آخر منشور على الصفحة يعود إلى نوفمبر 2022.",
+ "sells": "كيك أعراس وأعياد ميلاد وحلويات",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "حلويات الوليد _ Alwaleed",
+  "followers": "7963",
+  "bio": "نرتقي دائما لنكون الأفضل . و نسعى دائما لنكون عند حسن ظنك",
+  "address": "النبك - شارع السرايا",
+  "phones": [
+   "+963117225755"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2022-11"
+ },
+ "logo": "assets/SYNEW-127/logo.jpg",
+ "cover": "assets/SYNEW-127/cover.jpg",
+ "items": [
+  {
+   "name": "كيك عرس طبقات بالورد الأحمر",
+   "description": "",
+   "category": "كيك أعراس",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-127/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كيك خطوبة أربع طبقات",
+   "description": "",
+   "category": "كيك أعراس",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-127/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كيك عيد ميلاد بشكل حرف",
+   "description": "",
+   "category": "كيك أعياد ميلاد",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-127/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كيك إلسا فروزن",
+   "description": "",
+   "category": "كيك أطفال",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-127/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كيك الصيصان",
+   "description": "",
+   "category": "كيك أطفال",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-127/item05.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

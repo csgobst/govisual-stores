@@ -1,0 +1,85 @@
+{
+ "id": "SYNEW-166",
+ "verdict": "qualified",
+ "reason": "سوبر ماركت نشط في السويداء ينشر منتجاته باستمرار حتى أكتوبر 2026، ولا يملك متجراً أو كتالوجاً رقمياً.",
+ "sells": "مواد غذائية، ألبان وأجبان، شوكولا وسكاكر، منظفات ومواد عناية شخصية",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "ميغا مارت - Mega Mart",
+  "followers": "16 ألف",
+  "bio": "Super market",
+  "address": "السويداء - حي الدبيسي - مقابل الرقابة والتفتيش",
+  "phones": [
+   "+96316310315"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYNEW-166/logo.jpg",
+ "cover": "assets/SYNEW-166/cover.jpg",
+ "items": [
+  {
+   "name": "بلسم فاتيكا",
+   "description": "تشكيلة: عسل وبيض وحبة البركة",
+   "category": "عناية بالشعر",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYNEW-166/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بلسم فاتيكا جوز الهند والحناء",
+   "description": "",
+   "category": "عناية بالشعر",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYNEW-166/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "شامبو فاتيكا عبوة توفير",
+   "description": "أرغان وصبار، بزيوت مغذية",
+   "category": "عناية بالشعر",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYNEW-166/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "شامبو فاتيكا بمضخة",
+   "description": "عسل وليمون، عبوة توفير",
+   "category": "عناية بالشعر",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYNEW-166/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "أجبان بلدية مشكلة",
+   "description": "جبنة مشللة وحلوم وجبنة بيضاء من البراد",
+   "category": "ألبان وأجبان",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYNEW-166/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "ويفر كابريس",
+   "description": "علبة ويفر رولز من قسم الشوكولا",
+   "category": "شوكولا وسكاكر",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYNEW-166/item06.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

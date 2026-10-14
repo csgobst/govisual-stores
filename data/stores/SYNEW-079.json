@@ -1,0 +1,65 @@
+{
+ "id": "SYNEW-079",
+ "verdict": "qualified",
+ "reason": "محل هدايا وتزيين حفلات نشط في حلب (آخر منشور 6 تشرين الأول 2026) يعرض سلال هدايا وتنسيقات حفلات دون أي منيو أو كتالوج رقمي.",
+ "sells": "سلال وصناديق هدايا، تزيين حفلات أعياد الميلاد والمواليد والعرائس",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "UP - Gifts & Decorating parties",
+  "followers": "5.9 ألف",
+  "bio": "Gifts shop - Event Decoration",
+  "address": "حلب، سوريا",
+  "phones": [
+   "+963953429982"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYNEW-079/logo.jpg",
+ "cover": "assets/SYNEW-079/cover.jpg",
+ "items": [
+  {
+   "name": "سلة هدية مولود مع دبدوب وبالونات",
+   "description": "بالونات ذهبية وبيضاء مع تاج",
+   "category": "سلال هدايا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-079/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "تزيين حفلة Bride to be",
+   "description": "",
+   "category": "تزيين حفلات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-079/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "تزيين استقبال مولود (Welcome baby)",
+   "description": "",
+   "category": "تزيين حفلات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-079/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "صندوق هدايا خشبي بالسكاكر ودمى كروشيه",
+   "description": "هدية للناجحين والمناسبات",
+   "category": "صناديق هدايا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-079/item04.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

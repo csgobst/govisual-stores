@@ -1,0 +1,22 @@
+{
+ "id": "SYNEW-091",
+ "verdict": "not_qualified",
+ "reason": "مطبعة تقدم خدمة طباعة للشركات (علب وأكياس كرتون وكتب) وليست متجراً بمنتجات قابلة للعرض، والصفحة شبه متوقفة بلا منشورات منتجات منذ 2020.",
+ "sells": "خدمات طباعة: علب كرتون وأكياس وكتب ومجلات",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "النذير للطباعة (Star For Printing & Design)",
+  "followers": "823",
+  "bio": "#علب كرتون #اكياس كرتون #كتب #مجلات",
+  "address": "حلب",
+  "phones": [],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2025-07"
+ },
+ "logo": "assets/SYNEW-091/logo.jpg",
+ "cover": "assets/SYNEW-091/cover.jpg",
+ "items": [],
+ "checkedAt": "2026-10-15"
+}

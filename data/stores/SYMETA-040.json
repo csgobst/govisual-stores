@@ -1,0 +1,103 @@
+{
+ "id": "SYMETA-040",
+ "verdict": "maybe",
+ "reason": "متجر هدايا وأدوات منزلية في أعزاز يعرض منتجات بأسعار بدون منيو رقمي، لكن آخر منشور ظاهر يعود إلى مايو 2024 فقد تكون الصفحة غير نشطة.",
+ "sells": "هدايا وأدوات منزلية وكاسات وعطور وإكسسوارات",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "مدينة الهدايا - Gift City",
+  "followers": "2.2 ألف",
+  "bio": "هدايا - العاب - أدوات منزلية - مكياجات - اكسسوارات",
+  "address": "سوريا، حلب، اعزاز",
+  "phones": [],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2024-05"
+ },
+ "logo": "assets/SYMETA-040/logo.jpg",
+ "cover": "assets/SYMETA-040/cover.jpg",
+ "items": [
+  {
+   "name": "طقم كاسات شاي LAV مع سكرية",
+   "description": "طقم 6 قطع مع سكرية - عرض لمدة أسبوع",
+   "category": "كاسات وفناجين",
+   "price": 165,
+   "currency": "TRY",
+   "price_text": "الطقم 6 قطع مع سكرية 165 ليرة",
+   "image": "assets/SYMETA-040/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "عطر رجالي ونسائي",
+   "description": "عرض العيد",
+   "category": "عطور",
+   "price": 40,
+   "currency": "TRY",
+   "price_text": "بس 40 ليرة",
+   "image": "assets/SYMETA-040/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مضيفات وضيافة",
+   "description": "تشكيلة مضيفات بحسم 15% بمناسبة العيد",
+   "category": "ضيافة",
+   "price": null,
+   "currency": "TRY",
+   "price_text": "حسم 15%",
+   "image": "assets/SYMETA-040/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فنجان قهوة مذهب",
+   "description": "فنجان قهوة مع صحن بنقشة ذهبية",
+   "category": "كاسات وفناجين",
+   "price": null,
+   "currency": "TRY",
+   "price_text": "",
+   "image": "assets/SYMETA-040/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مضيفة طبقات كريستال",
+   "description": "ستاند ضيافة بطبقات مع إطار ذهبي",
+   "category": "ضيافة",
+   "price": null,
+   "currency": "TRY",
+   "price_text": "",
+   "image": "assets/SYMETA-040/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كاسات زجاج مزدوجة ملونة",
+   "description": "كاسات بجدار مزدوج بزينة ملونة",
+   "category": "كاسات وفناجين",
+   "price": null,
+   "currency": "TRY",
+   "price_text": "",
+   "image": "assets/SYMETA-040/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم كاسات شاي مذهب 12 قطعة",
+   "description": "طقم كاسات شاي بنقشة ذهبية",
+   "category": "كاسات وفناجين",
+   "price": null,
+   "currency": "TRY",
+   "price_text": "",
+   "image": "assets/SYMETA-040/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "شمعدانات كريستال ذهبية",
+   "description": "طقم شمعدانات بثلاثة أحجام",
+   "category": "ديكور",
+   "price": null,
+   "currency": "TRY",
+   "price_text": "",
+   "image": "assets/SYMETA-040/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

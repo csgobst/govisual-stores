@@ -1,0 +1,95 @@
+{
+ "id": "SYNEW-098",
+ "verdict": "maybe",
+ "reason": "بوتيك ألبسة نسائية في حمص بمنتجات واضحة ولا يملك متجراً رقمياً، لكن آخر منشور كان في شباط 2026 فيبدو غير نشط منذ نحو 8 أشهر.",
+ "sells": "ألبسة نسائية (أطقم رياضية، هوديات، كنزات، جلابيات)",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "Gioia Boutique",
+  "followers": "19 ألف",
+  "bio": "متجر ملابس نسائية",
+  "address": "حمص - الدبلان، شارع ابن الرومي، بناء الأخوان",
+  "phones": [
+   "+963996737204"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-02"
+ },
+ "logo": "assets/SYNEW-098/logo.jpg",
+ "cover": "assets/SYNEW-098/cover.jpg",
+ "items": [
+  {
+   "name": "طقم رياضي بشعار مطرز",
+   "description": "عدة ألوان",
+   "category": "أطقم رياضية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-098/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم هودي وبنطال",
+   "description": "زهري وفوشيا",
+   "category": "أطقم رياضية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-098/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "هودي قصير أبيض",
+   "description": "",
+   "category": "هوديات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-098/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "هودي قصير زهري",
+   "description": "",
+   "category": "هوديات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-098/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كنزة فيونكات ملونة",
+   "description": "عدة ألوان",
+   "category": "كنزات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-098/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم تريكو بترتر",
+   "description": "بني، رمادي، أبيض",
+   "category": "أطقم تريكو",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-098/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "جلابية بيضاء مطرزة",
+   "description": "",
+   "category": "جلابيات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-098/item07.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

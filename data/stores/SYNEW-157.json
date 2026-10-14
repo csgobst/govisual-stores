@@ -1,0 +1,24 @@
+{
+ "id": "SYNEW-157",
+ "verdict": "maybe",
+ "reason": "مطعم في اللاذقية لكن الصفحة غير رسمية وآخر نشاط فيها 2021 ولا تظهر أطباق أو منتجات، فقط صور زوار وحفلات.",
+ "sells": "مطعم وسهرات",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "View Restaurant",
+  "followers": "",
+  "bio": "",
+  "address": "اللاذقية",
+  "phones": [
+   "0993443738"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2021-03"
+ },
+ "logo": "",
+ "cover": "assets/SYNEW-157/cover.jpg",
+ "items": [],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

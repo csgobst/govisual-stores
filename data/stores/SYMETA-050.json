@@ -1,0 +1,96 @@
+{
+ "id": "SYMETA-050",
+ "verdict": "maybe",
+ "reason": "مطبعة نشطة في دمشق (آخر منشور أكتوبر 2026) بلا منيو رقمي، لكنها تقدم خدمات طباعة حسب الطلب أكثر من منتجات ثابتة بأسعار، فملاءمتها للكتالوج غير مؤكدة.",
+ "sells": "خدمات طباعة: فلكس وفينيل وطباعة UV وقص ليزر وطباعة هدايا ورول أب",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "ALSham Printing Services الشام خدمات الطباعة",
+  "followers": "4.7 ألف",
+  "bio": "طباعة ارمات فلكس، طباعة UV، طباعة وقص فينيل، فينيل مثقب، طباعة هدايا",
+  "address": "دمشق - البرامكة، شارع كلية الهندسة",
+  "phones": [
+   "0959260555",
+   "0112128653"
+  ],
+  "whatsapp": "+963959260555",
+  "instagram": "alsham_digital_printing",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYMETA-050/logo.jpg",
+ "cover": "assets/SYMETA-050/cover.jpg",
+ "items": [
+  {
+   "name": "طباعة وتركيب فينيل لاصق للمعارض",
+   "description": "تلبيس أجنحة المعارض بالفينيل بدقة عالية",
+   "category": "طباعة إعلانية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-050/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "أحرف بارزة قص ليزر",
+   "description": "أحرف وشعارات خشب وبلكسي بقص الليزر",
+   "category": "ليزر",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-050/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مجسم The End للتخرج",
+   "description": "مجسم خشب قص ليزر لحفلات التخرج",
+   "category": "ليزر",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-050/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طباعة UV على لوحة كانفاس",
+   "description": "طباعة صورك على لوحات كانفاس جاهزة مع حامل",
+   "category": "طباعة هدايا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-050/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "رول أب إعلاني",
+   "description": "طباعة رول أب للمعارض والشركات",
+   "category": "طباعة إعلانية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-050/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "ستيكرات توزيعات",
+   "description": "ملصقات مقصوصة لتوزيعات الحلوى والمناسبات",
+   "category": "طباعة هدايا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-050/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بطاقة فراشة مطبوعة",
+   "description": "بطاقة مناسبات مقصوصة على شكل فراشة",
+   "category": "طباعة هدايا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-050/item07.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

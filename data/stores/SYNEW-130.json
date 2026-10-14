@@ -1,0 +1,106 @@
+{
+ "id": "SYNEW-130",
+ "verdict": "qualified",
+ "reason": "متجر مكياج وعناية شخصية في صحنايا ينشر منتجاته باستمرار (آخر منشور أكتوبر 2026) جملة ومفرق مع توصيل، والرابط الخارجي gift.com ليس متجراً لهم، فلا يوجد منيو رقمي.",
+ "sells": "مكياج ومنتجات عناية شخصية وعطور وإكسسوارات",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "Gift",
+  "followers": "34 ألف",
+  "bio": "Gift shop متخصص منتجات عناية شخصية والمكياج قطع وأدوات - جملة ومفرق - توصيل مجاني ضمن الشام وصحنايا",
+  "address": "صحنايا، شارع النجوم، مواجه سنتر 88",
+  "phones": [
+   "099540309",
+   "+963999301532"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYNEW-130/logo.jpg",
+ "cover": "assets/SYNEW-130/cover.jpg",
+ "items": [
+  {
+   "name": "مرطب شفاه Any Klaen بحامل موبايل",
+   "description": "مرطب شفاه على شكل وردة يلصق على الموبايل - Baby Pink / Blue / Purple",
+   "category": "مكياج",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-130/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "أقلام تحديد شفاه PAGEVINE",
+   "description": "درجات وألوان متنوعة بثبات عالي وسهولة الاستخدام",
+   "category": "مكياج",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-130/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حامل فراشي مكياج بغطاء",
+   "description": "علبة منقطة مع قبة شفافة لحفظ الفراشي",
+   "category": "إكسسوارات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-130/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "سيروم Royallines لتساقط الشعر",
+   "description": "سيروم إكليل الجبل والنعناع لمكافحة تساقط الشعر",
+   "category": "عناية بالشعر",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-130/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بابوج شتوي XBOX",
+   "description": "بابوج شتوي جودة ممتازة",
+   "category": "أحذية منزلية",
+   "price": 30000,
+   "currency": "SYP",
+   "price_text": "30000",
+   "image": "assets/SYNEW-130/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بخاخ جسم Nike",
+   "description": "بخاخ معطر للجسم 24 ساعة بعدة روائح",
+   "category": "عطور",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-130/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "عطور Zaragoza",
+   "description": "عطور زاراغوزا بعدة روائح - أصلي",
+   "category": "عطور",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-130/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كريم شعر Every Day من كومبانيا",
+   "description": "كريم عناية بالشعر بزيت الصبار للشعر الضعيف",
+   "category": "عناية بالشعر",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-130/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

@@ -1,0 +1,22 @@
+{
+ "id": "SYNEW-141",
+ "verdict": "maybe",
+ "reason": "الرابط صفحة مكان غير رسمية أنشأها فيسبوك لمطعم أورانتس في حماة، بلا مالك ولا منشورات منتجات، وفقط تسجيلات زوار قديمة (2019-2020)؛ يحتاج إيجاد الصفحة الرسمية للتأكد من نشاطه.",
+ "sells": "مطعم عربي (بيتزا ووجبات) حسب تسجيلات الزوار",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "حماة مطعم أورانتس",
+  "followers": "0",
+  "bio": "Arabic Restaurant - صفحة غير رسمية",
+  "address": "حماة، سوريا",
+  "phones": [],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2020-02"
+ },
+ "logo": "",
+ "cover": "assets/SYNEW-141/cover.jpg",
+ "items": [],
+ "checkedAt": "2026-10-15"
+}

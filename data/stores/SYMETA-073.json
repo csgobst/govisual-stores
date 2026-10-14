@@ -1,0 +1,105 @@
+{
+ "id": "SYMETA-073",
+ "verdict": "maybe",
+ "reason": "صالة أدوات منزلية وكهربائيات في دمشق بمنتجات واضحة ولا منيو رقمي، لكن آخر منشور في يناير 2026 والنشر متقطع فالنشاط غير مؤكد.",
+ "sells": "أجهزة منزلية وكهربائية: دفايات، برادات وجمادات، أفران غاز، غسالات، أدوات كهربائية صغيرة",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "ALshalati Trading - الشالاتي للتجارة",
+  "followers": "751",
+  "bio": "صالة أدوات منزلية",
+  "address": "دمشق، كورنيش التجارة، بعد صالون الهيبة جانب صيدلية هدى نعمان",
+  "phones": [
+   "0934776993"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-01"
+ },
+ "logo": "assets/SYMETA-073/logo.jpg",
+ "cover": "assets/SYMETA-073/cover.jpg",
+ "items": [
+  {
+   "name": "دفاية غاز وكهرباء جينرال",
+   "description": "غاز وكهرباء بنفس الوقت",
+   "category": "تدفئة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-073/item01.jpg",
+   "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid023jYxCm1e1WL9E8JBSB6V1jJmz6jRcUgvnMrLcDvHfodHcAPK9cGwuFYJ8geR455el&id=100063937390115"
+  },
+  {
+   "name": "غسالة Whirlpool انفيرتر 9 كغ",
+   "description": "مع هدية مروحة ستاند وسشوار",
+   "category": "غسالات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-073/item02.jpg",
+   "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0CzsD57Cy1xbHFa1gqS9fAhHyYjkw1ZKjRqqEXt3n3p3rcY4tGAnoyfcmNP4h7jtPl&id=100063937390115"
+  },
+  {
+   "name": "جمادة عامودية الحافظ VFSL 1507",
+   "description": "تبريد عادي، 9 دروج",
+   "category": "برادات وجمادات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-073/item03.jpg",
+   "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0NmLf7af4JwSEcssHtiDnLW3Nx7eFtxcbRGkHRYkKxnTBtMMTZaGt7maFWv9qGAADl&id=100063937390115"
+  },
+  {
+   "name": "مجمدة مبردة مسطحة الحافظ FG 1422D",
+   "description": "",
+   "category": "برادات وجمادات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-073/item04.jpg",
+   "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0NmLf7af4JwSEcssHtiDnLW3Nx7eFtxcbRGkHRYkKxnTBtMMTZaGt7maFWv9qGAADl&id=100063937390115"
+  },
+  {
+   "name": "فرن غاز ستانلس 5 رؤوس HC 95 GST",
+   "description": "إشعال إلكتروني",
+   "category": "أفران",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-073/item05.jpg",
+   "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0NmLf7af4JwSEcssHtiDnLW3Nx7eFtxcbRGkHRYkKxnTBtMMTZaGt7maFWv9qGAADl&id=100063937390115"
+  },
+  {
+   "name": "مجفف شعر HILIFE",
+   "description": "",
+   "category": "أجهزة صغيرة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-073/item06.jpg",
+   "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02ELBkdNfEsXzZH9CakEUtk6NP8E6PghaoLZxubbcwWWxeHeUhuQWAujLbBtwL4jetl&id=100063937390115"
+  },
+  {
+   "name": "غلاية ماء HILIFE",
+   "description": "1.7 و1.8 لتر",
+   "category": "أجهزة صغيرة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-073/item07.jpg",
+   "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02ELBkdNfEsXzZH9CakEUtk6NP8E6PghaoLZxubbcwWWxeHeUhuQWAujLbBtwL4jetl&id=100063937390115"
+  },
+  {
+   "name": "غسالة LG أوتوماتيك",
+   "description": "",
+   "category": "غسالات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-073/item08.jpg",
+   "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02GZbngmfGq8grCrLFy4n1D5YZrcUbHvrdfeUaeNUBztakh4P1MKscDcyBzkidsRM3l&id=100063937390115"
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

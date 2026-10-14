@@ -1,0 +1,86 @@
+{
+ "id": "SYNEW-124",
+ "verdict": "qualified",
+ "reason": "مطعم وكافيه نشط في القيمرية بدمشق (29 ألف متابع، منشورات خلال الأيام الماضية) يستخدم منيو ورقي ولا يوجد رابط منيو رقمي، وينشر عروضاً بالأسعار.",
+ "sells": "وجبات وسندويشات وحلويات ومشروبات (برغر، سلطات، تشيز كيك، مولتن، كابتشينو)",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "Panda restaurant & cafe - بيت الباندا",
+  "followers": "29 ألف",
+  "bio": "مطعم وكافيه بيت الباندا 📍دمشق_القيمرية 📱0991750232 - 0936342528",
+  "address": "دمشق - نهاية القيمرية - الطريق باتجاه مكتب عنبر",
+  "phones": [
+   "+963991750232",
+   "+963936342528"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/panda_house_restaurant_cafe",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYNEW-124/logo.jpg",
+ "cover": "assets/SYNEW-124/cover.jpg",
+ "items": [
+  {
+   "name": "سندويشة ومشروب غازي",
+   "description": "عرض الغداء من 22/09 حتى 20/10، غير شامل الضريبة",
+   "category": "عروض",
+   "price": 500,
+   "currency": "SYP",
+   "price_text": "500 ليرة سورية جديدة",
+   "image": "assets/SYNEW-124/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "وجبة ومشروب غازي",
+   "description": "عرض الغداء من 22/09 حتى 20/10، غير شامل الضريبة",
+   "category": "عروض",
+   "price": 750,
+   "currency": "SYP",
+   "price_text": "750 ليرة سورية جديدة",
+   "image": "assets/SYNEW-124/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مولتن وايت شوكلت",
+   "description": "أجواء فرنسية بقعدة دمشقية",
+   "category": "حلويات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-124/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "تشيز كيك وحلويات مشكلة",
+   "description": "",
+   "category": "حلويات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-124/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حلوى مع موهيتو بلو",
+   "description": "",
+   "category": "مشروبات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-124/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "سلطة سيزر",
+   "description": "",
+   "category": "سلطات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-124/item06.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

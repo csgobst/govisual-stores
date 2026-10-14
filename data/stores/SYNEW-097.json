@@ -1,0 +1,24 @@
+{
+ "id": "SYNEW-097",
+ "verdict": "not_qualified",
+ "reason": "الصفحة لصالون تصفيف شعر (ريتا) تعرض قصات وألوان شعر وليست متجراً يبيع منتجات، وآخر نشر فيها فبراير 2025.",
+ "sells": "خدمات تصفيف شعر (لا يبيع منتجات)",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "Swan Fashion Collection (Rita Salon Hair Stylist)",
+  "followers": "725",
+  "bio": "صالون ريتا / لتصفيف الشعر",
+  "address": "حمص - العدوية - خلف النافذة الواحدة",
+  "phones": [
+   "+963957431737"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2025-02"
+ },
+ "logo": "assets/SYNEW-097/logo.jpg",
+ "cover": "assets/SYNEW-097/cover.jpg",
+ "items": [],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

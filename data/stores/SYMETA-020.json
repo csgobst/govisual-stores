@@ -1,0 +1,106 @@
+{
+ "id": "SYMETA-020",
+ "verdict": "qualified",
+ "reason": "محل حلويات نشط في اللاذقية ينشر منتجاته باستمرار (آخر منشور أغسطس 2026) ولا يملك منيو رقمي سوى حساب إنستغرام.",
+ "sells": "حلويات عربية وشوكولا وضيافة وسوفونير",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "حلويات عبد العال Confectionery",
+  "followers": "32 ألف",
+  "bio": "تأسست شركة حلويات عبد العال سنة 1990 - للاستفسار واتساب: صليبة 0962365922، هنانو 0937007206",
+  "address": "اللاذقية - الصليبة / هنانو",
+  "phones": [
+   "0962365922",
+   "0937007206"
+  ],
+  "whatsapp": "0937007206",
+  "instagram": "https://www.instagram.com/abdalaal_sweet",
+  "last_activity": "2026-08"
+ },
+ "logo": "assets/SYMETA-020/logo.jpg",
+ "cover": "assets/SYMETA-020/cover.jpg",
+ "items": [
+  {
+   "name": "ملبس غبرة",
+   "description": "ملبس أبيض بالسكر",
+   "category": "ملبس وسكاكر",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-020/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "تشكيلة سوفونير",
+   "description": "ضيافة مغلفة بعلبة شفافة مع ريشة ذهبية وكرة كريستال",
+   "category": "ضيافة وهدايا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-020/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مبرومة فستق",
+   "description": "مبرومة محشوة بالفستق الحلبي",
+   "category": "حلويات عربية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-020/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "علبة شوكولا شفافة",
+   "description": "شوكولا مغلفة بورق ذهبي في علبة شفافة",
+   "category": "شوكولا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-020/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "علبة شوكولا جوني كروكر",
+   "description": "علبة شفافة محشوة بشوكولا Johnny Krocker",
+   "category": "شوكولا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-020/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "جزرية بالمكسرات",
+   "description": "جزرية غنية مغطاة بالجوز",
+   "category": "حلويات عربية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-020/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "الدوم",
+   "description": "كيكة دوم بالشوكولا",
+   "category": "كيك وكاتو",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-020/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "راحة الحجاج الفاخرة",
+   "description": "راحة بالفستق الحلبي",
+   "category": "حلويات عربية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-020/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

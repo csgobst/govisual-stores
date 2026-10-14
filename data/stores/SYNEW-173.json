@@ -1,0 +1,76 @@
+{
+ "id": "SYNEW-173",
+ "verdict": "qualified",
+ "reason": "محل أقمشة نسائية نشط جداً في القامشلي بـ41 ألف متابع ينشر أقمشته يومياً مع توصيل عبر واتساب ولا يملك متجراً رقمياً.",
+ "sells": "أقمشة نسائية: دانتيل، أقمشة عرائس، كارويات، قطنيات، جرجيت",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "اقمشة جورج",
+  "followers": "41 ألف",
+  "bio": "بيع جميع انواع الاقمشة النسائية",
+  "address": "القامشلي: الفرع الأول خلف سوق الصاغة، الفرع الثاني شارع الوحدة تحت مشفى السلام",
+  "phones": [
+   "0982487384",
+   "0999027895"
+  ],
+  "whatsapp": "0982487384",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYNEW-173/logo.jpg",
+ "cover": "assets/SYNEW-173/cover.jpg",
+ "items": [
+  {
+   "name": "دانتيل أحمر مطرز",
+   "description": "عشر نقشات",
+   "category": "دانتيل",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-173/item01.jpg",
+   "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0aNqasS7BZuohnnej9u6BobsE59Dq1ZT7yXcpTFuCkvRGfeJHXVXydrEtAKNmYpLPl&id=100057314925155"
+  },
+  {
+   "name": "قماش فستان عروس",
+   "description": "",
+   "category": "أقمشة عرائس",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-173/item02.jpg",
+   "source_url": "https://www.facebook.com/reel/4768503753378075/"
+  },
+  {
+   "name": "كارويات صيفي عرض 150 سم",
+   "description": "تنزيلات، ألوان أكثر في المحل، السعر للمتر",
+   "category": "قطنيات",
+   "price": 10000,
+   "currency": "SYP",
+   "price_text": "المتر ١٠ الف",
+   "image": "assets/SYNEW-173/item03.jpg",
+   "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02KNKj4kDU6i5tri51TQLGFsuix6G3f1ARdC3PyQVungmJZehhqbVrRj1sUyZbsV3Kl&id=100057314925155"
+  },
+  {
+   "name": "قطنية شتوي عرض 150",
+   "description": "",
+   "category": "قطنيات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-173/item04.jpg",
+   "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0GGTP4B4pWUd2JKMjFiamX686XdfCQQJG6bzS7Zbgg3gTe44NuwhRPGkJqpthJU4Kl&id=100057314925155"
+  },
+  {
+   "name": "جرجيت مكسر مورد عرض 150 سم",
+   "description": "تنزيلات",
+   "category": "جرجيت",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-173/item05.jpg",
+   "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0DDKL9StNhEFWCQenAtD54TEKCwzXxY5J7WbLQDmwBEGaauQEapK8SoAzsaevhyivl&id=100057314925155"
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

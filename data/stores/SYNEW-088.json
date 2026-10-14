@@ -1,0 +1,105 @@
+{
+ "id": "SYNEW-088",
+ "verdict": "qualified",
+ "reason": "محل بوظة وحلويات كبير ونشط في حلب (138 ألف متابع وثلاثة فروع) ينشر أصنافه يومياً ولا يظهر له منيو رقمي أو متجر إلكتروني.",
+ "sells": "بوظة (آيس كريم)، هيطلية، كنافة، كرواسان، كيك وقوالب مناسبات",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "بوظة الشافي",
+  "followers": "138 ألف",
+  "bio": "ايس كريم الشافي",
+  "address": "حلب - الفرع الأول الكلاسة شارع جسر الحج، الفرع الثاني الفرقان شارع الاكسبريس، الفرع الثالث سيف الدولة مقابل السوق المحلي",
+  "phones": [
+   "+963957305015"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYNEW-088/logo.jpg",
+ "cover": "assets/SYNEW-088/cover.jpg",
+ "items": [
+  {
+   "name": "كرواسان الشافي",
+   "description": "رفيق طريقك لكل يوم",
+   "category": "معجنات",
+   "price": 75,
+   "currency": "SYP",
+   "price_text": "بسعر 75 ليرة سوري جديد",
+   "image": "assets/SYNEW-088/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "هيطلية الشافي",
+   "description": "طبق هيطلية بالفستق",
+   "category": "حلويات باردة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-088/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كنافة الشافي",
+   "description": "قصة حب من أول لقمة",
+   "category": "حلويات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-088/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بوظة كاسات (كون)",
+   "description": "",
+   "category": "بوظة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-088/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "قالب كيك بالكريمة",
+   "description": "",
+   "category": "كيك",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-088/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "قطعة كيك كراميل",
+   "description": "",
+   "category": "كيك",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-088/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كيك خطوبة وأعراس",
+   "description": "قوالب مناسبات حسب الطلب",
+   "category": "كيك مناسبات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-088/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كيك شوكولا",
+   "description": "",
+   "category": "كيك",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-088/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

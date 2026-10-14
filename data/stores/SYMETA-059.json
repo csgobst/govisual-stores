@@ -1,0 +1,108 @@
+{
+ "id": "SYMETA-059",
+ "verdict": "qualified",
+ "reason": "شركة في حلب تصنع علب الأفراح وتوزيعات الحجاج والتخرج وتنشر منتجاتها بانتظام (آخر منشور حزيران 2026) دون أي منيو أو متجر رقمي.",
+ "sells": "علب أفراح وضيافة، توزيعات حجاج ومواليد وتخرج، صحون ضيافة مذهبة، مستلزمات تغليف",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "جلال لصناعة علب الأفراح ومستلزمات التغليف",
+  "followers": "4.4 ألف",
+  "bio": "علب الأفراح ومستلزمات التغليف - Jalal Gifts",
+  "address": "حلب، حي التلل + الفرقان جانب فندق زين بلس",
+  "phones": [
+   "+963944751210",
+   "+963933376040",
+   "0212120047",
+   "0212639600"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-06"
+ },
+ "logo": "assets/SYMETA-059/logo.jpg",
+ "cover": "assets/SYMETA-059/cover.jpg",
+ "items": [
+  {
+   "name": "زجاجات ماء زمزم مزينة",
+   "description": "توزيعات حجاج",
+   "category": "توزيعات الحجاج",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-059/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "صحن ضيافة كريستال مذهب",
+   "description": "وصل حديثاً",
+   "category": "صحون ضيافة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-059/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "صحن ضيافة أبيض بإطار ذهبي",
+   "description": "",
+   "category": "صحون ضيافة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-059/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "علبة ضيافة حقيبة الكعبة",
+   "description": "",
+   "category": "توزيعات الحجاج",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-059/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "علبة ضيافة حج مبرور",
+   "description": "",
+   "category": "توزيعات الحجاج",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-059/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "علبة ضيافة خشبية بنافذة",
+   "description": "",
+   "category": "توزيعات الحجاج",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-059/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "توزيعات مولود جديد",
+   "description": "",
+   "category": "توزيعات مناسبات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-059/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "علبة ضيافة تخرج مع فستق",
+   "description": "",
+   "category": "توزيعات مناسبات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-059/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

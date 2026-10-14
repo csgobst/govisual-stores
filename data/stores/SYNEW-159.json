@@ -1,0 +1,22 @@
+{
+ "id": "SYNEW-159",
+ "verdict": "maybe",
+ "reason": "الرابط صفحة مكان غير رسمية لمطعم الفوليوم في فندق لاميرا باللاذقية، فيها إشارات زوار فقط (آخرها نيسان 2024) دون منشورات أو أصناف من المطعم نفسه.",
+ "sells": "مطعم وحانة (Gastropub)",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "مطعم الفوليوم",
+  "followers": "0",
+  "bio": "Gastropub - صفحة غير رسمية",
+  "address": "اللاذقية، فندق لاميرا (الميريديان سابقاً)",
+  "phones": [],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2024-04"
+ },
+ "logo": "",
+ "cover": "assets/SYNEW-159/cover.jpg",
+ "items": [],
+ "checkedAt": "2026-10-15"
+}

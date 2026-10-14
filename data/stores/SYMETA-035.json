@@ -1,0 +1,83 @@
+{
+ "id": "SYMETA-035",
+ "verdict": "qualified",
+ "reason": "مكتبة قرطاسية وأدوات فنية كبيرة وقديمة بحساب إنستغرام نشط (128 ألف متابع) ولا يظهر لها رابط متجر أو كتالوج رقمي.",
+ "sells": "قرطاسية وأدوات فنون جميلة وهدايا ومواد دعائية",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "مكتبة الصباغ Sabbagh Stationery",
+  "followers": "128 ألف",
+  "bio": "مكتبة الصباغ Sabbagh family - Since 1925 - تجارة القرطاسية وأدوات الفنون الجميلة و الهدايا و مواد الدعائية",
+  "address": "",
+  "phones": [],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/sabbagh_stationery",
+  "last_activity": "unknown"
+ },
+ "logo": "assets/SYMETA-035/logo.jpg",
+ "cover": "",
+ "items": [
+  {
+   "name": "دفتر رسم بالألوان الزيتية A4",
+   "description": "Oil Painting Stick Drawing Book مخصص للألوان الزيتية",
+   "category": "أدوات فنية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-035/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "دفتر سبايرال بورق أسود وأبيض",
+   "description": "دفتر حلزوني للرسم والملاحظات",
+   "category": "دفاتر",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-035/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "أقلام تلوين Lineworks",
+   "description": "علبة أقلام ملونة رفيعة للرسم والتلوين",
+   "category": "أقلام وألوان",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-035/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "دفتر سكتش",
+   "description": "دفتر سكتش للرسم",
+   "category": "دفاتر",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-035/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "دفاتر السكتش (الجزء 2)",
+   "description": "تشكيلة دفاتر سكتش سبايرال",
+   "category": "دفاتر",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-035/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "أقلام ماركر Alpha",
+   "description": "علبة ماركرات ألوان للرسم",
+   "category": "أقلام وألوان",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-035/item06.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

@@ -1,0 +1,97 @@
+{
+ "id": "SYMETA-045",
+ "verdict": "maybe",
+ "reason": "مكتبة وهدايا وخدمات طباعة في دمشق بدون منيو رقمي، لكن آخر منشور ظاهر يعود لآذار 2024 فتبدو الصفحة غير نشطة ومعظم ما تعرضه خدمات طباعة.",
+ "sells": "هدايا وقرطاسية وطباعة على الكنزات والكفرات والمطرات والستيكرز والبطاقات",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "هدايا الشام",
+  "followers": "16 ألف",
+  "bio": "تنسيق و تغليف و طباعة هدايا - طباعة بوسترات - طباعة لوحات",
+  "address": "دمشق، البرامكة مقابل كلية الهندسة",
+  "phones": [
+   "+963955496133",
+   "+963959260555",
+   "2128653"
+  ],
+  "whatsapp": "+963959260555",
+  "instagram": "",
+  "last_activity": "2024-03"
+ },
+ "logo": "assets/SYMETA-045/logo.jpg",
+ "cover": "assets/SYMETA-045/cover.jpg",
+ "items": [
+  {
+   "name": "طباعة كفر موبايل",
+   "description": "تجديد كفر الموبايل بطباعة جديدة",
+   "category": "طباعة هدايا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-045/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طباعة كنزات فينيل حراري",
+   "description": "طباعة تصاميم على الكنزات بالفينيل الحراري",
+   "category": "طباعة ملابس",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-045/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طباعة شدة (ورق لعب)",
+   "description": "شدة مطبوعة بتصميم خاص",
+   "category": "طباعة هدايا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-045/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حافظة حرارة (مطرة) مطبوعة UV",
+   "description": "مطرة حافظة للحرارة مع طباعة اسم",
+   "category": "طباعة هدايا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-045/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بطاقات أفراح ومناسبات",
+   "description": "طباعة بطاقات بألوان مميزة وجودة عالية",
+   "category": "بطاقات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-045/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طباعة وقص ستيكرز",
+   "description": "ستيكرز مخصصة مطبوعة ومقصوصة",
+   "category": "ستيكرز",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-045/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طباعة ألبسة عمال موحدة",
+   "description": "طباعة شعارات على ألبسة العمل",
+   "category": "طباعة ملابس",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-045/item07.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

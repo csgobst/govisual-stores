@@ -1,0 +1,105 @@
+{
+ "id": "SYNEW-171",
+ "verdict": "qualified",
+ "reason": "متجر بيجامات وملابس منزلية نشط في القامشلي (وكيل ماي دريم، 5.6 ألف متابع، منشورات تشكيلة الخريف الحالية) يعرض موديلات كثيرة ويرسل السعر بالرسائل دون أي كتالوج رقمي.",
+ "sells": "بيجامات وملابس منزلية نسائية وأطقم نفاس",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "Dream",
+  "followers": "5626",
+  "bio": "وكيل شركة ماي دريم في محافظة الحسكة - القامشلي شارع الوكالات مقابل مركز توفل",
+  "address": "القامشلي - الوسطى - شارع الوكالات مقابل مركز توفل",
+  "phones": [
+   "0930999089"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYNEW-171/logo.jpg",
+ "cover": "assets/SYNEW-171/cover.jpg",
+ "items": [
+  {
+   "name": "بيجاما 3 قطع مع روب بدانتيل",
+   "description": "بيجاما ناعمة مع روب طويل وتوب بدانتيل، بعدة ألوان",
+   "category": "بيجامات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-171/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بيجاما 3 قطع خمري",
+   "description": "بيجاما مع روب طويل باللون الخمري",
+   "category": "بيجامات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-171/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بيجاما مخمل 3 قطع",
+   "description": "بيجاما مخمل شتوية ثلاث قطع، M-XXL",
+   "category": "بيجامات شتوية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-171/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بيجاما خريفية كاروهات",
+   "description": "بنطلون كاروهات مع بلوزة كم طويل",
+   "category": "بيجامات خريفية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-171/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بيجاما مضلعة رقبة V",
+   "description": "بيجاما خريفية مضلعة بقبة V، بالكحلي والأسود",
+   "category": "بيجامات خريفية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-171/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بيجاما قميص كاروهات بأزرار",
+   "description": "بيجاما كم طويل بقبة قميص وجيب، بألوان متعددة",
+   "category": "بيجامات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-171/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم نفاس",
+   "description": "طقم نفاس للماميات متوفر بكل القياسات",
+   "category": "أطقم نفاس",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-171/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بيجاما ليلكي ناعمة",
+   "description": "من التشكيلة الجديدة",
+   "category": "بيجامات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-171/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

@@ -1,0 +1,105 @@
+{
+ "id": "SYNEW-109",
+ "verdict": "qualified",
+ "reason": "محل هدايا فنية مستوحاة من الخط العربي والتراث السوري في الشعلان، نشط (آخر منشور قبل يوم) وعاد للعمل مؤخراً، ولا يملك متجراً أو منيو رقمياً.",
+ "sells": "هدايا فنية: أكواب، حقائب قماشية، دفاتر، علب خشبية، صواني، ساعات، شالات وتيشرتات",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "Amoghlian gifts",
+  "followers": "16 ألف",
+  "bio": "Selling gifts, customized gifts, artistic pieces, cultural scarfs and t-shirts, mugs etc...",
+  "address": "دمشق، الشعلان، شارع أمين لطفي الحافظ",
+  "phones": [
+   "+963958586019"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYNEW-109/logo.jpg",
+ "cover": "assets/SYNEW-109/cover.jpg",
+ "items": [
+  {
+   "name": "كوب يا عاشقة الورد",
+   "description": "كوب سيراميك بخط عربي مع قاعدة",
+   "category": "أكواب",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-109/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حقيبة قماشية دمشق بالخط العربي",
+   "description": "Tote bag بتصميم خط عربي ملون",
+   "category": "حقائب",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-109/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حقيبة قماشية بالخط الملون",
+   "description": "",
+   "category": "حقائب",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-109/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "علبة خشبية بغطاء مزخرف",
+   "description": "",
+   "category": "علب",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-109/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "دفاتر بأغلفة خط عربي",
+   "description": "",
+   "category": "دفاتر",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-109/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "صينية قارئة الفنجان مع فناجين",
+   "description": "",
+   "category": "صواني",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-109/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "ساعة حائط زجاجية بزخرفة إسلامية",
+   "description": "",
+   "category": "ديكور",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-109/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "محافظ قماشية مطبوعة",
+   "description": "",
+   "category": "إكسسوارات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-109/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

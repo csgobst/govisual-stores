@@ -1,0 +1,85 @@
+{
+ "id": "SYMETA-013",
+ "verdict": "qualified",
+ "reason": "محل أوت ليت ألبسة أوروبية نشط في حمص يعرض بضاعته على فيسبوك دون منيو أو متجر رقمي (رابط viola.com موقع إيطالي لا علاقة له بالمحل).",
+ "sells": "ألبسة نسائية وأطفال أوروبية (Shein وLC Waikiki) وأحذية وإكسسوارات وألعاب",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "فيولا للألبسة الأوروبية (Viola outlet)",
+  "followers": "71 ألف",
+  "bio": "فيولا اوت ليت ماركات اجنبية",
+  "address": "حمص، الدبلان",
+  "phones": [
+   "+963981589356"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYMETA-013/logo.jpg",
+ "cover": "assets/SYMETA-013/cover.jpg",
+ "items": [
+  {
+   "name": "كنزة صوف نسائية Shein",
+   "description": "تشكيلة كبيرة ومميزة",
+   "category": "ألبسة نسائية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-013/item01.jpg",
+   "source_url": "https://www.facebook.com/reel/2129663451272211/"
+  },
+  {
+   "name": "جاكيت صوف Shein",
+   "description": "",
+   "category": "ألبسة نسائية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-013/item02.jpg",
+   "source_url": "https://www.facebook.com/reel/1128959312887293/"
+  },
+  {
+   "name": "مطرات ماء",
+   "description": "مطرات بألوان متعددة",
+   "category": "منوعات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-013/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "سيارات Hot Wheels",
+   "description": "",
+   "category": "ألعاب",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-013/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "صنادل كروكس أطفال",
+   "description": "",
+   "category": "أحذية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-013/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "قبعة كاب",
+   "description": "",
+   "category": "إكسسوارات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-013/item06.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

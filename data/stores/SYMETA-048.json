@@ -1,0 +1,105 @@
+{
+ "id": "SYMETA-048",
+ "verdict": "maybe",
+ "reason": "مكتبة قرطاسية وهدايا في عين منين تعرض منتجات بأسعار وبلا كتالوج رقمي، لكن آخر منشور ظاهر يعود إلى أيلول 2025 فتبدو غير نشطة مؤخراً.",
+ "sells": "قرطاسية، دفاتر، حقائب مدرسية، مطرات، كتب وروايات، ألعاب وهدايا",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "مكتبة حكيم",
+  "followers": "489",
+  "bio": "مكتبة حكيم - قرطاسية - ألعاب - هدايا",
+  "address": "عين منين - السوايد - مقابل خزان الكهرباء - بناء بيت قصيص، ريف دمشق",
+  "phones": [
+   "+963954536467"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/m_hakim_library",
+  "last_activity": "2025-09"
+ },
+ "logo": "assets/SYMETA-048/logo.jpg",
+ "cover": "assets/SYMETA-048/cover.jpg",
+ "items": [
+  {
+   "name": "أقلام رصاص مثلث",
+   "description": "عرض رجعة المدرسة: قلمين بـ 1500 والدزينة بـ 9000",
+   "category": "قرطاسية",
+   "price": 1500,
+   "currency": "SYP",
+   "price_text": "عدد 2 أقلام رصاص كلاس مثلث ب 1500 والدزينة بسعر 9000",
+   "image": "assets/SYMETA-048/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "أقلام ليكسي (4 أقلام)",
+   "description": "",
+   "category": "قرطاسية",
+   "price": 4000,
+   "currency": "SYP",
+   "price_text": "اربع اقلام ماركة ليكسي ب 4000",
+   "image": "assets/SYMETA-048/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "دفتر سبيرال شبابي",
+   "description": "",
+   "category": "دفاتر",
+   "price": 11000,
+   "currency": "SYP",
+   "price_text": "11000",
+   "image": "assets/SYMETA-048/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "دفتر أطفال كرتون",
+   "description": "",
+   "category": "دفاتر",
+   "price": 6000,
+   "currency": "SYP",
+   "price_text": "6000",
+   "image": "assets/SYMETA-048/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "دفتر أطفال كبير",
+   "description": "",
+   "category": "دفاتر",
+   "price": 10000,
+   "currency": "SYP",
+   "price_text": "10000",
+   "image": "assets/SYMETA-048/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حقيبة ظهر مموهة",
+   "description": "موديل 2027-3، 47.5×32×13 سم",
+   "category": "حقائب",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-048/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حقيبة مدرسية بناتية",
+   "description": "موديل 2023-9، عدة ألوان",
+   "category": "حقائب",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-048/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مطرات مياه رياضية",
+   "description": "",
+   "category": "مطرات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-048/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

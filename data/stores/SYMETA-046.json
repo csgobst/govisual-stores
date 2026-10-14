@@ -1,0 +1,85 @@
+{
+ "id": "SYMETA-046",
+ "verdict": "qualified",
+ "reason": "متجر هدايا في سوق العصرونية بدمشق ينشر منتجاته (حقائب مدرسية، ألعاب، عطور، هدايا) بالجملة والمفرق مع شحن، نشط حتى أغسطس 2026 بلا كتالوج رقمي.",
+ "sells": "هدايا، حقائب مدرسية وترولي، ألعاب وإنارات، عطور ومباخر",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "Ballon Gift store",
+  "followers": "147 ألف",
+  "bio": "متجر هدايا",
+  "address": "دمشق - سوق العصرونية",
+  "phones": [
+   "+963946118181"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-08"
+ },
+ "logo": "assets/SYMETA-046/logo.jpg",
+ "cover": "assets/SYMETA-046/cover.jpg",
+ "items": [
+  {
+   "name": "طقم حقيبة ترولي فراشة Jasmine Star",
+   "description": "حقيبة ترولي مع حقيبة طعام ومقلمة، تصميم فراشة وردي",
+   "category": "حقائب مدرسية",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYMETA-046/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم حقيبة ترولي سبايدرمان Jasmine Star",
+   "description": "ترولي مع حقيبة طعام ومقلمة، كوالتي تقيل",
+   "category": "حقائب مدرسية",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYMETA-046/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مبخرة عطرية حديثة",
+   "description": "مبخرة عطرية بتصميم حديث مع إضاءة",
+   "category": "عطور ومباخر",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYMETA-046/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "لمبدير ستيتش ميني لمس",
+   "description": "متوفر 12 موديل، جملة ومفرق",
+   "category": "ألعاب وإنارات",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYMETA-046/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "عطر خمرة لطافة",
+   "description": "العطر الإماراتي",
+   "category": "عطور ومباخر",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYMETA-046/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كرة الأحلام Romantic Love",
+   "description": "كرة ثلجية باللون الأحمر، متوفر 5 موديلات",
+   "category": "هدايا",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYMETA-046/item06.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

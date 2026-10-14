@@ -1,0 +1,96 @@
+{
+ "id": "SYNEW-136",
+ "verdict": "qualified",
+ "reason": "محل ألبسة نسائية وأطفال في حماة ينشر يومياً قطعاً بأسعارها مع شحن، ولا يملك متجراً أو كتالوجاً رقمياً.",
+ "sells": "ألبسة نسائية، فساتين بناتي، حقائب وأحذية",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "MMH-hama",
+  "followers": "142 ألف",
+  "bio": "صفحة MMH بمدينة حماه. نرحب بكم",
+  "address": "حماه - شارع ابن الرشد بعد مسجد السلطان (سنتر كوجك سابقاً)؛ الفرع الثاني شارع المغيلة مقابل روضة الزهور",
+  "phones": [
+   "+963930440244",
+   "+963930440246"
+  ],
+  "whatsapp": "",
+  "instagram": "mmh_hama",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYNEW-136/logo.jpg",
+ "cover": "assets/SYNEW-136/cover.jpg",
+ "items": [
+  {
+   "name": "سيت كامل جاكيت جينز مع بنطال",
+   "description": "عرض سيت كامل",
+   "category": "أطقم نسائية",
+   "price": 225000,
+   "currency": "SYP",
+   "price_text": "225 ألف",
+   "image": "assets/SYNEW-136/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حقيبة يد جلد أصلي",
+   "description": "أجنبي مستورد جلد أصلي، عدة ألوان",
+   "category": "حقائب",
+   "price": 125000,
+   "currency": "SYP",
+   "price_text": "125 ألف",
+   "image": "assets/SYNEW-136/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم بنطال أبيض مع بلوزة شيفون",
+   "description": "",
+   "category": "أطقم نسائية",
+   "price": 250000,
+   "currency": "SYP",
+   "price_text": "250 ألف",
+   "image": "assets/SYNEW-136/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان الأميرات بناتي",
+   "description": "فستان عراسي بناتي مقاسات من سنتين لـ 6 سنين",
+   "category": "ألبسة أطفال",
+   "price": 325000,
+   "currency": "SYP",
+   "price_text": "325 ألف",
+   "image": "assets/SYNEW-136/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم بنطال أبيض مع قميص كشكش أسود",
+   "description": "",
+   "category": "أطقم نسائية",
+   "price": 300000,
+   "currency": "SYP",
+   "price_text": "300 ألف",
+   "image": "assets/SYNEW-136/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم تنورة 3 قطع",
+   "description": "تنورة مع جاكيت وقميص",
+   "category": "أطقم نسائية",
+   "price": 300000,
+   "currency": "SYP",
+   "price_text": "300 ألف",
+   "image": "assets/SYNEW-136/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم شوز وحقيبة",
+   "description": "",
+   "category": "حقائب وأحذية",
+   "price": 250000,
+   "currency": "SYP",
+   "price_text": "250 ألف",
+   "image": "assets/SYNEW-136/item07.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

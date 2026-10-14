@@ -1,0 +1,85 @@
+{
+ "id": "SYMETA-067",
+ "verdict": "qualified",
+ "reason": "متجر مكياج وعطور واكسسوارات نشط جداً في حماة بمتابعين كثر ولا يملك قائمة رقمية.",
+ "sells": "مستحضرات تجميل، عطور ومزيلات عرق، اكسسوارات (جملة ومفرق)",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "إكسسوارات الملكة",
+  "followers": "34850",
+  "bio": "حماه/كفربو جانب حلويات الملك بأول الضيعة - متوفر لدينا جملة",
+  "address": "كفربو جانب حلويات الملك، حماة",
+  "phones": [
+   "+963988067297"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYMETA-067/logo.jpg",
+ "cover": "assets/SYMETA-067/cover.jpg",
+ "items": [
+  {
+   "name": "ملمع شفاه ANY KLAEN",
+   "description": "ألوان دافئة وطبيعية متعددة",
+   "category": "مكياج",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-067/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "آيلاينر Saffron Girl",
+   "description": "",
+   "category": "مكياج",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-067/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "سبلاش Gulf Orchid حجم كبير",
+   "description": "متوفر بأربع روائح",
+   "category": "عطور",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-067/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كونسيلر alo Peek A Boo",
+   "description": "",
+   "category": "مكياج",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-067/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بخاخ مزيل عرق فوليوم",
+   "description": "",
+   "category": "عناية شخصية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-067/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "ديودوران يارا من فيكتوريا",
+   "description": "5 عطور بحجم 200 مل",
+   "category": "عناية شخصية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-067/item06.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

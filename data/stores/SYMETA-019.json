@@ -1,0 +1,22 @@
+{
+ "id": "SYMETA-019",
+ "verdict": "maybe",
+ "reason": "صفحة متجر هدايا في اللاذقية لكنها شبه متوقفة: 5 متابعين ومنشور وحيد (صورة الملف) منذ شباط 2024 ولا توجد منتجات ظاهرة.",
+ "sells": "هدايا",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "lotf store",
+  "followers": "5",
+  "bio": "متجر هدايا",
+  "address": "اللاذقية، سوريا",
+  "phones": [],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2024-02"
+ },
+ "logo": "assets/SYMETA-019/logo.jpg",
+ "cover": "",
+ "items": [],
+ "checkedAt": "2026-10-15"
+}

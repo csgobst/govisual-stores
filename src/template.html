@@ -178,6 +178,24 @@ input[type=range]{width:100%;accent-color:var(--teal)}
 .person{background:#ffffff12;border:1px solid #ffffff22;border-radius:20px;padding:20px 10px;color:#fff;display:flex;flex-direction:column;align-items:center;gap:10px;transition:transform .15s,background .15s}
 .person:hover{background:#ffffff22;transform:translateY(-3px)}
 .person small{color:#9fc0cc}
+/* checked-store data */
+.pf img,.logoimg{width:100%;height:100%;object-fit:cover;border-radius:inherit;display:block}
+.pf.has-img{background:#fff;border:1px solid var(--line);overflow:hidden}
+.vd{border-radius:7px;padding:2px 8px;font-size:11px;font-weight:700;white-space:nowrap}
+.vd.qualified{background:#e4f8ef;color:#0d7a5f}.vd.maybe{background:#fff2df;color:#a06d12}
+.vd.not_qualified{background:#f1f0ee;color:#7a6f66}.vd.unreachable{background:#fde8e6;color:#b4413b}.vd.unchecked{background:#f1f4f8;color:#8491a0}
+.thumbs{display:grid;grid-template-columns:repeat(4,1fr);gap:6px}
+.thumbs div{aspect-ratio:1;border-radius:9px;overflow:hidden;background:#eef3f6;position:relative}
+.thumbs img{width:100%;height:100%;object-fit:cover;display:block}
+.thumbs span{position:absolute;inset-inline-start:4px;bottom:4px;background:#102d3cd9;color:#fff;font-size:10px;border-radius:5px;padding:0 5px;font-weight:700}
+.itemgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:10px}
+.item{border:1px solid var(--line);border-radius:12px;overflow:hidden;background:#fff;display:flex;flex-direction:column}
+.item .im{aspect-ratio:1;background:#eef3f6}
+.item .im img{width:100%;height:100%;object-fit:cover;display:block}
+.item .tx{padding:8px 10px;font-size:12px;display:flex;flex-direction:column;gap:2px}
+.item .tx b{font-size:12px}
+.item .price{color:var(--teal);font-weight:900}
+.cover{height:120px;border-radius:14px;background:#eef3f6 center/cover;margin-bottom:12px}
 .toast{position:fixed;bottom:20px;left:50%;transform:translateX(-50%);background:#102d3c;color:#fff;padding:10px 18px;border-radius:12px;font-size:13px;z-index:90;opacity:0;transition:opacity .2s;pointer-events:none}
 .toast.show{opacity:1}
 
@@ -251,6 +269,7 @@ input[type=range]{width:100%;accent-color:var(--teal)}
         <div class="panel"><div class="ph"><h2>الأقرب للإغلاق 🔥</h2><span class="mini">أعلى احتمال، لم تُغلق بعد</span></div><div class="list" id="hotList"></div></div>
         <div class="panel"><div class="ph"><h2>آخر نشاطي</h2><span class="mini">آخر 8 تحديثات</span></div><div class="list" id="myActivity"></div></div>
       </div>
+      <div class="panel" style="margin-bottom:14px"><div class="ph"><h2>متاجر مؤهلة وجاهزة للعرض ✓</h2><span class="mini">تبيع، بدون منيو رقمي، ولدينا منتجاتها — غير مختارة بعد</span></div><div class="list" id="readyList"></div></div>
       <div class="panel"><div class="ph"><h2>متاجر مختارة بلا أي تواصل بعد</h2><span class="mini">ابدأ بهذه — كل يوم تأخير يقلل الفرصة</span></div><div class="list" id="staleList"></div></div>
     </section>
 
@@ -268,6 +287,7 @@ input[type=range]{width:100%;accent-color:var(--teal)}
       <div class="filters">
         <label class="search"><input id="search" placeholder="⌕ ابحث باسم متجر، مدينة أو مجال..." aria-label="بحث"></label>
         <select id="fOwner" aria-label="المسؤول"></select>
+        <select id="fVerdict" aria-label="نتيجة الفحص"></select>
         <select id="fStage" aria-label="المرحلة"></select>
         <select id="fGov" aria-label="المحافظة"></select>
         <select id="fCat" aria-label="المجال"></select>
@@ -314,6 +334,7 @@ input[type=range]{width:100%;accent-color:var(--teal)}
       <div style="min-width:0"><div class="eyebrow">STORE DETAILS</div><h2 id="dname"></h2><p id="dplace" class="muted"></p><div class="chips" id="dchips" style="margin-top:6px"></div></div>
       <button id="close" class="close" aria-label="إغلاق">×</button>
     </div>
+    <div id="dcheck"></div>
     <div id="ownerBanner" class="banner"></div>
     <div class="box" style="margin-bottom:12px"><b>المرحلة</b><div class="stages" id="dstages"></div></div>
     <div class="dgrid">
@@ -363,6 +384,11 @@ const STAGES=[
   {id:'invalid',    label:'غير مناسب',        base:0,   color:'#9a8f86', desc:'الحساب مغلق/لا يعمل أو ليس متجراً.'}
 ];
 const ST=Object.fromEntries(STAGES.map(s=>[s.id,s]));
+// result of the browser check of each page (data/stores/<id>.json, merged at build time)
+const VERDICTS={qualified:'مؤهل ✓',maybe:'محتمل',not_qualified:'غير مؤهل',unreachable:'لا يعمل',unchecked:'لم يُفحص'};
+const verdict=x=>x.chk?.verdict||'unchecked';
+const items=x=>x.chk?.items||[];
+const fmtPrice=it=>it.price!=null&&it.price!==''?`${Number(it.price).toLocaleString('en-US')} ${({USD:'$',SYP:'ل.س',TRY:'ل.ت',EUR:'€'})[it.currency||'SYP']||it.currency}`:(it.price_text||'');
 const UMAP=Object.fromEntries(USERS.map(u=>[u.id,u]));
 const KEY='gv_stores_team_v1', UKEY='gv_stores_user';
 const $=id=>document.getElementById(id);
@@ -391,6 +417,13 @@ function fit(x,s){
   else if(a==='يطلب تسجيل الدخول')f-=4;
   else if(a==='الرابط لا يعمل')f-=35;
   if(s.phone)f+=6;
+  const v=verdict(x);
+  if(v==='qualified')f+=18+Math.min(6,items(x).length);
+  else if(v==='maybe')f+=4;
+  else if(v==='not_qualified')f-=35;
+  else if(v==='unreachable')f-=45;
+  if(x.chk?.has_digital_menu)f-=25;
+  if(x.chk?.page?.phones?.length)f+=4;
   return Math.max(0,Math.min(100,f));
 }
 function autoPct(x,s){
@@ -431,7 +464,9 @@ const av=(u,cls='')=>u?`<span class="av ${cls}" style="background:${u.color}" ti
 const stChip=id=>{const s=ST[id];return `<span class="st" style="color:${s.color};background:${s.color}1a">${esc(s.label)}</span>`};
 const pctBar=p=>`<div class="pct"><div class="track"><div class="fill" style="width:${p}%;background:${pctColor(p)}"></div></div><span style="color:${pctColor(p)}">${p}%</span></div>`;
 const ago=t=>{if(!t)return '';const m=Math.round((Date.now()-t)/60000);if(m<1)return 'الآن';if(m<60)return `قبل ${m} د`;const h=Math.round(m/60);if(h<24)return `قبل ${h} س`;return `قبل ${Math.round(h/24)} يوم`};
-function leadRow(x,extra=''){return `<button class="row" data-open="${esc(x.id)}"><span class="pf" style="width:34px;height:34px;font-size:15px">${x.platform==='Instagram'?'◎':'f'}</span><span class="grow"><b>${esc(x.name)}</b><small>${esc(x.gov)} · ${esc(x.cat)}${extra}</small></span>${stChip(x.stage)}<span style="width:70px">${pctBar(x.pct)}</span></button>`}
+const logo=x=>x.chk?.logo?`<img src="${esc(x.chk.logo)}" alt="" loading="lazy">`:(x.platform==='Instagram'?'◎':'f');
+const vdChip=x=>`<span class="vd ${verdict(x)}">${VERDICTS[verdict(x)]}</span>`;
+function leadRow(x,extra=''){return `<button class="row" data-open="${esc(x.id)}"><span class="pf ${x.chk?.logo?'has-img':''}" style="width:34px;height:34px;font-size:15px">${logo(x)}</span><span class="grow"><b>${esc(x.name)}</b><small>${esc(x.gov)} · ${esc(x.cat)}${extra}</small></span>${stChip(x.stage)}<span style="width:70px">${pctBar(x.pct)}</span></button>`}
 function funnel(list,el){
   const counts=STAGES.map(s=>[s,list.filter(x=>x.stage===s.id).length]);
   const m=Math.max(1,...counts.map(c=>c[1]));
@@ -473,6 +508,7 @@ function renderDash(){
   funnel(mine,'myFunnel');
   $('hotList').innerHTML=open.filter(x=>x.stage!=='chosen').sort((a,b)=>b.pct-a.pct).slice(0,6).map(x=>leadRow(x)).join('')||'<div class="empty">ابدأ التواصل مع متاجرك لتظهر الفرص هنا.</div>';
   $('myActivity').innerHTML=activity(all.filter(x=>(x.history||[]).some(h=>h.u===me)).map(x=>({...x,history:x.history.filter(h=>h.u===me)})),8,false);
+  $('readyList').innerHTML=all.filter(x=>!x.owner&&verdict(x)==='qualified').sort((a,b)=>items(b).length-items(a).length||b.pct-a.pct).slice(0,6).map(x=>leadRow(x,` · ${items(x).length} منتج`)).join('')||'<div class="empty">لا توجد متاجر مؤهلة متاحة حالياً.</div>';
   const stale=mine.filter(x=>x.stage==='chosen').sort((a,b)=>b.pct-a.pct);
   $('staleList').innerHTML=stale.slice(0,8).map(x=>leadRow(x,` · اختير ${ago(x.updatedAt)}`)).join('')||'<div class="empty">ممتاز — كل متاجرك المختارة بدأ التواصل معها.</div>';
 }
@@ -485,12 +521,12 @@ function renderBoard(){
     return `<div class="col"><h3><span class="st" style="color:${s.color};background:${s.color}1a">${esc(s.label)}</span><span class="n">${items.length}</span></h3>${items.map(x=>`<button class="kcard" data-open="${esc(x.id)}"><b>${esc(x.name)}</b><small>${esc(x.gov)} · ${esc(x.cat)}</small>${who==='all'?`<div class="owner" style="margin-top:4px">${av(UMAP[x.owner],'sm')} ${esc(UMAP[x.owner].name)}</div>`:''}<div style="margin-top:6px">${pctBar(x.pct)}</div>${x.follow?`<small>⏰ ${esc(x.follow)}</small>`:''}</button>`).join('')||'<div class="mini" style="padding:6px">—</div>'}</div>`}).join('');
 }
 
-let f={q:'',owner:'',stage:'',gov:'',cat:'',sort:'pct'},page=0,per=18,lview='cards';
+let f={q:'',owner:'',verdict:'',stage:'',gov:'',cat:'',sort:'pct'},page=0,per=18,lview='cards';
 const norm=t=>(t||'').toLocaleLowerCase().replace(/[ً-ٟ]/g,'').replace(/[أإآ]/g,'ا').replace(/ة/g,'ه');
 function filtered(){
   let r=rows().filter(x=>(!f.q||norm([x.name,x.gov,x.city,x.cat,x.note].join(' ')).includes(norm(f.q)))
     &&(!f.owner||(f.owner==='free'?!x.owner:f.owner==='mine'?x.owner===me:x.owner===f.owner))
-    &&(!f.stage||x.stage===f.stage)&&(!f.gov||x.gov===f.gov)&&(!f.cat||x.cat===f.cat));
+    &&(!f.verdict||verdict(x)===f.verdict)&&(!f.stage||x.stage===f.stage)&&(!f.gov||x.gov===f.gov)&&(!f.cat||x.cat===f.cat));
   const by={pct:(a,b)=>b.pct-a.pct||(a.owner?1:0)-(b.owner?1:0),name:(a,b)=>a.name.localeCompare(b.name,'ar'),updated:(a,b)=>(b.updatedAt||0)-(a.updatedAt||0),gov:(a,b)=>a.gov.localeCompare(b.gov,'ar')};
   // untouched stores rank by fit so the best targets surface first
   if(f.sort==='pct')return r.sort((a,b)=>(b.pct||fit(b,state[b.id]||{})/10)-(a.pct||fit(a,state[a.id]||{})/10));
@@ -502,8 +538,11 @@ function ownerLine(x){
 }
 function card(x){
   const ft=fit(x,state[x.id]||{});
-  return `<article class="lead ${x.owner===me?'mine':''}"><div class="leadtop"><div class="pf">${x.platform==='Instagram'?'◎':'f'}</div><div class="leadhead"><b title="${esc(x.name)}">${esc(x.name)}</b><small>⌖ ${esc(x.gov)} · ${esc(x.city)}</small></div>${stChip(x.stage)}</div>
-  <div class="chips"><span class="chip ${x.platform==='Facebook'?'fb':'ig'}">${x.platform}</span><span class="chip">${esc(x.cat)}</span>${x.menu_url?'<span class="chip">لديه كتالوج</span>':'<span class="chip warn">بدون كتالوج رقمي</span>'}${x.access&&x.access!=='لم يُفحص'?`<span class="chip ${x.access==='الرابط لا يعمل'?'bad':''}">${esc(x.access)}</span>`:''}</div>
+  const its=items(x).filter(i=>i.image);
+  return `<article class="lead ${x.owner===me?'mine':''}"><div class="leadtop"><div class="pf ${x.chk?.logo?'has-img':''}">${logo(x)}</div><div class="leadhead"><b title="${esc(x.name)}">${esc(x.name)}</b><small>⌖ ${esc(x.gov)} · ${esc(x.city)}</small></div>${stChip(x.stage)}</div>
+  <div class="chips">${vdChip(x)}<span class="chip ${x.platform==='Facebook'?'fb':'ig'}">${x.platform}</span><span class="chip">${esc(x.cat)}</span>${x.chk?.has_digital_menu||x.menu_url?'<span class="chip bad">لديه منيو رقمي</span>':'<span class="chip warn">بدون كتالوج رقمي</span>'}${items(x).length?`<span class="chip">${items(x).length} منتج</span>`:''}${x.access&&x.access!=='لم يُفحص'?`<span class="chip ${x.access==='الرابط لا يعمل'?'bad':''}">${esc(x.access)}</span>`:''}</div>
+  ${its.length?`<div class="thumbs">${its.slice(0,4).map(i=>`<div><img src="${esc(i.image)}" alt="${esc(i.name)}" loading="lazy">${fmtPrice(i)?`<span>${esc(fmtPrice(i))}</span>`:''}</div>`).join('')}</div>`:''}
+  ${x.chk?.sells?`<p class="mini">🛍 ${esc(x.chk.sells)}</p>`:''}
   <div>${x.stage==='new'?`<div class="mini">ملاءمة المتجر لـ GoVisual: <b style="color:${pctColor(ft)}">${ft}%</b></div>`:pctBar(x.pct)}</div>
   ${x.note?`<p class="mini" style="display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden">📝 ${esc(x.note)}</p>`:''}
   <div class="leadfoot">${ownerLine(x)}<div class="bar">${!x.owner?`<button class="smallbtn go" data-claim="${esc(x.id)}">＋ اختره</button>`:''}<a class="smallbtn" target="_blank" rel="noopener noreferrer" href="${esc(x.url)}">↗</a><button class="smallbtn" data-open="${esc(x.id)}">تفاصيل</button></div></div></article>`;
@@ -548,7 +587,18 @@ function openLead(id){
   sel=id;const x=rec(ALL.find(a=>a.id===id));if(!x)return;
   draft={stage:x.stage,pct:x.pct,pctManual:!!x.pctManual,follow:x.follow||'',channel:x.channel||'',access:x.access||'لم يُفحص',phone:x.phone||'',note:x.note||''};
   $('dname').textContent=x.name;$('dplace').textContent=`${x.gov} / ${x.city} · ${x.cat}`;
-  $('dchips').innerHTML=`<span class="chip ${x.platform==='Facebook'?'fb':'ig'}">${x.platform}</span>${x.menu_url?'<span class="chip">لديه كتالوج</span>':'<span class="chip warn">بدون كتالوج رقمي</span>'}<span class="chip">ملاءمة ${fit(x,state[id]||{})}%</span>`;
+  $('dchips').innerHTML=`${vdChip(x)}<span class="chip ${x.platform==='Facebook'?'fb':'ig'}">${x.platform}</span>${x.chk?.has_digital_menu||x.menu_url?'<span class="chip bad">لديه منيو رقمي</span>':'<span class="chip warn">بدون كتالوج رقمي</span>'}<span class="chip">ملاءمة ${fit(x,state[id]||{})}%</span>`;
+  const c=x.chk,pg=c?.page||{};
+  $('dcheck').innerHTML=!c?'<div class="banner warn">لم يُفحص هذا المتجر بالمتصفح بعد.</div>':`
+    ${c.cover?`<div class="cover" style="background-image:url('${esc(c.cover)}')"></div>`:''}
+    <div class="box" style="margin-bottom:12px"><b>نتيجة فحص الصفحة ${c.checkedAt?'· '+esc(String(c.checkedAt).slice(0,10)):''}</b>
+      <p style="font-size:13px">${vdChip(x)} ${esc(c.reason||'')}</p>
+      ${c.sells?`<p class="mini" style="margin-top:4px">🛍 يبيع: ${esc(c.sells)}</p>`:''}
+      ${pg.bio?`<p class="mini" style="margin-top:4px">📝 ${esc(pg.bio)}</p>`:''}
+      <div class="chips" style="margin-top:6px">${pg.followers?`<span class="chip">👥 ${esc(pg.followers)}</span>`:''}${(pg.phones||[]).map(p=>`<a class="chip" href="tel:${esc(p)}">📞 ${esc(p)}</a>`).join('')}${pg.whatsapp?`<a class="chip" target="_blank" rel="noopener noreferrer" href="${esc(/^https?:/.test(pg.whatsapp)?pg.whatsapp:'https://wa.me/'+pg.whatsapp.replace(/\D/g,''))}">واتساب</a>`:''}${pg.instagram?`<span class="chip ig">${esc(pg.instagram)}</span>`:''}${pg.address?`<span class="chip">⌖ ${esc(pg.address)}</span>`:''}${pg.last_activity?`<span class="chip">آخر نشاط ${esc(pg.last_activity)}</span>`:''}${c.menu_link?`<a class="chip bad" target="_blank" rel="noopener noreferrer" href="${esc(c.menu_link)}">منيو حالي ↗</a>`:''}</div>
+    </div>
+    ${items(x).length?`<div class="box" style="margin-bottom:12px"><b>آخر المنتجات من الصفحة (${items(x).length})</b><div class="itemgrid">${items(x).map(i=>`<div class="item"><div class="im">${i.image?`<img src="${esc(i.image)}" alt="${esc(i.name)}" loading="lazy">`:''}</div><div class="tx"><b>${esc(i.name)}</b>${i.category?`<span class="mini">${esc(i.category)}</span>`:''}${fmtPrice(i)?`<span class="price">${esc(fmtPrice(i))}</span>`:'<span class="mini">السعر غير معلن</span>'}</div></div>`).join('')}</div></div>`:''}`;
+  if(c?.page?.phones?.length&&!draft.phone){draft.phone=c.page.phones[0]}
   $('durl').href=x.url;$('durl').textContent=x.url;
   $('dextra').innerHTML=[x.instagram_url&&`<a class="link" target="_blank" rel="noopener noreferrer" href="${esc(x.instagram_url)}">إنستغرام ↗</a>`,x.menu_url&&`<a class="link" target="_blank" rel="noopener noreferrer" href="${esc(x.menu_url)}">الكتالوج الحالي ↗</a>`,/^https:\/\//.test(x.source||'')&&`<a class="link" target="_blank" rel="noopener noreferrer" href="${esc(x.source)}">مصدر البيانات ↗</a>`].filter(Boolean).join(' · ');
   $('dev').textContent=x.syria_evidence||'';
@@ -632,14 +682,15 @@ function pick(id){me=id;try{localStorage.setItem(UKEY,id)}catch(e){}$('boardOwne
 const sel_=(id,opts,ph)=>$(id).innerHTML=`<option value="">${ph}</option>`+opts.map(([v,l])=>`<option value="${esc(v)}">${esc(l)}</option>`).join('');
 const uniq=a=>[...new Set(a)].sort((a,b)=>a.localeCompare(b,'ar'));
 sel_('fOwner',[['mine','متاجري'],['free','المتاحة فقط'],...USERS.map(u=>[u.id,u.name])],'المسؤول: الكل');
+sel_('fVerdict',Object.entries(VERDICTS),'نتيجة الفحص: الكل');
 sel_('fStage',STAGES.map(s=>[s.id,s.label]),'المرحلة: الكل');
 sel_('fGov',uniq(ALL.map(x=>x.gov)).map(v=>[v,v]),'كل المحافظات');
 sel_('fCat',uniq(ALL.map(x=>x.cat)).map(v=>[v,v]),'كل المجالات');
 $('boardOwner').innerHTML=USERS.map(u=>`<option value="${u.id}">مراحل: ${esc(u.name)}</option>`).join('')+'<option value="all">مراحل: كل الفريق</option>';
 
 $('search').oninput=e=>{f.q=e.target.value;page=0;render()};
-[['fOwner','owner'],['fStage','stage'],['fGov','gov'],['fCat','cat'],['fSort','sort']].forEach(([id,k])=>$(id).onchange=e=>{f[k]=e.target.value;page=0;render()});
-$('reset').onclick=()=>{f={q:'',owner:'',stage:'',gov:'',cat:'',sort:'pct'};page=0;['search','fOwner','fStage','fGov','fCat'].forEach(id=>$(id).value='');$('fSort').value='pct';render()};
+[['fOwner','owner'],['fVerdict','verdict'],['fStage','stage'],['fGov','gov'],['fCat','cat'],['fSort','sort']].forEach(([id,k])=>$(id).onchange=e=>{f[k]=e.target.value;page=0;render()});
+$('reset').onclick=()=>{f={q:'',owner:'',verdict:'',stage:'',gov:'',cat:'',sort:'pct'};page=0;['search','fOwner','fVerdict','fStage','fGov','fCat'].forEach(id=>$(id).value='');$('fSort').value='pct';render()};
 $('ctab').onclick=()=>{lview='cards';render()};$('ttab').onclick=()=>{lview='table';render()};
 $('prev').onclick=()=>{page--;render();$('v-leads').scrollIntoView()};$('next').onclick=()=>{page++;render();$('v-leads').scrollIntoView()};
 $('csv').onclick=csvExport;$('boardOwner').onchange=render;

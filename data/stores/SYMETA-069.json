@@ -1,0 +1,105 @@
+{
+ "id": "SYMETA-069",
+ "verdict": "qualified",
+ "reason": "ورشة حقائب في جرمانا تنشر منتجاتها يومياً (آخر منشور قبل يوم) وتبيع جملة عبر واتساب دون أي كتالوج رقمي، والزبائن يسألون عن القياسات والأسعار.",
+ "sells": "حقائب مدرسية وسفرية ورياضية وحقائب صدر وخصر (جملة)",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "حقائب الصفا",
+  "followers": "2 ألف",
+  "bio": "إنتاج جميع أنواع الحقائب المدرسية والسفرية والدعاية",
+  "address": "جرمانا، ريف دمشق",
+  "phones": [
+   "0936236018"
+  ],
+  "whatsapp": "0936236018",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYMETA-069/logo.jpg",
+ "cover": "assets/SYMETA-069/cover.jpg",
+ "items": [
+  {
+   "name": "حقيبة ظهر سوداء متعددة الجيوب",
+   "description": "",
+   "category": "حقائب ظهر",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-069/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حقيبة ظهر زيتية",
+   "description": "",
+   "category": "حقائب ظهر",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-069/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حقيبة صدر رياضية",
+   "description": "",
+   "category": "حقائب صدر",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-069/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم حقائب سفر بناتي (3 قطع)",
+   "description": "نقشات ملونة، للجملة",
+   "category": "حقائب سفر",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-069/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم حقائب رياضية (3 قطع)",
+   "description": "",
+   "category": "حقائب رياضية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-069/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حقيبة رياضية بطابقين",
+   "description": "",
+   "category": "حقائب رياضية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-069/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حقيبة خصر",
+   "description": "",
+   "category": "حقائب خصر",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-069/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حقائب مدرسية للأطفال",
+   "description": "موسم العام الدراسي 2026-2027",
+   "category": "حقائب مدرسية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-069/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

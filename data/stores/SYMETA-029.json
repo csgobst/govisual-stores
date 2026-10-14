@@ -1,0 +1,73 @@
+{
+ "id": "SYMETA-029",
+ "verdict": "maybe",
+ "reason": "متجر عبايات وجلابيات بلا منيو رقمي ومنتجات واضحة، لكن آخر منشور كان في كانون الأول 2025 (قرابة 10 أشهر) ولا يوجد رقم تواصل ظاهر.",
+ "sells": "ألبسة نسائية محتشمة: عبايات وجلابيات",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "الشامي للزي الشرعي",
+  "followers": "226",
+  "bio": "متجر ملابس",
+  "address": "الحسكة (الصفحة تذكر: الزرقاء)",
+  "phones": [],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2025-12"
+ },
+ "logo": "assets/SYMETA-029/logo.jpg",
+ "cover": "assets/SYMETA-029/cover.jpg",
+ "items": [
+  {
+   "name": "عباية معطف شتوية",
+   "description": "قطعة تجمع بين المعطف والعباية، قماش شتوي فاخر وقصة انسيابية",
+   "category": "عبايات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-029/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "جلباب شامواه فاخر",
+   "description": "تصميم جديد بخامة الشامواه",
+   "category": "جلابيات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-029/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "عباية شامواه",
+   "description": "",
+   "category": "عبايات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-029/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "جلباب مصوف",
+   "description": "خمسة ألوان، مقاسات من 42 إلى 52",
+   "category": "جلابيات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-029/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "عباية صوف شتوية مطرزة",
+   "description": "خامة شتوية ثقيلة مع تطريز وقصة جاكيت",
+   "category": "عبايات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-029/item05.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

@@ -1,0 +1,65 @@
+{
+ "id": "SYMETA-036",
+ "verdict": "qualified",
+ "reason": "متجر هدايا في حلب يبيع باقات ورد ودباديب وتنسيقات هدايا مع توصيل، نشط حتى أغسطس 2026 ولا يملك متجراً أو كتالوجاً رقمياً.",
+ "sells": "باقات ورد طبيعي، دباديب، تنسيقات هدايا وبالونات",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "هدايا حلب _Gift Aleppo",
+  "followers": "5.5 ألف",
+  "bio": "هدايا من جميع انحاء العالم الى حلب بيع بالتجزئة _ جملة. يوجد شحن لكافة المحافظات. للاستفسار واتس 0982426483",
+  "address": "حلب، سوريا",
+  "phones": [
+   "+963982426483"
+  ],
+  "whatsapp": "+963982426483",
+  "instagram": "aleppo_giftt",
+  "last_activity": "2026-08"
+ },
+ "logo": "assets/SYMETA-036/logo.jpg",
+ "cover": "",
+ "items": [
+  {
+   "name": "تنسيق بالونات مع دبدوب وشوكولا وورد",
+   "description": "بوكس هدية بقوس بالونات وردي وأبيض مع دبدوب وشوكولا وورد طبيعي",
+   "category": "تنسيقات هدايا",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYMETA-036/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بوكيه ورد أبيض",
+   "description": "بوكيه ورد جوري أبيض مع جبسوفيلا زرقاء، جاهز للتسليم المباشر",
+   "category": "باقات ورد",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYMETA-036/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "دبدوب كبير",
+   "description": "دبدوب قطيفة حجم كبير",
+   "category": "دباديب",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYMETA-036/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بوكس دبدوب مع مكياج وورد",
+   "description": "تنسيق هدية بدبدوب ومنتجات مكياج وورد",
+   "category": "تنسيقات هدايا",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYMETA-036/item04.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

@@ -1,0 +1,105 @@
+{
+ "id": "SYNEW-168",
+ "verdict": "qualified",
+ "reason": "محل أحذية نشط في درعا (9 آلاف متابع، آخر منشور أيلول 2026) ينشر موديلاته مع النمر المتوفرة ولا يملك متجراً أو كتالوجاً رقمياً.",
+ "sells": "أحذية طبية ورياضية ورسمية، شحاطات نسائية سيليكون",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "أحذية أبوعاتوق",
+  "followers": "9.2 ألف",
+  "bio": "جميع الاحذية الطبية",
+  "address": "درعا - شمال الخط - بجانب كازية الشعب",
+  "phones": [
+   "+963933578962"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-09"
+ },
+ "logo": "assets/SYNEW-168/logo.jpg",
+ "cover": "assets/SYNEW-168/cover.jpg",
+ "items": [
+  {
+   "name": "حذاء رجالي جلد طبيعي ORSO BRUNO",
+   "description": "صناعة سورية، جلد طبيعي",
+   "category": "أحذية رجالية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-168/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "شحاطة نسائية طبية سيليكون سوداء",
+   "description": "نمر من 37 إلى 41",
+   "category": "شحاطات نسائية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-168/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "شحاطة نسائية طبية سيليكون أخضر",
+   "description": "نمر من 37 إلى 41",
+   "category": "شحاطات نسائية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-168/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "شحاطة نسائية طبية سيليكون زهري",
+   "description": "نمر من 37 إلى 41",
+   "category": "شحاطات نسائية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-168/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حذاء رياضة فيتنامي أسود",
+   "description": "أورجينال، نمر من 40 إلى 45",
+   "category": "أحذية رياضية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-168/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حذاء رياضة فيتنامي أبيض",
+   "description": "أورجينال، نمر من 40 إلى 45",
+   "category": "أحذية رياضية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-168/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حذاء رياضة EA7",
+   "description": "نمر من 40 إلى 45",
+   "category": "أحذية رياضية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-168/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "شحاطة نسائية بإبزيم E7213",
+   "description": "نمر 36-41، ألوان أسود وبيج وزهري وخمري؛ الصورة كتالوج مورد بسعر جملة 108$",
+   "category": "شحاطات نسائية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-168/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

@@ -1,0 +1,24 @@
+{
+ "id": "SYNEW-089",
+ "verdict": "not_qualified",
+ "reason": "محل حلويات وآيس كريم رولز نشط في حلب لكنه يملك موقع قائمة منتجات رقمي مع سلة طلبات على fustokrolls.com.",
+ "sells": "آيس كريم رولز، كنافة، كريب وحلويات غربية وشرقية",
+ "has_digital_menu": true,
+ "menu_link": "http://fustokrolls.com/",
+ "page": {
+  "title": "Fustok Rolls - فستق رولز",
+  "followers": "82 ألف",
+  "bio": "آيس كريم رولز و كتير شغلات طيبة - طازجة وطبيعية تحضر امامك",
+  "address": "حلب، الموغامبو، طلعة سماقية العريضة خلف جامع الروضة",
+  "phones": [
+   "+963951630347"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/fustokrolls",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYNEW-089/logo.jpg",
+ "cover": "assets/SYNEW-089/cover.jpg",
+ "items": [],
+ "checkedAt": "2026-10-15"
+}

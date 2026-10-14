@@ -1,0 +1,106 @@
+{
+ "id": "SYNEW-110",
+ "verdict": "qualified",
+ "reason": "متجر كريستال وهدايا وأدوات منزلية نشط جداً في الميدان بدمشق (منشورات يومية أكتوبر 2026) والزبائن يسألون عن السعر في التعليقات، ولا يوجد منيو أو متجر رقمي.",
+ "sells": "كريستالات وهدايا وأدوات منزلية وزجاجيات",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "هدايا الاشمر",
+  "followers": "35 ألف",
+  "bio": "كريستالات ... هدايا ... ادوات منزلية - متوفر خدمة توصيل ضمن دمشق",
+  "address": "دمشق، الميدان، أبو حبل، مقابل صيدلية خطاب",
+  "phones": [
+   "0992633343",
+   "0118881196"
+  ],
+  "whatsapp": "0992633343",
+  "instagram": "https://www.instagram.com/hadaya.alashmar",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYNEW-110/logo.jpg",
+ "cover": "assets/SYNEW-110/cover.jpg",
+ "items": [
+  {
+   "name": "مجسم طيور فلامنغو معدني",
+   "description": "زوج طيور فلامنغو ديكور بلون فضي",
+   "category": "ديكور",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-110/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "جاط زجاج مورانو أخضر",
+   "description": "جاط فواكه زجاج مموج على قاعدة",
+   "category": "كريستال وزجاجيات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-110/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "جاط زجاج أزرق",
+   "description": "جاط زجاج مموج أزرق بقاعدة مزخرفة",
+   "category": "كريستال وزجاجيات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-110/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "شمعدان كريستال",
+   "description": "شمعدان كريستال بثلاث شمعات",
+   "category": "كريستال وزجاجيات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-110/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "ساعة كريستال",
+   "description": "ساعة طاولة كريستال",
+   "category": "ديكور",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-110/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "إبريق شاي مزخرف",
+   "description": "إبريق شاي إينامل بورود ومقبض خزفي",
+   "category": "أدوات منزلية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-110/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فازات زجاج مذهبة",
+   "description": "طقم فازات زجاج أحمر بزخرفة ذهبية",
+   "category": "ديكور",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-110/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كاسات كريستال بوهيميا",
+   "description": "كاسات زجاج كريستال بعلب",
+   "category": "كريستال وزجاجيات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-110/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

@@ -1,0 +1,65 @@
+{
+ "id": "SYNEW-162",
+ "verdict": "maybe",
+ "reason": "محل ألبسة رجالية في اللاذقية بلا كتالوج رقمي ويعرض منتجات واضحة، لكن آخر نشاط ظاهر يعود إلى تشرين الأول 2023 والأسعار ترسل بالخاص فقط.",
+ "sells": "ألبسة رجالية: بلايز بولو وتيشيرتات قطن",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "MAKKI للألبسة الرجالية",
+  "followers": "11962",
+  "bio": "تجارة الألبسة الرجالية عالية الجودة",
+  "address": "اللاذقية، سوريا",
+  "phones": [
+   "+96341559973"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2023-10"
+ },
+ "logo": "assets/SYNEW-162/logo.jpg",
+ "cover": "assets/SYNEW-162/cover.jpg",
+ "items": [
+  {
+   "name": "بلوزة لاكوست بولو",
+   "description": "قماش مستورد عالي الجودة بألوان صيفية",
+   "category": "بلايز",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-162/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بلوزة بولو ملونة",
+   "description": "تشكيلة ألوان",
+   "category": "بلايز",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-162/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بلوزة قطن Combine Training",
+   "description": "لونين: أسود وأبيض",
+   "category": "تيشيرتات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-162/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بلوزة قطن Casual",
+   "description": "قماش مستورد مكفول",
+   "category": "تيشيرتات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-162/item04.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

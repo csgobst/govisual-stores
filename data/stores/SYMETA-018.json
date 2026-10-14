@@ -1,0 +1,106 @@
+{
+ "id": "SYMETA-018",
+ "verdict": "qualified",
+ "reason": "متجر هدايا نشط في حماة ينشر منتجاته (آخر منشور أيلول 2026) ويعطي الأسعار بالرسائل فقط، ولا يملك منيو أو متجراً رقمياً.",
+ "sells": "هدايا، أكواب وفناجين، حرف يدوية خشبية، إكسسوار، عطورات، مكياج",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "البراء",
+  "followers": "3.4 ألف",
+  "bio": "هدايا - حرف يدوية - اكسسوار - عطورات - مكياج",
+  "address": "حماة - طريق حلب - موقف مساكن الضاهرية، شحن لجميع المحافظات",
+  "phones": [
+   "+963959582621",
+   "0332422496"
+  ],
+  "whatsapp": "+963959582621",
+  "instagram": "albaraa_for_gift",
+  "last_activity": "2026-09"
+ },
+ "logo": "assets/SYMETA-018/logo.jpg",
+ "cover": "assets/SYMETA-018/cover.jpg",
+ "items": [
+  {
+   "name": "كوب زجاج دب",
+   "description": "كوب زجاجي بشكل دب",
+   "category": "أكواب",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-018/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كوب سيراميك دب بغطاء",
+   "description": "",
+   "category": "أكواب",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-018/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كوب Lucky قطة بغطاء",
+   "description": "",
+   "category": "أكواب",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-018/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فنجان مع صحن مزخرف",
+   "description": "",
+   "category": "أكواب",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-018/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم فناجين قهوة ملونة",
+   "description": "",
+   "category": "أكواب",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-018/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم كاسات زجاج عسلي",
+   "description": "علبة كاسات زجاج",
+   "category": "أكواب",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-018/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "صينية خشب محفورة",
+   "description": "صينية خشب بالرسم والكتابة حسب الطلب",
+   "category": "حرف يدوية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-018/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مبخرة ذهبية",
+   "description": "",
+   "category": "عطورات وبخور",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-018/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

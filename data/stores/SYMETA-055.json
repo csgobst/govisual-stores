@@ -1,0 +1,106 @@
+{
+ "id": "SYMETA-055",
+ "verdict": "qualified",
+ "reason": "محل ألبسة أطفال نشط في اللاذقية ينشر موديلات بأرقام وقياسات ولا يملك منيو أو متجر رقمي.",
+ "sells": "ألبسة أطفال: بناطيل جينز مطاط، بيجامات فليس ومخمل",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "LAMAR",
+  "followers": "2.3 ألف",
+  "bio": "ألبسة أطفال ب ب ولادي محير - اللاذقية شارع هنانو عبارة الأطفال",
+  "address": "اللاذقية، شارع هنانو، عبارة الأطفال",
+  "phones": [
+   "+963991277662",
+   "+963996049132"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/lamarkids2026",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYMETA-055/logo.jpg",
+ "cover": "assets/SYMETA-055/cover.jpg",
+ "items": [
+  {
+   "name": "بيجامة مخمل أطفال",
+   "description": "بيجامات مخمل تقيلة من عمر سنتين حتى 5 سنوات",
+   "category": "بيجامات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-055/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بنطال جينز مطاط صبياني موديل 3769",
+   "description": "قياس 95-115، وسط",
+   "category": "بناطيل ولادي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-055/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بنطال جينز مطاط صبياني موديل 12370",
+   "description": "قياس 50-65، للأصغر",
+   "category": "بناطيل ولادي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-055/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بنطال صبياني مطاط دبل نمرة موديل 6827",
+   "description": "قياس 65-90",
+   "category": "بناطيل ولادي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-055/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بنطال بوي فرند صبياني مطاط موديل 3748",
+   "description": "قياس 95-115",
+   "category": "بناطيل ولادي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-055/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بنطال بوت كات بناتي مطاط موديل 08751",
+   "description": "قياس 65-90، للمدرسة والطلعات",
+   "category": "بناطيل بناتي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-055/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بنطال بوت كات بناتي مطاط موديل 08723",
+   "description": "قياس 65-90 مع فيونكات",
+   "category": "بناطيل بناتي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-055/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بنطال بوت كات بناتي مطاط موديل 08727",
+   "description": "قياس 65-90",
+   "category": "بناطيل بناتي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-055/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

@@ -1,0 +1,95 @@
+{
+ "id": "SYNEW-176",
+ "verdict": "qualified",
+ "reason": "متجر ألعاب وحقائب أطفال نشط حتى سبتمبر 2026 ينشر منتجاته، والموقع المذكور toyzone.me لا يعمل (النطاق لا يُحل) فلا يوجد كتالوج رقمي فعّال.",
+ "sells": "ألعاب أطفال أصلية، حقائب مدرسية، دمى وفيغرات",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "Toy zone",
+  "followers": "4.8 ألف",
+  "bio": "Toy zone is a unique toy store retail concept that offers its customers the widest range of authentic toys",
+  "address": "دمشق",
+  "phones": [
+   "+963949997001"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-09"
+ },
+ "logo": "assets/SYNEW-176/logo.jpg",
+ "cover": "assets/SYNEW-176/cover.jpg",
+ "items": [
+  {
+   "name": "حقيبة مدرسية Sonic Prime",
+   "description": "حقيبة ظهر أطفال برسمة سونيك",
+   "category": "حقائب مدرسية",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYNEW-176/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حقيبة ظهر Spirits of Nature",
+   "description": "حقيبة لامعة بألوان الباستيل",
+   "category": "حقائب مدرسية",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYNEW-176/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حقيبة مدرسية Batwheels",
+   "description": "",
+   "category": "حقائب مدرسية",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYNEW-176/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حقائب ظهر شبابية",
+   "description": "زيتي وبيج بخطوط",
+   "category": "حقائب مدرسية",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYNEW-176/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "دمية دورا المستكشفة",
+   "description": "Explore with DORA",
+   "category": "دمى",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYNEW-176/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "ستيتش في فنجان",
+   "description": "مثالية كهدية عيد ميلاد",
+   "category": "ألعاب وهدايا",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYNEW-176/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مجموعة فيغرات Paw Patrol",
+   "description": "برج Air Rescue مع شخصيات باو باترول",
+   "category": "ألعاب وفيغرات",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYNEW-176/item07.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

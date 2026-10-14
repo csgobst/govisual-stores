@@ -1,0 +1,75 @@
+{
+ "id": "SYNEW-100",
+ "verdict": "maybe",
+ "reason": "الصفحة تحولت إلى متجر بيت المكسرات في حمص ويبيع منتجات فعلية بدون منيو رقمي، لكن آخر منشور ظاهر يعود إلى نوفمبر 2023 فالنشاط الحالي غير مؤكد.",
+ "sells": "مكسرات وشوكولا ومنظفات وعناية شخصية وأدوات منزلية",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "مركز وجوه Faces center (بيت المكسرات مصنع السعادة)",
+  "followers": "8.6 ألف",
+  "bio": "مصنع السعادة واكتر",
+  "address": "حمص - ساحة الزهراء، جانب سوبر ماركت الجنيدي",
+  "phones": [
+   "+963942000442"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2023-11"
+ },
+ "logo": "assets/SYNEW-100/logo.jpg",
+ "cover": "assets/SYNEW-100/cover.jpg",
+ "items": [
+  {
+   "name": "فناجين قهوة اتيكيت",
+   "description": "8 موديلات صحن سادة و6 موديلات صحن قسمين، تباع 6 بعلبة",
+   "category": "أدوات منزلية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "تباع 6 بعلبة",
+   "image": "assets/SYNEW-100/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "أطقم فناجين مذهبة",
+   "description": "أطقم فناجين قهوة بعلب هدايا",
+   "category": "أدوات منزلية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-100/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مزيل عرق دوف",
+   "description": "ديدوران دوف الأصلي حماية 48 ساعة بعدة روائح",
+   "category": "عناية شخصية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-100/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "لوشن نيفيا",
+   "description": "لوشن جسم بالكاكاو والألوفيرا",
+   "category": "عناية شخصية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-100/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "شاور جل ماليزيا",
+   "description": "شاور جل Malizia بعدة روائح حجم لتر",
+   "category": "عناية شخصية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-100/item05.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

@@ -1,0 +1,85 @@
+{
+ "id": "SYMETA-003",
+ "verdict": "qualified",
+ "reason": "محل مستحضرات تجميل وإكسسوارات نشط في دمشق ينشر منتجاته مع أسعار على فيسبوك ولا يملك منيو أو متجراً رقمياً.",
+ "sells": "مستحضرات تجميل وعطور وإكسسوارات وأجهزة عناية بالشعر",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "Rose cosmetics روز",
+  "followers": "8.1 ألف",
+  "bio": "روز | مستحضرات تجميل وعطور - مكياج | إكسسوارات - تنسيق هدايا وعطور - مستلزمات العناية بالبشرة",
+  "address": "دمشق، ركن الدين، شارع أسد الدين مقابل مخبز آدم",
+  "phones": [
+   "0932562090"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/rosecosmetic15",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYMETA-003/logo.jpg",
+ "cover": "assets/SYMETA-003/cover.jpg",
+ "items": [
+  {
+   "name": "طقم إكسسوار فضي",
+   "description": "طقم طوق وحلق بلون فضي أو ذهبي",
+   "category": "إكسسوارات",
+   "price": 40000,
+   "currency": "SYP",
+   "price_text": "٤٠ الف",
+   "image": "assets/SYMETA-003/item01.jpg",
+   "source_url": "https://www.facebook.com/rosecosmetic88/posts/pfbid0tHY2j1PfHqaVLUz6FdUUh5S2sLP6VzS5B4GNccLAmHiKc1vYM3NTNsV1iasrjrWFl"
+  },
+  {
+   "name": "عرق للشعر",
+   "description": "عروق للشعر فضي وذهبي",
+   "category": "إكسسوارات",
+   "price": 35000,
+   "currency": "SYP",
+   "price_text": "٣٥ الف",
+   "image": "assets/SYMETA-003/item02.jpg",
+   "source_url": "https://www.facebook.com/rosecosmetic88/posts/pfbid0tHY2j1PfHqaVLUz6FdUUh5S2sLP6VzS5B4GNccLAmHiKc1vYM3NTNsV1iasrjrWFl"
+  },
+  {
+   "name": "خاتم الوعد",
+   "description": "",
+   "category": "إكسسوارات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-003/item03.jpg",
+   "source_url": "https://www.facebook.com/rosecosmetic88/posts/pfbid02ALfH5id2jJB8yoeydbXZhXJY7ZnEPUDBQsQTt1yskxfMTX3YeHTCLPC8gUND1mfml"
+  },
+  {
+   "name": "طقم التوليب ستانلس ستيل",
+   "description": "طوق + حلق + اسوارة + خاتم",
+   "category": "إكسسوارات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-003/item04.jpg",
+   "source_url": "https://www.facebook.com/rosecosmetic88/posts/pfbid0Q58ZLzoYm9kx9SDqUE84dR4Nra3WRrps7TBuNXoKtRhFzarTEbmhRvHT4kNmAVyTl"
+  },
+  {
+   "name": "جهاز كيمي المتكامل 5 في 1",
+   "description": "مجفف ومصفف شعر KEMEY مع كفالة",
+   "category": "أجهزة العناية بالشعر",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-003/item05.jpg",
+   "source_url": "https://www.facebook.com/rosecosmetic88/posts/pfbid02CNwCfCzx9v4n9GhFnrogCuNyfCwqWUrXhvTs8xt1ozVEvfGrrxsaYsK3emrnahdzl"
+  },
+  {
+   "name": "مكواة ليس إينرجي ماكس",
+   "description": "ليس حرارة ٩٨٠",
+   "category": "أجهزة العناية بالشعر",
+   "price": 100000,
+   "currency": "SYP",
+   "price_text": "١٠٠ الف",
+   "image": "assets/SYMETA-003/item06.jpg",
+   "source_url": "https://www.facebook.com/rosecosmetic88/posts/pfbid0YqwZGTkdskHJYGRrYE5kpnVHWW5Yg9B5gDvTPgeAn96R3VBmZDXX4WSXo4Tg8V6hl"
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

@@ -1,0 +1,55 @@
+{
+ "id": "SYNEW-126",
+ "verdict": "maybe",
+ "reason": "مطعم ومنتزه على أوتستراد دمشق حمص في قارة بلا منيو رقمي، لكن آخر منشور على الصفحة يعود إلى يوليو 2019 فتبدو غير نشطة.",
+ "sells": "مأكولات شرقية وغربية، مشاوي وشاورما ووجبات سريعة وحلويات",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "مطعم ومنتزه الأمراء",
+  "followers": "2.8 ألف",
+  "bio": "إستراحة على الطريق الدولي بمدينة قارة بين مدينة دمشق و مدينة حمص. منتزه عائلي مع أشهى المأكولات الشرقيّة و الغربيّة و الحلويات المنوّعة.",
+  "address": "اوتستراد دمشق حمص، قارة",
+  "phones": [
+   "+963117851141"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2019-07"
+ },
+ "logo": "assets/SYNEW-126/logo.jpg",
+ "cover": "assets/SYNEW-126/cover.jpg",
+ "items": [
+  {
+   "name": "رز بالدجاج",
+   "description": "دجاج محمر على رز بالمكسرات",
+   "category": "أطباق رئيسية",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYNEW-126/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "رز باللحم",
+   "description": "صدر رز مع لحم ومكسرات للمجموعات",
+   "category": "أطباق رئيسية",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYNEW-126/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "أطباق شرقية متنوعة",
+   "description": "صواني طبخ شرقي من المطبخ",
+   "category": "أطباق رئيسية",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYNEW-126/item03.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

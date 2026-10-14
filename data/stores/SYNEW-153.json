@@ -1,0 +1,63 @@
+{
+ "id": "SYNEW-153",
+ "verdict": "maybe",
+ "reason": "محل ألبسة في طرطوس لكن الصفحة متوقفة منذ 2014 (آخر تحديث 2020) والصور قديمة ولا يوجد رقم تواصل، والموقع المرتبط لا يعرض شيئاً، فالنشاط غير مؤكد.",
+ "sells": "ألبسة رجالية ونسائية وأحذية وحقائب",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "سوبر ستور super store",
+  "followers": "1.9 ألف",
+  "bio": "مركز التسوق سوبر ستور للألبسة",
+  "address": "طرطوس، شارع هنانو",
+  "phones": [],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2020-08"
+ },
+ "logo": "assets/SYNEW-153/logo.jpg",
+ "cover": "assets/SYNEW-153/cover.jpg",
+ "items": [
+  {
+   "name": "تيشرت رجالي مطبوع",
+   "description": "تشكيلة رجالي تواكب صيحات الموضة بأسعار مناسبة",
+   "category": "ألبسة رجالية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-153/item01.jpg",
+   "source_url": "https://www.facebook.com/SuperStore11/posts/pfbid0qb9T7YyJ2Ktqo1qQ3fGAbZFK7Pettto6cAPwoK9ezbovGRWirLWBriRGkXJ6657gl"
+  },
+  {
+   "name": "بناطيل جينز وشورتات رجالية",
+   "description": "",
+   "category": "ألبسة رجالية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-153/item02.jpg",
+   "source_url": "https://www.facebook.com/SuperStore11/posts/pfbid0qb9T7YyJ2Ktqo1qQ3fGAbZFK7Pettto6cAPwoK9ezbovGRWirLWBriRGkXJ6657gl"
+  },
+  {
+   "name": "تشكيلة نسائية جديدة",
+   "description": "",
+   "category": "ألبسة نسائية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-153/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "قمصان كاروهات وحقائب ظهر",
+   "description": "",
+   "category": "ألبسة رجالية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-153/item04.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

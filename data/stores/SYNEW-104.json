@@ -1,0 +1,24 @@
+{
+ "id": "SYNEW-104",
+ "verdict": "not_qualified",
+ "reason": "الصفحة مصنفة «مدون» وليس فيها أي منشور منتجات أو منيو؛ آخر نشاط ظاهر تحديث صورة الملف الشخصي في حزيران 2024، فلا دليل على أنها مطعم يبيع.",
+ "sells": "غير واضح (صفحة مدون)",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "أبو حافظ - Abo Hafez",
+  "followers": "2.5 ألف",
+  "bio": "",
+  "address": "حمص",
+  "phones": [
+   "+963312611111"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2024-06"
+ },
+ "logo": "assets/SYNEW-104/logo.jpg",
+ "cover": "",
+ "items": [],
+ "checkedAt": "2026-10-15"
+}

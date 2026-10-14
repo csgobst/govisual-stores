@@ -1,0 +1,105 @@
+{
+ "id": "SYMETA-074",
+ "verdict": "qualified",
+ "reason": "تاجر ورد صناعي وفازات ومستلزمات هدايا في دمشق ينشر منتجاته بأسعار بالدولار على إنستغرام (130 منشوراً، شعار بالعلم الجديد أي بعد 2024) ولا يملك منيو أو متجراً رقمياً.",
+ "sells": "شجر وزهور صناعية، فازات زجاج، بلايط خضار، خزن بلكسي، شرائط ساتان، شمع LED، صناديق هدايا",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "OSD Group (By: Omar Shams Deen)",
+  "followers": "104",
+  "bio": "للطلب تواصلوا معنا : 0944343802 - شجر صناعي، بلكسي صيني، مستلزمات زهور، زهور صناعية، فازات زجاج، بلايط خضار، صناديق كرتون، شمع LED، ورد مجفف",
+  "address": "دمشق - شارع بغداد",
+  "phones": [
+   "+963944343802"
+  ],
+  "whatsapp": "+963944343802",
+  "instagram": "https://www.instagram.com/osd.group/",
+  "last_activity": "unknown"
+ },
+ "logo": "assets/SYMETA-074/logo.jpg",
+ "cover": "",
+ "items": [
+  {
+   "name": "شجرة زيتون صناعية 180 سم",
+   "description": "الارتفاع 180 سم - كود 13-11",
+   "category": "شجر صناعي",
+   "price": 65,
+   "currency": "USD",
+   "price_text": "السعر: $65",
+   "image": "assets/SYMETA-074/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "شجرة زيتون صناعية 130 سم",
+   "description": "الارتفاع 130 سم - كود 13-6",
+   "category": "شجر صناعي",
+   "price": 28,
+   "currency": "USD",
+   "price_text": "السعر: $28",
+   "image": "assets/SYMETA-074/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "خزنة بلكسي مع بطاقة",
+   "description": "قياس 40×30 سم",
+   "category": "بلكسي",
+   "price": 55,
+   "currency": "USD",
+   "price_text": "السعر: $55",
+   "image": "assets/SYMETA-074/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "شريط ساتان 2.5 سم",
+   "description": "36 يرد",
+   "category": "مستلزمات زهور",
+   "price": 0.75,
+   "currency": "USD",
+   "price_text": "السعر: $0.75",
+   "image": "assets/SYMETA-074/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "شريط ساتان 4 سم",
+   "description": "36 يرد",
+   "category": "مستلزمات زهور",
+   "price": 0.95,
+   "currency": "USD",
+   "price_text": "السعر: $0.95",
+   "image": "assets/SYMETA-074/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "عرق أوركيد 9 زهرات",
+   "description": "ألوان متعددة",
+   "category": "زهور صناعية",
+   "price": 2.75,
+   "currency": "USD",
+   "price_text": "السعر: $2.75",
+   "image": "assets/SYMETA-074/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مجموعة جوري 7 زهرات",
+   "description": "",
+   "category": "زهور صناعية",
+   "price": null,
+   "currency": "USD",
+   "price_text": "",
+   "image": "assets/SYMETA-074/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "النرجس الصناعي",
+   "description": "طول 35 سم",
+   "category": "زهور صناعية",
+   "price": null,
+   "currency": "USD",
+   "price_text": "",
+   "image": "assets/SYMETA-074/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

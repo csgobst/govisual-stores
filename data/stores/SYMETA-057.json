@@ -1,0 +1,77 @@
+{
+ "id": "SYMETA-057",
+ "verdict": "qualified",
+ "reason": "محل موبايلات واتصالات في اللاذقية يعرض أجهزة جديدة على فيسبوك (آخر نشر مايو 2026) دون كتالوج رقمي.",
+ "sells": "موبايلات وتابلت جديدة ومستعملة، اكسسوارات، صيانة وخدمات دفع",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "مركز الليث للاتصالات",
+  "followers": "4171",
+  "bio": "خطوط، بيع أجهزة جديدة ومستعملة، صيانة، اكسسوارات، كاش سيريتيل و MTN وشام كاش، دفع فواتير",
+  "address": "اللاذقية - الدعتور - بسنادا - طريق المزار",
+  "phones": [
+   "+963936616717",
+   "0949565363",
+   "0412323377"
+  ],
+  "whatsapp": "+963936616717",
+  "instagram": "",
+  "last_activity": "2026-05"
+ },
+ "logo": "assets/SYMETA-057/logo.jpg",
+ "cover": "assets/SYMETA-057/cover.jpg",
+ "items": [
+  {
+   "name": "تابلت أطفال Kittop KW61",
+   "description": "شاشة 8 إنش، 8GB+256GB، واي فاي 5G، مع كفر وشاحن، 4 ألوان",
+   "category": "تابلت",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-057/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "Xiaomi Redmi 15",
+   "description": "",
+   "category": "موبايلات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-057/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "Xiaomi Redmi Note 14 4G",
+   "description": "رام 6GB، ذاكرة 128GB، شاشة 120Hz، كاميرا 108MP، مع 3 هدايا",
+   "category": "موبايلات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-057/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "Samsung Galaxy A07",
+   "description": "",
+   "category": "موبايلات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-057/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "Xiaomi Redmi 15C",
+   "description": "رام 8GB، ذاكرة 256GB، بطارية 6000",
+   "category": "موبايلات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-057/item05.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

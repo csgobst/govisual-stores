@@ -1,0 +1,105 @@
+{
+ "id": "SYMETA-044",
+ "verdict": "maybe",
+ "reason": "ورشة هدايا حسب الطلب في حمص (آرت تايم/هدايا حلا) بمنتجات واضحة ولا منيو رقمي، لكن آخر منشور ظاهر يعود إلى أيار 2021 فالصفحة تبدو غير نشطة.",
+ "sells": "هدايا مصممة حسب الطلب: لمبديرات وأحرف مضيئة، ميداليات صور، طباعة كنزات وكاسات، قص ليزر",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "آرت تايم - Art Time",
+  "followers": "2.4 ألف",
+  "bio": "صفحة مختصة لصناعة وتصميم الهدايا حسب الطلب. تصميم - طباعة - قص ليزر - هدايا - مواد دعائية",
+  "address": "حمص - عكرمة القديمة - امتداد شارع العشاق قرب جامع عكرمة وحديقة الملجأ",
+  "phones": [
+   "+963965498154"
+  ],
+  "whatsapp": "+963965498154",
+  "instagram": "",
+  "last_activity": "2021-05"
+ },
+ "logo": "assets/SYMETA-044/logo.jpg",
+ "cover": "assets/SYMETA-044/cover.jpg",
+ "items": [
+  {
+   "name": "حامل صور بالقلوب",
+   "description": "لوحة قلوب مع 5 صور معلقة، ويمكن كتابة كلمة أو تاريخ بدل القلوب",
+   "category": "هدايا خشبية",
+   "price": null,
+   "currency": "USD",
+   "price_text": "",
+   "image": "assets/SYMETA-044/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "لمبدير حرف مضيء",
+   "description": "أحرف مضيئة مع إضافة أي كلمة أو تاريخ",
+   "category": "إضاءة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-044/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كنزة صيفي مطبوعة",
+   "description": "طباعة أي صورة أو كلمة أو شعار، كل المقاسات",
+   "category": "طباعة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-044/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "لمبدير رمضان كريم",
+   "description": "نجمة مضيئة رمضان كريم",
+   "category": "إضاءة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-044/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "هلال رمضان مضيء",
+   "description": "حسب الطلب، متوفر بإضاءة خضراء",
+   "category": "إضاءة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-044/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "لوحة LOVE مع قلوب صور",
+   "description": "",
+   "category": "هدايا خشبية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-044/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "ساعة حائط بالصور",
+   "description": "ساعة خشبية مزخرفة بصور شخصية",
+   "category": "هدايا خشبية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-044/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مجسم ست الحبايب أمي",
+   "description": "هدية عيد الأم مضيئة",
+   "category": "إضاءة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-044/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

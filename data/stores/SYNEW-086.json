@@ -1,0 +1,95 @@
+{
+ "id": "SYNEW-086",
+ "verdict": "qualified",
+ "reason": "محل حلويات عربية في حلب نشط حتى سبتمبر 2026 ينشر أصنافه ويذكر الأسعار بالتعليقات، ولا يملك منيو رقمياً منشوراً.",
+ "sells": "حلويات عربية: كنافات، تاج بالفستق، حلاوة الجبن، برازق وغريبة وكعك، حلو مشكل",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "حلويات حسين سحسول",
+  "followers": "33 ألف",
+  "bio": "افخر انواع الحلويات العربية - كنافات بانواعها - كبب بانواعها - اوزي - عش البلبل",
+  "address": "حلب - اخر نزلة ادونيس",
+  "phones": [
+   "+963988860261"
+  ],
+  "whatsapp": "",
+  "instagram": "sahsoul_sweets_housen",
+  "last_activity": "2026-09"
+ },
+ "logo": "assets/SYNEW-086/logo.jpg",
+ "cover": "assets/SYNEW-086/cover.jpg",
+ "items": [
+  {
+   "name": "حلو مشكل",
+   "description": "تشكيلة حلويات عربية مشكلة لكل المناسبات، السعر للكيلو",
+   "category": "حلويات مشكلة",
+   "price": 3500,
+   "currency": "SYP",
+   "price_text": "سعر كيلو المشكل 3500 ليرة جديدة",
+   "image": "",
+   "source_url": ""
+  },
+  {
+   "name": "تاج بالفستق",
+   "description": "",
+   "category": "حلويات عربية",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYNEW-086/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حلاوة الجبن",
+   "description": "حلاوة الجبن بالفستق الحلبي",
+   "category": "حلويات عربية",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYNEW-086/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "معمول",
+   "description": "",
+   "category": "معمول وكعك",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYNEW-086/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "برازق",
+   "description": "برازق بالسمسم والفستق",
+   "category": "معمول وكعك",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYNEW-086/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "غريبة",
+   "description": "",
+   "category": "معمول وكعك",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYNEW-086/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كعك",
+   "description": "",
+   "category": "معمول وكعك",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYNEW-086/item07.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

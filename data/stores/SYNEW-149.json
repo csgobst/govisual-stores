@@ -1,0 +1,96 @@
+{
+ "id": "SYNEW-149",
+ "verdict": "qualified",
+ "reason": "متجر ألبسة نسائية في طرطوس (38 ألف متابع) ينشر تشكيلاته بانتظام (آخر منشور تموز 2026) دون أي متجر أو كتالوج رقمي.",
+ "sells": "ألبسة نسائية: فساتين، جواكيت، أطقم، معاطف",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "Via Rossi",
+  "followers": "38 ألف",
+  "bio": "For Women Clothes - tartous, alsalhia street, tel 043 2328853",
+  "address": "طرطوس، شارع الصالحية",
+  "phones": [
+   "+963995993563",
+   "0432328853"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-07"
+ },
+ "logo": "assets/SYNEW-149/logo.jpg",
+ "cover": "assets/SYNEW-149/cover.jpg",
+ "items": [
+  {
+   "name": "طقم جاكيت أبيض مع بنطال",
+   "description": "Classy woman - New Collection",
+   "category": "أطقم",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-149/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان طويل مطبع بحزام",
+   "description": "",
+   "category": "فساتين",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-149/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان زهري بكشكش وحزام",
+   "description": "",
+   "category": "فساتين",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-149/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان ساتان مورد",
+   "description": "",
+   "category": "فساتين",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-149/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان طويل مورد بطبقات",
+   "description": "",
+   "category": "فساتين",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-149/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "جاكيت زهري مع بنطال جينز",
+   "description": "",
+   "category": "جواكيت",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-149/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "معطف فرو طويل",
+   "description": "",
+   "category": "معاطف",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-149/item07.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

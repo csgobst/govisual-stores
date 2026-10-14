@@ -1,0 +1,75 @@
+{
+ "id": "SYNEW-107",
+ "verdict": "maybe",
+ "reason": "مطبخ سناك وأكل صحي مع توصيل في حمص لكن آخر نشاط للصفحة يعود لعام 2020 تقريباً.",
+ "sells": "سناك وأكل صحي، وجبات منزلية مع توصيل",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "Maestro_snack",
+  "followers": "2237",
+  "bio": "Maestro - Special snack & healthy food - Syria _ Homs - To order : +963 947 113 639",
+  "address": "حمص",
+  "phones": [
+   "+963947113639"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/maestro_snack",
+  "last_activity": "2020-04"
+ },
+ "logo": "assets/SYNEW-107/logo.jpg",
+ "cover": "assets/SYNEW-107/cover.jpg",
+ "items": [
+  {
+   "name": "شاورما صحية مع سلطات",
+   "description": "",
+   "category": "وجبات صحية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-107/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "صينية خضار مشوية مع سلطات",
+   "description": "",
+   "category": "وجبات صحية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-107/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "لازانيا",
+   "description": "",
+   "category": "أطباق رئيسية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-107/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "معكرونة بالبشاميل",
+   "description": "",
+   "category": "أطباق رئيسية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-107/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بوكس وجبات يومية (فطور، غداء، عشاء)",
+   "description": "",
+   "category": "وجبات صحية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-107/item05.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

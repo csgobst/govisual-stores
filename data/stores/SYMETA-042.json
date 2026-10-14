@@ -1,0 +1,105 @@
+{
+ "id": "SYMETA-042",
+ "verdict": "qualified",
+ "reason": "متجر هدايا وتوزيعات في حمص بـ76 ألف متابع ونشاط حديث (أيلول 2026)، يعرض منتجاته بالصور فقط دون منيو أو متجر رقمي.",
+ "sells": "هدايا وتوزيعات مناسبات وتخرج وأعراس",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "تفاصيل",
+  "followers": "76751",
+  "bio": "متجر للهدايا في حمص دوار 94 شارع أبي تمام بجانب البنك الاسلامي وقهوة البلد مقابل ماي مول",
+  "address": "حمص - دوار 94 - شارع أبي تمام بجانب البنك الإسلامي مقابل ماي مول",
+  "phones": [
+   "+963945855908"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-09"
+ },
+ "logo": "assets/SYMETA-042/logo.jpg",
+ "cover": "assets/SYMETA-042/cover.jpg",
+ "items": [
+  {
+   "name": "توزيعات أكياس بفيونكة كحلي",
+   "description": "توزيعات مناسبات مع بطاقات مخصصة",
+   "category": "توزيعات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-042/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "وشاح تخرج مطرز",
+   "description": "وشاح وقبعة تخرج مخصصة بالاسم",
+   "category": "تخرج",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-042/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "قبعة تخرج مخملية مطرزة",
+   "description": "",
+   "category": "تخرج",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-042/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "توزيعات توديع عزوبية بعطر",
+   "description": "زجاجة عطر صغيرة مع بطاقة ترحيب",
+   "category": "توزيعات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-042/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "سوفونيرات عروس",
+   "description": "علب وصحون ريزن مع ورد جبسوفيلا",
+   "category": "أعراس",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-042/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "توزيعات تخرج بلكسي",
+   "description": "قطع بلكسي ذهبية مخصصة حسب الاختصاص",
+   "category": "تخرج",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-042/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "شمعة وردة بيضاء بورق ذهبي",
+   "description": "",
+   "category": "هدايا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-042/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "براويز ورد مجفف",
+   "description": "براويز خشبية بورد طبيعي مجفف",
+   "category": "هدايا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-042/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

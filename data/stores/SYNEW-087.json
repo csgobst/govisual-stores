@@ -1,0 +1,83 @@
+{
+ "id": "SYNEW-087",
+ "verdict": "maybe",
+ "reason": "حلويات وكيك في حلب لكن الصفحة غير رسمية وآخر منشوراتها منذ نحو 6 سنوات (2020) ولا يوجد هاتف.",
+ "sells": "كيك مناسبات، كب كيك، معروك وحلويات",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "Fresh Patisserie",
+  "followers": "",
+  "bio": "",
+  "address": "حلب",
+  "phones": [],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2020-05"
+ },
+ "logo": "",
+ "cover": "assets/SYNEW-087/cover.jpg",
+ "items": [
+  {
+   "name": "معروك رمضان بالقرفة",
+   "description": "",
+   "category": "معجنات حلوة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-087/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "معروك محشي",
+   "description": "",
+   "category": "معجنات حلوة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-087/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كيك أطفال بشكل ورشة بناء",
+   "description": "",
+   "category": "كيك مناسبات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-087/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كيك عيد ميلاد باندا",
+   "description": "",
+   "category": "كيك مناسبات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-087/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كب كيك وميني كيك",
+   "description": "",
+   "category": "كب كيك",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-087/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كيك بناتي بشكل مكياج",
+   "description": "Girly cakes",
+   "category": "كيك مناسبات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-087/item06.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

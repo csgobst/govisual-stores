@@ -1,0 +1,95 @@
+{
+ "id": "SYNEW-094",
+ "verdict": "maybe",
+ "reason": "محل ألبسة أوروبية في حمص بلا منيو رقمي ومنتجات واضحة، لكن آخر منشور ظاهر يعود إلى تموز 2020 فالصفحة تبدو متوقفة والأسعار قديمة.",
+ "sells": "ألبسة أوروبية نسائية وولادية (بناطيل جينز، كنزات، بلوزات)",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "جود للألبسة الأوروبية",
+  "followers": "1.7 ألف",
+  "bio": "للأناقة عنوان",
+  "address": "حمص - شارع اسكندرون امتداد شارع الفرن (فرن هدول) مقابل صيدلية مروة",
+  "phones": [
+   "+963935325423"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2020-07"
+ },
+ "logo": "assets/SYNEW-094/logo.jpg",
+ "cover": "assets/SYNEW-094/cover.jpg",
+ "items": [
+  {
+   "name": "بنطال جنز سوبر كريم وكنزة",
+   "description": "طقم بنطال جينز مع كنزة",
+   "category": "نسائي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-094/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بنطال أبيض وبلوزة زهرية",
+   "description": "",
+   "category": "نسائي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-094/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بنطال جينز أزرق وبلوزة مشجرة",
+   "description": "",
+   "category": "نسائي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-094/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بنطال وكنزة (عرض)",
+   "description": "عرض تنزيلات",
+   "category": "نسائي",
+   "price": 2500,
+   "currency": "SYP",
+   "price_text": "بنطال وكنزة ب 2500 بس",
+   "image": "assets/SYNEW-094/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كنزة ولادي",
+   "description": "تنزيلات",
+   "category": "ولادي",
+   "price": 1000,
+   "currency": "SYP",
+   "price_text": "كنزة ولادي ومحير بس ب 1000",
+   "image": "assets/SYNEW-094/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بنطال جينز وتيشيرت مطبوع",
+   "description": "",
+   "category": "نسائي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-094/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بنطال جينز وقميص كاروهات",
+   "description": "",
+   "category": "نسائي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYNEW-094/item07.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

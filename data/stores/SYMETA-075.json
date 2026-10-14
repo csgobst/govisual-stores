@@ -1,0 +1,105 @@
+{
+ "id": "SYMETA-075",
+ "verdict": "qualified",
+ "reason": "مورّد زهور صناعية ومستلزمات تزيين في دمشق ينشر منتجات بأسعار واضحة بالدولار بشكل مستمر وبدون منيو أو متجر رقمي.",
+ "sells": "زهور صناعية وأشجار زينة وشرائط ساتان وعلب بلكسي ومستلزمات تنسيق",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "OSD Group",
+  "followers": "641",
+  "bio": "For Suppliers Flowers & Decoration - OSD GROUP (By: Omar Shams Deen) - للطلب تواصلوا معنا: 0944343802",
+  "address": "دمشق - شارع بغداد",
+  "phones": [
+   "+963944343802"
+  ],
+  "whatsapp": "+963944343802",
+  "instagram": "OSD.Group",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYMETA-075/logo.jpg",
+ "cover": "assets/SYMETA-075/cover.jpg",
+ "items": [
+  {
+   "name": "شجرة زيتون صناعي 180 سم",
+   "description": "شجرة زيتون صناعية بارتفاع 180 سم",
+   "category": "أشجار صناعية",
+   "price": 65,
+   "currency": "USD",
+   "price_text": "$65",
+   "image": "assets/SYMETA-075/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "شجرة زيتون صناعي 130 سم",
+   "description": "شجرة زيتون صناعية بارتفاع 130 سم",
+   "category": "أشجار صناعية",
+   "price": 28,
+   "currency": "USD",
+   "price_text": "$28",
+   "image": "assets/SYMETA-075/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "خزنة بلكسي مع بطاقة",
+   "description": "مقاس 40×30 سم، متوفرة بالأبيض والأسود",
+   "category": "علب وتغليف",
+   "price": 55,
+   "currency": "USD",
+   "price_text": "$55",
+   "image": "assets/SYMETA-075/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "شريط ساتان 2.5 سم",
+   "description": "لفة 36 يرد بألوان متنوعة",
+   "category": "شرائط",
+   "price": 0.75,
+   "currency": "USD",
+   "price_text": "$0.75",
+   "image": "assets/SYMETA-075/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "شريط ساتان 4 سم",
+   "description": "لفة 36 يرد بألوان متنوعة",
+   "category": "شرائط",
+   "price": 0.95,
+   "currency": "USD",
+   "price_text": "$0.95",
+   "image": "assets/SYMETA-075/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "عرق أوركيد 9 زهرات",
+   "description": "متوفر بـ 4 ألوان: أبيض، أوفوايت، أزرق، فوشي",
+   "category": "زهور صناعية",
+   "price": 2.75,
+   "currency": "USD",
+   "price_text": "$2.75",
+   "image": "assets/SYMETA-075/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مجموعة جوري 7 زهرات",
+   "description": "متوفرة بـ 4 ألوان: أبيض، أوفوايت، زهر، فوشي",
+   "category": "زهور صناعية",
+   "price": null,
+   "currency": "USD",
+   "price_text": "",
+   "image": "assets/SYMETA-075/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "نرجس صناعي",
+   "description": "طول 35 سم، أصفر وأبيض",
+   "category": "زهور صناعية",
+   "price": null,
+   "currency": "USD",
+   "price_text": "",
+   "image": "assets/SYMETA-075/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

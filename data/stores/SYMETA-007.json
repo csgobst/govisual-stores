@@ -1,0 +1,75 @@
+{
+ "id": "SYMETA-007",
+ "verdict": "qualified",
+ "reason": "متجر هدايا نشط في حلب ينشر منتجاته يومياً على فيسبوك ولا يملك قائمة أو متجراً رقمياً.",
+ "sells": "هدايا، حقائب، ساعات، عطور، اكسسوارات",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "stitch store",
+  "followers": "475",
+  "bio": "تجارة ساعات و عطورات و اكسسوارات و هدايا",
+  "address": "حلب الفرقان عند الفتال مقابل Xo إكس أو",
+  "phones": [
+   "+963983484236"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/stitch.store123",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYMETA-007/logo.jpg",
+ "cover": "assets/SYMETA-007/cover.jpg",
+ "items": [
+  {
+   "name": "حقائب نسائية جديدة",
+   "description": "حقائب بجودة عالية ولون ثابت",
+   "category": "حقائب",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-007/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بوكس هدايا مع ورد",
+   "description": "بوكسات مميزة لكل المناسبات",
+   "category": "بوكسات هدايا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-007/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حقائب جامبو جامعية",
+   "description": "حقائب للجامعة والمعهد",
+   "category": "حقائب",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-007/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "منتجات ستيتش",
+   "description": "كل ما يخص ستيتش من دمى واكسسوارات",
+   "category": "ألعاب ودمى",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-007/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كرة ثلج هيلو كيتي",
+   "description": "تشكيلة كرات ثلج هيلو كيتي وستيتش وكرومي",
+   "category": "هدايا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYMETA-007/item05.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}
