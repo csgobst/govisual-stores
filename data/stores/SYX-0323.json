@@ -1,0 +1,106 @@
+{
+ "id": "SYX-0323",
+ "verdict": "qualified",
+ "reason": "بائع زهور في المزرعة بدمشق ينشر باقاته يومياً على فيسبوك مع توصيل مجاني ضمن دمشق ولا يملك متجراً إلكترونياً.",
+ "sells": "باقات ورد وتنسيقات وهدايا ودببة وتزيين سيارات",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "جوري فلورز _ Joury Flowers",
+  "followers": "57 ألف",
+  "bio": "دمشق المزرعة دوار جامع الايمان مقابل مخبر الامانة جانب صيدلية الغبرة",
+  "address": "دمشق، المزرعة، دوار جامع الإيمان مقابل مخبر الأمانة",
+  "phones": [
+   "0966900044",
+   "0966900077"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0323/logo.jpg",
+ "cover": "assets/SYX-0323/cover.jpg",
+ "items": [
+  {
+   "name": "بوكيه ورد أحمر بالحرف",
+   "description": "",
+   "category": "باقات ورد",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYX-0323/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بوكيه ورد مشكل ملون",
+   "description": "",
+   "category": "باقات ورد",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYX-0323/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "ستاند ورد أبيض وأزرق",
+   "description": "",
+   "category": "تنسيقات",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYX-0323/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "دبدوب أحمر كبير مع حرف من الورد",
+   "description": "",
+   "category": "هدايا",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYX-0323/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "تزيين سيارة عرس بالورد",
+   "description": "",
+   "category": "تزيين",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYX-0323/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "صينية ورد مع شوكولا ومكياج",
+   "description": "",
+   "category": "هدايا",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYX-0323/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بوكيه ورد أبيض وأزرق مع بالونات",
+   "description": "",
+   "category": "باقات ورد",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYX-0323/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بوكس ورد مع بالون عيد ميلاد",
+   "description": "",
+   "category": "هدايا",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYX-0323/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-14T22:45:01.822942+00:00"
+}

@@ -1,0 +1,99 @@
+{
+ "id": "SYX-0109",
+ "verdict": "qualified",
+ "reason": "محلات حلويات ومأكولات في دمشق نشطة (منشور قبل يوم) تعرض الأطباق والحلويات بالصور ولا يوجد منيو رقمي.",
+ "sells": "حلويات شرقية وطبخ شامي (ملوخية، فريكة)",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "حلويات الشامية",
+  "followers": "23 ألف",
+  "bio": "محلات حلويات الشامية - الفرع الرئيسي دمشق-خلف قيادة الشرطة - للاستفسار والطلب : 6033-011",
+  "address": "دمشق - خلف قيادة الشرطة",
+  "phones": [
+   "0116033",
+   "0933230279",
+   "0966409050",
+   "2244699",
+   "2243704"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/alshamiehdelights/",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0109/logo.jpg",
+ "cover": "assets/SYX-0109/cover.jpg",
+ "items": [
+  {
+   "name": "ملوخية باللحمة والليمون",
+   "description": "",
+   "category": "طبخ شامي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0109/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "رز بشعيرية وصنوبر",
+   "description": "",
+   "category": "طبخ شامي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0109/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حلو بالقشطة والفستق",
+   "description": "السعادة باختصار.. لقمة وحدة بتعدل المزاج",
+   "category": "حلويات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0109/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "الفريكة الشامية",
+   "description": "",
+   "category": "طبخ شامي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0109/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "علبة بقلاوة مشكلة فاخرة",
+   "description": "Luxury Assorted Baklava",
+   "category": "حلويات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0109/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بقلاوة بالفستق",
+   "description": "",
+   "category": "حلويات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0109/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كنافة بالفستق",
+   "description": "",
+   "category": "حلويات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0109/item07.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

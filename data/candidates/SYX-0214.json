@@ -1,0 +1,22 @@
+{
+ "id": "SYX-0214",
+ "name": "مجوهرات الافراح",
+ "gov": "دمشق",
+ "city": "دمشق",
+ "cat": "متاجر متنوعة",
+ "platform": "Facebook",
+ "url": "https://www.facebook.com/afrahjewelry/",
+ "instagram_url": "",
+ "menu_url": "",
+ "menu_state": "not_observed_public",
+ "country_check": "syrian_address_on_page",
+ "access_audit": "opened_headless_no_login",
+ "syria_evidence": "دمشق +963 11 544 1031",
+ "proof_type": "صفحة المتجر نفسها",
+ "verified_platform": "فُتحت الصفحة دون تسجيل دخول",
+ "year": "2026",
+ "research_batch": "2026-10-15_expansion",
+ "origin": "agent_web_search",
+ "source": "web search (WebSearch)",
+ "source_extra": ""
+}

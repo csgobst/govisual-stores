@@ -1,0 +1,96 @@
+{
+ "id": "SYX-0824",
+ "verdict": "qualified",
+ "reason": "كافيه على طريق قنوات في السويداء ينشر مشروباته وحلوياته في تشرين الأول 2026 ولا يملك منيو رقمي.",
+ "sells": "قهوة وميلك شيك وكوكتيلات وعصائر وكريب",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "Romman Cafe",
+  "followers": "11666",
+  "bio": "رمان كافيه - سوريا - السويداء - طريق قنوات - للتواصل: 016-312115 / 0934885910",
+  "address": "السويداء - شارع قنوات - ساحة الزنبقة",
+  "phones": [
+   "016-312115",
+   "0934885910"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0824/logo.jpg",
+ "cover": "assets/SYX-0824/cover.jpg",
+ "items": [
+  {
+   "name": "آيس كوفي",
+   "description": "",
+   "category": "مشروبات باردة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0824/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "ميلك شيك فريز",
+   "description": "",
+   "category": "ميلك شيك",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0824/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "ميلك شيك لوتس",
+   "description": "",
+   "category": "ميلك شيك",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0824/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "عصير رمان فريش",
+   "description": "",
+   "category": "عصائر",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0824/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "موهيتو ليمون ونعنع",
+   "description": "",
+   "category": "عصائر",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0824/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كوكتيل فواكه",
+   "description": "",
+   "category": "كوكتيلات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0824/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كريب بالشوكولا",
+   "description": "",
+   "category": "حلويات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0824/item07.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

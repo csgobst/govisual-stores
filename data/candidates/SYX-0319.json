@@ -1,0 +1,22 @@
+{
+ "id": "SYX-0319",
+ "name": "مكياجات فانديلا vandella",
+ "gov": "دمشق",
+ "city": "الميدان",
+ "cat": "عطور وتجميل",
+ "platform": "Facebook",
+ "url": "https://www.facebook.com/Vendella1234/",
+ "instagram_url": "",
+ "menu_url": "",
+ "menu_state": "not_observed_public",
+ "country_check": "syrian_address_on_page",
+ "access_audit": "opened_headless_no_login",
+ "syria_evidence": "العنوان على الصفحة: الميدان دخلة قسم شرطة بجانب صالة النور، Damascus؛ هاتف 0951219127 في منشور",
+ "proof_type": "صفحة المتجر نفسها",
+ "verified_platform": "فُتحت الصفحة دون تسجيل دخول",
+ "year": "2026",
+ "research_batch": "2026-10-15_expansion",
+ "origin": "agent_web_search",
+ "source": "WebSearch: مكياج وعطور دمشق متجر (facebook.com)",
+ "source_extra": ""
+}

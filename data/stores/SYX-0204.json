@@ -1,0 +1,97 @@
+{
+ "id": "SYX-0204",
+ "verdict": "qualified",
+ "reason": "محل ألبسة نسائية جملة ومفرق بفرعين في شارع الحمرا والحريقة بدمشق، نشط جداً (آخر منشور اليوم) ولا يملك متجراً رقمياً.",
+ "sells": "ألبسة نسائية: بجامات مخمل، قمصان وبلايز، أطقم",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "أزياء سافا",
+  "followers": "34 ألف",
+  "bio": "مبيع جملة ومفرق لجميع المحافظات السورية",
+  "address": "دمشق - شارع الحمرا - بناء 2 - الطابق الثاني؛ الحريقة - دخلة مقابل المرستان جانب بناء 400",
+  "phones": [
+   "0968111076",
+   "0968111078",
+   "+963968111077"
+  ],
+  "whatsapp": "0968111076",
+  "instagram": "https://www.instagram.com/sava_mak_fashion",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0204/logo.jpg",
+ "cover": "assets/SYX-0204/cover.jpg",
+ "items": [
+  {
+   "name": "بجامة مخمل ملكية Adidas",
+   "description": "مخمل ملكي دافئ بخطوط رياضية، ثابت بالغسيل",
+   "category": "بجامات مخمل",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0204/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بجامة مخمل ملكية ستراس كبس",
+   "description": "تصميم كلاسيك مع تفاصيل سحاب",
+   "category": "بجامات مخمل",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0204/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بجامة مخمل ملكية رش ستراس SAVA",
+   "description": "رش ستراس بعلامة SAVA",
+   "category": "بجامات مخمل",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0204/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بلوزة بربطة عنق مع بنطال",
+   "description": "New collection",
+   "category": "بلايز وقمصان",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0204/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "قميص نسائي طويل - سماوي",
+   "description": "",
+   "category": "بلايز وقمصان",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0204/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم قميص وبنطال - ألوان متعددة",
+   "description": "",
+   "category": "أطقم",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0204/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "قميص زهري مطرز",
+   "description": "",
+   "category": "بلايز وقمصان",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0204/item07.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T12:00:00Z"
+}

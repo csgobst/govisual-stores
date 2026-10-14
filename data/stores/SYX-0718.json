@@ -1,0 +1,93 @@
+{
+ "id": "SYX-0718",
+ "verdict": "qualified",
+ "reason": "معرض مفروشات في بانياس بفرعين ينشر قطعه بانتظام (آخر منشور قبل يومين، أكتوبر 2026) دون كتالوج رقمي.",
+ "sells": "مفروشات جاهزة وتفصيل: طاولات، أطقم كنب، غرف نوم، أثاث أطفال",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "مفروشات الدرجي ابو عدنان",
+  "followers": "16 ألف",
+  "bio": "مفروشات جاهزه وتفصيل",
+  "address": "بانياس: نزلة مصرف التسليف الشعبي / طلعة شعبة التجنيد بناء معروف",
+  "phones": [],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0718/logo.jpg",
+ "cover": "assets/SYX-0718/cover.jpg",
+ "items": [
+  {
+   "name": "طاولة مطبخ تركية مع كراسي",
+   "description": "",
+   "category": "طاولات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0718/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طاولة نص بيضاوية مع طاولة صغيرة",
+   "description": "",
+   "category": "طاولات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0718/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم كنب بني مريح",
+   "description": "",
+   "category": "أطقم كنب",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0718/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "غرفة نوم",
+   "description": "",
+   "category": "غرف نوم",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0718/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "سرير طابقين خشبي",
+   "description": "",
+   "category": "غرف أطفال",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0718/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "سرير أطفال أبيض مع ناموسية",
+   "description": "",
+   "category": "غرف أطفال",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0718/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طاولات وسط زجاج",
+   "description": "",
+   "category": "طاولات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0718/item07.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

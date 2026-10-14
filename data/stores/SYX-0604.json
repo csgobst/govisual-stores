@@ -1,0 +1,65 @@
+{
+ "id": "SYX-0604",
+ "verdict": "qualified",
+ "reason": "محل حلويات عربية في حمص بفرعين، نشط (افتتاح فرع جديد سبتمبر 2026) مع صور منتجات ورقم هاتف، ولا يوجد منيو رقمي.",
+ "sells": "حلويات عربية بالقشطة: حلاوة الجبن، مدلوقة، كنافة، بقلاوة",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "حلويات الرفاعي-Al-Rifai sweets",
+  "followers": "11 ألف",
+  "bio": "فرعنا الأول: سوريا_حمص_ساحة الحاج عاطف، فرعنا الثاني: سوريا_حمص_طريق الشام الرئيسي_مقابل مدرسة خالد ابن الوليد",
+  "address": "حمص - ساحة الحاج عاطف / طريق الشام الرئيسي",
+  "phones": [
+   "+963312166140"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/al_rifai_sweets_",
+  "last_activity": "2026-09"
+ },
+ "logo": "assets/SYX-0604/logo.jpg",
+ "cover": "assets/SYX-0604/cover.jpg",
+ "items": [
+  {
+   "name": "حلاوة الجبن بالقشطة",
+   "description": "",
+   "category": "حلويات عربية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0604/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مدلوقة بالقشطة والمكسرات",
+   "description": "",
+   "category": "حلويات عربية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0604/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كنافة ناعمة وخشنة بالقشطة والفستق الحلبي",
+   "description": "",
+   "category": "حلويات عربية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0604/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بقلاوة بالقشطة",
+   "description": "",
+   "category": "حلويات عربية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0604/item04.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

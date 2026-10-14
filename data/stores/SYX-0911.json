@@ -1,0 +1,96 @@
+{
+ "id": "SYX-0911",
+ "verdict": "qualified",
+ "reason": "متجر ورد وهدايا في الدانا ينشر يومياً منتجاته (طقوم تخرج، براويز، تعليقات أسماء) دون منيو رقمي.",
+ "sells": "أزهار صناعية وهدايا وطقوم تخرج وتجهيزات عرائس",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "أزهار شوقي Shawki Flower Shop",
+  "followers": "33 ألف",
+  "bio": "أزهار صناعية، تنسيق صناديق هدايا، دهب روسي الماس تنسيق باقات ورد واستند خطوبة",
+  "address": "الدانا، إدلب",
+  "phones": [
+   "+963993680884",
+   "+352681590547"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0911/logo.jpg",
+ "cover": "assets/SYX-0911/cover.jpg",
+ "items": [
+  {
+   "name": "برواز عمرة مضيء",
+   "description": "",
+   "category": "هدايا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0911/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "تعليقة اسم مزينة",
+   "description": "",
+   "category": "هدايا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0911/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "ستاند خطوبة مع باقة ورد",
+   "description": "",
+   "category": "هدايا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0911/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم تخرج أسود",
+   "description": "",
+   "category": "هدايا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0911/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم تخرج أخضر",
+   "description": "",
+   "category": "هدايا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0911/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "وشاح تخرج 2026",
+   "description": "",
+   "category": "هدايا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0911/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "ستاند اسم مزين",
+   "description": "",
+   "category": "هدايا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0911/item07.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T01:26:44"
+}

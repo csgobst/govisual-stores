@@ -1,0 +1,22 @@
+{
+ "id": "SYX-0812",
+ "name": "عبق",
+ "gov": "السويداء",
+ "city": "السويداء",
+ "cat": "ملابس وأحذية",
+ "platform": "Facebook",
+ "url": "https://www.facebook.com/p/Sachi-100057069687232/",
+ "instagram_url": "",
+ "menu_url": "",
+ "menu_state": "not_observed_public",
+ "country_check": "syrian_address_on_page",
+ "access_audit": "opened_headless_no_login",
+ "syria_evidence": "السويداء طريق قنوات فندق العامر",
+ "proof_type": "صفحة المتجر نفسها",
+ "verified_platform": "فُتحت الصفحة دون تسجيل دخول",
+ "year": "2026",
+ "research_batch": "2026-10-15_expansion",
+ "origin": "agent_web_search",
+ "source": "websearch: facebook.com السويداء ألبسة",
+ "source_extra": ""
+}

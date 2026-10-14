@@ -1,0 +1,56 @@
+{
+ "id": "SYX-0417",
+ "verdict": "qualified",
+ "reason": "مطعم بروستد في الخالدية بحلب، نشط في 2026 (منشور 2 سبتمبر وعيد الأضحى)، يستقبل الطلبات هاتفياً دون منيو رقمي.",
+ "sells": "دجاج بروستد وسبايسي وناغيت",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "بروستد العائلة",
+  "followers": "7.9 ألف",
+  "bio": "دجاج بروستد - سباسي - ناغيت",
+  "address": "الخالدية، طلعة الخالدية ثاني مفرق ع اليسار، حلب، سوريا",
+  "phones": [
+   "+963 991 668 845",
+   "0947101170"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-09"
+ },
+ "logo": "assets/SYX-0417/logo.jpg",
+ "cover": "assets/SYX-0417/cover.jpg",
+ "items": [
+  {
+   "name": "بروستد العائلة مع بطاطا",
+   "description": "",
+   "category": "بروستد",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0417/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بروستد هوت أند سبايسي",
+   "description": "",
+   "category": "بروستد",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0417/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "وجبة بروستد مع رز",
+   "description": "",
+   "category": "وجبات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0417/item03.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-14T22:33:28.081916+00:00"
+}

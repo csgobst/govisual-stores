@@ -1,0 +1,105 @@
+{
+ "id": "SYX-0812",
+ "verdict": "qualified",
+ "reason": "متجر ألبسة وأحذية وحقائب وعطور في مول سويدا بالسويداء ينشر منتجاته يومياً في تشرين الأول 2026 ويبيع عبر الرسائل وقناة واتساب دون متجر إلكتروني.",
+ "sells": "أحذية وحقائب نسائية وعطور وألبسة مستوردة",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "عبق",
+  "followers": "29876",
+  "bio": "ساشي للألبسة والأحذية والحقائب النسائية المستوردة.. فرع 1 السويداء طريق قنوات فندق العامر-323278، فرع ثاني (ألبسة): السويداء طريق قنوات فندق العامر",
+  "address": "السويداء - مول سويدا الطابق الثاني / طريق قنوات قرب فندق العامر",
+  "phones": [
+   "323278"
+  ],
+  "whatsapp": "https://whatsapp.com/channel/0029Vb8ftACJpe8Z9u9uSp2f",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0812/logo.jpg",
+ "cover": "assets/SYX-0812/cover.jpg",
+ "items": [
+  {
+   "name": "شوز رياضي أبيض",
+   "description": "مستورد ومكفول",
+   "category": "أحذية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0812/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "شوز نسائي أسود وأبيض",
+   "description": "",
+   "category": "أحذية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0812/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "عطر Coco Mademoiselle - Chanel",
+   "description": "",
+   "category": "عطور",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0812/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "عطر 212 Men Sexy - Carolina Herrera",
+   "description": "",
+   "category": "عطور",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0812/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "عطر Miss Dior",
+   "description": "",
+   "category": "عطور",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0812/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "جزدان نسائي رمادي",
+   "description": "عدة طبقات مع كفالة",
+   "category": "حقائب",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0812/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "جزدان نسائي بني",
+   "description": "عدة طبقات مع كفالة",
+   "category": "حقائب",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0812/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "شوز بيج بأربطة لامعة",
+   "description": "",
+   "category": "أحذية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0812/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

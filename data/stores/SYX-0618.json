@@ -1,0 +1,86 @@
+{
+ "id": "SYX-0618",
+ "verdict": "qualified",
+ "reason": "مطعم بيتزا نشط في حماة (صور مؤرخة صيف 2026 وإعلان التعامل بالعملة الجديدة) مع أرقام طلب، ولا يوجد منيو رقمي.",
+ "sells": "بيتزا بأحجام مختلفة: لحومات، سلطان، فصول، وشرح 60*40",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "بيتزا السلطان المدينة",
+  "followers": "15 ألف",
+  "bio": "0969005053 - 0132521552",
+  "address": "حماة",
+  "phones": [
+   "0969005053",
+   "0132521552"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-08"
+ },
+ "logo": "assets/SYX-0618/logo.jpg",
+ "cover": "assets/SYX-0618/cover.jpg",
+ "items": [
+  {
+   "name": "بيتزا كبيرة لحومات",
+   "description": "",
+   "category": "بيتزا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0618/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بيتزا سلطان",
+   "description": "",
+   "category": "بيتزا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0618/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بيتزا وسط سلطان",
+   "description": "",
+   "category": "بيتزا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0618/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "شرح سلطان قياس 60*40",
+   "description": "",
+   "category": "بيتزا شرح",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0618/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "شرح فصول قياس 60*40",
+   "description": "",
+   "category": "بيتزا شرح",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0618/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بيتزا خضار",
+   "description": "",
+   "category": "بيتزا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0618/item06.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

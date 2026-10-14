@@ -1,0 +1,96 @@
+{
+ "id": "SYX-0823",
+ "verdict": "qualified",
+ "reason": "كافيه في مول بالسويداء ينشر حلوياته ومشروباته في تشرين الأول 2026 ولا يملك منيو رقمي.",
+ "sells": "كريب ووافل وحلويات وكوكتيلات وميلك شيك",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "Yellow Cafe - كافيه يللو",
+  "followers": "11205",
+  "bio": "العنوان: السويداء - غرب الفرن الآلي - مول اشتي",
+  "address": "السويداء - غرب الفرن الآلي - مول اشتي",
+  "phones": [
+   "+963 980 735 552",
+   "0997364437"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0823/logo.jpg",
+ "cover": "assets/SYX-0823/cover.jpg",
+ "items": [
+  {
+   "name": "كريب بالشوكولا",
+   "description": "",
+   "category": "حلويات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0823/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كوكتيلات",
+   "description": "",
+   "category": "مشروبات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0823/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حلو بالبوظة والشوكولا",
+   "description": "",
+   "category": "حلويات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0823/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "ميلك شيك",
+   "description": "",
+   "category": "مشروبات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0823/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كريب بالفواكه",
+   "description": "",
+   "category": "حلويات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0823/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كاسة حلو بالفريز",
+   "description": "",
+   "category": "حلويات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0823/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "ميني بان كيك بالشوكولا",
+   "description": "",
+   "category": "حلويات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0823/item07.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

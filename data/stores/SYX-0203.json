@@ -1,0 +1,106 @@
+{
+ "id": "SYX-0203",
+ "verdict": "qualified",
+ "reason": "محل أحذية نسائية وولادية في الطلياني بدمشق، نشط (آخر منشور 3 أكتوبر 2026) مع تشكيلات وموديلات واضحة ولا يملك متجراً رقمياً.",
+ "sells": "أحذية نسائية وولادية: شحاحيط، سليبرات، أحذية رياضية",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "MODA SHOES",
+  "followers": "76 ألف",
+  "bio": "تواجدنا الطلياني جانب مدرسة الاوائل أو مقابل ألبسة فيرونا - للشحن 0992396642",
+  "address": "دمشق، الطلياني جانب مدرسة الأوائل",
+  "phones": [
+   "+963934676121",
+   "0992396642"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/moda19952024/",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0203/logo.jpg",
+ "cover": "assets/SYX-0203/cover.jpg",
+ "items": [
+  {
+   "name": "أحذية رياضية - تصفية آخر موسم",
+   "description": "تشكيلة سبورت نسائي وولادي",
+   "category": "أحذية رياضية",
+   "price": 150000,
+   "currency": "SYP",
+   "price_text": "150,000",
+   "image": "assets/SYX-0203/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "شحاطة بنعل عالي مع إكسسوار KH-6160",
+   "description": "مقاسات 36-41",
+   "category": "شحاحيط",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0203/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "شحاطة KH-6085",
+   "description": "مقاسات 37-41",
+   "category": "شحاحيط",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0203/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "شحاطة بفيونكة KH-6171",
+   "description": "مقاسات 36-41",
+   "category": "شحاحيط",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0203/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "شحاطة بإبزيم KH-6132",
+   "description": "مقاسات 36-41",
+   "category": "شحاحيط",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0203/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "سليبر أجنبي ALROUMI",
+   "description": "متوفر 37-40",
+   "category": "سليبرات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0203/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حذاء رياضي ولادي dlo",
+   "description": "مقاسات 25-36",
+   "category": "ولادي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0203/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حذاء رياضي نسائي RN-3555",
+   "description": "مقاسات 37-41",
+   "category": "أحذية رياضية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0203/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T12:00:00Z"
+}

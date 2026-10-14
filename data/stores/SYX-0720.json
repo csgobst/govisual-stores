@@ -1,0 +1,85 @@
+{
+ "id": "SYX-0720",
+ "verdict": "qualified",
+ "reason": "متجر تنسيق هدايا وورد في اللاذقية نشط جداً (منشورات قبل أيام) يستقبل الطلبات عبر الرسائل دون متجر إلكتروني.",
+ "sells": "باقات ورد طبيعي، بوكسات هدايا فاخرة، شوكولا، منطاد هدايا",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "هدايا المغتربين في اللاذقية (Laurel Store)",
+  "followers": "17 ألف",
+  "bio": "نهتم بجميع مناسباتكم تنسيق هدايا داخل سوريا",
+  "address": "اللاذقية، سوريا",
+  "phones": [
+   "+963998630509"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/Laurelstore2025",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0720/logo.jpg",
+ "cover": "assets/SYX-0720/cover.jpg",
+ "items": [
+  {
+   "name": "منطاد الحب",
+   "description": "",
+   "category": "هدايا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0720/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بوكيه ورد كبير مع كارت وبالونات",
+   "description": "",
+   "category": "باقات ورد",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0720/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بوكيه ورد أحمر",
+   "description": "",
+   "category": "باقات ورد",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0720/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بوكيه ورد مشكل",
+   "description": "",
+   "category": "باقات ورد",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0720/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بوكس ورد وشوكولا",
+   "description": "",
+   "category": "بوكسات هدايا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0720/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بوكس هدايا عناية مع ورد",
+   "description": "",
+   "category": "بوكسات هدايا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0720/item06.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

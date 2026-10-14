@@ -1,0 +1,85 @@
+{
+ "id": "SYX-0106",
+ "verdict": "qualified",
+ "reason": "مطعم شاورما في دمشق شارع 29 أيار نشط (منشورات خلال الأسابيع الماضية) والزبائن يسألون عن السعر، دون منيو رقمي.",
+ "sells": "شاورما وكبة وسندويش",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "شاورما أبو العبد",
+  "followers": "103 ألف",
+  "bio": "شاورما ابو العبد من اقدم محلات الشاورما في مدينة دمشق منذ سنة 1958م تجدونا في دمشق شارع 29ايار الفرع الوحيد",
+  "address": "دمشق - شارع 29 أيار",
+  "phones": [
+   "+963112323287"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/shawarma.abu.alabed",
+  "last_activity": "2026-09"
+ },
+ "logo": "assets/SYX-0106/logo.jpg",
+ "cover": "assets/SYX-0106/cover.jpg",
+ "items": [
+  {
+   "name": "سندويشة شاورما",
+   "description": "عرض يوم التحرير",
+   "category": "سندويش",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "السندويشة بـ 5000 يوم التحرير (عرض لمرة واحدة)",
+   "image": "assets/SYX-0106/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كبة",
+   "description": "",
+   "category": "مقبلات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0106/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "شاورما عربي",
+   "description": "محبوبة الجماهير",
+   "category": "شاورما",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0106/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "صحن شاورما",
+   "description": "",
+   "category": "شاورما",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0106/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كبة محشية شاورما",
+   "description": "",
+   "category": "مقبلات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0106/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "شاورما مع خبز",
+   "description": "",
+   "category": "شاورما",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0106/item06.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

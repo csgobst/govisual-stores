@@ -1,0 +1,66 @@
+{
+ "id": "SYX-0809",
+ "verdict": "qualified",
+ "reason": "مطعم شاورما وفروج في ساحة الكرامة بجرمانا نشر منتجاته في 2026 (آخر منشور أيار 2026) ولا يملك منيو رقمي.",
+ "sells": "شاورما وفروج مشوي ووجبات كريسبي",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "مطعم الخال (al khal restaurant)",
+  "followers": "1757",
+  "bio": "مطبخ/طبخ",
+  "address": "جرمانا - ساحة الكرامة",
+  "phones": [
+   "+963 939 657 314",
+   "0115662121"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-05"
+ },
+ "logo": "assets/SYX-0809/logo.jpg",
+ "cover": "assets/SYX-0809/cover.jpg",
+ "items": [
+  {
+   "name": "شاورما دجاج",
+   "description": "",
+   "category": "شاورما",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0809/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فروج مشوي على الفحم",
+   "description": "",
+   "category": "فروج",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0809/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "وجبة كريسبي",
+   "description": "",
+   "category": "وجبات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0809/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "وجبة مع سلطة وصوص",
+   "description": "",
+   "category": "وجبات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0809/item04.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

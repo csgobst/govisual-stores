@@ -1,0 +1,22 @@
+{
+ "id": "SYX-0816",
+ "name": "مطعم طيبة (فروج طيبة)",
+ "gov": "ريف دمشق",
+ "city": "يبرود",
+ "cat": "مواد غذائية",
+ "platform": "Facebook",
+ "url": "https://www.facebook.com/p/%D9%85%D8%B7%D8%B9%D9%85-%D8%B7%D9%8A%D8%A8%D8%A9-100054589113196/",
+ "instagram_url": "",
+ "menu_url": "",
+ "menu_state": "not_observed_public",
+ "country_check": "syrian_address_on_page",
+ "access_audit": "opened_headless_no_login",
+ "syria_evidence": "يبرود - حي الصالحية - جانب صيدلية سامر شوفان",
+ "proof_type": "صفحة المتجر نفسها",
+ "verified_platform": "فُتحت الصفحة دون تسجيل دخول",
+ "year": "2026",
+ "research_batch": "2026-10-15_expansion",
+ "origin": "agent_web_search",
+ "source": "websearch: facebook.com يبرود مطعم",
+ "source_extra": ""
+}

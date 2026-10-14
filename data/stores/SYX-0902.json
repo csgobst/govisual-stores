@@ -1,0 +1,105 @@
+{
+ "id": "SYX-0902",
+ "verdict": "qualified",
+ "reason": "محل حلويات وكيك ينشر قوالب الكيك والحلويات باستمرار في 2026 ويستقبل الطلبات دون منيو رقمي.",
+ "sells": "كيك أعياد ميلاد وكاتو وبوظة ومعجنات",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "معجنات الشام رفيع",
+  "followers": "3 آلاف",
+  "bio": "sweets alsham",
+  "address": "القامشلي",
+  "phones": [
+   "+963944388775"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/sweets_alsham_rafee_",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0902/logo.jpg",
+ "cover": "assets/SYX-0902/cover.jpg",
+ "items": [
+  {
+   "name": "كيكة قلوب حمراء",
+   "description": "",
+   "category": "كيك",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0902/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "قطع كاتو مغلفة",
+   "description": "",
+   "category": "كيك",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0902/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كيكة شوكولا مكتوبة",
+   "description": "",
+   "category": "كيك",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0902/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كيكة شوكولا بالكريمة",
+   "description": "",
+   "category": "كيك",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0902/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كيكة فراولة حمراء",
+   "description": "",
+   "category": "كيك",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0902/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كيكة فيونكة وردية",
+   "description": "",
+   "category": "كيك",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0902/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كيكة بصورة شعار",
+   "description": "",
+   "category": "كيك",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0902/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كيكة وردية بالفراشات",
+   "description": "",
+   "category": "كيك",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0902/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T01:26:44"
+}

@@ -1,0 +1,105 @@
+{
+ "id": "SYX-0511",
+ "verdict": "qualified",
+ "reason": "متجر عطور أصلية في حلب ينشر عطوره وعروضه حتى أكتوبر 2026 ويستقبل الطلبات بالخاص دون موقع أو كتالوج رقمي.",
+ "sells": "عطور أصلية رجالية ونسائية",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "Aroma Perfumes",
+  "followers": "13 ألف",
+  "bio": "Original Perfumes",
+  "address": "Aleppo, Syria",
+  "phones": [
+   "+963944449825"
+  ],
+  "whatsapp": "",
+  "instagram": "aroma.fragrancez",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0511/logo.jpg",
+ "cover": "assets/SYX-0511/cover.jpg",
+ "items": [
+  {
+   "name": "YSL Black Opium",
+   "description": "",
+   "category": "عطور نسائية",
+   "price": null,
+   "currency": "USD",
+   "price_text": "",
+   "image": "assets/SYX-0511/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "Armani Rouge Malachite",
+   "description": "",
+   "category": "عطور نسائية",
+   "price": null,
+   "currency": "USD",
+   "price_text": "",
+   "image": "assets/SYX-0511/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "Paco Rabanne Invictus Silver Cup",
+   "description": "",
+   "category": "عطور رجالية",
+   "price": null,
+   "currency": "USD",
+   "price_text": "",
+   "image": "assets/SYX-0511/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "Gucci Bloom Intense",
+   "description": "",
+   "category": "عطور نسائية",
+   "price": null,
+   "currency": "USD",
+   "price_text": "",
+   "image": "assets/SYX-0511/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "Dunhill Icon Absolute",
+   "description": "",
+   "category": "عطور رجالية",
+   "price": null,
+   "currency": "USD",
+   "price_text": "",
+   "image": "assets/SYX-0511/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "Dior Joy",
+   "description": "",
+   "category": "عطور نسائية",
+   "price": null,
+   "currency": "USD",
+   "price_text": "",
+   "image": "assets/SYX-0511/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "Chanel N°5",
+   "description": "",
+   "category": "عطور نسائية",
+   "price": null,
+   "currency": "USD",
+   "price_text": "",
+   "image": "assets/SYX-0511/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "Versace Pour Homme Oud Noir",
+   "description": "",
+   "category": "عطور رجالية",
+   "price": null,
+   "currency": "USD",
+   "price_text": "",
+   "image": "assets/SYX-0511/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T12:00:00Z"
+}

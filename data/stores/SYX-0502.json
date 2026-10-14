@@ -1,0 +1,98 @@
+{
+ "id": "SYX-0502",
+ "verdict": "qualified",
+ "reason": "شركة ألبسة نسائية بثلاثة أفرع في حلب تنشر عروضاً بأسعار يومياً في 2026 ولا تملك متجراً أو كتالوجاً رقمياً.",
+ "sells": "قفطان وعبايات ومانطو وألبسة سبور نسائية جملة ومفرق",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "B.Z Fashion",
+  "followers": "151 ألف",
+  "bio": "شركة B.Z الرائدة في مجال القفطان والعبايات والسبور والمانطو. جملة_مفرق ويوجد شحن لكافة المحافظات ولكافة دول",
+  "address": "حلب: سيف الدولة المول الملكي الطابق السفلي؛ الفرقان شارع الاكسبريس سنتر الفرقان؛ الموكامبو دوار المايل",
+  "phones": [
+   "+963941759455",
+   "0945429077",
+   "0945429075",
+   "0945429069"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/b.z_fashion1",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0502/logo.jpg",
+ "cover": "assets/SYX-0502/cover.jpg",
+ "items": [
+  {
+   "name": "مانطو بكشكش زهري",
+   "description": "",
+   "category": "مانطو",
+   "price": 450000,
+   "currency": "SYP",
+   "price_text": "العرض الأقوى بس ب 450 الف",
+   "image": "assets/SYX-0502/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم مانطو طويل مع صدرية زهري",
+   "description": "",
+   "category": "أطقم",
+   "price": 150000,
+   "currency": "SYP",
+   "price_text": "العرض الأقوى بس ب 150 الف",
+   "image": "assets/SYX-0502/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "عبايات مطرزة - التشكيلة الفاخرة",
+   "description": "New Luxury Collection",
+   "category": "عبايات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0502/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم بنقشة النمر",
+   "description": "",
+   "category": "أطقم",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0502/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "قفطان مطرز بالخرز",
+   "description": "",
+   "category": "قفطان",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0502/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مانطو طويل مع صدرية بيج",
+   "description": "",
+   "category": "مانطو",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0502/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "أطقم سبور نسائية",
+   "description": "",
+   "category": "سبور",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0502/item07.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T12:00:00Z"
+}

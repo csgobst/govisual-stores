@@ -1,0 +1,95 @@
+{
+ "id": "SYX-0110",
+ "verdict": "qualified",
+ "reason": "مقهى في الروضة بدمشق نشط (منشورات أكتوبر 2026) ينشر مشروباته ومنيو مطبوع كصورة فقط، وموقعه KARMACafeSyria.com لا يفتح.",
+ "sells": "قهوة ومشروبات باردة وعصائر وسندويش وحلويات",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "KARMA Cafe",
+  "followers": "25 ألف",
+  "bio": "الكافيه اللي فيها بتقدر فيها تشرب قهوة طيبة، وتروق - العنوان: Arawdah, Damascus, Syria",
+  "address": "الروضة - مقابل حديقة المدفع - نفس دخلة معهد الرواد، دمشق",
+  "phones": [
+   "+963994913060"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0110/logo.jpg",
+ "cover": "assets/SYX-0110/cover.jpg",
+ "items": [
+  {
+   "name": "اسبريسو",
+   "description": "your to go friend",
+   "category": "قهوة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0110/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "الكوكيز بالفخارة",
+   "description": "بتطلبه… ومنحضّره إلك بنفس اللحظة",
+   "category": "حلويات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0110/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "نسبريسو",
+   "description": "",
+   "category": "قهوة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0110/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "Spanish Ice Latte",
+   "description": "",
+   "category": "مشروبات باردة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0110/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كابتشينو كراميل",
+   "description": "",
+   "category": "مشروبات باردة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0110/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "سندويش كارما",
+   "description": "خفيف ومغذي وسريع",
+   "category": "سندويش",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0110/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "عصير ايكيدنيا فريش",
+   "description": "",
+   "category": "عصائر",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0110/item07.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

@@ -1,0 +1,73 @@
+{
+ "id": "SYX-0103",
+ "verdict": "qualified",
+ "reason": "محل حلويات عربية في دمشق نشط (منشورات خلال الأيام الماضية) والزبائن يسألون عن الأسعار، دون منيو رقمي.",
+ "sells": "حلويات عربية: هريسة، وربات، معجوقة، نابلسية",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "حلويات البيك",
+  "followers": "37 ألف",
+  "bio": "تصنيع ومبيع جميع انواع الحلويات العربية بأعلى مستوى من الجودة والاتقان",
+  "address": "دمشق",
+  "phones": [],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0103/logo.jpg",
+ "cover": "assets/SYX-0103/cover.jpg",
+ "items": [
+  {
+   "name": "هريسة",
+   "description": "طراوة، غنى بالطعم، وحلاوة بتردّ الروح",
+   "category": "حلويات عربية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0103/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حلويات مشكلة",
+   "description": "",
+   "category": "حلويات عربية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0103/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "وربات بالفستق",
+   "description": "",
+   "category": "حلويات عربية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0103/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "معجوقة بالقشطة",
+   "description": "",
+   "category": "حلويات عربية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0103/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كنافة نابلسية",
+   "description": "",
+   "category": "حلويات عربية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0103/item05.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

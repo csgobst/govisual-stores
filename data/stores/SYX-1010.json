@@ -1,0 +1,106 @@
+{
+ "id": "SYX-1010",
+ "verdict": "qualified",
+ "reason": "سوبرماركت في اللاذقية نشط يومياً على فيسبوك يعرض منتجاته وعروضه دون منيو أو متجر رقمي",
+ "sells": "مواد غذائية وسناكات وبوظة ومنظفات",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "سوبر ماركت المحبة",
+  "followers": "62.6 ألف",
+  "bio": "بيع تجزئة",
+  "address": "اللاذقية",
+  "phones": [
+   "0996805805",
+   "0955835999"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/alma.7abaa",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-1010/logo.jpg",
+ "cover": "assets/SYX-1010/cover.jpg",
+ "items": [
+  {
+   "name": "لبن معزة مغلي",
+   "description": "",
+   "category": "ألبان وأجبان",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-1010/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بوظة دايم كون",
+   "description": "",
+   "category": "بوظة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-1010/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بوظة ميلكا",
+   "description": "",
+   "category": "بوظة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-1010/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بوظة Sizin İçin علبة عائلية",
+   "description": "فستق وكاكاو وفانيلا",
+   "category": "بوظة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-1010/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بوظة رويال علب",
+   "description": "",
+   "category": "بوظة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-1010/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "برينغلز",
+   "description": "",
+   "category": "سناكات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-1010/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "دوريتوس",
+   "description": "",
+   "category": "سناكات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-1010/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "شيبس ماستر",
+   "description": "",
+   "category": "سناكات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-1010/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

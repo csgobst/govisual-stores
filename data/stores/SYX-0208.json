@@ -1,0 +1,105 @@
+{
+ "id": "SYX-0208",
+ "verdict": "qualified",
+ "reason": "محل أحذية نسائية في نزلة الطلياني بدمشق، نشط جداً (آخر منشور قبل ساعات) ويعلن أسعاراً على الصور، ولا يملك متجراً رقمياً.",
+ "sells": "أحذية نسائية: جزمات شتوية، خفافات، كعب، صنادل سهرة",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "أحذية أفدار طلياني",
+  "followers": "10 آلاف",
+  "bio": "أحذية أفدار طلياني",
+  "address": "دمشق، نزلة الطلياني جانب صيدلية الخطيب",
+  "phones": [
+   "+963113339966"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0208/logo.jpg",
+ "cover": "assets/SYX-0208/cover.jpg",
+ "items": [
+  {
+   "name": "جزمة نسائية شتوية بكعب عريض",
+   "description": "عرض تنزيلات",
+   "category": "جزمات",
+   "price": 130000,
+   "currency": "SYP",
+   "price_text": "130 ألف ليرة سورية",
+   "image": "assets/SYX-0208/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "خفافة نسائية بفيونكة",
+   "description": "ألوان متعددة",
+   "category": "خفافات",
+   "price": 100000,
+   "currency": "SYP",
+   "price_text": "100 ألف ليرة سورية",
+   "image": "assets/SYX-0208/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "تنزيلات آخر الموسم - أحذية رياضية وكعب",
+   "description": "ابتداءً من 100 ألف",
+   "category": "تنزيلات",
+   "price": 100000,
+   "currency": "SYP",
+   "price_text": "ابتداء من 100 ألف",
+   "image": "assets/SYX-0208/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "صندل كعب شفاف بستراس ملتف",
+   "description": "مقاسات 37-40",
+   "category": "صنادل سهرة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0208/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حذاء كعب فضي مدبب بحزام كاحل",
+   "description": "مقاسات 37-40",
+   "category": "أحذية كعب",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0208/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "صندل كعب عالي باللؤلؤ - ذهبي",
+   "description": "مقاسات 37-40",
+   "category": "صنادل سهرة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0208/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حذاء طبي بنعل ويدج - بيج",
+   "description": "",
+   "category": "أحذية مريحة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0208/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بوت قصير وجزمات - أحدث تشكيلة",
+   "description": "",
+   "category": "جزمات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0208/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T12:00:00Z"
+}

@@ -1,0 +1,85 @@
+{
+ "id": "SYX-0901",
+ "verdict": "qualified",
+ "reason": "محل حلويات في القامشلي ينشر صور منتجاته ويستقبل الطلبات عبر الهاتف والواتساب دون أي منيو رقمي.",
+ "sells": "حلويات عربية وغربية ومعجنات",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "حلويات الملكة و عاشور",
+  "followers": "115",
+  "bio": "أجتمعنا بخبرة السنين لنقدم أفضل الحلويات الشرقية والغربية ونستقبل كافة طلباتكم",
+  "address": "القامشلي، دوار الوحدة",
+  "phones": [
+   "+963932717880"
+  ],
+  "whatsapp": "0932717880",
+  "instagram": "",
+  "last_activity": "2026-08"
+ },
+ "logo": "assets/SYX-0901/logo.jpg",
+ "cover": "assets/SYX-0901/cover.jpg",
+ "items": [
+  {
+   "name": "عش البلبل بالفستق",
+   "description": "",
+   "category": "حلويات عربية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0901/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "شعيبيات بالفستق",
+   "description": "",
+   "category": "حلويات عربية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0901/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "أصابع بالفستق الحلبي",
+   "description": "",
+   "category": "حلويات عربية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0901/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بقلاوة ورد بالفستق",
+   "description": "",
+   "category": "حلويات عربية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0901/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "صينية شوكولا بالمكسرات",
+   "description": "",
+   "category": "حلويات عربية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0901/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "معمول وبيتيفور",
+   "description": "",
+   "category": "حلويات عربية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0901/item06.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T01:26:44"
+}

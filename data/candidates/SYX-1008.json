@@ -1,0 +1,22 @@
+{
+ "id": "SYX-1008",
+ "name": "Karam Market",
+ "gov": "دمشق",
+ "city": "الميدان",
+ "cat": "مواد غذائية",
+ "platform": "Facebook",
+ "url": "https://www.facebook.com/KaramMarketSy/",
+ "instagram_url": "",
+ "menu_url": "",
+ "menu_state": "not_observed_public",
+ "country_check": "syrian_address_on_page",
+ "access_audit": "opened_headless_no_login",
+ "syria_evidence": "العنوان دمشق الميدان مول الماسة بلازا خلف جامع الحسن، وفرع جديد في ترانس مول حمص",
+ "proof_type": "صفحة المتجر نفسها",
+ "verified_platform": "فُتحت الصفحة دون تسجيل دخول",
+ "year": "2026",
+ "research_batch": "2026-10-15_expansion",
+ "origin": "agent_web_search",
+ "source": "web search: facebook سوبر ماركت عروض",
+ "source_extra": ""
+}

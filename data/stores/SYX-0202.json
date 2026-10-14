@@ -1,0 +1,105 @@
+{
+ "id": "SYX-0202",
+ "verdict": "qualified",
+ "reason": "صفحة بيع ألبسة نسائية أونلاين في دمشق والمحافظات برقم سوري، تنشر موديلات مع صور واضحة (آخر منشور مارس 2026) ولا تملك متجراً رقمياً.",
+ "sells": "ألبسة نسائية: أطقم مخمل مبطنة، جواكيت، جلابيات",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "ZETA Shoes - أحذية زيتا - دمشق",
+  "followers": "43 ألف",
+  "bio": "تبضعي اونلاين مع زيتا فاشن في دمشق و المحافظات",
+  "address": "دمشق",
+  "phones": [
+   "+963957377850"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-03"
+ },
+ "logo": "assets/SYX-0202/logo.jpg",
+ "cover": "assets/SYX-0202/cover.jpg",
+ "items": [
+  {
+   "name": "طقم مخمل مبطن فرو مع تطريز وردة - كحلي",
+   "description": "مخمل مبطن فرو سميك، مقاسات حتى 52",
+   "category": "أطقم شتوية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0202/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم مخمل مبطن فرو مع تطريز وردة - خمري",
+   "description": "مخمل مبطن فرو سميك، مقاسات حتى 52",
+   "category": "أطقم شتوية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0202/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم مخمل مبطن فرو مع تطريز وردة - بني",
+   "description": "مخمل مبطن فرو سميك، مقاسات حتى 52",
+   "category": "أطقم شتوية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0202/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "جاكيت فرو خمري بقبعة",
+   "description": "",
+   "category": "جواكيت",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0202/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم مخمل مبطن كحلي بجاكيت مفتوح",
+   "description": "مخمل مبطن فرو سميك",
+   "category": "أطقم شتوية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0202/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "جلابية سوداء بأكمام نمرية",
+   "description": "",
+   "category": "جلابيات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0202/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "جاكيت بقبعة بخطوط بيضاء - أسود",
+   "description": "عملي ودافئ",
+   "category": "جواكيت",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0202/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "جاكيت بقبعة بخطوط بيضاء - أحمر",
+   "description": "عملي ودافئ",
+   "category": "جواكيت",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0202/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T12:00:00Z"
+}

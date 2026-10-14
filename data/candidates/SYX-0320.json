@@ -1,0 +1,22 @@
+{
+ "id": "SYX-0320",
+ "name": "Al Haffar Beauty Shop الحفار للتجميل",
+ "gov": "دمشق",
+ "city": "الطلياني",
+ "cat": "عطور وتجميل",
+ "platform": "Facebook",
+ "url": "https://www.facebook.com/p/Al-Haffar-Beauty-Shop-%D8%A7%D9%84%D8%AD%D9%81%D8%A7%D8%B1-%D9%84%D9%84%D8%AA%D8%AC%D9%85%D9%8A%D9%84-100044215610304/",
+ "instagram_url": "",
+ "menu_url": "",
+ "menu_state": "not_observed_public",
+ "country_check": "syrian_address_on_page",
+ "access_audit": "opened_headless_no_login",
+ "syria_evidence": "العنوان على الصفحة: نزلة الطلياني مواجه مشفى الطلياني، Dimishq, Syria؛ هاتف +963 937 551 455",
+ "proof_type": "صفحة المتجر نفسها",
+ "verified_platform": "فُتحت الصفحة دون تسجيل دخول",
+ "year": "2026",
+ "research_batch": "2026-10-15_expansion",
+ "origin": "agent_web_search",
+ "source": "WebSearch: مكياج وعطور دمشق متجر (facebook.com)",
+ "source_extra": ""
+}

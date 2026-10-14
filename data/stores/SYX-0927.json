@@ -1,0 +1,95 @@
+{
+ "id": "SYX-0927",
+ "verdict": "qualified",
+ "reason": "متجر أدوات منزلية وهدايا في دير الزور ينشر منتجاته في 2026، وموقعه صفحة تعريفية فقط بلا كتالوج أو متجر.",
+ "sells": "أدوات منزلية وتحف وساعات وصواني ضيافة وأشجار ديكور",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "بيت ياقوت - Beit Yaqout",
+  "followers": "14 ألف",
+  "bio": "وجهتك الأولى للأناقة المنزلية والضيافة الفاخرة في دير الزور. بيت ياقوت.. حيث تكتمل مناسباتك.",
+  "address": "دير الزور، خلف سينما الفؤاد نزلة الرديسات",
+  "phones": [
+   "+963939083400"
+  ],
+  "whatsapp": "963939083400",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0927/logo.jpg",
+ "cover": "assets/SYX-0927/cover.jpg",
+ "items": [
+  {
+   "name": "ساعة عامودية بثلاث أرجل",
+   "description": "",
+   "category": "منزليات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0927/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "ساعات طاولة كلاسيكية",
+   "description": "",
+   "category": "منزليات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0927/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم مقالي غرانيت ريفال",
+   "description": "",
+   "category": "منزليات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0927/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مقلاة غرانيت",
+   "description": "",
+   "category": "منزليات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0927/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "شجرة صناعية بحوض سيراميك",
+   "description": "",
+   "category": "منزليات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0927/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طاولة تلفزيون بشاشة لهب صناعي",
+   "description": "",
+   "category": "منزليات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0927/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم صواني ذهبي وفضي",
+   "description": "",
+   "category": "منزليات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0927/item07.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T01:41:52"
+}

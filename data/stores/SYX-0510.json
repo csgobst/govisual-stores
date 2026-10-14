@@ -1,0 +1,106 @@
+{
+ "id": "SYX-0510",
+ "verdict": "qualified",
+ "reason": "معرض أدوات منزلية في حلب بستان القصر ينشر منتجاته مع الأسعار مكتوبة على الصور بشكل يومي في 2026 ولا يملك متجراً رقمياً.",
+ "sells": "أدوات منزلية ومطبخ وبلاستيكيات وزجاجيات",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "معرض حسكل للادوات المنزلية",
+  "followers": "73 ألف",
+  "bio": "كل ما يلزم منزلك. حلب بستان القصر الشارع الرئيسي بعد جامع بدر ب 50 متر ساحة الذهب تواصل 0944604707",
+  "address": "حلب، بستان القصر، الشارع الرئيسي، بعد جامع بدر ب 50 متر، ساحة الذهب",
+  "phones": [
+   "+963944604707",
+   "0983918636"
+  ],
+  "whatsapp": "0944604707",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0510/logo.jpg",
+ "cover": "assets/SYX-0510/cover.jpg",
+ "items": [
+  {
+   "name": "مصفاية صحون بلاستيك طابق واحد",
+   "description": "",
+   "category": "مطبخ",
+   "price": 850,
+   "currency": "SYP",
+   "price_text": "طابق 1 بسعر 850",
+   "image": "assets/SYX-0510/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كرسي بلاستيك صغير",
+   "description": "",
+   "category": "بلاستيكيات",
+   "price": 350,
+   "currency": "SYP",
+   "price_text": "سعر الواحد 350",
+   "image": "assets/SYX-0510/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "سلة مهملات بدواسة",
+   "description": "",
+   "category": "بلاستيكيات",
+   "price": 1100,
+   "currency": "SYP",
+   "price_text": "سلة مهملات بسعر 1100",
+   "image": "assets/SYX-0510/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "قالب كيك بلاستيك",
+   "description": "",
+   "category": "مطبخ",
+   "price": 400,
+   "currency": "SYP",
+   "price_text": "قالب كيك بلاستيك بسعر 400",
+   "image": "assets/SYX-0510/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم علب مرمري 3 قطع",
+   "description": "قياسات 18 و14 و10 سم",
+   "category": "تخزين",
+   "price": 550,
+   "currency": "SYP",
+   "price_text": "سعر 550",
+   "image": "assets/SYX-0510/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم صحون زجاج",
+   "description": "",
+   "category": "زجاجيات",
+   "price": 900,
+   "currency": "SYP",
+   "price_text": "سعر 900",
+   "image": "assets/SYX-0510/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فناجين قهوة",
+   "description": "",
+   "category": "زجاجيات",
+   "price": 1200,
+   "currency": "SYP",
+   "price_text": "فناجين قهوة بس بسعر 1200 ليرة",
+   "image": "assets/SYX-0510/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فرامة لحمة يدوية",
+   "description": "Meat Mincer No.12",
+   "category": "مطبخ",
+   "price": 1100,
+   "currency": "SYP",
+   "price_text": "السعر 1100",
+   "image": "assets/SYX-0510/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T12:00:00Z"
+}

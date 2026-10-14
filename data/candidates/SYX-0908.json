@@ -1,0 +1,22 @@
+{
+ "id": "SYX-0908",
+ "name": "مستر كادو - MR.Cadeau",
+ "gov": "دير الزور",
+ "city": "دير الزور",
+ "cat": "هدايا وهاند ميد",
+ "platform": "Facebook",
+ "url": "https://www.facebook.com/1030286816825303",
+ "instagram_url": "",
+ "menu_url": "",
+ "menu_state": "not_observed_public",
+ "country_check": "syrian_address_on_page",
+ "access_audit": "opened_headless_no_login",
+ "syria_evidence": "العنوان في المنشورات: دير الزور - حي القصور - حارة الارامل، والهاتف 0932200518",
+ "proof_type": "صفحة المتجر نفسها",
+ "verified_platform": "فُتحت الصفحة دون تسجيل دخول",
+ "year": "2026",
+ "research_batch": "2026-10-15_expansion",
+ "origin": "agent_web_search",
+ "source": "https://www.findglocal.com/SY/Deir-Zzor/197440",
+ "source_extra": ""
+}

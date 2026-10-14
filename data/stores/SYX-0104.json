@@ -1,0 +1,96 @@
+{
+ "id": "SYX-0104",
+ "verdict": "qualified",
+ "reason": "مطعم في باب توما بدمشق القديمة نشط (منشور قبل يوم) يعرض أطباقه بالصور، وموقعه haretna.net لا يفتح ولا يظهر أي منيو رقمي.",
+ "sells": "مأكولات سورية وغربية ومقبلات",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "Haretna Restaurant",
+  "followers": "34 ألف",
+  "bio": "Haretna Restaurant is located in the Bab Touma area of Old Damascus. It serves dishes from Syrian and Western cuisine.",
+  "address": "Bab Toma, Damascus, Syria",
+  "phones": [
+   "+963991111455",
+   "0993430003"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0104/logo.jpg",
+ "cover": "assets/SYX-0104/cover.jpg",
+ "items": [
+  {
+   "name": "لحم بالفخارة",
+   "description": "",
+   "category": "أطباق رئيسية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0104/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "سلطة حارتنا",
+   "description": "",
+   "category": "سلطات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0104/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "ستيك لحم بالصوص",
+   "description": "",
+   "category": "أطباق رئيسية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0104/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مقبلات باللبن والجوز",
+   "description": "ما بتكمل السفرة بدونها",
+   "category": "مقبلات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0104/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "محمرة ومعجنات",
+   "description": "",
+   "category": "مقبلات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0104/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "دجاج مع رز",
+   "description": "النكهة حكاية واللقمة غرام",
+   "category": "أطباق رئيسية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0104/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "قريدس",
+   "description": "",
+   "category": "أطباق رئيسية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0104/item07.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

@@ -1,0 +1,78 @@
+{
+ "id": "SYX-0322",
+ "verdict": "qualified",
+ "reason": "محل ورد وهدايا بثلاثة فروع في دمر وكفرسوسة بدمشق ينشر تنسيقاته على فيسبوك ويستقبل الطلبات عبر واتساب دون متجر إلكتروني.",
+ "sells": "ورد طبيعي وتنسيقات ورد وشوكولا وهدايا وبالونات",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "rose flowers",
+  "followers": "2 ألف",
+  "bio": "1_ مشروع دمر الجزيرة السابعة : 0984545427 | 2_ مشروع دمر الستي مارت : 0984545428 | 3_ دوار كفرسوسة [By Nahfa] : 0984545429 | الإدارة : 0994545426",
+  "address": "دمشق، مشروع دمر (الجزيرة السابعة والستي مارت) ودوار كفرسوسة",
+  "phones": [
+   "0984545427",
+   "0984545428",
+   "0984545429",
+   "0994545426"
+  ],
+  "whatsapp": "+963994545426",
+  "instagram": "https://www.instagram.com/rose_flower.s",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0322/logo.jpg",
+ "cover": "assets/SYX-0322/cover.jpg",
+ "items": [
+  {
+   "name": "تنسيق ورد ستاند كبير أحمر وأبيض",
+   "description": "",
+   "category": "تنسيقات ورد",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYX-0322/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بالونات قلوب هيليوم مضيئة",
+   "description": "",
+   "category": "بالونات",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYX-0322/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بوكيه ورد ملون",
+   "description": "",
+   "category": "باقات ورد",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYX-0322/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بوكس ورد جوري أحمر مع منتجات عناية",
+   "description": "",
+   "category": "هدايا",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYX-0322/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "تنسيق ورد زهري في سلة",
+   "description": "",
+   "category": "تنسيقات ورد",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYX-0322/item05.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-14T22:45:00.477665+00:00"
+}

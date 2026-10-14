@@ -1,0 +1,96 @@
+{
+ "id": "SYX-0724",
+ "verdict": "qualified",
+ "reason": "محل مكياج وعطور في اللاذقية بصفحة نشطة جداً (106 ألف متابع، منشور قبل ساعات) يبيع عبر واتساب دون متجر إلكتروني.",
+ "sells": "مكياج، عطور وديودرانت، عناية بالبشرة والشعر، هدايا وإكسسوار",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "مكياجات علوش",
+  "followers": "106 ألف",
+  "bio": "@مكياجات @عطورات@ هدايا@اكسسوار",
+  "address": "اللاذقية - الزقزقانية قبل النفوس دخلة قهوة ايطالي جانب محل روبيرت",
+  "phones": [
+   "+963954451062",
+   "0934338275"
+  ],
+  "whatsapp": "0954451062",
+  "instagram": "https://www.instagram.com/make_up_alloush",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0724/logo.jpg",
+ "cover": "",
+ "items": [
+  {
+   "name": "بلاشر ستيك كريمي T&G for ever للخدود والشفاه",
+   "description": "",
+   "category": "مكياج",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0724/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "ديودوران لطافة Lattafa خمرة",
+   "description": "",
+   "category": "عطور",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0724/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "ديودوران لطافة Lattafa يارا",
+   "description": "",
+   "category": "عطور",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0724/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "غسول رغوي فوم روتس بيورتي",
+   "description": "",
+   "category": "عناية بالبشرة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0724/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مسكرة حواجب غابريني التركية",
+   "description": "",
+   "category": "مكياج",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0724/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بلامب غلوس أني كلاين",
+   "description": "",
+   "category": "مكياج",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0724/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كريم شعر Alex Bio",
+   "description": "",
+   "category": "عناية بالشعر",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0724/item07.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

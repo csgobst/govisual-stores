@@ -1,0 +1,95 @@
+{
+ "id": "SYX-0101",
+ "verdict": "qualified",
+ "reason": "محل حلويات دمشقي نشط (منشورات قبل أيام) يعرض منتجاته بالصور دون أي منيو رقمي أو متجر إلكتروني.",
+ "sells": "حلويات عربية ومعمول وبلورية بالفستق",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "حلويات الصديق - Al Seddik sweets",
+  "followers": "35 ألف",
+  "bio": "الصفحة الرسمية و الوحيدة..حلويات الصديق - أربعة وسبعون عاماً وأكثر.. أمضيناها في صناعة أفخر وأجود الحلويات",
+  "address": "دمشق - شارع 29 أيار جانب فرن السفراء",
+  "phones": [
+   "+963933222984"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0101/logo.jpg",
+ "cover": "assets/SYX-0101/cover.jpg",
+ "items": [
+  {
+   "name": "بلورية سوبر إكسترا بالفستق",
+   "description": "",
+   "category": "حلويات عربية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0101/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حلويات مشكلة",
+   "description": "مشكلينها لتزبط مع كل الأذواق",
+   "category": "حلويات عربية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0101/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "علبة حلويات مشكلة",
+   "description": "",
+   "category": "حلويات عربية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0101/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بقلاوة بالفستق الحلبي",
+   "description": "",
+   "category": "حلويات عربية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0101/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "معمول المشمش",
+   "description": "",
+   "category": "معمول",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0101/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "معمول التين الملكي",
+   "description": "",
+   "category": "معمول",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0101/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بقجة",
+   "description": "",
+   "category": "حلويات عربية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0101/item07.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

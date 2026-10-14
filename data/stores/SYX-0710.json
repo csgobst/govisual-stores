@@ -1,0 +1,65 @@
+{
+ "id": "SYX-0710",
+ "verdict": "qualified",
+ "reason": "متجر ألبسة رياضية وقطنيات في اللاذقية بصفحة نشطة جداً (157 ألف متابع، منشورات قبل ساعات) يبيع عبر الرسائل دون متجر إلكتروني.",
+ "sells": "ألبسة رياضية وقطنيات نسائية ورجالية، جملة ومفرق",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "بيت الرياضة #sports house",
+  "followers": "157 ألف",
+  "bio": "متجر البسة رياضية وقطنيات اللاذقية. 0932645664 - جملة ومفرق",
+  "address": "اللاذقية، سوريا",
+  "phones": [
+   "+963932645664"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/sporthouselattakia",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0710/logo.jpg",
+ "cover": "assets/SYX-0710/cover.jpg",
+ "items": [
+  {
+   "name": "كنزة قطن تركي نسائية",
+   "description": "",
+   "category": "ألبسة نسائية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0710/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كنزة القطن التركي Milano بقبعة",
+   "description": "",
+   "category": "ألبسة نسائية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0710/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "برشوت كولمبي adidas للمقاسات الكبيرة (2x-5x)",
+   "description": "",
+   "category": "ألبسة رجالية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0710/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "جاكيت نسائي",
+   "description": "",
+   "category": "ألبسة نسائية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0710/item04.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

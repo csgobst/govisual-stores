@@ -1,0 +1,105 @@
+{
+ "id": "SYX-1004",
+ "verdict": "qualified",
+ "reason": "سوبرماركت في طرطوس ينشر منتجاته يومياً مع توصيل والسعر عبر الرسائل ولا يملك منيو أو متجر رقمي",
+ "sells": "مواد غذائية وتموين منزلي",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "سوبر ماركت ام عزيز",
+  "followers": "17 ألف",
+  "bio": "متجر بقالة / سوبرماركت / متجر مواد غذائية - الشارع العريض مدخل سوق الخضار الغربي",
+  "address": "طرطوس - الغمقة الغربية - الشارع العريض، مدخل سوق الخضار الغربي، مقابل الجمعور للسيراميك",
+  "phones": [
+   "0933875209"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-1004/logo.jpg",
+ "cover": "assets/SYX-1004/cover.jpg",
+ "items": [
+  {
+   "name": "سكر",
+   "description": "سكر بنفس السعر السابق وبكميات محدودة لكل زبون",
+   "category": "مواد غذائية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-1004/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طحين جود - عبوة 2 كغ",
+   "description": "طحين متعدد الاستعمالات للمعجنات والخبز والحلويات",
+   "category": "مواد غذائية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-1004/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "زيوت دوار الشمس (فلورينا، الخير، زير، فرزات)",
+   "description": "أربع أنواع زيت",
+   "category": "مواد غذائية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-1004/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "رز بسمتي",
+   "description": "نوعية ممتازة",
+   "category": "مواد غذائية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-1004/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "عدس كندي نخب أول",
+   "description": "",
+   "category": "مواد غذائية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-1004/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "جبنة المراعي المطبوخة",
+   "description": "",
+   "category": "مواد غذائية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-1004/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "تونة أمواج",
+   "description": "",
+   "category": "مواد غذائية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-1004/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بيض بلدي",
+   "description": "طازج طبيعي",
+   "category": "مواد غذائية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-1004/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

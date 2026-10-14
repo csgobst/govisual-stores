@@ -1,0 +1,68 @@
+{
+ "id": "SYX-0801",
+ "verdict": "qualified",
+ "reason": "مطعم عائلي في السويداء بفرعين ينشر صور أطباقه أسبوعياً في تشرين الأول 2026 ولا يملك منيو رقمي.",
+ "sells": "مشاوي وفروج وبروستد ومقبلات",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "مطعم وتراس ذكريات - السويداء",
+  "followers": "20786",
+  "bio": "مطعم وتراس ذكريات، نحن ليس فقط مطعم ... نحن نزرع البسمه",
+  "address": "السويداء - الفرع الأول: المحوري جنوب مشهد زيدان، الفرع الثاني: شمال برج الريم",
+  "phones": [
+   "+963 16 323 537",
+   "0988874340",
+   "0958899779",
+   "0958899778"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0801/logo.jpg",
+ "cover": "assets/SYX-0801/cover.jpg",
+ "items": [
+  {
+   "name": "فروج مسحب",
+   "description": "مع بطاطا وخبز",
+   "category": "فروج",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0801/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "تبولة",
+   "description": "",
+   "category": "مقبلات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0801/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مشاوي",
+   "description": "",
+   "category": "مشاوي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0801/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "دجاج بروستد",
+   "description": "",
+   "category": "فروج",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0801/item04.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

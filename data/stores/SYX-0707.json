@@ -1,0 +1,88 @@
+{
+ "id": "SYX-0707",
+ "verdict": "qualified",
+ "reason": "محل حلويات شرقية وبوظة عربية في طرطوس بفرعين، صفحته نشطة (منشورات أكتوبر 2026) ولا يملك منيو رقمي.",
+ "sells": "حلويات شرقية وبوظة عربية وكريب ودونات",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "سما الشهباء",
+  "followers": "7.2 ألف",
+  "bio": "لأنتاج أشهى وألذ الحلويات الشرقية والبوظة العربية",
+  "address": "طرطوس: شارع الميناء جانب فندق المرفأ / شارع الثورة دوار الشرطة العسكرية سابقاً",
+  "phones": [
+   "0955450085",
+   "0996414222",
+   "0182220263",
+   "0182233824"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/sama_alshahbaa",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0707/logo.jpg",
+ "cover": "assets/SYX-0707/cover.jpg",
+ "items": [
+  {
+   "name": "كريب فواكه",
+   "description": "",
+   "category": "كريب",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0707/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "نابلسية",
+   "description": "",
+   "category": "حلويات شرقية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0707/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "هيطلية",
+   "description": "",
+   "category": "حلويات شرقية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0707/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "دونات",
+   "description": "",
+   "category": "حلويات غربية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0707/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "امبراطور أفوكادو مع قشطة ومكسرات",
+   "description": "",
+   "category": "كوكتيلات وبوظة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0707/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "شوكولامو",
+   "description": "",
+   "category": "بوظة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0707/item06.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

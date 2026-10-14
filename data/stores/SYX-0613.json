@@ -1,0 +1,75 @@
+{
+ "id": "SYX-0613",
+ "verdict": "qualified",
+ "reason": "محل ألبسة نسائية جملة ومفرق في سوق القيصرية بحمص، نشط جداً (منشور قبل ساعات) ويذكر أسعاراً في المنشورات، وموقعه الإلكتروني المذكور لا يعمل.",
+ "sells": "فساتين نسائية (مخمل، شامواه، جوخ)، أطقم شتوية، بيجامات",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "ألبسة بيت الموضة - حمص",
+  "followers": "57 ألف",
+  "bio": "العنوان: حمص_سوق المسقوف،_شارع القيصرية_منتصف الشارع، بيع جملة-مفرق",
+  "address": "حمص، سوق المسقوف، سوق القيصرية",
+  "phones": [
+   "0935043286"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0613/logo.jpg",
+ "cover": "assets/SYX-0613/cover.jpg",
+ "items": [
+  {
+   "name": "الفستان التريندي الجديد",
+   "description": "",
+   "category": "فساتين",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "بسعر أقل من ٤,٠٠٠ ليرة",
+   "image": "assets/SYX-0613/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان المخمل العصري مع بلرو الفرو",
+   "description": "",
+   "category": "فساتين",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0613/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فساتين الجوخ المونس",
+   "description": "بألوان مميزة",
+   "category": "فساتين",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0613/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم الجوخ مع الفرو",
+   "description": "",
+   "category": "أطقم",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0613/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بيجامات",
+   "description": "",
+   "category": "بيجامات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "من ٥٠٠ ولحد الـ ١٠٠٠ ليرة",
+   "image": "assets/SYX-0613/item05.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

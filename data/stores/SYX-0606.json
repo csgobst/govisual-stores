@@ -1,0 +1,108 @@
+{
+ "id": "SYX-0606",
+ "verdict": "qualified",
+ "reason": "مطعم وجبات سريعة نشط في حماة ينشر عروضاً أسبوعية بالأسعار بالليرة السورية وأرقام توصيل، ولا يوجد منيو رقمي.",
+ "sells": "فروج مشوي وبروستد، شاورما، كريسبي وسبايسي، سندويش غربي، منسف رز برياني",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "مطعم ابو كمال",
+  "followers": "20 ألف",
+  "bio": "مطعم طعام سريع",
+  "address": "حماة – الصابونية – شارع الزاغة – قرب جامع الشهداء",
+  "phones": [
+   "+963332229498",
+   "0946980656",
+   "0951976373",
+   "2502263"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0606/logo.jpg",
+ "cover": "assets/SYX-0606/cover.jpg",
+ "items": [
+  {
+   "name": "فروج مشوي",
+   "description": "2 كغ قبل الشوي، بطاطا + مايونيز + مخلل",
+   "category": "مشاوي",
+   "price": 90000,
+   "currency": "SYP",
+   "price_text": "90,000",
+   "image": "assets/SYX-0606/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "منسف رز برياني",
+   "description": "مع فروج مشوي + صحن سرفيس + ثوم",
+   "category": "وجبات",
+   "price": 115000,
+   "currency": "SYP",
+   "price_text": "115,000",
+   "image": "assets/SYX-0606/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فروج بروستد",
+   "description": "بطاطا + مايونيز + كاتشب",
+   "category": "بروستد",
+   "price": 100000,
+   "currency": "SYP",
+   "price_text": "100,000",
+   "image": "assets/SYX-0606/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "1 كيلو كريسبي أو سبايسي",
+   "description": "بطاطا + سلطة روسية + مايونيز + كاتشب",
+   "category": "بروستد",
+   "price": 110000,
+   "currency": "SYP",
+   "price_text": "110,000",
+   "image": "assets/SYX-0606/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "1 كيلو شاورما صافي",
+   "description": "صحن سرفيس + مايونيز + بطاطا",
+   "category": "شاورما",
+   "price": 120000,
+   "currency": "SYP",
+   "price_text": "120,000",
+   "image": "assets/SYX-0606/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "سندويشة شاورما",
+   "description": "خبزة وصاج",
+   "category": "سندويش",
+   "price": 15000,
+   "currency": "SYP",
+   "price_text": "15,000",
+   "image": "assets/SYX-0606/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "سندويش غربي",
+   "description": "كريسبي، سبايسي، سودة، سجق",
+   "category": "سندويش",
+   "price": 25000,
+   "currency": "SYP",
+   "price_text": "25,000 ل.س",
+   "image": "assets/SYX-0606/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "وجبة كريسبي 5 قطع",
+   "description": "",
+   "category": "بروستد",
+   "price": 35000,
+   "currency": "SYP",
+   "price_text": "35,000",
+   "image": "assets/SYX-0606/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

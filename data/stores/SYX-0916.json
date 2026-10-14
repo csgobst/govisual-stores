@@ -1,0 +1,103 @@
+{
+ "id": "SYX-0916",
+ "verdict": "qualified",
+ "reason": "صفحة أشغال يدوية في دير الزور تنشر طلبات الهدايا والورد اليدوي باستمرار وتستقبل الطلبات عبر ماسنجر دون منيو رقمي.",
+ "sells": "ورد وهدايا يدوية من الشنيل وباقات وصناديق هدايا",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "صُنِعَ بِحُب اشغال يدوية في دير الزور",
+  "followers": "133",
+  "bio": "اشغال يدوية",
+  "address": "دير الزور",
+  "phones": [],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0916/logo.jpg",
+ "cover": "",
+ "items": [
+  {
+   "name": "سلة توليب من الشنيل",
+   "description": "",
+   "category": "هاند ميد",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0916/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "باقة توليب بنفسجية",
+   "description": "",
+   "category": "هاند ميد",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0916/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "وردتان جوري مضيئتان",
+   "description": "",
+   "category": "هاند ميد",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0916/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مزهرية عباد الشمس والزنبق",
+   "description": "",
+   "category": "هاند ميد",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0916/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مزهرية زهور زرقاء",
+   "description": "",
+   "category": "هاند ميد",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0916/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "باقة نقود",
+   "description": "",
+   "category": "هاند ميد",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0916/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "باقة ورد ستان وردي",
+   "description": "",
+   "category": "هاند ميد",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0916/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "صندوق هدايا مع باقة ورد",
+   "description": "",
+   "category": "هاند ميد",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0916/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T01:36:19"
+}

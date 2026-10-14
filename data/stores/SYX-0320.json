@@ -1,0 +1,95 @@
+{
+ "id": "SYX-0320",
+ "verdict": "qualified",
+ "reason": "محل مكياج وعدسات لاصقة في نزلة الطلياني بدمشق ينشر منتجاته الأصلية يومياً على فيسبوك دون متجر إلكتروني.",
+ "sells": "مكياج أصلي وعدسات لاصقة ومنتجات شعر",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "Al Haffar Beauty Shop الحفار للتجميل",
+  "followers": "117 ألف",
+  "bio": "Make up",
+  "address": "دمشق، نزلة الطلياني مواجه مشفى الطلياني",
+  "phones": [
+   "+963937551455"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0320/logo.jpg",
+ "cover": "assets/SYX-0320/cover.jpg",
+ "items": [
+  {
+   "name": "حمرة ميبيلين مت Super Stay Matte Ink",
+   "description": "",
+   "category": "مكياج",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYX-0320/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كونسيلر لوريال Infallible الأصلي",
+   "description": "",
+   "category": "مكياج",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYX-0320/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كريم أساس ميبيلين Super Stay Lumi-Matte",
+   "description": "",
+   "category": "مكياج",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYX-0320/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بخاخ شعر لوريال Magic Retouch",
+   "description": "",
+   "category": "شعر",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYX-0320/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بودرة لوريال Infallible 24H",
+   "description": "",
+   "category": "مكياج",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYX-0320/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "عدسات لاصقة Laodica",
+   "description": "",
+   "category": "عدسات",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYX-0320/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "عدسات لاصقة EyeFree",
+   "description": "",
+   "category": "عدسات",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYX-0320/item07.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-14T22:44:31.518965+00:00"
+}

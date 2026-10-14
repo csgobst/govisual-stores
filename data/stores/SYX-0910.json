@@ -1,0 +1,65 @@
+{
+ "id": "SYX-0910",
+ "verdict": "qualified",
+ "reason": "مطعم في سرمدا ينشر وجباته (فاهيتا، موزاريلا، مناسف) دون أي منيو رقمي.",
+ "sells": "وجبات غربية وسندويشات ومناسف",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "مطعم كرينش هاوس /krinsh haws",
+  "followers": "1.4 ألف",
+  "bio": "مطعم كرينش هاوس /كافة مأكولات الغربية",
+  "address": "سرمدا الجديدة",
+  "phones": [
+   "+963944514118"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-01"
+ },
+ "logo": "assets/SYX-0910/logo.jpg",
+ "cover": "assets/SYX-0910/cover.jpg",
+ "items": [
+  {
+   "name": "صندويش فاهيتا",
+   "description": "",
+   "category": "وجبات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0910/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "أصابع موزاريلا",
+   "description": "",
+   "category": "وجبات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0910/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "منسف مشكل",
+   "description": "",
+   "category": "وجبات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0910/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "منسف",
+   "description": "",
+   "category": "وجبات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0910/item04.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T01:26:44"
+}

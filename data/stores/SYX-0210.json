@@ -1,0 +1,67 @@
+{
+ "id": "SYX-0210",
+ "verdict": "qualified",
+ "reason": "محل بيع وتأجير وتفصيل فساتين السهرة والأعراس في القصاع بدمشق، نشط (منشورات أكتوبر 2026) ولا يملك كتالوجاً رقمياً.",
+ "sells": "فساتين أعراس وسهرة (بيع وأجار وتفصيل)",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "DIVA dresses",
+  "followers": "372 ألف",
+  "bio": "Rent and sale dresses - بيع وأجار فساتين السهرات و الأعراس /دمشق قصاع / ليس لدينا فرع آخر",
+  "address": "دمشق، القصاع، شارع القصاع، الحارة المقابلة لمشفى الزهراوي",
+  "phones": [
+   "+963988034034",
+   "0933653401",
+   "0998420751"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/diva_boutique_damas369",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0210/logo.jpg",
+ "cover": "assets/SYX-0210/cover.jpg",
+ "items": [
+  {
+   "name": "بدلة عرس منفوشة مطرزة بلا أكتاف",
+   "description": "بيع وأجار",
+   "category": "بدلات أعراس",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0210/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بدلة عرس ناعمة بأكمام طويلة",
+   "description": "مريحة بالحركة والرقص",
+   "category": "بدلات أعراس",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0210/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان سهرة Diva plus size",
+   "description": "مقاسات 44/46/48",
+   "category": "فساتين سهرة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0210/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بدلة عرس مطرزة بالكريستال",
+   "description": "تصميم غير مألوف",
+   "category": "بدلات أعراس",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0210/item04.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T12:00:00Z"
+}

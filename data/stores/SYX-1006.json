@@ -1,0 +1,65 @@
+{
+ "id": "SYX-1006",
+ "verdict": "qualified",
+ "reason": "مطعم شاورما في اللاذقية ينشر عروضه بالأسعار على فيسبوك خلال 2026 ولا يملك منيو رقمي",
+ "sells": "شاورما وسندويشات",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "شاورما عربي",
+  "followers": "16.5 ألف",
+  "bio": "شاورما عربي لسنا الوحيدون ولكننا الافضل - 0940697746",
+  "address": "المشروع الاول شارع الاكل، اللاذقية",
+  "phones": [
+   "0940697746"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-05"
+ },
+ "logo": "assets/SYX-1006/logo.jpg",
+ "cover": "assets/SYX-1006/cover.jpg",
+ "items": [
+  {
+   "name": "سندويشة شاورما",
+   "description": "عرض",
+   "category": "شاورما",
+   "price": 20000,
+   "currency": "SYP",
+   "price_text": "سندويشة شاورما ٢٠٠٠٠ الف",
+   "image": "assets/SYX-1006/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "عرض 2 سندويش شاورما",
+   "description": "",
+   "category": "شاورما",
+   "price": 30000,
+   "currency": "SYP",
+   "price_text": "٢ سندويش شاورما ٣٠٠٠٠ الف",
+   "image": "",
+   "source_url": ""
+  },
+  {
+   "name": "شاورما دبل",
+   "description": "",
+   "category": "شاورما",
+   "price": 35000,
+   "currency": "SYP",
+   "price_text": "شاورما دبل ٣٥٠٠٠ الف",
+   "image": "",
+   "source_url": ""
+  },
+  {
+   "name": "عرض 2 شاورما دبل",
+   "description": "",
+   "category": "شاورما",
+   "price": 60000,
+   "currency": "SYP",
+   "price_text": "٢ شاورما دبل ٦٠٠٠٠ الف",
+   "image": "",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

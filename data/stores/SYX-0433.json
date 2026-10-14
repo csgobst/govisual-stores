@@ -1,0 +1,105 @@
+{
+ "id": "SYX-0433",
+ "verdict": "qualified",
+ "reason": "مطعم سوري عريق في حلب منذ 1971، نشط في 2026 (منشور 10 مارس)، يعرض أطباقه وقوائم البوفيه كصور دون منيو رقمي.",
+ "sells": "مأكولات سورية وحلبية ومقبلات ومشاوي",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "Cordoba Restaurant مطعم قرطبة",
+  "followers": "13 ألف",
+  "bio": "Uninterrupted Since 1971",
+  "address": "Cordoba Restaurant - Since 1971, Aleppo, Syria",
+  "phones": [
+   "+963 932 126 446"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-03"
+ },
+ "logo": "assets/SYX-0433/logo.jpg",
+ "cover": "assets/SYX-0433/cover.jpg",
+ "items": [
+  {
+   "name": "حمص مع كبب",
+   "description": "",
+   "category": "مقبلات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0433/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كباب على الخبز",
+   "description": "",
+   "category": "مشاوي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0433/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "سلطة مع فلافل",
+   "description": "",
+   "category": "سلطات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0433/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "تشكيلة مقبلات",
+   "description": "",
+   "category": "مقبلات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0433/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فتوش",
+   "description": "",
+   "category": "سلطات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0433/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بابا غنوج",
+   "description": "",
+   "category": "مقبلات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0433/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كبة نية",
+   "description": "",
+   "category": "مقبلات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0433/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "داوود باشا",
+   "description": "",
+   "category": "أطباق رئيسية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0433/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-14T22:46:37.578666+00:00"
+}

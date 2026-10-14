@@ -1,0 +1,22 @@
+{
+ "id": "SYX-0210",
+ "name": "DIVA dresses",
+ "gov": "دمشق",
+ "city": "القصاع",
+ "cat": "ملابس وأحذية",
+ "platform": "Facebook",
+ "url": "https://www.facebook.com/p/DIVA-dresses-100069083706441/",
+ "instagram_url": "",
+ "menu_url": "",
+ "menu_state": "not_observed_public",
+ "country_check": "syrian_address_on_page",
+ "access_audit": "opened_headless_no_login",
+ "syria_evidence": "القصاع دمشق +963 988 034 034",
+ "proof_type": "صفحة المتجر نفسها",
+ "verified_platform": "فُتحت الصفحة دون تسجيل دخول",
+ "year": "2026",
+ "research_batch": "2026-10-15_expansion",
+ "origin": "agent_web_search",
+ "source": "web search (WebSearch)",
+ "source_extra": ""
+}

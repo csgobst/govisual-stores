@@ -1,0 +1,95 @@
+{
+ "id": "SYX-1003",
+ "verdict": "qualified",
+ "reason": "مكتبة وقرطاسية في دحباش طرطوس تنشر منتجاتها وأسعارها يومياً على فيسبوك دون أي منيو أو متجر رقمي",
+ "sells": "قرطاسية ولوازم مدرسية وألعاب وهدايا وإكسسوار وشماسي",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "مكتبة حيدر . طرطوس دحباش",
+  "followers": "5.7 ألف",
+  "bio": "لوازم مدرسية .. جامعية .. قرطاسية .. تصوير مستندات .. عطورات .. مكياج .. إكسسوار",
+  "address": "دحباش الطريق العام، بالقرب من العلي لتجارة الاراكيل، طرطوس",
+  "phones": [
+   "0991890389"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/hassanahmad5181",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-1003/logo.jpg",
+ "cover": "assets/SYX-1003/cover.jpg",
+ "items": [
+  {
+   "name": "شمسية أوتوماتيك",
+   "description": "ألوان مختلفة، عليها عرض لفترة محدودة",
+   "category": "شماسي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "السعر خاص بالتعليق",
+   "image": "",
+   "source_url": ""
+  },
+  {
+   "name": "شمسية ولادي",
+   "description": "",
+   "category": "شماسي",
+   "price": 190,
+   "currency": "SYP",
+   "price_text": "شماسي ولادي 190",
+   "image": "",
+   "source_url": ""
+  },
+  {
+   "name": "شمسية رجالي / نسائي",
+   "description": "",
+   "category": "شماسي",
+   "price": 350,
+   "currency": "SYP",
+   "price_text": "شماسي رجالي + نسائي 350",
+   "image": "",
+   "source_url": ""
+  },
+  {
+   "name": "نافورة ديكور مع مرطب جو",
+   "description": "عليها عرض وكسر سعر",
+   "category": "هدايا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-1003/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حقائب مدرسية ومقالم للأطفال",
+   "description": "",
+   "category": "لوازم مدرسية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-1003/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كتب ونوط دراسية (فيزياء، رياضيات)",
+   "description": "",
+   "category": "قرطاسية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-1003/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مسبح أطفال قابل للنفخ",
+   "description": "",
+   "category": "ألعاب",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-1003/item07.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

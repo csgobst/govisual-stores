@@ -1,0 +1,75 @@
+{
+ "id": "SYX-0915",
+ "verdict": "qualified",
+ "reason": "متجر هدايا في دير الزور ينشر منتجاته أسبوعياً ويستقبل الطلبات عبر الواتساب دون منيو رقمي.",
+ "sells": "هدايا وإكسسوارات وساعات وألعاب ترند",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "ريبون ديرالزور Ribbon DZ",
+  "followers": "21 ألف",
+  "bio": "متجر هدايا",
+  "address": "ديرالزور - شارع سينما فؤاد",
+  "phones": [
+   "+963945599905"
+  ],
+  "whatsapp": "0945599905",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0915/logo.jpg",
+ "cover": "assets/SYX-0915/cover.jpg",
+ "items": [
+  {
+   "name": "كرة سبينر ثلاثية الأبعاد",
+   "description": "",
+   "category": "هدايا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0915/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مكعبات سبينر للأطفال",
+   "description": "",
+   "category": "هدايا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0915/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مخدات رقبة للسفر",
+   "description": "",
+   "category": "هدايا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0915/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بكج روليكس نسائي فضي",
+   "description": "",
+   "category": "هدايا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0915/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بكج روليكس نسائي ذهبي",
+   "description": "",
+   "category": "هدايا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0915/item05.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T01:36:19"
+}

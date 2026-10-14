@@ -1,0 +1,106 @@
+{
+ "id": "SYX-1016",
+ "verdict": "qualified",
+ "reason": "مكتبة وقرطاسية في يبرود تنشر منتجاتها مع أسعار بشكل يومي ولا تملك متجراً رقمياً",
+ "sells": "قرطاسية ولوازم مدرسية وألعاب تعليمية",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "مكتبة النجاح",
+  "followers": "10 آلاف",
+  "bio": "مكتبة النجاح (قرطاسية ولوازم مدرسية)",
+  "address": "يبرود - السوق الرئيسي",
+  "phones": [
+   "0117816749",
+   "0981787502"
+  ],
+  "whatsapp": "0981787502",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-1016/logo.jpg",
+ "cover": "assets/SYX-1016/cover.jpg",
+ "items": [
+  {
+   "name": "طقم أقلام بيرلي 10 ألوان",
+   "description": "Orient Pearly",
+   "category": "أقلام",
+   "price": 12500,
+   "currency": "SYP",
+   "price_text": "بسعر 12500",
+   "image": "assets/SYX-1016/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم أقلام بيرلي 6 ألوان",
+   "description": "Orient Pearly",
+   "category": "أقلام",
+   "price": 7500,
+   "currency": "SYP",
+   "price_text": "بسعر 7500",
+   "image": "assets/SYX-1016/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طاولة دراسة",
+   "description": "سادة ورسمات، كمية محدودة",
+   "category": "لوازم مدرسية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-1016/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "معداد ملون 9 خانات أقواس",
+   "description": "",
+   "category": "ألعاب تعليمية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-1016/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "معداد ملون 13 خانة أقواس",
+   "description": "",
+   "category": "ألعاب تعليمية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-1016/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "معجون 12 لون سطل كبير",
+   "description": "",
+   "category": "ألعاب",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-1016/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "معجون 24 لون دبل كوب كبير",
+   "description": "",
+   "category": "ألعاب",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-1016/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "دفتر ذكريات بقفل",
+   "description": "قياسين كبير وصغير",
+   "category": "قرطاسية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-1016/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

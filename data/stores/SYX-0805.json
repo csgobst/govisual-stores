@@ -1,0 +1,86 @@
+{
+ "id": "SYX-0805",
+ "verdict": "qualified",
+ "reason": "محل حلويات شرقية وغربية بعدة صالات في السويداء ينشر منتجاته في تشرين الأول 2026، وموقعه الإلكتروني المذكور لا يعمل، فلا منيو رقمي.",
+ "sells": "حلويات شرقية وغربية وشوكولا وبوظة",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "Alhallaj Sweets (حلويات الحلاج)",
+  "followers": "69787",
+  "bio": "Different kinds of sweets",
+  "address": "السويداء - صالات: أرابيكا حي الشيخ عثمان، أوبرا طريق قنوات، كروكان غرب دوار الملعب البلدي، فيولا مقابل المستشفى الوطني، كلاسيكال طريق الكوم، رويال شهبا",
+  "phones": [
+   "0930308800",
+   "016310321"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/alhallajsweets",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0805/logo.jpg",
+ "cover": "assets/SYX-0805/cover.jpg",
+ "items": [
+  {
+   "name": "كول وشكور",
+   "description": "",
+   "category": "حلويات شرقية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0805/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "صحن حلويات مشكل",
+   "description": "",
+   "category": "حلويات شرقية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0805/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مبرومة",
+   "description": "",
+   "category": "حلويات شرقية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0805/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "علبة بيتي فور",
+   "description": "",
+   "category": "حلويات غربية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0805/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كنافة بالجبن",
+   "description": "",
+   "category": "حلويات شرقية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0805/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بوظة",
+   "description": "",
+   "category": "بوظة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0805/item06.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

@@ -1,0 +1,55 @@
+{
+ "id": "SYX-0314",
+ "verdict": "qualified",
+ "reason": "متجر هدايا وتوزيعات وتجهيزات عروس في دمشق ينشر أعماله على فيسبوك ويستقبل الطلبات بالهاتف دون متجر إلكتروني.",
+ "sells": "هدايا وتوزيعات مناسبات ومواليد وتجهيزات كوشة العروس",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "متجر بيت الهدايا",
+  "followers": "17 ألف",
+  "bio": "بيت الهداية 🎁 هدايا وتوزيعات ✨ مناسبات | مواليد | توزيعات دينية🤍 للطلب والتواصل 0995923256 📍توصيل دمشق شحن محافظات",
+  "address": "دمشق",
+  "phones": [
+   "0995923256"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/gift_house66",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0314/logo.jpg",
+ "cover": "assets/SYX-0314/cover.jpg",
+ "items": [
+  {
+   "name": "مراية عروس مرصعة بالكريستال",
+   "description": "",
+   "category": "تجهيزات عروس",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYX-0314/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "روب عروس مطرز بالاسم",
+   "description": "",
+   "category": "تجهيزات عروس",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYX-0314/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "باقة عروس وستاند محابس",
+   "description": "",
+   "category": "تجهيزات عروس",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYX-0314/item03.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-14T22:37:01.333397+00:00"
+}

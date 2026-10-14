@@ -1,0 +1,22 @@
+{
+ "id": "SYX-1014",
+ "name": "موبايلي",
+ "gov": "حماة",
+ "city": "شارع المرابط",
+ "cat": "إلكترونيات",
+ "platform": "Facebook",
+ "url": "https://www.facebook.com/mobily.gsmm/",
+ "instagram_url": "",
+ "menu_url": "",
+ "menu_state": "not_observed_public",
+ "country_check": "syrian_address_on_page",
+ "access_audit": "opened_headless_no_login",
+ "syria_evidence": "موبايلي ستور – سوريا، حماة شارع المرابط – موقف الملجأ",
+ "proof_type": "صفحة المتجر نفسها",
+ "verified_platform": "فُتحت الصفحة دون تسجيل دخول",
+ "year": "2026",
+ "research_batch": "2026-10-15_expansion",
+ "origin": "agent_web_search",
+ "source": "web search: facebook محل موبايلات حماة",
+ "source_extra": ""
+}

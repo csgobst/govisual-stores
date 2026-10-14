@@ -1,0 +1,86 @@
+{
+ "id": "SYX-0816",
+ "verdict": "qualified",
+ "reason": "محل فروج طازج ومتبل في يبرود ينشر عروضه وأسعاره في تشرين الأول 2026 ولا يملك متجراً إلكترونياً.",
+ "sells": "فروج طازج وقطع دجاج متبلة وأسماك ولحوم مثلجة",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "مطعم طيبة",
+  "followers": "7170",
+  "bio": "فروج طيبة - فروج طازج يومياً",
+  "address": "يبرود - حي الصالحية - جانب صيدلية سامر شوفان (جانب كازية سمعان)",
+  "phones": [
+   "+963 993 883 884",
+   "7820883"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0816/logo.jpg",
+ "cover": "assets/SYX-0816/cover.jpg",
+ "items": [
+  {
+   "name": "جوانح متبلة (3 كيلو)",
+   "description": "مع كيلو جوانح متبلة هدية",
+   "category": "دجاج متبل",
+   "price": 100000,
+   "currency": "SYP",
+   "price_text": "كل 3 كيلو جوانح متبلة بسعر 100 ألف",
+   "image": "assets/SYX-0816/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كستا متبلة (3 كيلو)",
+   "description": "مع كيلو جوانح متبلة هدية",
+   "category": "دجاج متبل",
+   "price": 150000,
+   "currency": "SYP",
+   "price_text": "كل 3 كيلو كستا متبلة بسعر 150 ألف",
+   "image": "assets/SYX-0816/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فروج طازج",
+   "description": "طازج يومياً",
+   "category": "فروج",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0816/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فروج كستا وجناح متبل",
+   "description": "مع أطيب التتبيلات",
+   "category": "دجاج متبل",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0816/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فخاد وشرحات وفروج كامل",
+   "description": "",
+   "category": "فروج",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0816/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "شرحات دجاج",
+   "description": "",
+   "category": "فروج",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0816/item06.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

@@ -1,0 +1,105 @@
+{
+ "id": "SYX-0401",
+ "verdict": "qualified",
+ "reason": "مطعم مأكولات بحرية ووجبات في حلب، نشط في 2026 (منشور 26 مايو)، يعرض أصنافه بصور قوائم مطبوعة دون منيو رقمي.",
+ "sells": "مأكولات بحرية وبرغر ووجبات سريعة",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "مطعم القبطان حلب - Captain Restaurant",
+  "followers": "31 ألف",
+  "bio": "فروع: الجميلية أمام المحكمة العسكرية، الخالدية جانب حلويات مهروسة، حلب الجديدة أرينا مول",
+  "address": "الجميلية - أمام المحكمة العسكرية، حلب، سوريا",
+  "phones": [
+   "+963 21 227 7205"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-05"
+ },
+ "logo": "assets/SYX-0401/logo.jpg",
+ "cover": "assets/SYX-0401/cover.jpg",
+ "items": [
+  {
+   "name": "فيليه سوبريم",
+   "description": "",
+   "category": "برغر",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0401/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "موزاريلا برغر",
+   "description": "",
+   "category": "برغر",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0401/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "زنجر برغر",
+   "description": "",
+   "category": "برغر",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0401/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كابتن برغر",
+   "description": "",
+   "category": "برغر",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0401/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "زنجر سمك",
+   "description": "",
+   "category": "مأكولات بحرية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0401/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "قريدس زنجر",
+   "description": "",
+   "category": "مأكولات بحرية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0401/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كلماري",
+   "description": "",
+   "category": "مأكولات بحرية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0401/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "قريدس بانيه",
+   "description": "",
+   "category": "مأكولات بحرية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0401/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-14T22:20:42.397720+00:00"
+}

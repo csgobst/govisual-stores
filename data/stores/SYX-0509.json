@@ -1,0 +1,87 @@
+{
+ "id": "SYX-0509",
+ "verdict": "qualified",
+ "reason": "محل ألعاب ومستلزمات أطفال في حلب ينشر منتجاته يومياً في 2026 والسعر يُرسل بالخاص، ولا يملك متجراً أو كتالوجاً رقمياً.",
+ "sells": "ألعاب أطفال ومستلزمات رضع ووسائل تعليمية",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "برافو تويز - ألعاب و مستلزمات الأطفال - وسائل تعليمية",
+  "followers": "14 ألف",
+  "bio": "نسعى لنتشارك السعادة مع الجميع, أولادنا أغلى ما نملك",
+  "address": "حلب - شارع أدونيس - مفرق سكوب (زيارة) - خلف جامع الأنوار - شارع محمد فارس",
+  "phones": [
+   "+963951260025",
+   "0991050670",
+   "0212260509"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0509/logo.jpg",
+ "cover": "assets/SYX-0509/cover.jpg",
+ "items": [
+  {
+   "name": "بسكليت ترايسيكل مع شمسية وقبضة - ديزني",
+   "description": "مناسب عمر 1 الى 4 سنوات",
+   "category": "دراجات أطفال",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0509/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "لهايات Philips AVENT ultra air",
+   "description": "مضغوطة من الطرفين، 0-6 أشهر",
+   "category": "مستلزمات رضع",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0509/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "لعبة باربي بمفاصل متحركة",
+   "description": "جودة ممتازة، مفاصل متحركة",
+   "category": "ألعاب",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0509/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "رضاعة Philips AVENT Natural",
+   "description": "",
+   "category": "مستلزمات رضع",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0509/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "لعبة بوب ات بطارية",
+   "description": "لعبة الحماس والتحدي والسرعة",
+   "category": "ألعاب",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0509/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كاسة تعليم الشرب 360 من Lorelli",
+   "description": "",
+   "category": "مستلزمات رضع",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0509/item06.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T12:00:00Z"
+}

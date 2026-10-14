@@ -1,0 +1,22 @@
+{
+ "id": "SYX-0901",
+ "name": "حلويات الملكة و عاشور",
+ "gov": "الحسكة",
+ "city": "القامشلي",
+ "cat": "حلويات ومخبوزات",
+ "platform": "Facebook",
+ "url": "https://www.facebook.com/112668848366212",
+ "instagram_url": "",
+ "menu_url": "",
+ "menu_state": "not_observed_public",
+ "country_check": "syrian_address_on_page",
+ "access_audit": "opened_headless_no_login",
+ "syria_evidence": "العنوان على الصفحة: القامشلي، دوار الوحدة، والهاتف +963 932 717 880",
+ "proof_type": "صفحة المتجر نفسها",
+ "verified_platform": "فُتحت الصفحة دون تسجيل دخول",
+ "year": "2026",
+ "research_batch": "2026-10-15_expansion",
+ "origin": "agent_web_search",
+ "source": "https://www.findglocal.com/SY/Al-Kamishly/197387-27",
+ "source_extra": ""
+}

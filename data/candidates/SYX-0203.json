@@ -1,0 +1,22 @@
+{
+ "id": "SYX-0203",
+ "name": "MODA SHOES",
+ "gov": "دمشق",
+ "city": "الصالحية",
+ "cat": "ملابس وأحذية",
+ "platform": "Facebook",
+ "url": "https://www.facebook.com/Modashoeess/",
+ "instagram_url": "",
+ "menu_url": "",
+ "menu_state": "not_observed_public",
+ "country_check": "syrian_address_on_page",
+ "access_audit": "opened_headless_no_login",
+ "syria_evidence": "الصالحية دمشق +963 934 676 121",
+ "proof_type": "صفحة المتجر نفسها",
+ "verified_platform": "فُتحت الصفحة دون تسجيل دخول",
+ "year": "2026",
+ "research_batch": "2026-10-15_expansion",
+ "origin": "agent_web_search",
+ "source": "web search (WebSearch)",
+ "source_extra": ""
+}

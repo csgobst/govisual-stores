@@ -1,0 +1,105 @@
+{
+ "id": "SYX-0206",
+ "verdict": "qualified",
+ "reason": "متجر ألبسة نسائية أونلاين في دمشق (جملة ومفرق) يأخذ الطلبات عبر الرسائل والواتساب، ينشر تشكيلة الشتاء الجديدة ولا يملك متجراً رقمياً.",
+ "sells": "ألبسة نسائية محتشمة: ترانشكوت، معاطف، هوديز، أطقم، فساتين صوف",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "Clothe Syria",
+  "followers": "96.7 ألف",
+  "bio": "Damascus – Syria | Online Store - High-Quality & Trendy Designs - جملة | مفرق - For Order DM or WhatsApp: 0935966734",
+  "address": "دمشق",
+  "phones": [
+   "0935966734"
+  ],
+  "whatsapp": "0935966734",
+  "instagram": "https://www.instagram.com/clothe.syria.store7/",
+  "last_activity": "unknown"
+ },
+ "logo": "assets/SYX-0206/logo.jpg",
+ "cover": "",
+ "items": [
+  {
+   "name": "معطف طويل خمري",
+   "description": "",
+   "category": "معاطف",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0206/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "معطف طويل رمادي",
+   "description": "",
+   "category": "معاطف",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0206/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم جاكيت وبنطال بني بخط أبيض",
+   "description": "New Set تركي",
+   "category": "أطقم",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0206/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان صوف مضفر خمري",
+   "description": "",
+   "category": "فساتين",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0206/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "هودي سادة بألوان متعددة",
+   "description": "",
+   "category": "هوديز",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0206/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "جاكيت جينز مع قبعة",
+   "description": "New Collection تركي",
+   "category": "جواكيت",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0206/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "جاكيت فرو أبيض",
+   "description": "",
+   "category": "جواكيت",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0206/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "ترانشكوت كحلي بحزام",
+   "description": "",
+   "category": "معاطف",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0206/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T12:00:00Z"
+}

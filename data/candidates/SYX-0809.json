@@ -1,0 +1,22 @@
+{
+ "id": "SYX-0809",
+ "name": "Al-khal Restaurant",
+ "gov": "ريف دمشق",
+ "city": "جرمانا",
+ "cat": "مطاعم ومقاهي",
+ "platform": "Facebook",
+ "url": "https://www.facebook.com/p/Al-khal-Restaurant-100054232370277/",
+ "instagram_url": "",
+ "menu_url": "",
+ "menu_state": "not_observed_public",
+ "country_check": "syrian_address_on_page",
+ "access_audit": "opened_headless_no_login",
+ "syria_evidence": "جرمانا ساحة الكرامة",
+ "proof_type": "صفحة المتجر نفسها",
+ "verified_platform": "فُتحت الصفحة دون تسجيل دخول",
+ "year": "2026",
+ "research_batch": "2026-10-15_expansion",
+ "origin": "agent_web_search",
+ "source": "websearch: facebook.com جرمانا مطعم",
+ "source_extra": ""
+}

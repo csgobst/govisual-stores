@@ -1,0 +1,105 @@
+{
+ "id": "SYX-0616",
+ "verdict": "qualified",
+ "reason": "محل أدوات منزلية وألبسة في قرية نهر البارد بريف حماة، نشط (منشورات قبل ساعات) بصور منتجات كثيرة ورقم هاتف، ولا يوجد متجر رقمي.",
+ "sells": "أدوات منزلية ومطبخ (صواني بايركس، أطقم قهوة، منظمات، علب مؤونة) وبيجامات وألبسة",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "معرض الهادي للأدوات المنزلية",
+  "followers": "2.5 ألف",
+  "bio": "بيع أدوات منزلية مفرق",
+  "address": "قرية نهر البارد، حماة",
+  "phones": [
+   "+963932875240"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/hadyali240",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0616/logo.jpg",
+ "cover": "assets/SYX-0616/cover.jpg",
+ "items": [
+  {
+   "name": "طقم صواني بايركس PARMA الأصلية",
+   "description": "زجاج حراري مقاوم للحرارة، مثالية للفرن والتقديم",
+   "category": "أدوات مطبخ",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0616/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "خزانة أدراج بلاستيك للتنظيم",
+   "description": "أدراج واسعة وعملية",
+   "category": "منظمات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0616/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "سطل مونة",
+   "description": "",
+   "category": "أدوات مطبخ",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0616/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم قهوة",
+   "description": "",
+   "category": "أطقم ضيافة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0616/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مشمع رفوف للمطبخ عريض",
+   "description": "",
+   "category": "أدوات مطبخ",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0616/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مصفاية صحون Dish Rack",
+   "description": "",
+   "category": "أدوات مطبخ",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0616/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "ستاند بهارات دوار",
+   "description": "",
+   "category": "أدوات مطبخ",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0616/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "روب نسائي كوخز ونيلت",
+   "description": "",
+   "category": "بيجامات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0616/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

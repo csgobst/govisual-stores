@@ -1,0 +1,22 @@
+{
+ "id": "SYX-1006",
+ "name": "شاورما عربي",
+ "gov": "اللاذقية",
+ "city": "اللاذقية",
+ "cat": "مطاعم ومقاهي",
+ "platform": "Facebook",
+ "url": "https://www.facebook.com/p/%D8%B4%D8%A7%D9%88%D8%B1%D9%85%D8%A7-%D8%B9%D8%B1%D8%A8%D9%8A-100054262670017/",
+ "instagram_url": "",
+ "menu_url": "",
+ "menu_state": "not_observed_public",
+ "country_check": "syrian_address_on_page",
+ "access_audit": "opened_headless_no_login",
+ "syria_evidence": "",
+ "proof_type": "صفحة المتجر نفسها",
+ "verified_platform": "فُتحت الصفحة دون تسجيل دخول",
+ "year": "2026",
+ "research_batch": "2026-10-15_expansion",
+ "origin": "agent_web_search",
+ "source": "web search: facebook شاورما اللاذقية",
+ "source_extra": ""
+}

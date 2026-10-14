@@ -282,7 +282,7 @@ input[type=range]{width:100%;accent-color:var(--teal)}
 
     <!-- LEADS -->
     <section id="v-leads" class="hide">
-      <header class="top"><div><div class="eyebrow">STORES · 184 BUSINESSES</div><h1>كل المتاجر</h1><p class="muted">اختر المتجر لتتولى التواصل معه. نتائج: <b id="count">–</b></p></div>
+      <header class="top"><div><div class="eyebrow" id="storesEyebrow">STORES</div><h1>كل المتاجر</h1><p class="muted">اختر المتجر لتتولى التواصل معه. نتائج: <b id="count">–</b></p></div>
         <div class="bar"><div class="tabs"><button id="ctab" class="active">▦ بطاقات</button><button id="ttab">☷ جدول</button></div><button class="btn" id="csv">↓ CSV</button></div></header>
       <div class="filters">
         <label class="search"><input id="search" placeholder="⌕ ابحث باسم متجر، مدينة أو مجال..." aria-label="بحث"></label>
@@ -542,7 +542,7 @@ function card(x){
   const ft=fit(x,state[x.id]||{});
   const its=items(x).filter(i=>i.image);
   return `<article class="lead ${x.owner===me?'mine':''}"><div class="leadtop"><div class="pf ${x.chk?.logo?'has-img':''}">${logo(x)}</div><div class="leadhead"><b title="${esc(x.name)}">${esc(x.name)}</b><small>⌖ ${esc(x.gov)} · ${esc(x.city)}</small></div>${stChip(x.stage)}</div>
-  <div class="chips">${vdChip(x)}<span class="chip ${x.platform==='Facebook'?'fb':'ig'}">${x.platform}</span><span class="chip">${esc(x.cat)}</span>${x.chk?.has_digital_menu||x.menu_url?'<span class="chip bad">لديه منيو رقمي</span>':'<span class="chip warn">بدون كتالوج رقمي</span>'}${items(x).length?`<span class="chip">${items(x).length} منتج</span>`:''}${x.access&&x.access!=='لم يُفحص'?`<span class="chip ${x.access==='الرابط لا يعمل'?'bad':''}">${esc(x.access)}</span>`:''}</div>
+  <div class="chips">${vdChip(x)}${x.research_batch==='2026-10-15_expansion'?'<span class="chip" style="background:#e9e4fb;color:#5b3fb0">✦ جديد</span>':''}<span class="chip ${x.platform==='Facebook'?'fb':'ig'}">${x.platform}</span><span class="chip">${esc(x.cat)}</span>${x.chk?.has_digital_menu||x.menu_url?'<span class="chip bad">لديه منيو رقمي</span>':'<span class="chip warn">بدون كتالوج رقمي</span>'}${items(x).length?`<span class="chip">${items(x).length} منتج</span>`:''}${x.access&&x.access!=='لم يُفحص'?`<span class="chip ${x.access==='الرابط لا يعمل'?'bad':''}">${esc(x.access)}</span>`:''}</div>
   ${its.length?`<div class="thumbs">${its.slice(0,4).map(i=>`<div><img src="${esc(i.image)}" alt="${esc(i.name)}" loading="lazy">${fmtPrice(i)?`<span>${esc(fmtPrice(i))}</span>`:''}</div>`).join('')}</div>`:''}
   ${pageInfo(x)?`<div class="chips">${pageInfo(x)}</div>`:''}
   ${x.chk?.sells?`<p class="mini">🛍 ${esc(x.chk.sells)}</p>`:''}
@@ -555,7 +555,7 @@ function tableRow(x){const g=x.chk?.page||{};return `<tr><td><span class="owner"
 function renderLeads(){
   const r=filtered(),tp=Math.max(1,Math.ceil(r.length/per));if(page>=tp)page=tp-1;
   const shown=r.slice(page*per,(page+1)*per);
-  $('count').textContent=r.length;
+  $('count').textContent=r.length;$('storesEyebrow').textContent=`STORES · ${ALL.length} BUSINESSES`;
   $('cards').classList.toggle('hide',lview!=='cards');$('tablewrap').classList.toggle('hide',lview!=='table');
   $('cards').innerHTML=shown.map(card).join('')||'<div class="empty" style="grid-column:1/-1">لا نتائج مطابقة.</div>';
   $('tbody').innerHTML=shown.map(tableRow).join('');

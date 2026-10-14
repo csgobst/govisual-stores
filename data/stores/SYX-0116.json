@@ -1,0 +1,85 @@
+{
+ "id": "SYX-0116",
+ "verdict": "qualified",
+ "reason": "أشهر محل عصير في الصالحية بدمشق، نشط جداً (منشور قبل يوم)، يعرض العصائر والكوكتيلات بالصور ولا يوجد منيو رقمي على الصفحة.",
+ "sells": "عصائر طبيعية وكوكتيلات فواكه وميلك شيك",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "عصير ابو شاكر",
+  "followers": "461 ألف",
+  "bio": "اقدم واشهر محل عصير بدمشق,سوريا نشأة المحل عام 1954",
+  "address": "Salhiyeh, Damascus, Syria",
+  "phones": [
+   "+963112323358"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/abushakirjuice",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0116/logo.jpg",
+ "cover": "assets/SYX-0116/cover.jpg",
+ "items": [
+  {
+   "name": "كوكتيل سبيشل اكسترا",
+   "description": "#آظان #سبيشل #اكسترا",
+   "category": "كوكتيل",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0116/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "عصير دراغون فروت وبرتقال",
+   "description": "",
+   "category": "عصائر طبيعية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0116/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "ميلك شيك أوريو",
+   "description": "",
+   "category": "ميلك شيك",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0116/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "عصائر طبيعية مشكلة",
+   "description": "",
+   "category": "عصائر طبيعية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0116/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كوكتيل فواكه بالقشطة",
+   "description": "",
+   "category": "كوكتيل",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0116/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كوكتيل فواكه مشكلة",
+   "description": "",
+   "category": "كوكتيل",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0116/item06.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

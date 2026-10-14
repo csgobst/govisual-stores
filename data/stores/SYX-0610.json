@@ -1,0 +1,107 @@
+{
+ "id": "SYX-0610",
+ "verdict": "qualified",
+ "reason": "محل حلويات شرقية في حماة نشط في 2026 بصور منتجات كثيرة وأرقام تواصل، ولا يوجد منيو رقمي.",
+ "sells": "حلويات عربية فاخرة بالسمن العربي والنباتي، معمول، حلو تركي، علب هدايا",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "حلويات الرجب",
+  "followers": "28 ألف",
+  "bio": "مطبخ وحلويات شرقية",
+  "address": "سوريا_حماة_دوار الصابونية",
+  "phones": [
+   "0332532791",
+   "0332532792",
+   "0952260003"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/al_rajab_sweets",
+  "last_activity": "2026-08"
+ },
+ "logo": "assets/SYX-0610/logo.jpg",
+ "cover": "assets/SYX-0610/cover.jpg",
+ "items": [
+  {
+   "name": "معمول بالجوز والفستق الحلبي",
+   "description": "محضّر بالسمن الحيواني الفاخر",
+   "category": "معمول",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0610/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بقلاوة بالفستق",
+   "description": "",
+   "category": "حلو تركي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0610/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كنافة بالفستق الحلبي",
+   "description": "",
+   "category": "حلو تركي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0610/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حلو مشكل تركي",
+   "description": "",
+   "category": "حلو تركي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0610/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حلو بالفستق الحلبي",
+   "description": "",
+   "category": "حلويات عربية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0610/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "صينية حلو عربي مشكل",
+   "description": "",
+   "category": "حلويات عربية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0610/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "علبة معمول العيد",
+   "description": "",
+   "category": "معمول",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0610/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "علبة حلويات شرقية فاخرة",
+   "description": "أوزان 500 غ - 750 غ - 1000 غ",
+   "category": "علب",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0610/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

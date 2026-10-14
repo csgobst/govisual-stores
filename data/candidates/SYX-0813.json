@@ -1,0 +1,22 @@
+{
+ "id": "SYX-0813",
+ "name": "مطعم فلفول - Falfool",
+ "gov": "درعا",
+ "city": "درعا",
+ "cat": "مطاعم ومقاهي",
+ "platform": "Facebook",
+ "url": "https://www.facebook.com/falfool2022/",
+ "instagram_url": "",
+ "menu_url": "",
+ "menu_state": "not_observed_public",
+ "country_check": "syrian_address_on_page",
+ "access_audit": "opened_headless_no_login",
+ "syria_evidence": "درعا",
+ "proof_type": "صفحة المتجر نفسها",
+ "verified_platform": "فُتحت الصفحة دون تسجيل دخول",
+ "year": "2026",
+ "research_batch": "2026-10-15_expansion",
+ "origin": "agent_web_search",
+ "source": "websearch: facebook.com درعا مطعم",
+ "source_extra": ""
+}

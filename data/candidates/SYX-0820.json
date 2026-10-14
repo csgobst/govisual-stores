@@ -1,0 +1,22 @@
+{
+ "id": "SYX-0820",
+ "name": "Aladnan sweets - حلويات العدنان",
+ "gov": "درعا",
+ "city": "درعا",
+ "cat": "حلويات ومخبوزات",
+ "platform": "Facebook",
+ "url": "https://www.facebook.com/p/Aladnan-sweets-%D8%AD%D9%84%D9%88%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%AF%D9%86%D8%A7%D9%86-100064044341862/",
+ "instagram_url": "",
+ "menu_url": "",
+ "menu_state": "not_observed_public",
+ "country_check": "syrian_address_on_page",
+ "access_audit": "opened_headless_no_login",
+ "syria_evidence": "درعا كورنيش السبيل",
+ "proof_type": "صفحة المتجر نفسها",
+ "verified_platform": "فُتحت الصفحة دون تسجيل دخول",
+ "year": "2026",
+ "research_batch": "2026-10-15_expansion",
+ "origin": "agent_web_search",
+ "source": "websearch: facebook.com درعا حلويات",
+ "source_extra": ""
+}

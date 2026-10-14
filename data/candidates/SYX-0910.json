@@ -1,0 +1,22 @@
+{
+ "id": "SYX-0910",
+ "name": "مطعم كرينش هاوس /krinsh haws",
+ "gov": "إدلب",
+ "city": "سرمدا",
+ "cat": "مطاعم ومقاهي",
+ "platform": "Facebook",
+ "url": "https://www.facebook.com/336905120239695",
+ "instagram_url": "",
+ "menu_url": "",
+ "menu_state": "not_observed_public",
+ "country_check": "syrian_address_on_page",
+ "access_audit": "opened_headless_no_login",
+ "syria_evidence": "العنوان على الصفحة: سرمدا الجديدة، Sarmada, Syria، والهاتف +963 944 514 118",
+ "proof_type": "صفحة المتجر نفسها",
+ "verified_platform": "فُتحت الصفحة دون تسجيل دخول",
+ "year": "2026",
+ "research_batch": "2026-10-15_expansion",
+ "origin": "agent_web_search",
+ "source": "https://www.findglocal.com/SY/Harem/386212",
+ "source_extra": ""
+}

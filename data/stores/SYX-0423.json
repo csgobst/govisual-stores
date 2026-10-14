@@ -1,0 +1,85 @@
+{
+ "id": "SYX-0423",
+ "verdict": "qualified",
+ "reason": "محل حلويات عربية ومطبخ حلبي في الجميلية بحلب، نشط في 2026 (منشورات أغسطس وما بعد)، يعرض أصنافه بالصور؛ رابط الموقع المذكور لا يعمل ولا يوجد منيو رقمي.",
+ "sells": "حلويات عربية بالفستق الحلبي ومعجنات وكبب حلبية",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "حلو فستق حلب /سورية-حلب/",
+  "followers": "88 ألف",
+  "bio": "كافة أنواع الحلويات والمعجنات العربية + أشهى أنواع المطبخ العربي",
+  "address": "الجميلية، حلب، سوريا",
+  "phones": [
+   "+963 943 266 003"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0423/logo.jpg",
+ "cover": "assets/SYX-0423/cover.jpg",
+ "items": [
+  {
+   "name": "حلو عربي مرتب",
+   "description": "",
+   "category": "حلويات عربية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0423/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "الكبب الحلبية بأنواعها",
+   "description": "",
+   "category": "مطبخ حلبي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0423/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "علبة حلو عربي مشكل",
+   "description": "",
+   "category": "حلويات عربية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0423/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "صينية حلو عربي مشكل بالفستق",
+   "description": "",
+   "category": "حلويات عربية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0423/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حلو عربي بالفستق الحلبي",
+   "description": "",
+   "category": "حلويات عربية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0423/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "تشكيلة حلو عربي",
+   "description": "",
+   "category": "حلويات عربية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0423/item06.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-14T22:43:09.056743+00:00"
+}

@@ -1,0 +1,22 @@
+{
+ "id": "SYX-0819",
+ "name": "حلويات السفير",
+ "gov": "درعا",
+ "city": "درعا",
+ "cat": "حلويات ومخبوزات",
+ "platform": "Facebook",
+ "url": "https://www.facebook.com/Alsafir.Sweets/",
+ "instagram_url": "",
+ "menu_url": "",
+ "menu_state": "not_observed_public",
+ "country_check": "syrian_address_on_page",
+ "access_audit": "opened_headless_no_login",
+ "syria_evidence": "درعا +963 997 407 566",
+ "proof_type": "صفحة المتجر نفسها",
+ "verified_platform": "فُتحت الصفحة دون تسجيل دخول",
+ "year": "2026",
+ "research_batch": "2026-10-15_expansion",
+ "origin": "agent_web_search",
+ "source": "websearch: facebook.com درعا حلويات",
+ "source_extra": ""
+}

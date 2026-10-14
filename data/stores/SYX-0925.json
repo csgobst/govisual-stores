@@ -1,0 +1,95 @@
+{
+ "id": "SYX-0925",
+ "verdict": "qualified",
+ "reason": "معرض فساتين عرائس وسهرة في الحسكة ينشر موديلاته باستمرار في 2026 دون منيو أو متجر رقمي.",
+ "sells": "فساتين زفاف وسهرة وأقمشة دانتيل",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "معرض ميتا للعرائس",
+  "followers": "38 ألف",
+  "bio": "Meeta Dresses - تصاميم فاخرة • تفصيل راقٍ • لمسات ملكية",
+  "address": "الحسكة",
+  "phones": [
+   "+963991638887"
+  ],
+  "whatsapp": "+963991638887",
+  "instagram": "https://www.instagram.com/dresess_meta",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0925/logo.jpg",
+ "cover": "",
+ "items": [
+  {
+   "name": "فستان سهرة ليلكي مطرز",
+   "description": "",
+   "category": "فساتين",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0925/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان سهرة ذهبي",
+   "description": "",
+   "category": "فساتين",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0925/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "قماش دانتيل فاخر أخضر",
+   "description": "",
+   "category": "فساتين",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0925/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان زفاف بأكمام دانتيل",
+   "description": "",
+   "category": "فساتين",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0925/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان زفاف أوف شولدر",
+   "description": "",
+   "category": "فساتين",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0925/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان زفاف مطرز بذيل طويل",
+   "description": "",
+   "category": "فساتين",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0925/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان سهرة ذهبي مطرز",
+   "description": "",
+   "category": "فساتين",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0925/item07.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T01:41:52"
+}

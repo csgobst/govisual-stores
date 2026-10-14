@@ -1,0 +1,95 @@
+{
+ "id": "SYX-0819",
+ "verdict": "qualified",
+ "reason": "محل حلويات وقوالب كيك للمناسبات في درعا نشر منتجاته في 2026 (آخر منشور تموز 2026) ويستقبل الطلبات بالهاتف والرسائل دون منيو رقمي.",
+ "sells": "قوالب كيك للمناسبات وحلويات",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "حلويات السفير",
+  "followers": "5218",
+  "bio": "حلويات السفير - كل تحلاية فيها حكاية",
+  "address": "درعا",
+  "phones": [
+   "+963 997 407 566"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-07"
+ },
+ "logo": "assets/SYX-0819/logo.jpg",
+ "cover": "assets/SYX-0819/cover.jpg",
+ "items": [
+  {
+   "name": "قالب كيك بالفراشات",
+   "description": "تصميم حسب الطلب",
+   "category": "قوالب كيك",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0819/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كيك عيد ميلاد",
+   "description": "",
+   "category": "قوالب كيك",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0819/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كيك تخرج",
+   "description": "",
+   "category": "قوالب كيك",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0819/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كيك أطفال Ben 10",
+   "description": "",
+   "category": "قوالب كيك",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0819/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كيك ريال مدريد وبرشلونة",
+   "description": "",
+   "category": "قوالب كيك",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0819/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كيك أعراس طبقات",
+   "description": "",
+   "category": "قوالب كيك",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0819/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كيك تخرج بقبعة",
+   "description": "",
+   "category": "قوالب كيك",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0819/item07.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

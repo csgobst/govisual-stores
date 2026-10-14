@@ -1,0 +1,65 @@
+{
+ "id": "SYX-0412",
+ "verdict": "qualified",
+ "reason": "مقهى ومطعم أمام قلعة حلب، نشط في 2026 (منشورات أبريل)، يعرض أطباقه بالصور على فيسبوك دون منيو رقمي ظاهر.",
+ "sells": "وجبات ودجاج وسلطات ومشروبات وأراكيل",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "اريكا كافيه Arica Cafe",
+  "followers": "11 ألف",
+  "bio": "سوريا | حلب - محيط قلعة حلب - تقاطع طلعة الهجرة والجوازات مع محيط القلعة",
+  "address": "محيط قلعة حلب، تقاطع طلعة السجن القديم مع قلعة حلب، حلب، سوريا",
+  "phones": [
+   "+963 945 866 999"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/arica_cafe7",
+  "last_activity": "2026-04"
+ },
+ "logo": "assets/SYX-0412/logo.jpg",
+ "cover": "assets/SYX-0412/cover.jpg",
+ "items": [
+  {
+   "name": "سلطة اريكا",
+   "description": "",
+   "category": "سلطات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0412/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طبق دجاج بالصوص الكريمي والجبنة مع رز وبطاطا",
+   "description": "",
+   "category": "أطباق رئيسية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0412/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طبق دجاج بالجبنة مع رز وبطاطا وخضار",
+   "description": "",
+   "category": "أطباق رئيسية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0412/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طبق دجاج بالصوص الأحمر والسمسم مع رز وبطاطا",
+   "description": "",
+   "category": "أطباق رئيسية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0412/item04.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-14T22:39:40.464356+00:00"
+}

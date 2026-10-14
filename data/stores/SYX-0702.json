@@ -1,0 +1,65 @@
+{
+ "id": "SYX-0702",
+ "verdict": "qualified",
+ "reason": "مطعم ومقهى نشط في بانياس ينشر وجباته يوميًا على فيسبوك ولا يملك منيو رقمي.",
+ "sells": "بيتزا وبروستد وبرغر ووجبات سريعة ومشروبات",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "4 Pax cafe",
+  "followers": "51 ألف",
+  "bio": "Restaurant & Cafe /0933768210",
+  "address": "Al-Qadmous street /Al-Qousour, Baniyas, Syria",
+  "phones": [
+   "+963933768210"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/4pax_cafe",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0702/logo.jpg",
+ "cover": "assets/SYX-0702/cover.jpg",
+ "items": [
+  {
+   "name": "بيتزا الفورباكس",
+   "description": "",
+   "category": "بيتزا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0702/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "جوانح بروستد مقرمشة",
+   "description": "مع البطاطا وكريم توم والمخلل",
+   "category": "بروستد",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0702/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بروستد مقرمش",
+   "description": "",
+   "category": "بروستد",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0702/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "برغر بالفطر والجبنة",
+   "description": "",
+   "category": "برغر",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0702/item04.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

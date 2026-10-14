@@ -1,0 +1,76 @@
+{
+ "id": "SYX-0305",
+ "verdict": "qualified",
+ "reason": "متجر هدايا وأدوات منزلية في شارع الحمرا بدمشق، ينشر منتجاته يومياً على فيسبوك ولا يملك متجراً إلكترونياً.",
+ "sells": "هدايا وأدوات منزلية ومطبخ",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "ركن الهدايا-Gifts Corner",
+  "followers": "99 ألف",
+  "bio": "🛍️ أفكار مميزة في عالم الهدايا والأدوات المنزلية 📍دمشق / شارع الحمرا 0994822031",
+  "address": "دمشق، شارع الحمرا",
+  "phones": [
+   "0994822031",
+   "+963113344228"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0305/logo.jpg",
+ "cover": "assets/SYX-0305/cover.jpg",
+ "items": [
+  {
+   "name": "طقم زبادي الجوري الزجاجي",
+   "description": "",
+   "category": "أدوات مائدة",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYX-0305/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "عربة تخزين 3 طوابق بعجلات",
+   "description": "",
+   "category": "تنظيم وتخزين",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYX-0305/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم فناجين وصحون الغيوم الملونة",
+   "description": "",
+   "category": "أدوات مائدة",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYX-0305/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "رول قصدير لاصق حراري 40*200 سم",
+   "description": "",
+   "category": "مطبخ",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYX-0305/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "قطاعة خضار الأصلية",
+   "description": "",
+   "category": "مطبخ",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYX-0305/item05.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-14T22:22:19.683506+00:00"
+}

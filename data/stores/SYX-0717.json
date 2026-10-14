@@ -1,0 +1,95 @@
+{
+ "id": "SYX-0717",
+ "verdict": "qualified",
+ "reason": "محل ألبسة رجالية في بانياس ينشر تشكيلاته وأسعار العروض على فيسبوك (منشورات سبتمبر 2026) دون متجر إلكتروني فعّال.",
+ "sells": "ألبسة وأحذية رجالية: بجامات، قمصان، بلوزات، أحزمة",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "الرياض للالبسة و الاحذية الرجالية",
+  "followers": "4.3 ألف",
+  "bio": "محل تجاري مختص ببيع الالبسة والاحذية الرجالية",
+  "address": "بانياس، طرطوس",
+  "phones": [
+   "043717409"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-09"
+ },
+ "logo": "assets/SYX-0717/logo.jpg",
+ "cover": "assets/SYX-0717/cover.jpg",
+ "items": [
+  {
+   "name": "بجامة رجالي",
+   "description": "",
+   "category": "بجامات",
+   "price": 2000,
+   "currency": "SYP",
+   "price_text": "2000 ل.س (سعر العرض)",
+   "image": "assets/SYX-0717/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "قميص نص كم",
+   "description": "",
+   "category": "قمصان",
+   "price": 1000,
+   "currency": "SYP",
+   "price_text": "1000 ل.س (سعر العرض)",
+   "image": "assets/SYX-0717/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "تشكيلة بلوز",
+   "description": "",
+   "category": "بلوزات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0717/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حزام رجالي بألوان ونقشات متعددة",
+   "description": "",
+   "category": "إكسسوارات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0717/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "قميص رجالي كم (M-XXL)",
+   "description": "",
+   "category": "قمصان",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0717/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بجامة رجالي رياضية (L-4XL)",
+   "description": "",
+   "category": "بجامات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0717/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بلوزة رجالي (M-XXL)",
+   "description": "",
+   "category": "بلوزات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0717/item07.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

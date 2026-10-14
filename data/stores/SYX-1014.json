@@ -1,0 +1,75 @@
+{
+ "id": "SYX-1014",
+ "verdict": "qualified",
+ "reason": "محل موبايلات وصيانة في حماة ينشر أجهزته وعروضه مع أسعار حتى أيام قليلة ولا يملك متجراً أو كتالوجاً رقمياً",
+ "sells": "أجهزة موبايل وإكسسوارات وصيانة",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "موبايلي",
+  "followers": "66 ألف",
+  "bio": "كافة مستلزمات الأجهزة الخليوية",
+  "address": "حماة، شارع المرابط، موقف الملجأ",
+  "phones": [
+   "013-3033"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-1014/logo.jpg",
+ "cover": "assets/SYX-1014/cover.jpg",
+ "items": [
+  {
+   "name": "HONOR CHOICE T10",
+   "description": "بكفالة شركة نهج الوكيل الرسمي لهونر في سوريا",
+   "category": "موبايلات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-1014/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "POCO X8 Pro",
+   "description": "12GB RAM / 512GB، شاشة 6.67، بطارية 5000mAh",
+   "category": "موبايلات",
+   "price": 440,
+   "currency": "USD",
+   "price_text": "السعر الجديد 440$",
+   "image": "assets/SYX-1014/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "HONOR 600",
+   "description": "بكفالة نهج",
+   "category": "موبايلات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-1014/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "هاتف سامسونج",
+   "description": "",
+   "category": "موبايلات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-1014/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "تبديل جكة شحن مايكرو USB مع وصلة شحن أصلية",
+   "description": "عرض صيانة",
+   "category": "صيانة",
+   "price": 350,
+   "currency": "SYP",
+   "price_text": "بسعر 350 ليرة فقط",
+   "image": "assets/SYX-1014/item05.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

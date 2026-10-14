@@ -1,0 +1,85 @@
+{
+ "id": "SYX-0906",
+ "verdict": "qualified",
+ "reason": "متجر كيك منزلي في دير الزور ينشر قوالب الكيك يومياً ويستقبل الطلبات دون منيو رقمي.",
+ "sells": "كيك مناسبات وأعياد ميلاد حسب الطلب",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "EMMY CAKE",
+  "followers": "1.6 ألف",
+  "bio": "محل حلويات · متجر كعك",
+  "address": "دير الزور، سوريا",
+  "phones": [
+   "+963968266543"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0906/logo.jpg",
+ "cover": "assets/SYX-0906/cover.jpg",
+ "items": [
+  {
+   "name": "كيكة ذكرى زواج LOVE بالورد",
+   "description": "",
+   "category": "كيك",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0906/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كيكة الأميرة والقلعة",
+   "description": "",
+   "category": "كيك",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0906/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كيكة عروس مرسومة",
+   "description": "",
+   "category": "كيك",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0906/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كيكة رسم مضحك",
+   "description": "",
+   "category": "كيك",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0906/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كيكة بفيونكات حمراء",
+   "description": "",
+   "category": "كيك",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0906/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كيكة كريمة وردية",
+   "description": "",
+   "category": "كيك",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0906/item06.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T01:26:44"
+}

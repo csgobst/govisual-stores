@@ -1,0 +1,22 @@
+{
+ "id": "SYX-1016",
+ "name": "مكتبة النجاح",
+ "gov": "ريف دمشق",
+ "city": "يبرود",
+ "cat": "قرطاسية وألعاب",
+ "platform": "Facebook",
+ "url": "https://www.facebook.com/alnajahstationerymk/",
+ "instagram_url": "",
+ "menu_url": "",
+ "menu_state": "not_observed_public",
+ "country_check": "syrian_address_on_page",
+ "access_audit": "opened_headless_no_login",
+ "syria_evidence": "يبرود - السوق الرئيسي، واتس 0981787502",
+ "proof_type": "صفحة المتجر نفسها",
+ "verified_platform": "فُتحت الصفحة دون تسجيل دخول",
+ "year": "2026",
+ "research_batch": "2026-10-15_expansion",
+ "origin": "agent_web_search",
+ "source": "web search: facebook مكتبة قرطاسية حمص",
+ "source_extra": ""
+}

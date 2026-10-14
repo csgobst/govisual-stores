@@ -1,0 +1,103 @@
+{
+ "id": "SYX-0504",
+ "verdict": "qualified",
+ "reason": "سنتر فساتين عرائس وسهرة في حلب التلل يعرض موديلاته على إنستغرام دون أي كتالوج أو متجر رقمي.",
+ "sells": "فساتين زفاف وخطبة وسهرة: آجار ومبيع وتفصيل عالطلب",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "سنتر هرشو للعرائس",
+  "followers": "42.8 ألف",
+  "bio": "فساتين زفاف – خطبة – سهرة. آجار-مبيع- تفصيل عالطلب. حلب – التلل بعد عبارة النحاس بـ50 متر فوق عالم الطفولة – طابق تاني",
+  "address": "حلب – التلل، بعد عبارة النحاس بـ50 متر، فوق عالم الطفولة، طابق تاني",
+  "phones": [],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/center_harsho/",
+  "last_activity": "unknown"
+ },
+ "logo": "assets/SYX-0504/logo.jpg",
+ "cover": "",
+ "items": [
+  {
+   "name": "فستان خطوبة زهري لامع",
+   "description": "",
+   "category": "فساتين خطبة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0504/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان زفاف أبيض منفوش",
+   "description": "",
+   "category": "فساتين زفاف",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0504/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان سهرة منفوش أخضر فاتح دانتيل",
+   "description": "",
+   "category": "فساتين سهرة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0504/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان خطوبة وردي مزين بالورود",
+   "description": "",
+   "category": "فساتين خطبة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0504/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان برغندي لامع",
+   "description": "",
+   "category": "فساتين سهرة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0504/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان زفاف بأكمام طويلة وياقة عالية",
+   "description": "",
+   "category": "فساتين زفاف",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0504/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان زفاف Number one",
+   "description": "",
+   "category": "فساتين زفاف",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0504/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان سهرة ليلكي مطرز",
+   "description": "",
+   "category": "فساتين سهرة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0504/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T12:00:00Z"
+}

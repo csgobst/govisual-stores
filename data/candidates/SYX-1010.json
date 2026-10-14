@@ -1,0 +1,22 @@
+{
+ "id": "SYX-1010",
+ "name": "سوبر ماركت المحبة",
+ "gov": "اللاذقية",
+ "city": "اللاذقية",
+ "cat": "مواد غذائية",
+ "platform": "Facebook",
+ "url": "https://www.facebook.com/mahabbahsupermarket/",
+ "instagram_url": "",
+ "menu_url": "",
+ "menu_state": "not_observed_public",
+ "country_check": "syrian_address_on_page",
+ "access_audit": "opened_headless_no_login",
+ "syria_evidence": "",
+ "proof_type": "صفحة المتجر نفسها",
+ "verified_platform": "فُتحت الصفحة دون تسجيل دخول",
+ "year": "2026",
+ "research_batch": "2026-10-15_expansion",
+ "origin": "agent_web_search",
+ "source": "web search: facebook سوبر ماركت حماة عروض",
+ "source_extra": ""
+}

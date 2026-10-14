@@ -1,0 +1,85 @@
+{
+ "id": "SYX-0310",
+ "verdict": "qualified",
+ "reason": "محل عطور ومستحضرات تجميل في دمشق ينشر عطوره الأصلية على فيسبوك ويستقبل الطلبات عبر واتساب دون متجر إلكتروني.",
+ "sells": "عطور فرنسية أصلية رجالية ونسائية وأدوات تجميل",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "عطورات الصمادي",
+  "followers": "2 ألف",
+  "bio": "أحدث العطور من أهم الماركات العالمية، بالإضافة إلى تشكيلة من أدوات التجميل ..",
+  "address": "دمشق",
+  "phones": [
+   "+963933398666"
+  ],
+  "whatsapp": "+963933398666",
+  "instagram": "https://www.instagram.com/perfumes_smadi",
+  "last_activity": "2026"
+ },
+ "logo": "assets/SYX-0310/logo.jpg",
+ "cover": "assets/SYX-0310/cover.jpg",
+ "items": [
+  {
+   "name": "عطر Silver Scent للرجال - Jacques Bogart",
+   "description": "",
+   "category": "عطور رجالية",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYX-0310/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "عطر One Man Show للرجال - Jacques Bogart",
+   "description": "",
+   "category": "عطور رجالية",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYX-0310/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "عطر M 2 للرجال - Remy Marquis",
+   "description": "",
+   "category": "عطور رجالية",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYX-0310/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "عطر Reemax للرجال - Remy Marquis",
+   "description": "",
+   "category": "عطور رجالية",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYX-0310/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "عطر Marquis للنساء - Remy Marquis",
+   "description": "",
+   "category": "عطور نسائية",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYX-0310/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "عطر Marquis للرجال - Remy Marquis",
+   "description": "",
+   "category": "عطور رجالية",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYX-0310/item06.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-14T22:29:34.589307+00:00"
+}

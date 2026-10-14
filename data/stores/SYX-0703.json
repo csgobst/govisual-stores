@@ -1,0 +1,75 @@
+{
+ "id": "SYX-0703",
+ "verdict": "qualified",
+ "reason": "محل حلويات وشوكولا في طرطوس ينشر منتجاته على فيسبوك بشكل مستمر (آخر منشور أكتوبر 2026) ولا يملك منيو رقمي.",
+ "sells": "حلويات غربية وشرقية وشوكولا وعلب ضيافة",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "حلويات سومر طرطوس Patisserie Somar Tartus",
+  "followers": "2.5 ألف",
+  "bio": "All kinds of sweets,chocolates - الفرع الوحيد لسومر في طرطوس - شارع هنانو",
+  "address": "شارع هنانو، طرطوس، سوريا",
+  "phones": [
+   "+963998673175"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0703/logo.jpg",
+ "cover": "assets/SYX-0703/cover.jpg",
+ "items": [
+  {
+   "name": "بيتي فور بشوكولا غامقة (من دون سكر)",
+   "description": "",
+   "category": "بيتي فور",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0703/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "علب التخرج",
+   "description": "",
+   "category": "علب ضيافة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0703/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "غريبة اسطنبولية بالفستق والشوكولا",
+   "description": "",
+   "category": "حلويات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0703/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "معمول صيامي بالجوز أو بالتفاح",
+   "description": "",
+   "category": "حلويات شرقية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0703/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "علب العيد وراحة بكل الأحجام",
+   "description": "",
+   "category": "علب ضيافة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0703/item05.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

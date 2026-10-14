@@ -1,0 +1,57 @@
+{
+ "id": "SYX-0111",
+ "verdict": "qualified",
+ "reason": "مطعم شاورما ومأكولات شرقية في المرجة والقنوات بدمشق مع خدمة توصيل، آخر منشور يونيو 2026، ولا يوجد منيو رقمي.",
+ "sells": "شاورما لحم ومقبلات وأطباق شرقية",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "مطعم الصديق الشرقي",
+  "followers": "16 ألف",
+  "bio": "(شيخ كار الشاورما الأول بدمشق) الفرع الأول:المرجة-بناء العابد/ الفرع الثاني:قنوات -جادة العجلوني. أقدم محل شاورما بدمشق تأسس عام 1906",
+  "address": "المرجة - بناء العابد؛ القنوات - جادة العجلوني، دمشق",
+  "phones": [
+   "+963112234417",
+   "2215009",
+   "0932386650"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-06"
+ },
+ "logo": "assets/SYX-0111/logo.jpg",
+ "cover": "assets/SYX-0111/cover.jpg",
+ "items": [
+  {
+   "name": "صحن شاورما لحم",
+   "description": "شاورما عالأصول",
+   "category": "شاورما",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0111/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "سفرة مقبلات مشكلة (حمص، كبة، بطاطا، سلطة)",
+   "description": "",
+   "category": "مقبلات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0111/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "وجبة شاورما مع كبة وبطاطا شيبس",
+   "description": "",
+   "category": "وجبات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0111/item03.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

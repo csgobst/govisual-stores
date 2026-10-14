@@ -1,0 +1,75 @@
+{
+ "id": "SYX-0513",
+ "verdict": "qualified",
+ "reason": "علامة ألبسة بخمسة فروع في حلب تنشر موديلاتها يومياً في 2026 ولا تملك متجراً أو كتالوجاً رقمياً.",
+ "sells": "ألبسة نسائية: فساتين وقمصان وأطقم",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "Orango fashion.Aleppo",
+  "followers": "96 ألف",
+  "bio": "ملابس (علامة تجارية) Clothing Brand Aleppo,Syria. فروعنا بحلب : فرقان _ موكامبو _سيف الدولة _ العزيزية _ الشعار بلو مول",
+  "address": "حلب: الفرقان، الموكامبو، سيف الدولة، العزيزية، الشعار بلو مول",
+  "phones": [
+   "+963937522519"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/orango.aleppo",
+  "last_activity": "2026-10"
+ },
+ "logo": "",
+ "cover": "assets/SYX-0513/cover.jpg",
+ "items": [
+  {
+   "name": "فستان تركي قطعتين مع بولير - أنغورا",
+   "description": "صناعة تركية، تصميم محتشم مثالي للمحجبات",
+   "category": "فساتين",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0513/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "قميص أبيض بكشكش وأكمام منفوخة",
+   "description": "",
+   "category": "قمصان",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0513/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان خمري بربطات على الكتف",
+   "description": "",
+   "category": "فساتين",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0513/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "قميص كحلي منقط",
+   "description": "",
+   "category": "قمصان",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0513/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان أزرق مخرم بأزرار ذهبية",
+   "description": "",
+   "category": "فساتين",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0513/item05.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T12:00:00Z"
+}

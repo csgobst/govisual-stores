@@ -1,0 +1,65 @@
+{
+ "id": "SYX-0924",
+ "verdict": "qualified",
+ "reason": "محل حلويات ومكسرات في دير الزور ينشر منتجاته وعروضه في 2026 دون منيو رقمي.",
+ "sells": "موالح وسكاكر وشوكولا ومكسرات وباقات ضيافة",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "كرز وعسل",
+  "followers": "1.1 ألف",
+  "bio": "موالح سكاكر وكاندي | أفضل المنتجات وبجودة عالية تجدونها لدينا",
+  "address": "دير الزور، الجورة، شارع الوادي جانب فندق نور الشام",
+  "phones": [
+   "+963962010059"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/karaz3asal",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0924/logo.jpg",
+ "cover": "assets/SYX-0924/cover.jpg",
+ "items": [
+  {
+   "name": "ويفر ماستر رولز بالبندق",
+   "description": "",
+   "category": "حلويات ومكسرات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0924/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "سافير ويفر فانيلا",
+   "description": "",
+   "category": "حلويات ومكسرات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0924/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "باقة ورد وشوكولا",
+   "description": "",
+   "category": "حلويات ومكسرات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0924/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "سكاكر وملبس معبأة",
+   "description": "",
+   "category": "حلويات ومكسرات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0924/item04.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T01:36:19"
+}

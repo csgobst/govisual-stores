@@ -1,0 +1,107 @@
+{
+ "id": "SYX-1008",
+ "verdict": "qualified",
+ "reason": "سوبرماركت كبير في دمشق الميدان مع فرع في حمص ينشر منتجاته يومياً مع توصيل، ولم يظهر له متجر أونلاين أو منيو رقمي",
+ "sells": "مواد غذائية ومخبوزات وحلويات ومونة",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "Karam Market",
+  "followers": "163 ألف",
+  "bio": "جميع طلباتكم مؤمنة عبر خدمة التوصيل ضمن منطقة الميدان وماحولها عبر الأرقام 8835550/2/4 - 0995200200",
+  "address": "دمشق الميدان، مول الماسة بلازا خلف جامع الحسن",
+  "phones": [
+   "0995200200",
+   "8835550",
+   "0958366435"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-1008/logo.jpg",
+ "cover": "assets/SYX-1008/cover.jpg",
+ "items": [
+  {
+   "name": "كوكيز بالشوكولا",
+   "description": "علبة من مصنع كرم ماركت",
+   "category": "بسكويت ومعجنات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-1008/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كعك مشكل بالسمسم والفستق",
+   "description": "",
+   "category": "بسكويت ومعجنات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-1008/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بسكويت بالسمسم",
+   "description": "",
+   "category": "بسكويت ومعجنات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-1008/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بيتي فور مشكل",
+   "description": "",
+   "category": "بسكويت ومعجنات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-1008/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "أصابع مالحة مشكلة",
+   "description": "",
+   "category": "بسكويت ومعجنات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-1008/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "زيتون أخضر تفاحي",
+   "description": "مونة جاهزة من كرم بيكري",
+   "category": "مونة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-1008/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "قطعة كيك شوكولا",
+   "description": "قسم البيكري",
+   "category": "حلويات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-1008/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "تشيز كيك لوتس",
+   "description": "قسم البيكري",
+   "category": "حلويات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-1008/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

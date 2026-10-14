@@ -1,0 +1,22 @@
+{
+ "id": "SYX-0212",
+ "name": "Bianca Dresses",
+ "gov": "دمشق",
+ "city": "دمشق",
+ "cat": "ملابس وأحذية",
+ "platform": "Instagram",
+ "url": "https://www.instagram.com/biancadresses/",
+ "instagram_url": "https://www.instagram.com/biancadresses/",
+ "menu_url": "",
+ "menu_state": "not_observed_public",
+ "country_check": "syrian_address_on_page",
+ "access_audit": "opened_headless_no_login",
+ "syria_evidence": "Damascus, Syria",
+ "proof_type": "صفحة المتجر نفسها",
+ "verified_platform": "فُتحت الصفحة دون تسجيل دخول",
+ "year": "2026",
+ "research_batch": "2026-10-15_expansion",
+ "origin": "agent_web_search",
+ "source": "web search (WebSearch)",
+ "source_extra": ""
+}

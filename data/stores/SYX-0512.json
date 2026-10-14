@@ -1,0 +1,75 @@
+{
+ "id": "SYX-0512",
+ "verdict": "qualified",
+ "reason": "محل مواد تجميل وعطور في حلب الموكامبو سنتر الاتحاد ينشر منتجاته (آخر منشور يناير 2026) دون متجر أو كتالوج رقمي.",
+ "sells": "مواد تجميل ومكياج وعناية بالشعر والبشرة وعطور",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "باريس للعطور والتجميل paris",
+  "followers": "52 ألف",
+  "bio": "تجارة وبيع مواد التجميل والعطورات",
+  "address": "حلب، الموكامبو، سنتر الاتحاد",
+  "phones": [
+   "+963943501597"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/mahmod_abomresh",
+  "last_activity": "2026-01"
+ },
+ "logo": "assets/SYX-0512/logo.jpg",
+ "cover": "assets/SYX-0512/cover.jpg",
+ "items": [
+  {
+   "name": "حمرة خد NYX Buttermelt Blush",
+   "description": "وصلت باقي الألوان",
+   "category": "مكياج",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0512/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كريم كارسيل لإصلاح الشعر 500 مل",
+   "description": "بزيت الأرغان والكولاجين والكيراتين",
+   "category": "عناية بالشعر",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0512/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "سيروم ايفلين لتطويل الرموش والحواجب",
+   "description": "8 في 1 Total Action",
+   "category": "عناية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0512/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "Cellimax Retinal Shot",
+   "description": "معزز شد البشرة بالريتينال",
+   "category": "عناية بالبشرة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0512/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "سبراي لوريال Magic Retouch لتغطية الجذور",
+   "description": "متوفر بألوان أسود/بني غامق/أشقر غامق",
+   "category": "عناية بالشعر",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0512/item05.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T12:00:00Z"
+}

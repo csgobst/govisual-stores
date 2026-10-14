@@ -1,0 +1,22 @@
+{
+ "id": "SYX-0305",
+ "name": "ركن الهدايا-Gifts Corner",
+ "gov": "دمشق",
+ "city": "الحمرا",
+ "cat": "هدايا وهاند ميد",
+ "platform": "Facebook",
+ "url": "https://www.facebook.com/GiftscornerGC/",
+ "instagram_url": "",
+ "menu_url": "",
+ "menu_state": "not_observed_public",
+ "country_check": "syrian_address_on_page",
+ "access_audit": "opened_headless_no_login",
+ "syria_evidence": "العنوان على الصفحة: دمشق / شارع الحمرا، هاتف أرضي دمشقي +963 11 334 4228",
+ "proof_type": "صفحة المتجر نفسها",
+ "verified_platform": "فُتحت الصفحة دون تسجيل دخول",
+ "year": "2026",
+ "research_batch": "2026-10-15_expansion",
+ "origin": "agent_web_search",
+ "source": "https://search.yahoo.com/search?p=site%3Afacebook.com+%D9%87%D8%AF%D8%A7%D9%8A%D8%A7+%D8%AF%D9%85%D8%B4%D9%82",
+ "source_extra": ""
+}

@@ -1,0 +1,99 @@
+{
+ "id": "SYX-0102",
+ "verdict": "qualified",
+ "reason": "مطبخ وحلويات في دمشق نشط (منشور قبل 12 ساعة) والزبائن يسألون عن الأسعار في التعليقات، ولا يوجد منيو رقمي.",
+ "sells": "حلويات عربية وطبخ (مندي، فريكة)",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "مطبخ وحلويات الوسام",
+  "followers": "66 ألف",
+  "bio": "لبيع جميع انواع الحلويات العربية واطيب الطبخ من جميع الانواع",
+  "address": "تنظيم كفرسوسة مقابل قسم الشرطة؛ ساحة العباسيين شارع حلب؛ المالكي مجمع الحلواني - دمشق",
+  "phones": [
+   "+963112146144",
+   "0112145350",
+   "0933202404",
+   "0114444017",
+   "0114453726"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/alwissamsweets",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0102/logo.jpg",
+ "cover": "assets/SYX-0102/cover.jpg",
+ "items": [
+  {
+   "name": "كنافة نابلسية",
+   "description": "",
+   "category": "حلويات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0102/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مدلوقة الوسام",
+   "description": "",
+   "category": "حلويات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0102/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فريكة باللحم",
+   "description": "",
+   "category": "مطبخ",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0102/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حلويات الوسام بالفستق",
+   "description": "حيث الفخامة بالتغليف، والأصالة بالطعم",
+   "category": "حلويات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0102/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مندي دجاج",
+   "description": "",
+   "category": "مطبخ",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0102/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "شعيبيات",
+   "description": "",
+   "category": "حلويات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0102/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بقلاوة",
+   "description": "",
+   "category": "حلويات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0102/item07.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

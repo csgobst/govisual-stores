@@ -1,0 +1,105 @@
+{
+ "id": "SYX-0813",
+ "verdict": "qualified",
+ "reason": "سلسلة مطاعم مستر نوح (فلفول) في درعا بفرعين تنشر يومياً في تشرين الأول 2026 وجبات وحلويات ولا تملك منيو رقمي (الأسعار عبر الرسائل).",
+ "sells": "كريسبي وبيتزا ومناقيش وبرغر وكيك وحلويات وكوكتيلات",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "مطعم فلفول - Falfool",
+  "followers": "126355",
+  "bio": "مطعم فلفول والبغجاتي - مندي دجاج سناكات سندويشات فول فلافل سلطات فواكه كيك بوظه حلويات",
+  "address": "درعا - المجمع الحكومي - مقابل مكتب المخاتير؛ الفرع الثاني: درعا - السبيل - طلعة مدرسة المتفوقين",
+  "phones": [
+   "+963 988 390 474"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0813/logo.jpg",
+ "cover": "assets/SYX-0813/cover.jpg",
+ "items": [
+  {
+   "name": "وجبة كريسبي",
+   "description": "مع بطاطا وكول سلو وصوص",
+   "category": "وجبات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0813/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بيتزا",
+   "description": "لحوم، فصول أربعة، كرانش كريسبي",
+   "category": "بيتزا",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0813/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "توبازو كيك",
+   "description": "",
+   "category": "حلويات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0813/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "سلطة فواكه بالشوكولا",
+   "description": "",
+   "category": "حلويات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0813/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بكت كريسبي",
+   "description": "",
+   "category": "وجبات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0813/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مناقيش",
+   "description": "جبنة مشكلة، محمرة، زعتر، لبنة مع خضار",
+   "category": "معجنات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0813/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كوكتيل بطيخ بالنعناع",
+   "description": "",
+   "category": "مشروبات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0813/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "برغر كريسبي",
+   "description": "",
+   "category": "سندويشات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0813/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

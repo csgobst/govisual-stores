@@ -1,0 +1,75 @@
+{
+ "id": "SYX-0716",
+ "verdict": "qualified",
+ "reason": "متجر شالات ومكياج وإكسسوارات في بانياس بصفحة نشطة يومياً (منشورات قبل ساعات) يبيع ويشحن عبر الرسائل دون متجر إلكتروني.",
+ "sells": "شالات وحجابات، مكياج وعناية بالبشرة، إكسسوارات، حقائب ومظلات",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "حرير",
+  "followers": "23 ألف",
+  "bio": "أصل الشال و الحجاب و الاشارب في بانياس بالاضافة للمكياج و الاكسسوار و الحقائب بكل انواعها",
+  "address": "شارع ابن خلدون، بانياس، سوريا",
+  "phones": [
+   "+963949583394"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0716/logo.jpg",
+ "cover": "assets/SYX-0716/cover.jpg",
+ "items": [
+  {
+   "name": "مجموعة الرموش المتكاملة",
+   "description": "رموش بأطوال مختلفة مع لاصق ومثبت وملقط",
+   "category": "مكياج",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0716/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مرطب الشفاه للموبايل ANY KLAEN",
+   "description": "",
+   "category": "مكياج",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0716/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "أكياس ضب الملابس",
+   "description": "",
+   "category": "منزليات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0716/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "لاروش بوزيه سيكابلاست B5+",
+   "description": "",
+   "category": "عناية بالبشرة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0716/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مظلات مطرية",
+   "description": "",
+   "category": "إكسسوارات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0716/item05.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

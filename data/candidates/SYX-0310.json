@@ -1,0 +1,22 @@
+{
+ "id": "SYX-0310",
+ "name": "عطورات الصمادي",
+ "gov": "دمشق",
+ "city": "دمشق",
+ "cat": "عطور وتجميل",
+ "platform": "Facebook",
+ "url": "https://www.facebook.com/Perfumes.Smadi/",
+ "instagram_url": "",
+ "menu_url": "",
+ "menu_state": "not_observed_public",
+ "country_check": "syrian_address_on_page",
+ "access_audit": "opened_headless_no_login",
+ "syria_evidence": "الصفحة: عطورات الصمادي، دمشق، هاتف وواتساب +963 933 398 666",
+ "proof_type": "صفحة المتجر نفسها",
+ "verified_platform": "فُتحت الصفحة دون تسجيل دخول",
+ "year": "2026",
+ "research_batch": "2026-10-15_expansion",
+ "origin": "agent_web_search",
+ "source": "https://search.brave.com/search?q=site%3Afacebook.com+%D8%B9%D8%B7%D9%88%D8%B1+%D8%AF%D9%85%D8%B4%D9%82",
+ "source_extra": ""
+}

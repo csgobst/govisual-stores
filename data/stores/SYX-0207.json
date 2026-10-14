@@ -1,0 +1,105 @@
+{
+ "id": "SYX-0207",
+ "verdict": "qualified",
+ "reason": "محل أحذية نسائية وجزادين بثلاثة فروع في دمشق (الطلياني، الحمرا، الصالحية)، ينشر موديلات جديدة يومياً (آخر منشور اليوم) ويرد على السعر بالرسائل، ولا يملك كتالوجاً رقمياً.",
+ "sells": "أحذية نسائية وجزادين",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "سوفت",
+  "followers": "415 ألف",
+  "bio": "احذيه نسائيه وجزادين خيارات بلا حدود كل يوم عنا موديلات جديده وفخامة التشكيل عنا فروعنا طلياني شارع الحمرا وشارع الصالحيه",
+  "address": "دمشق الطلياني مقابل مدرسة الأوائل؛ فرع آخر شارع الحمرا؛ فرع منتصف الصالحية",
+  "phones": [
+   "+963994835666"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/softshoes_insyria",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0207/logo.jpg",
+ "cover": "assets/SYX-0207/cover.jpg",
+ "items": [
+  {
+   "name": "حذاء كعب مدبب جلد كروكو بني",
+   "description": "4 ألوان خريفية - فرع الطلياني",
+   "category": "أحذية كعب",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0207/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حذاء رياضي سليب أون بإكسسوار معدني",
+   "description": "مقاسات 37-40",
+   "category": "أحذية مريحة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0207/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حذاء كعب عريض بمطاط",
+   "description": "فرع منتصف الصالحية",
+   "category": "أحذية كعب",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0207/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "موكاسان بإبزيم ذهبي - بني",
+   "description": "نعل مستورد وقالب مريح، مقاسات 36-41",
+   "category": "موكاسان",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0207/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "موكاسان بإبزيم ذهبي - أسود",
+   "description": "مقاسات 36-41",
+   "category": "موكاسان",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0207/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "موكاسان مطبع مع جزدان مطابق",
+   "description": "مقاسات 37-41 - فرع الطلياني",
+   "category": "أطقم حذاء وجزدان",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0207/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "سليبر روك جلد طبيعي",
+   "description": "متوفر بفرع منتصف الصالحية",
+   "category": "سليبرات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0207/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حذاء مريح عملي برباط مطاطي",
+   "description": "مقاسات 38-41 - فرع آخر شارع الحمرا",
+   "category": "أحذية مريحة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0207/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T12:00:00Z"
+}

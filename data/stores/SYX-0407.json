@@ -1,0 +1,105 @@
+{
+ "id": "SYX-0407",
+ "verdict": "qualified",
+ "reason": "محل حلويات ومخبز في العزيزية بحلب، نشط حديثاً (منشور قبل أيام بسعر بالليرة الجديدة)، يعرض أصنافه بالصور دون منيو رقمي.",
+ "sells": "بيتيفور وكروسان وكاتو وقوالب وحلويات غربية",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "حلويات رياض",
+  "followers": "13 ألف",
+  "bio": "بتي فور، كروسان و مختلف أنواع الكاتو عندنا في شارع سينما الزهراء، العزيزية",
+  "address": "شارع سينما الزهراء، العزيزية، حلب، سوريا",
+  "phones": [
+   "+963 21 460 5688"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0407/logo.jpg",
+ "cover": "assets/SYX-0407/cover.jpg",
+ "items": [
+  {
+   "name": "دونات جوز الهند المغطسة بالشوكولا",
+   "description": "",
+   "category": "حلويات",
+   "price": 50,
+   "currency": "SYP",
+   "price_text": "٥٠ ليرة جديدة",
+   "image": "assets/SYX-0407/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "ميني كيك وموالح وبيتيفور",
+   "description": "",
+   "category": "بيتيفور",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0407/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "قالب تارت فريز",
+   "description": "",
+   "category": "قوالب",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0407/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بيتيفور شوكولا باللوز",
+   "description": "",
+   "category": "بيتيفور",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0407/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "قالب قلب Love",
+   "description": "",
+   "category": "قوالب",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0407/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كريم بروليه",
+   "description": "",
+   "category": "حلويات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0407/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "ميلفيه كلاسيك",
+   "description": "",
+   "category": "حلويات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0407/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "قالب عيد ميلاد",
+   "description": "",
+   "category": "قوالب",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0407/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-14T22:31:35.245772+00:00"
+}

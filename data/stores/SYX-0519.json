@@ -1,0 +1,107 @@
+{
+ "id": "SYX-0519",
+ "verdict": "qualified",
+ "reason": "محل فساتين خطبة وزفاف وسهرة في حلب سيف الدولة ينشر الموديلات مع الأسعار باستمرار في 2026 ولا يملك كتالوجاً رقمياً.",
+ "sells": "فساتين خطبة وزفاف وسهرة (جديد وملبوس للبيع)",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "SHAMH",
+  "followers": "79 ألف",
+  "bio": "متجر ملابس",
+  "address": "حلب، سيف الدولة أمام البريد مباشرة؛ فرع بدلات الخطوبة: سيف الدولة نزلة سنتر الفهد تاني مفرق عاليسار",
+  "phones": [
+   "+963937528408",
+   "0933374951",
+   "0940564016"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0519/logo.jpg",
+ "cover": "assets/SYX-0519/cover.jpg",
+ "items": [
+  {
+   "name": "فستان خطبة أخضر مطرز (ملبوس)",
+   "description": "",
+   "category": "فساتين خطبة",
+   "price": 800000,
+   "currency": "SYP",
+   "price_text": "فساتين خطبة ملبوسة للبيع بس ٨٠٠ الف",
+   "image": "assets/SYX-0519/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان خطبة ذهبي منفوش (ملبوس)",
+   "description": "",
+   "category": "فساتين خطبة",
+   "price": 800000,
+   "currency": "SYP",
+   "price_text": "فساتين خطبة ملبوسة للبيع بس ٨٠٠ الف",
+   "image": "assets/SYX-0519/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان خطبة تركوازي لامع",
+   "description": "",
+   "category": "فساتين خطبة",
+   "price": 800000,
+   "currency": "SYP",
+   "price_text": "للبيع بس ٨٠٠الف",
+   "image": "assets/SYX-0519/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان سهرة أزرق فاتح مطرز (ملبوس)",
+   "description": "",
+   "category": "فساتين سهرة",
+   "price": 300000,
+   "currency": "SYP",
+   "price_text": "بيع ٣٠٠ الف",
+   "image": "assets/SYX-0519/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان سهرة ستان أزرق رمادي (ملبوس)",
+   "description": "",
+   "category": "فساتين سهرة",
+   "price": 300000,
+   "currency": "SYP",
+   "price_text": "بيع ٣٠٠ الف",
+   "image": "assets/SYX-0519/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان سهرة ستان زهري (ملبوس)",
+   "description": "",
+   "category": "فساتين سهرة",
+   "price": 300000,
+   "currency": "SYP",
+   "price_text": "بيع ٣٠٠ الف",
+   "image": "assets/SYX-0519/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان سهرة ليلكي (ملبوس)",
+   "description": "",
+   "category": "فساتين سهرة",
+   "price": 300000,
+   "currency": "SYP",
+   "price_text": "بيع ٣٠٠ الف",
+   "image": "assets/SYX-0519/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان الأحلام - زفاف أبيض",
+   "description": "",
+   "category": "فساتين زفاف",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0519/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T12:00:00Z"
+}

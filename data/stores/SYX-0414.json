@@ -1,0 +1,86 @@
+{
+ "id": "SYX-0414",
+ "verdict": "qualified",
+ "reason": "مطعم وجبات سريعة وشاورما وبروستد في حلب الجديدة شمالي، نشط قبل أسابيع، يعرض أصنافه بالصور دون منيو رقمي على الصفحة.",
+ "sells": "شاورما وبروستد وبرغر ووجبات سريعة",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "البيت السعيد",
+  "followers": "23 ألف",
+  "bio": "مطعم البيت السعيد - فرع حلب الجديدة شمالي ... يرحب بكم",
+  "address": "حلب الجديدة شمالي - السوق المحلي - رباعي 2019، حلب، سوريا",
+  "phones": [
+   "+963 21 523 6666",
+   "0943711166"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-09"
+ },
+ "logo": "assets/SYX-0414/logo.jpg",
+ "cover": "assets/SYX-0414/cover.jpg",
+ "items": [
+  {
+   "name": "تورتيلا",
+   "description": "",
+   "category": "سندويش",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0414/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "صندويش شاورما بدبس الرمان",
+   "description": "",
+   "category": "شاورما",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0414/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بروستد مع بطاطا",
+   "description": "",
+   "category": "بروستد",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0414/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "وجبة بروستد",
+   "description": "",
+   "category": "بروستد",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0414/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "برغر",
+   "description": "",
+   "category": "سندويش",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0414/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "شاورما بالصحن مع بطاطا",
+   "description": "",
+   "category": "شاورما",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0414/item06.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-14T22:41:04.402588+00:00"
+}

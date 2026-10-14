@@ -1,0 +1,95 @@
+{
+ "id": "SYX-0201",
+ "verdict": "qualified",
+ "reason": "محل ألبسة أطفال ومحير محجبات في ساحة عرنوس بدمشق، ينشر موديلات جديدة باستمرار (آخر منشور قبل يومين) ولا يملك متجراً أو كتالوجاً رقمياً.",
+ "sells": "ألبسة أطفال ومحير محجبات (فساتين، تنانير، جينز، جاكيتات)",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "ألبسة عطايا للأطفال",
+  "followers": "64 ألف",
+  "bio": "ألبسة أطفال ومحير محجبات",
+  "address": "دمشق ساحة عرنوس، أمام مدخل مرآب عرنوس",
+  "phones": [
+   "+963968893579"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/atayawear2",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0201/logo.jpg",
+ "cover": "assets/SYX-0201/cover.jpg",
+ "items": [
+  {
+   "name": "فستان جينز للسن المحير مع حزام",
+   "description": "قياسات 12-18",
+   "category": "فساتين بنات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0201/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان جينز بأزرار للمحجبات",
+   "description": "",
+   "category": "فساتين بنات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0201/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان بيج مطرز مع حزام أبيض",
+   "description": "قياسات 12-14-16-18",
+   "category": "فساتين بنات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0201/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "جاكيت هودي كحلي ولادي",
+   "description": "قياسات 12-14-16",
+   "category": "ولادي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0201/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بنطال جينز أسود",
+   "description": "",
+   "category": "بناطيل",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0201/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم قميص أبيض وتنورة جينز",
+   "description": "قياسات 12-20",
+   "category": "أطقم بنات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0201/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم قميص أبيض وتنورة سوداء",
+   "description": "قياسات 12-20",
+   "category": "أطقم بنات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0201/item07.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T12:00:00Z"
+}

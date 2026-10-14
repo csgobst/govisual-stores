@@ -1,0 +1,106 @@
+{
+ "id": "SYX-0603",
+ "verdict": "qualified",
+ "reason": "محل حلويات وكاتو نشط في حي الوعر بحمص (منشور قبل ساعات) بصور منتجات واضحة ورقم واتساب ولا يوجد منيو رقمي.",
+ "sells": "كاتو وقوالب أعياد ميلاد وأعراس، حلويات عربية، بوظة، موالح",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "حلويات البركة في حمص الوعر",
+  "followers": "27 ألف",
+  "bio": "محل حلويات-كاتو-بوظة-موالح-كولا-بتفورات، زينة أعياد الميلاد وأعراس ومناسبات",
+  "address": "الوعر مدينة المعارض الباب الرئيسي، حمص",
+  "phones": [
+   "+963988993532",
+   "2522224"
+  ],
+  "whatsapp": "+963988993532",
+  "instagram": "https://www.instagram.com/albarkasweet",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0603/logo.jpg",
+ "cover": "assets/SYX-0603/cover.jpg",
+ "items": [
+  {
+   "name": "قالب كاتو أعراس طبقات",
+   "description": "قالب أبيض متعدد الطبقات للأعراس",
+   "category": "كاتو",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0603/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "قالب عيد ميلاد بالفراشات",
+   "description": "",
+   "category": "كاتو",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0603/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "قطع كاتو مشكلة",
+   "description": "",
+   "category": "كاتو",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0603/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "قالب كاتو مع صورة مطبوعة",
+   "description": "",
+   "category": "كاتو",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0603/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "قوالب كاتو شوكولا",
+   "description": "",
+   "category": "كاتو",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0603/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "صواني حلويات عربية مشكلة",
+   "description": "",
+   "category": "حلويات عربية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0603/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بقلاوة",
+   "description": "",
+   "category": "حلويات عربية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0603/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حلويات بالكاجو والمكسرات",
+   "description": "",
+   "category": "حلويات عربية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0603/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

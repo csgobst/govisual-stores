@@ -1,0 +1,85 @@
+{
+ "id": "SYX-0424",
+ "verdict": "qualified",
+ "reason": "مطعم فلافل وسندويش في شارع بارون بحلب، نشط حديثاً (منشورات قبل أيام)، يعرض أصنافه بالصور دون منيو رقمي.",
+ "sells": "فلافل وسندويش عربي وبطاطا",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "مطعم فلافل الفيحاء الشهيرة من عام ١٩٥٠ علامة مسجلة",
+  "followers": "5 آلاف",
+  "bio": "مطعم فلافل الفيحاء من عام ١٩٥٠ سورية حلب علامة مسجلة شارع بارون",
+  "address": "حلب، شارع بارون، سوريا",
+  "phones": [
+   "+963 944 245 766"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0424/logo.jpg",
+ "cover": "assets/SYX-0424/cover.jpg",
+ "items": [
+  {
+   "name": "صندويش فلافل",
+   "description": "",
+   "category": "سندويش",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0424/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "أقراص فلافل",
+   "description": "",
+   "category": "فلافل",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0424/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "عربي اكسترا ديلوكس",
+   "description": "",
+   "category": "سندويش",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0424/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "صندويش فلافل بالخضار",
+   "description": "",
+   "category": "سندويش",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0424/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بطاطا مقلية",
+   "description": "",
+   "category": "مقبلات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0424/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "صحن فلافل",
+   "description": "",
+   "category": "فلافل",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0424/item06.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-14T22:43:11.241002+00:00"
+}

@@ -1,0 +1,86 @@
+{
+ "id": "SYX-0802",
+ "verdict": "qualified",
+ "reason": "مطعم وجبات سريعة في سوق السويداء نشط يومياً في تشرين الأول 2026 ويطلب التواصل عبر واتساب للحصول على قائمة الأسعار، فلا منيو رقمي.",
+ "sells": "شاورما وسندويشات ووجبات سريعة وحلويات ومشروبات",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "House Food - هاوس فود",
+  "followers": "85254",
+  "bio": "📍 السويداء - السوق - مقابل برج الياقوت 📞 0959782409 (واتساب) / 211266 🛵 توصيل لجميع المناطق في السويداء 📩 لقائمة الأسعار تواصل معنا على الواتساب",
+  "address": "السويداء - السوق - قبل ساحة الفرسان - مقابل برج الياقوت",
+  "phones": [
+   "0959782409",
+   "211266"
+  ],
+  "whatsapp": "0959782409",
+  "instagram": "https://www.instagram.com/housefood_official",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0802/logo.jpg",
+ "cover": "assets/SYX-0802/cover.jpg",
+ "items": [
+  {
+   "name": "شاورما الدجاج وكرسبي",
+   "description": "",
+   "category": "سندويشات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0802/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "سندويشة بالجبنة والفطر مع بطاطا",
+   "description": "",
+   "category": "سندويشات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0802/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "وجبة شاورما مع بطاطا",
+   "description": "",
+   "category": "وجبات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0802/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "قطعة كيك بالأوريو",
+   "description": "",
+   "category": "حلويات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0802/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "قطعة كيك بالفريز",
+   "description": "",
+   "category": "حلويات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0802/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "ميلك شيك بالشوكولا والأوريو",
+   "description": "",
+   "category": "مشروبات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0802/item06.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

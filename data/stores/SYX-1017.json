@@ -1,0 +1,87 @@
+{
+ "id": "SYX-1017",
+ "verdict": "qualified",
+ "reason": "سوبرماركت وفرن في السويداء ينشر منتجاته على فيسبوك خلال 2026 ولا يملك منيو أو متجراً رقمياً",
+ "sells": "مواد غذائية وحلويات ومأكولات بيتية جاهزة ومناقيش وبيتزا",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "سوبر ماركت وأفران مجدل شمس",
+  "followers": "4.6 ألف",
+  "bio": "السويداء - الشارع المحوري - دوار الجرة. سوبر ماركت مجدل شمس: 016241623، قسم المناقيش والبيتزا: 016213082",
+  "address": "السويداء - الشارع المحوري - دوار الجرة",
+  "phones": [
+   "016241623",
+   "016213082",
+   "0995005062"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-07"
+ },
+ "logo": "assets/SYX-1017/logo.jpg",
+ "cover": "assets/SYX-1017/cover.jpg",
+ "items": [
+  {
+   "name": "بسكويت Bifa 2000 Maxi",
+   "description": "",
+   "category": "بسكويت",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-1017/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كبة (مطبخ نشوان الشاعر)",
+   "description": "أصناف مطبخ نشوان الشاعر متوفرة بالسوبرماركت",
+   "category": "مأكولات بيتية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-1017/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "ورق عنب (مطبخ نشوان الشاعر)",
+   "description": "",
+   "category": "مأكولات بيتية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-1017/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "شيش برك (مطبخ نشوان الشاعر)",
+   "description": "",
+   "category": "مأكولات بيتية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-1017/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حلويات جافة / مرشم",
+   "description": "",
+   "category": "حلويات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-1017/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "شوكولا دبي بالنكهات الجديدة",
+   "description": "بستاشيو، مانجو، بقلاوة، غزل البنات، مكسرات، كراميل",
+   "category": "حلويات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-1017/item06.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

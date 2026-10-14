@@ -1,0 +1,105 @@
+{
+ "id": "SYX-0402",
+ "verdict": "qualified",
+ "reason": "مطعم مأكولات حلبية بيتية في الإسماعيلية، ينشر قائمة وجبات يومية بالأسعار (آخرها 13/10/2026) كصور دون منيو رقمي.",
+ "sells": "مأكولات حلبية بيتية (كبب، محاشي، طبخات يومية)",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "مطعم مأكولات البيت الحلبي _",
+  "followers": "11 ألف",
+  "bio": "مطعم عريق تم افتتاحه من اكثر من ٣٠سنه يقدم اطيب المأكولات الحلبيه الاصيله",
+  "address": "حلب - الإسماعيلية - خلف مدرسة المأمون (خلف الامتحانات)",
+  "phones": [
+   "+963 956 302 270"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/albait__elhalabi",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0402/logo.jpg",
+ "cover": "assets/SYX-0402/cover.jpg",
+ "items": [
+  {
+   "name": "كارنيارك ورز",
+   "description": "",
+   "category": "وجبات يومية",
+   "price": 750,
+   "currency": "SYP",
+   "price_text": "٧٥٠",
+   "image": "assets/SYX-0402/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "لازانيا",
+   "description": "",
+   "category": "وجبات يومية",
+   "price": 900,
+   "currency": "SYP",
+   "price_text": "٩٠٠",
+   "image": "assets/SYX-0402/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "محشي مشكل",
+   "description": "",
+   "category": "وجبات يومية",
+   "price": 750,
+   "currency": "SYP",
+   "price_text": "٧٥٠",
+   "image": "assets/SYX-0402/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "يبرق مع شرحات",
+   "description": "",
+   "category": "وجبات يومية",
+   "price": 1000,
+   "currency": "SYP",
+   "price_text": "١٠٠٠",
+   "image": "assets/SYX-0402/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مندي مع مكسرات",
+   "description": "",
+   "category": "وجبات يومية",
+   "price": 750,
+   "currency": "SYP",
+   "price_text": "٧٥٠",
+   "image": "assets/SYX-0402/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كبة سفرجلية",
+   "description": "",
+   "category": "كبب",
+   "price": 900,
+   "currency": "SYP",
+   "price_text": "٩٠٠",
+   "image": "assets/SYX-0402/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كبة صينية",
+   "description": "",
+   "category": "كبب",
+   "price": 1500,
+   "currency": "SYP",
+   "price_text": "١٥٠٠",
+   "image": "assets/SYX-0402/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "لحمة بكرز",
+   "description": "",
+   "category": "وجبات يومية",
+   "price": 1750,
+   "currency": "SYP",
+   "price_text": "١٧٥٠",
+   "image": "assets/SYX-0402/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-14T22:21:58.696190+00:00"
+}

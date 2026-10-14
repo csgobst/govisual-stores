@@ -1,0 +1,86 @@
+{
+ "id": "SYX-1025",
+ "verdict": "qualified",
+ "reason": "مركز موبايلات واتصالات في يبرود ينشر أجهزته وعروضه على فيسبوك حتى أكتوبر 2026 ولا يملك متجراً رقمياً",
+ "sells": "أجهزة موبايل وخطوط وباقات وخدمات إنترنت",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "العالمية للاتصالات",
+  "followers": "17 ألف",
+  "bio": "الأولى في عالم الاتصالات والتكنولوجيا ..",
+  "address": "يبرود",
+  "phones": [
+   "0117825125",
+   "0943333832"
+  ],
+  "whatsapp": "0943333832",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-1025/logo.jpg",
+ "cover": "assets/SYX-1025/cover.jpg",
+ "items": [
+  {
+   "name": "REDMI Note 17 4G",
+   "description": "8GB RAM / 256GB، بطارية 7700mAh، شاشة 6.99 AMOLED",
+   "category": "موبايلات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-1025/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "HONOR Play 20C",
+   "description": "شاشتين، بطارية 6000mAh، شاشة 6.9",
+   "category": "موبايلات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-1025/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "OPPO A3x",
+   "description": "",
+   "category": "موبايلات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-1025/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "خط سيريتل جديد مع باقة",
+   "description": "11.5 غيغا + 800 دقيقة + 800 رسالة لمدة 3 أشهر",
+   "category": "خطوط وباقات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-1025/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "تفعيل eSIM سيريتل",
+   "description": "استبدال الخط بشريحة إلكترونية",
+   "category": "خطوط وباقات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-1025/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "اشتراك إنترنت لاسلكي",
+   "description": "تركيب فوري",
+   "category": "إنترنت",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-1025/item06.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

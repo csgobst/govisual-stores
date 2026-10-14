@@ -1,0 +1,95 @@
+{
+ "id": "SYX-0319",
+ "verdict": "qualified",
+ "reason": "محل مكياج وعطور في الميدان بدمشق ينشر منتجاته يومياً على فيسبوك ويستقبل الحجوزات بالهاتف دون متجر إلكتروني.",
+ "sells": "مكياج وعطور ورموش وأدوات تجميل وعناية بالشعر",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "مكياجات فانديلا vandella",
+  "followers": "180 ألف",
+  "bio": "مكياجات_عطورات_عدسات لاصقة_لوازم حلاقين و كوافيرات",
+  "address": "دمشق، الميدان، دخلة قسم الشرطة بجانب صالة النور",
+  "phones": [
+   "0951219127"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0319/logo.jpg",
+ "cover": "assets/SYX-0319/cover.jpg",
+ "items": [
+  {
+   "name": "طقم إسفنجات مكياج Chocolate",
+   "description": "",
+   "category": "أدوات مكياج",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYX-0319/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بوكس إسفنجات وأدوات تجميل Beauty Tools",
+   "description": "",
+   "category": "أدوات مكياج",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYX-0319/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم رموش Snow Shirley مع أدوات التركيب",
+   "description": "",
+   "category": "رموش",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYX-0319/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم رموش SHEGLAM",
+   "description": "",
+   "category": "رموش",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYX-0319/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مجموعة Cosmaline Soft Wave للشعر",
+   "description": "",
+   "category": "عناية بالشعر",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYX-0319/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "عطر Sexy Sexy مع عطر الشنتة",
+   "description": "",
+   "category": "عطور",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYX-0319/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مكواة تجعيد الشعر SHEGLAM HAIR",
+   "description": "",
+   "category": "أجهزة شعر",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYX-0319/item07.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-14T22:44:03.725078+00:00"
+}

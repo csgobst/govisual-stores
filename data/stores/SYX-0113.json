@@ -1,0 +1,99 @@
+{
+ "id": "SYX-0113",
+ "verdict": "qualified",
+ "reason": "مطعم مشاوي وشاورما ومعجنات في القصاع - باب توما بدمشق، منشورات مايو ويونيو 2026، يعرض أطباقه بالصور دون منيو رقمي.",
+ "sells": "مشاوي، شاورما لحم ودجاج، معجنات وكبب ومقبلات",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "مطعم البرج",
+  "followers": "10 ألف",
+  "bio": "مطعم البرج Al-Burj Shawarma - أفخر أنواع اللحومات المشوية، شاورما لحم غنم ودجاج (عربي وبالكيلو) والمعجنات والكبب والمقبلات",
+  "address": "دمشق - القصاع - باب توما",
+  "phones": [
+   "+963115441134",
+   "0115421704",
+   "0945441134",
+   "0995441134",
+   "9976"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-06"
+ },
+ "logo": "assets/SYX-0113/logo.jpg",
+ "cover": "assets/SYX-0113/cover.jpg",
+ "items": [
+  {
+   "name": "لحم بعجين",
+   "description": "",
+   "category": "معجنات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0113/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "عرايس لحمة",
+   "description": "",
+   "category": "معجنات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0113/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فروج مشوي مع بطاطا",
+   "description": "",
+   "category": "مشاوي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0113/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كباب",
+   "description": "",
+   "category": "مشاوي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0113/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "شيش طاووق",
+   "description": "",
+   "category": "مشاوي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0113/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "صحن مشاوي مشكلة",
+   "description": "",
+   "category": "مشاوي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0113/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "سفرة مشاوي ومعجنات",
+   "description": "",
+   "category": "عروض",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0113/item07.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

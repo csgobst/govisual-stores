@@ -1,0 +1,105 @@
+{
+ "id": "SYX-0313",
+ "verdict": "qualified",
+ "reason": "ورشة هدايا خشب وبليكسي في البرامكة بدمشق تنشر منتجاتها باستمرار على فيسبوك وتستقبل الطلبات بالهاتف دون متجر إلكتروني.",
+ "sells": "هدايا وإكسسوارات مخصصة من الخشب والبليكسي والمعدن",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "المحترف - هدايا في دمشق",
+  "followers": "3.3 ألف",
+  "bio": "ورشة متخصصة في صناعة الاكسسوارات والهدايا الخشبية والاكريليك (البليكسي) مقر عملنا مدينة دمشق - البرامكة",
+  "address": "دمشق، البرامكة",
+  "phones": [
+   "0934312369"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/professional.acc.gifts",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0313/logo.jpg",
+ "cover": "assets/SYX-0313/cover.jpg",
+ "items": [
+  {
+   "name": "تعليقة سيارة نحاس مطلي ذهب 24",
+   "description": "",
+   "category": "إكسسوارات",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYX-0313/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بروش معدن مطلي ذهب 24 بالاسم",
+   "description": "",
+   "category": "إكسسوارات",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYX-0313/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فناجين مطبوعة بالصورة أو الاسم",
+   "description": "",
+   "category": "أكواب",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYX-0313/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "ستاند بروشور بليكسي",
+   "description": "",
+   "category": "بليكسي",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYX-0313/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "ستاند مكتبي خشب وبليكسي 40×20",
+   "description": "",
+   "category": "ستاندات",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYX-0313/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "علبة خشبية محفورة بالاسم للتخرج",
+   "description": "",
+   "category": "هدايا تخرج",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYX-0313/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "ستاند تخرج بليكسي بالاسم",
+   "description": "",
+   "category": "هدايا تخرج",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYX-0313/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "أكواب مطبوعة أحلى دكتور/مهندسة",
+   "description": "",
+   "category": "أكواب",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYX-0313/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-14T22:36:58.175394+00:00"
+}

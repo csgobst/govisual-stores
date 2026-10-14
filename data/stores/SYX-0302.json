@@ -1,0 +1,75 @@
+{
+ "id": "SYX-0302",
+ "verdict": "qualified",
+ "reason": "متجر هدايا في العصرونية بدمشق يبيع جملة ومفرق، ينشر منتجات جديدة باستمرار على فيسبوك دون متجر إلكتروني.",
+ "sells": "هدايا ومظلات وحافظات حرارية وألعاب",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "هدايا سمية",
+  "followers": "35 ألف",
+  "bio": "يوجد لدينا مبيع جملة ومفرق ❤️",
+  "address": "دمشق العصرونية",
+  "phones": [
+   "+963932125227"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0302/logo.jpg",
+ "cover": "assets/SYX-0302/cover.jpg",
+ "items": [
+  {
+   "name": "حافظة حرارية بآذان الأرنب",
+   "description": "",
+   "category": "حافظات",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYX-0302/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مظلة أطفال برسومات",
+   "description": "",
+   "category": "مظلات",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYX-0302/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مظلة سوداء قابلة للطي",
+   "description": "",
+   "category": "مظلات",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYX-0302/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "دمية أرنب الجزرة المضيئة",
+   "description": "",
+   "category": "ألعاب وهدايا",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYX-0302/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "علبة ورد مع عقد I Love You",
+   "description": "",
+   "category": "هدايا",
+   "price": null,
+   "currency": "",
+   "price_text": "",
+   "image": "assets/SYX-0302/item05.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-14T22:23:35.939850+00:00"
+}

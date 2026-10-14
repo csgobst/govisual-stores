@@ -1,0 +1,103 @@
+{
+ "id": "SYX-0212",
+ "verdict": "qualified",
+ "reason": "بوتيك فساتين سهرة وأعراس في دمشق (بيع وتأجير وتفصيل مع شحن) على إنستغرام بصور واضحة للموديلات، ولا يملك متجراً أو كتالوجاً رقمياً؛ تاريخ آخر منشور غير ظاهر.",
+ "sells": "فساتين سهرة وأعراس (بيع - تأجير - تفصيل)",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "Bianca Dresses",
+  "followers": "102 ألف",
+  "bio": "Syria - Damascus • Ready to Wear & Couture Dresses • For Rent and Sale • World Wide Shipping - بيع - تأجير - تفصيل",
+  "address": "دمشق",
+  "phones": [],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/biancadresses/",
+  "last_activity": "unknown"
+ },
+ "logo": "assets/SYX-0212/logo.jpg",
+ "cover": "",
+ "items": [
+  {
+   "name": "فستان سهرة خمري مطرز بفتحة جانبية",
+   "description": "",
+   "category": "فساتين سهرة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0212/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان سهرة بيج مطرز بلا أكتاف",
+   "description": "",
+   "category": "فساتين سهرة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0212/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان سهرة فضي بأكمام شيفون طويلة",
+   "description": "",
+   "category": "فساتين سهرة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0212/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان سهرة نود مطرز بذيل",
+   "description": "",
+   "category": "فساتين سهرة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0212/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان سهرة زهري لامع بكورسيه",
+   "description": "",
+   "category": "فساتين سهرة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0212/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فساتين سهرة زرقاء ملكية",
+   "description": "",
+   "category": "فساتين سهرة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0212/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان عرس دانتيل بأكمام طويلة",
+   "description": "",
+   "category": "فساتين أعراس",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0212/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان سهرة أحمر مطرز بذيل تول",
+   "description": "",
+   "category": "فساتين سهرة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0212/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T12:00:00Z"
+}

@@ -1,0 +1,105 @@
+{
+ "id": "SYX-0614",
+ "verdict": "qualified",
+ "reason": "بوتيك ألبسة نسائية في حمص نشط (أكتوبر 2026) بصور قطع واضحة وعروض حسم ورقم هاتف، ولا يوجد متجر رقمي.",
+ "sells": "ألبسة نسائية: جينزات، بناطيل، أطقم، تيشرتات وبولو، جمبسوت",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "Lanvin ..Fame Fashion Homs",
+  "followers": "96 ألف",
+  "bio": "سوريا/حمص شارع الحضارة ساحة بوظة رومينزا",
+  "address": "سوريا/ حمص/ شارع الحضارة-ساحة بوظة رومنيزا",
+  "phones": [
+   "+963992828545"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/lanvin_fashion",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0614/logo.jpg",
+ "cover": "assets/SYX-0614/cover.jpg",
+ "items": [
+  {
+   "name": "جمبسوت أزرق",
+   "description": "",
+   "category": "أطقم",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0614/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بنطال جينز واسع",
+   "description": "ضمن مجموعة الجينزات المشمولة بالحسم 50%",
+   "category": "جينز",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0614/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بنطال جينز فاتح",
+   "description": "",
+   "category": "جينز",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0614/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بنطال جينز ممزق",
+   "description": "",
+   "category": "جينز",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0614/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بنطال قماش بيج",
+   "description": "",
+   "category": "بناطيل",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0614/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "تيشرت بولو نسائي",
+   "description": "",
+   "category": "بلايز",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0614/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "تيشرت أبيض مطبوع",
+   "description": "Sale 25%",
+   "category": "بلايز",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0614/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم بنطال وبلوزة",
+   "description": "New Collection",
+   "category": "أطقم",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0614/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

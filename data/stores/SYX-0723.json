@@ -1,0 +1,86 @@
+{
+ "id": "SYX-0723",
+ "verdict": "qualified",
+ "reason": "مطعم ومجمع غذائي في جبلة نشط (منشورات قبل أيام) ينشر أسعار المشاوي في المنشورات دون منيو رقمي.",
+ "sells": "مشاوي فروج على الفحم، بروستد، شيش، كباب، شاورما، بيتزا ومعجنات، بوظة",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "مطعم جرافيتي",
+  "followers": "27 ألف",
+  "bio": "مجمع غذائي(بوظة أمية الشامية_سناكات شاورما_بيتزا ومعجنات)",
+  "address": "جبلة، سوريا",
+  "phones": [
+   "+963991393393",
+   "0998870644"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/graffiti_syria",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0723/logo.jpg",
+ "cover": "assets/SYX-0723/cover.jpg",
+ "items": [
+  {
+   "name": "فروج مشوي عالفحم",
+   "description": "",
+   "category": "مشاوي",
+   "price": 950,
+   "currency": "SYP",
+   "price_text": "٩٥٠",
+   "image": "assets/SYX-0723/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كيلو جوانح مشوية عالفحم مع كريم توم وبصل مشوي (عرض)",
+   "description": "",
+   "category": "مشاوي",
+   "price": 500,
+   "currency": "SYP",
+   "price_text": "٥٠٠ ليرة",
+   "image": "assets/SYX-0723/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فروج بروستد",
+   "description": "",
+   "category": "بروستد",
+   "price": 1000,
+   "currency": "SYP",
+   "price_text": "١٠٠٠",
+   "image": "",
+   "source_url": ""
+  },
+  {
+   "name": "كيلو شيش عالفحم",
+   "description": "",
+   "category": "مشاوي",
+   "price": 1000,
+   "currency": "SYP",
+   "price_text": "١٠٠٠",
+   "image": "",
+   "source_url": ""
+  },
+  {
+   "name": "كيلو جوانح",
+   "description": "",
+   "category": "مشاوي",
+   "price": 700,
+   "currency": "SYP",
+   "price_text": "٧٠٠",
+   "image": "",
+   "source_url": ""
+  },
+  {
+   "name": "كيلو كباب",
+   "description": "",
+   "category": "مشاوي",
+   "price": 850,
+   "currency": "SYP",
+   "price_text": "٨٥٠",
+   "image": "",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

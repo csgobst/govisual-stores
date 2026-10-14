@@ -1,0 +1,65 @@
+{
+ "id": "SYX-0420",
+ "verdict": "qualified",
+ "reason": "مطعم مشاوي في الخالدية بحلب، نشط في سبتمبر 2026، يعرض أطباقه وعروضه بالصور مع سعر دون منيو رقمي.",
+ "sells": "مشاوي حلبية وفروج على الفحم وصحون مقبلات",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "مشاوي السلطان",
+  "followers": "2.4 ألف",
+  "bio": "مطعم شواء",
+  "address": "الخالدية طلعة سلورة أول مفرق على اليمين، حلب، سوريا",
+  "phones": [
+   "+963 953 470 532"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-09"
+ },
+ "logo": "assets/SYX-0420/logo.jpg",
+ "cover": "assets/SYX-0420/cover.jpg",
+ "items": [
+  {
+   "name": "كيلو مشكل فروج",
+   "description": "يتضمن كباب، كبة، معجوقة، شيش مع حمص ومتبل وكريم توم وسلطة وبيواظ",
+   "category": "مشاوي",
+   "price": 12500,
+   "currency": "SYP",
+   "price_text": "١٢٥٠٠",
+   "image": "assets/SYX-0420/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "عرض الافتتاح: كيلو مشكل (كباب، خشخاش، جوانح، كبة)",
+   "description": "",
+   "category": "مشاوي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0420/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "صحن فرنسي",
+   "description": "",
+   "category": "صحون",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0420/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كباب على الفحم",
+   "description": "",
+   "category": "مشاوي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0420/item04.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-14T22:39:37.931467+00:00"
+}

@@ -1,0 +1,86 @@
+{
+ "id": "SYX-0908",
+ "verdict": "qualified",
+ "reason": "متجر هدايا وورد في دير الزور ينشر تنسيقاته باستمرار ويستقبل الطلبات عبر الواتساب دون منيو رقمي.",
+ "sells": "باقات ورد وهدايا وتنسيقات خطوبة",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "مستر كادو - MR.Cadeau",
+  "followers": "6.7 ألف",
+  "bio": "متجر متخصص في بيع وتنسيق الهدايا والورد",
+  "address": "دير الزور - حي القصور - حارة الارامل - باتجاه معهد الارقم",
+  "phones": [
+   "+963932200518",
+   "0951414261"
+  ],
+  "whatsapp": "0932200518",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0908/logo.jpg",
+ "cover": "assets/SYX-0908/cover.jpg",
+ "items": [
+  {
+   "name": "باقة ورد جوري مع نقود",
+   "description": "",
+   "category": "هدايا وورد",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0908/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "باقة ورد بتغليف أخضر مع نقود",
+   "description": "",
+   "category": "هدايا وورد",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0908/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "باقة ورد بتغليف وردي مع نقود",
+   "description": "",
+   "category": "هدايا وورد",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0908/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مجسم أسماء للخطوبة",
+   "description": "",
+   "category": "هدايا وورد",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0908/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "باقة ورد أحمر مع عبارة",
+   "description": "",
+   "category": "هدايا وورد",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0908/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "باقة ورد أحمر كبيرة",
+   "description": "",
+   "category": "هدايا وورد",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0908/item06.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T01:26:44"
+}

@@ -1,0 +1,105 @@
+{
+ "id": "SYX-0609",
+ "verdict": "qualified",
+ "reason": "محل حلويات وكيك وبوظة في حماة نشط في 2026 (كيكات نجاح مؤرخة 9/8/2026) ويستقبل الطلبات بالهاتف، ولا يوجد منيو رقمي.",
+ "sells": "كيكات مناسبات، حلويات شرقية وغربية، بوظة عربية، عصائر وكوكتيل، صحن فرنسي للمناسبات",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "حلويات قيطاز الشهيره",
+  "followers": "20 ألف",
+  "bio": "اطيب والذ الحلويات الشرقية والغربية والبوظة العربية",
+  "address": "مقابل دوار البولمان جانب جامع الروضة، حماة",
+  "phones": [
+   "+963933208085"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-08"
+ },
+ "logo": "assets/SYX-0609/logo.jpg",
+ "cover": "assets/SYX-0609/cover.jpg",
+ "items": [
+  {
+   "name": "كيكة نجاح بقبعة التخرج",
+   "description": "",
+   "category": "كيك",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0609/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كيكة نجاح مبروك النجاح",
+   "description": "",
+   "category": "كيك",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0609/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كيكة مزينة بالورود",
+   "description": "",
+   "category": "كيك",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0609/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كيكة مستطيلة بصورة",
+   "description": "",
+   "category": "كيك",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0609/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "صحن فرنسي للمناسبات",
+   "description": "الصحن على ذوق الزبون",
+   "category": "مناسبات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0609/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بوظة عربية",
+   "description": "",
+   "category": "بوظة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0609/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "علب بوظة كرات مشكلة",
+   "description": "",
+   "category": "بوظة",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0609/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حلويات عربية مشكلة",
+   "description": "",
+   "category": "حلويات شرقية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0609/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

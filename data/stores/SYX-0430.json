@@ -1,0 +1,105 @@
+{
+ "id": "SYX-0430",
+ "verdict": "qualified",
+ "reason": "مقهى في الموكامبو بحلب، نشط في 2026 (منشور المولد النبوي)، يعرض مشروباته وحلوياته بالصور دون منيو رقمي.",
+ "sells": "مشروبات باردة وميلك شيك وحلويات ووافل وبان كيك",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "Cafe & +",
+  "followers": "24 ألف",
+  "bio": "العنوان : حلب ، الموكامبو ، شارع العمران - للتواصل والحجز : 0957538554",
+  "address": "الموكامبو، مقابل سوق العمران، حلب، سوريا",
+  "phones": [
+   "0957538554"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-09"
+ },
+ "logo": "assets/SYX-0430/logo.jpg",
+ "cover": "assets/SYX-0430/cover.jpg",
+ "items": [
+  {
+   "name": "دبي بان كيك",
+   "description": "",
+   "category": "حلويات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0430/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "وافل شوكولا",
+   "description": "",
+   "category": "حلويات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0430/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مارشملو ميلك شيك",
+   "description": "",
+   "category": "ميلك شيك",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0430/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "ميلك شيك شوكولا",
+   "description": "",
+   "category": "ميلك شيك",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0430/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كوكتيل بطيخ",
+   "description": "",
+   "category": "عصائر",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0430/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كوكتيل بارد بالكريمة",
+   "description": "",
+   "category": "عصائر",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0430/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كيك مانغو",
+   "description": "",
+   "category": "حلويات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0430/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مشروب السعادة",
+   "description": "",
+   "category": "عصائر",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0430/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-14T22:43:48.374321+00:00"
+}

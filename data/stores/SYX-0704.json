@@ -1,0 +1,85 @@
+{
+ "id": "SYX-0704",
+ "verdict": "qualified",
+ "reason": "أفران وحلويات في طرطوس بصفحة نشطة (58 ألف متابع، منشورات أكتوبر 2026) تعرض منتجاتها بالصور دون منيو رقمي.",
+ "sells": "حلويات شرقية وغربية، كيك حسب الطلب، كروسان، بيتيفور وكعك",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "أفران العزام طرطوس",
+  "followers": "58 ألف",
+  "bio": "أفران العزام | Al-Azzam Bakeries - حلويات شرقية وغربية - بيتيفور-سمون-كعك-كروسان - قوالب كيك حسب الطلب",
+  "address": "طرطوس – دوار الشرطة العسكرية",
+  "phones": [
+   "+963966277900"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/al_azzam_bakeries",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0704/logo.jpg",
+ "cover": "assets/SYX-0704/cover.jpg",
+ "items": [
+  {
+   "name": "كروسان محشي بالشوكولا",
+   "description": "",
+   "category": "كروسان",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0704/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "قطعة كيك بالفستق",
+   "description": "",
+   "category": "كيك",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0704/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "قالب كيك بالشوكولا",
+   "description": "",
+   "category": "قوالب كيك",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0704/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "قالب كيك ملون حسب الطلب",
+   "description": "",
+   "category": "قوالب كيك",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0704/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كيك شوكولا مبشورة",
+   "description": "",
+   "category": "قوالب كيك",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0704/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كعك أصابع",
+   "description": "",
+   "category": "كعك",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0704/item06.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

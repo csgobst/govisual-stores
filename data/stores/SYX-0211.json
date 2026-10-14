@@ -1,0 +1,85 @@
+{
+ "id": "SYX-0211",
+ "verdict": "qualified",
+ "reason": "محل مجوهرات ذهب في شارع العابد بدمشق، ينشر قطعه يومياً (آخر منشور قبل 11 ساعة) ولا يملك كتالوجاً رقمياً.",
+ "sells": "مجوهرات ذهب: أساور، خواتم، إكسسوارات ذهبية",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "HAGOP Jewelery مجوهرات اكوب",
+  "followers": "46 ألف",
+  "bio": "مجوهرات أكوب - دمشق شارع العابد قبل مطعم الريان",
+  "address": "دمشق، شارع العابد قبل مطعم الريان",
+  "phones": [
+   "+963962323932"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/hagopjewelery",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0211/logo.jpg",
+ "cover": "assets/SYX-0211/cover.jpg",
+ "items": [
+  {
+   "name": "سوار ذهب حلزوني بحجر الملكيت الأخضر",
+   "description": "",
+   "category": "أساور",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0211/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "سوار ذهب حلزوني مزدوج",
+   "description": "",
+   "category": "أساور",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0211/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "إسوارة ذهب مرصعة بالأحجار",
+   "description": "",
+   "category": "أساور",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0211/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "تشكيلة خواتم ذهب",
+   "description": "",
+   "category": "خواتم",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0211/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "خاتم ذهب مقبب مرصع",
+   "description": "",
+   "category": "خواتم",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0211/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "خاتم ذهب بالمينا الحمراء",
+   "description": "",
+   "category": "خواتم",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0211/item06.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T12:00:00Z"
+}

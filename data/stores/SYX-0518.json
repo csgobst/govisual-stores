@@ -1,0 +1,106 @@
+{
+ "id": "SYX-0518",
+ "verdict": "qualified",
+ "reason": "سنتر ألبسة رجالي ونسائي وولادي في حلب سيف الدولة ينشر بضاعته يومياً في 2026 (جملة ومفرق وشحن) دون متجر أو كتالوج رقمي.",
+ "sells": "ألبسة جاهزة رجالي ونسائي وولادي وعبايات",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "سنتر الفهد سيف الدولة",
+  "followers": "463 ألف",
+  "bio": "صناعة و تجارة الألبسة الجاهزة رجالي - نسائي - ولادي جملة و مفرق والشحن إلى جميع المحافظات التواصل على الرقم (0992336921) للشحن فقط",
+  "address": "1- سيف الدولة زاوية إشارات البريد 2- حلب الجديدة جنوبي رئيسي مول أرينا",
+  "phones": [
+   "+963953705610",
+   "0992336921"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0518/logo.jpg",
+ "cover": "assets/SYX-0518/cover.jpg",
+ "items": [
+  {
+   "name": "جاكيت رجالي أسود",
+   "description": "",
+   "category": "رجالي",
+   "price": 250,
+   "currency": "SYP",
+   "price_text": "بسعر 250",
+   "image": "assets/SYX-0518/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كنزة بيج مطبوعة",
+   "description": "",
+   "category": "رجالي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0518/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "قميص نسائي طويل سماوي",
+   "description": "",
+   "category": "نسائي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0518/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "هودي أزرق مطبوع",
+   "description": "",
+   "category": "نسائي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0518/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "عباية سوداء بأزرار",
+   "description": "",
+   "category": "عبايات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0518/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "عباية سوداء موديل 912",
+   "description": "أكمام مطرزة",
+   "category": "عبايات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0518/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "عباية سوداء بتطريز ذهبي",
+   "description": "",
+   "category": "عبايات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0518/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "عباية بتطريز على الأكمام والصدر",
+   "description": "",
+   "category": "عبايات",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0518/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T12:00:00Z"
+}

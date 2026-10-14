@@ -1,0 +1,105 @@
+{
+ "id": "SYX-0503",
+ "verdict": "qualified",
+ "reason": "محل ألبسة نسائية في حلب الموكامبو ينشر موديلات وأسعاراً بشكل يومي في 2026 دون أي متجر أو منيو رقمي.",
+ "sells": "فساتين وألبسة نسائية تركية وإيطالية",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "Fame fashion aleppo",
+  "followers": "32 ألف",
+  "bio": "اتقل الماركات التركية والإيطالية حلب الموغامبو شارع الماركات 0968872004",
+  "address": "حلب، الموغامبو، شارع الماركات",
+  "phones": [
+   "+963968872004"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0503/logo.jpg",
+ "cover": "assets/SYX-0503/cover.jpg",
+ "items": [
+  {
+   "name": "فستان بنقشة النمر",
+   "description": "مجموعة موديلات تايغر",
+   "category": "فساتين",
+   "price": 20,
+   "currency": "USD",
+   "price_text": "بأسعار بتبلش من 20$",
+   "image": "assets/SYX-0503/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم صدرية وتنورة بليسيه أسود",
+   "description": "آخر قطعة قياس 38/40",
+   "category": "أطقم",
+   "price": null,
+   "currency": "USD",
+   "price_text": "",
+   "image": "assets/SYX-0503/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان سهرة لامع بأكمام واسعة",
+   "description": "الذهبي قياس S والأسود قياس M",
+   "category": "فساتين سهرة",
+   "price": 25,
+   "currency": "USD",
+   "price_text": "بسعر 25$",
+   "image": "assets/SYX-0503/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان سهرة أسود طويل بفتحة",
+   "description": "",
+   "category": "فساتين سهرة",
+   "price": null,
+   "currency": "USD",
+   "price_text": "",
+   "image": "assets/SYX-0503/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بلوزة تول بكشكش",
+   "description": "بحسم 50%",
+   "category": "بلوزات",
+   "price": null,
+   "currency": "USD",
+   "price_text": "",
+   "image": "assets/SYX-0503/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان أحمر دانتيل بكتف واحد",
+   "description": "",
+   "category": "فساتين سهرة",
+   "price": null,
+   "currency": "USD",
+   "price_text": "",
+   "image": "assets/SYX-0503/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان سهرة سكري بكتف واحد",
+   "description": "",
+   "category": "فساتين سهرة",
+   "price": null,
+   "currency": "USD",
+   "price_text": "",
+   "image": "assets/SYX-0503/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "فستان أسود طويل دانتيل",
+   "description": "حسم 30% قياس 36 حتى 40",
+   "category": "فساتين سهرة",
+   "price": null,
+   "currency": "USD",
+   "price_text": "",
+   "image": "assets/SYX-0503/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T12:00:00Z"
+}

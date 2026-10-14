@@ -30,7 +30,10 @@ function parseCSV(txt) {
 }
 const csv = parseCSV(fs.readFileSync(path.join(ROOT, 'syria_social_profiles_facebook_instagram_expanded.csv'), 'utf8').replace(/^﻿/, ''));
 const hd = csv[0];
-const store = csv.slice(1).map(r => Object.fromEntries(hd.map((h, i) => [h, r[i] || '']))).find(r => r.id === id);
+let store = csv.slice(1).map(r => Object.fromEntries(hd.map((h, i) => [h, r[i] || '']))).find(r => r.id === id);
+// new prospects not yet in the CSV live in data/candidates/<ID>.json
+const candFile = path.join(ROOT, 'data', 'candidates', id + '.json');
+if (!store && fs.existsSync(candFile)) store = JSON.parse(fs.readFileSync(candFile, 'utf8'));
 if (!store) { console.error('store not found: ' + id); process.exit(2); }
 
 const OUT = path.join(ROOT, 'tools', 'tmp', id);

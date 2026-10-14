@@ -1,0 +1,95 @@
+{
+ "id": "SYX-0612",
+ "verdict": "qualified",
+ "reason": "محل ألبسة أطفال وسبورات نسائية في حمص نشط (منشورات قبل ساعات) بصور موديلات ومقاسات ورقم جوال، ولا يوجد متجر رقمي.",
+ "sells": "ألبسة أطفال ولادي وبيبي، بيجامات وأطقم مخمل، سبورات نسائية، محير",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "فاضل فاشن",
+  "followers": "44 ألف",
+  "bio": "سبورات نسائي_والبسة اطفال_بجامة نسائي_ولادي",
+  "address": "حمص - باب السباع - الشارع الرئيسي جانب برج طافش",
+  "phones": [
+   "0944556355"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/1._.fadel",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0612/logo.jpg",
+ "cover": "assets/SYX-0612/cover.jpg",
+ "items": [
+  {
+   "name": "طقم رياضي شتوي ولادي GS",
+   "description": "المقاسات من 6 لـ 16",
+   "category": "ألبسة ولادي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0612/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم رياضي شتوي ولادي GS بني",
+   "description": "",
+   "category": "ألبسة ولادي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0612/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بيجامة مخمل 3 قطع صبياني",
+   "description": "كود 3066، مقاسات 6-8-10",
+   "category": "ألبسة ولادي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0612/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "بيجامة مخمل 3 قطع صبياني أصفر",
+   "description": "كود 3066",
+   "category": "ألبسة ولادي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0612/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم ولادي 3 قطع TX",
+   "description": "كود 3106، مقاسات 12-14-16",
+   "category": "ألبسة ولادي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0612/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم مخمل بيبي 5 قطع",
+   "description": "",
+   "category": "ألبسة بيبي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0612/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم بيبي باندا",
+   "description": "",
+   "category": "ألبسة بيبي",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0612/item07.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}

@@ -1,0 +1,75 @@
+{
+ "id": "SYX-0820",
+ "verdict": "qualified",
+ "reason": "محل حلويات شرقية وغربية وكيك في كورنيش السبيل بدرعا ينشر منتجاته في تشرين الأول 2026 ويطلب الطلب عبر الخاص، فلا منيو رقمي.",
+ "sells": "كيك مناسبات وحلويات شرقية وغربية",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "Aladnan sweets - حلويات العدنان",
+  "followers": "23008",
+  "bio": "حلويات العدنان - تشكيلة مميزة من الحلويات الشرقية والغربية، كيك طازج يُحضّر يومياً، نلبّي جميع المناسبات، اطلب الآن عبر الخاص",
+  "address": "درعا - كورنيش السبيل",
+  "phones": [
+   "+963 947 445 588"
+  ],
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/aladnansweets",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0820/logo.jpg",
+ "cover": "assets/SYX-0820/cover.jpg",
+ "items": [
+  {
+   "name": "كيكة باللؤلؤ والورد",
+   "description": "",
+   "category": "كيك",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0820/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كيكة عيد ميلاد",
+   "description": "",
+   "category": "كيك",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0820/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كيكة مناسبات",
+   "description": "",
+   "category": "كيك",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0820/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "كيكة الورد",
+   "description": "",
+   "category": "كيك",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0820/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "علبة بقلاوة",
+   "description": "",
+   "category": "حلويات شرقية",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0820/item05.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15"
+}

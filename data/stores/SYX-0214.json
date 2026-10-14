@@ -1,0 +1,105 @@
+{
+ "id": "SYX-0214",
+ "verdict": "qualified",
+ "reason": "محل بيع وشراء مصوغات ذهبية في دمشق برقم أرضي سوري، ينشر قطعه بانتظام (آخر منشور 24 أغسطس 2026) ولا يملك كتالوجاً رقمياً.",
+ "sells": "مصوغات ذهبية: أطقم، أساور، سلاسل، حلق، سبائك",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "مجوهرات الافراح",
+  "followers": "841",
+  "bio": "بيع وشراء مصوغات ذهبية",
+  "address": "دمشق",
+  "phones": [
+   "+963115441031"
+  ],
+  "whatsapp": "",
+  "instagram": "",
+  "last_activity": "2026-08"
+ },
+ "logo": "assets/SYX-0214/logo.jpg",
+ "cover": "assets/SYX-0214/cover.jpg",
+ "items": [
+  {
+   "name": "طقم ذهب عقد وإسوارة بزهرة البرسيم",
+   "description": "",
+   "category": "أطقم",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0214/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "أساور Dior ذهب",
+   "description": "",
+   "category": "أساور",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0214/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "مباريم ذهب محفورة",
+   "description": "",
+   "category": "أساور",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0214/item03.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "طقم ذهب بدلاية ليرة مستطيلة",
+   "description": "",
+   "category": "أطقم",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0214/item04.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "إسوارة جنزير ذهب مرصعة",
+   "description": "",
+   "category": "أساور",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0214/item05.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "سبائك ذهب صغيرة",
+   "description": "",
+   "category": "سبائك",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0214/item06.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "حلق ذهب طويل بفراشات",
+   "description": "",
+   "category": "حلق",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0214/item07.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "سلسال ذهب بفراشات",
+   "description": "",
+   "category": "سلاسل",
+   "price": null,
+   "currency": "SYP",
+   "price_text": "",
+   "image": "assets/SYX-0214/item08.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T12:00:00Z"
+}

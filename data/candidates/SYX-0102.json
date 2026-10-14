@@ -1,0 +1,22 @@
+{
+ "id": "SYX-0102",
+ "name": "مطبخ وحلويات الوسام",
+ "gov": "دمشق",
+ "city": "دمشق",
+ "cat": "حلويات ومخبوزات",
+ "platform": "Facebook",
+ "url": "https://www.facebook.com/alwissasweets/",
+ "instagram_url": "",
+ "menu_url": "",
+ "menu_state": "not_observed_public",
+ "country_check": "syrian_address_on_page",
+ "access_audit": "opened_headless_no_login",
+ "syria_evidence": "دمشق",
+ "proof_type": "صفحة المتجر نفسها",
+ "verified_platform": "فُتحت الصفحة دون تسجيل دخول",
+ "year": "2026",
+ "research_batch": "2026-10-15_expansion",
+ "origin": "agent_web_search",
+ "source": "websearch",
+ "source_extra": ""
+}

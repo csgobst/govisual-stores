@@ -1,0 +1,56 @@
+{
+ "id": "SYX-0611",
+ "verdict": "qualified",
+ "reason": "مطعم شاورما ومشاوي نشط في حمص ينشر عروضاً بالأسعار ويوفر توصيلاً لكل حمص، ولا يوجد منيو رقمي.",
+ "sells": "فروج مشوي، شاورما، سندويش زنجر، عروض وجبات سريعة",
+ "has_digital_menu": false,
+ "menu_link": "",
+ "page": {
+  "title": "مطعم شاورما الكرم",
+  "followers": "88 ألف",
+  "bio": "مطعم وجبات سريعة - حمص - شارع العشاق",
+  "address": "حمص ـ الحضارة - منتصف شارع العشاق بعد كافيه بوردو",
+  "phones": [
+   "0995777017",
+   "0997666016"
+  ],
+  "whatsapp": "0995777017",
+  "instagram": "",
+  "last_activity": "2026-10"
+ },
+ "logo": "assets/SYX-0611/logo.jpg",
+ "cover": "assets/SYX-0611/cover.jpg",
+ "items": [
+  {
+   "name": "فروج مشوي مع حباشاته وملحقاته",
+   "description": "عرض الفروج",
+   "category": "مشاوي",
+   "price": 790,
+   "currency": "SYP",
+   "price_text": "بس 790 ليرة",
+   "image": "assets/SYX-0611/item01.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "عرض التوينز",
+   "description": "شاورما وبطاطا",
+   "category": "عروض",
+   "price": 350,
+   "currency": "SYP",
+   "price_text": "بس 350 ليرة",
+   "image": "assets/SYX-0611/item02.jpg",
+   "source_url": ""
+  },
+  {
+   "name": "سندويشة زنجر صاج",
+   "description": "",
+   "category": "سندويش",
+   "price": 250,
+   "currency": "SYP",
+   "price_text": "بس 250 ليرة",
+   "image": "assets/SYX-0611/item03.jpg",
+   "source_url": ""
+  }
+ ],
+ "checkedAt": "2026-10-15T00:00:00Z"
+}
