@@ -2,7 +2,8 @@
 
 Static page (no server) for the GoVisual team to work through 184 Syrian businesses on Facebook and Instagram.
 
-- **index.html** — the team CRM. Open it, pick your name (Yazan, Mosab, Ahmad, Kosay or Yasin), then claim stores and move them through the pipeline.
+- **govisual-stores-full.html**: the same page as one self-contained file (~27 MB). Every logo, cover and product image is embedded, so it works anywhere with no other files: send it, open it offline.
+- **index.html** — the team CRM (loads images from `assets/`, faster for GitHub Pages). Open it, pick your name (Yazan, Mosab, Ahmad, Kosay or Yasin), then claim stores and move them through the pipeline.
 - **Pipeline:** Not started → Chosen → Contacting → Waiting for reply → Interested → Demo shown → Negotiation → Done ✓ (customer) / Rejected / Not suitable.
 - **Win %:** estimated automatically from the stage plus how well the store fits GoVisual (category, no digital catalog yet, account reachable, phone known). You can override it by hand.
 - **Dashboards:** "My dashboard" (follow-ups due, hottest leads, untouched claims, activity), "My pipeline" board, and "Team" leaderboard.

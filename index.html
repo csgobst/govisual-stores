@@ -291,11 +291,11 @@ input[type=range]{width:100%;accent-color:var(--teal)}
         <select id="fStage" aria-label="المرحلة"></select>
         <select id="fGov" aria-label="المحافظة"></select>
         <select id="fCat" aria-label="المجال"></select>
-        <select id="fSort" aria-label="الترتيب"><option value="pct">الأعلى احتمالاً</option><option value="name">الاسم</option><option value="updated">آخر تحديث</option><option value="gov">المحافظة</option></select>
+        <select id="fSort" aria-label="الترتيب"><option value="pct">الأعلى احتمالاً</option><option value="name">الاسم</option><option value="updated">آخر تحديث</option><option value="activity">الأحدث نشاطاً على الصفحة</option><option value="items">الأكثر منتجات</option><option value="gov">المحافظة</option></select>
         <button class="btn ghost" id="reset">↺ مسح</button>
       </div>
       <div id="cards" class="cards"></div>
-      <div id="tablewrap" class="tablewrap hide"><table><thead><tr><th>المتجر</th><th>المحافظة</th><th>المجال</th><th>المرحلة</th><th>الاحتمال</th><th>المسؤول</th><th>متابعة</th><th></th></tr></thead><tbody id="tbody"></tbody></table></div>
+      <div id="tablewrap" class="tablewrap hide"><table><thead><tr><th>المتجر</th><th>الفحص</th><th>المحافظة</th><th>المجال</th><th>منتجات</th><th>متابعون</th><th>آخر نشاط</th><th>الهاتف</th><th>المرحلة</th><th>الاحتمال</th><th>المسؤول</th><th>متابعة</th><th></th></tr></thead><tbody id="tbody"></tbody></table></div>
       <div class="pagination"><button id="prev">السابق</button><span id="pg"></span><button id="next">التالي</button></div>
     </section>
 
@@ -388,6 +388,8 @@ const ST=Object.fromEntries(STAGES.map(s=>[s.id,s]));
 const VERDICTS={qualified:'مؤهل ✓',maybe:'محتمل',not_qualified:'غير مؤهل',unreachable:'لا يعمل',unchecked:'لم يُفحص'};
 const verdict=x=>x.chk?.verdict||'unchecked';
 const items=x=>x.chk?.items||[];
+const actKey=x=>{const m=String(x.chk?.page?.last_activity||'').match(/(20\d\d)(?:-(\d\d))?/);return m?m[1]+'-'+(m[2]||'00'):'0000'};
+const pageInfo=x=>{const g=x.chk?.page||{};return [g.followers&&`<span class="chip">👥 ${esc(g.followers)}</span>`,g.last_activity&&`<span class="chip ${actKey(x)>='2026-04'?'':'warn'}">🕒 ${esc(g.last_activity)}</span>`,(g.phones||[])[0]&&`<a class="chip" href="tel:${esc(g.phones[0])}">📞 ${esc(g.phones[0])}</a>`].filter(Boolean).join('')};
 const fmtPrice=it=>it.price!=null&&it.price!==''?`${Number(it.price).toLocaleString('en-US')} ${({USD:'$',SYP:'ل.س',TRY:'ل.ت',EUR:'€'})[it.currency||'SYP']||it.currency}`:(it.price_text||'');
 const UMAP=Object.fromEntries(USERS.map(u=>[u.id,u]));
 const KEY='gv_stores_team_v1', UKEY='gv_stores_user';
@@ -527,7 +529,7 @@ function filtered(){
   let r=rows().filter(x=>(!f.q||norm([x.name,x.gov,x.city,x.cat,x.note].join(' ')).includes(norm(f.q)))
     &&(!f.owner||(f.owner==='free'?!x.owner:f.owner==='mine'?x.owner===me:x.owner===f.owner))
     &&(!f.verdict||verdict(x)===f.verdict)&&(!f.stage||x.stage===f.stage)&&(!f.gov||x.gov===f.gov)&&(!f.cat||x.cat===f.cat));
-  const by={pct:(a,b)=>b.pct-a.pct||(a.owner?1:0)-(b.owner?1:0),name:(a,b)=>a.name.localeCompare(b.name,'ar'),updated:(a,b)=>(b.updatedAt||0)-(a.updatedAt||0),gov:(a,b)=>a.gov.localeCompare(b.gov,'ar')};
+  const by={pct:(a,b)=>b.pct-a.pct||(a.owner?1:0)-(b.owner?1:0),name:(a,b)=>a.name.localeCompare(b.name,'ar'),updated:(a,b)=>(b.updatedAt||0)-(a.updatedAt||0),activity:(a,b)=>actKey(b).localeCompare(actKey(a)),items:(a,b)=>items(b).length-items(a).length,gov:(a,b)=>a.gov.localeCompare(b.gov,'ar')};
   // untouched stores rank by fit so the best targets surface first
   if(f.sort==='pct')return r.sort((a,b)=>(b.pct||fit(b,state[b.id]||{})/10)-(a.pct||fit(a,state[a.id]||{})/10));
   return r.sort(by[f.sort]);
@@ -542,12 +544,14 @@ function card(x){
   return `<article class="lead ${x.owner===me?'mine':''}"><div class="leadtop"><div class="pf ${x.chk?.logo?'has-img':''}">${logo(x)}</div><div class="leadhead"><b title="${esc(x.name)}">${esc(x.name)}</b><small>⌖ ${esc(x.gov)} · ${esc(x.city)}</small></div>${stChip(x.stage)}</div>
   <div class="chips">${vdChip(x)}<span class="chip ${x.platform==='Facebook'?'fb':'ig'}">${x.platform}</span><span class="chip">${esc(x.cat)}</span>${x.chk?.has_digital_menu||x.menu_url?'<span class="chip bad">لديه منيو رقمي</span>':'<span class="chip warn">بدون كتالوج رقمي</span>'}${items(x).length?`<span class="chip">${items(x).length} منتج</span>`:''}${x.access&&x.access!=='لم يُفحص'?`<span class="chip ${x.access==='الرابط لا يعمل'?'bad':''}">${esc(x.access)}</span>`:''}</div>
   ${its.length?`<div class="thumbs">${its.slice(0,4).map(i=>`<div><img src="${esc(i.image)}" alt="${esc(i.name)}" loading="lazy">${fmtPrice(i)?`<span>${esc(fmtPrice(i))}</span>`:''}</div>`).join('')}</div>`:''}
+  ${pageInfo(x)?`<div class="chips">${pageInfo(x)}</div>`:''}
   ${x.chk?.sells?`<p class="mini">🛍 ${esc(x.chk.sells)}</p>`:''}
+  ${x.chk?.reason?`<p class="mini" style="display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden">🔎 ${esc(x.chk.reason)}</p>`:''}
   <div>${x.stage==='new'?`<div class="mini">ملاءمة المتجر لـ GoVisual: <b style="color:${pctColor(ft)}">${ft}%</b></div>`:pctBar(x.pct)}</div>
   ${x.note?`<p class="mini" style="display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden">📝 ${esc(x.note)}</p>`:''}
   <div class="leadfoot">${ownerLine(x)}<div class="bar">${!x.owner?`<button class="smallbtn go" data-claim="${esc(x.id)}">＋ اختره</button>`:''}<a class="smallbtn" target="_blank" rel="noopener noreferrer" href="${esc(x.url)}">↗</a><button class="smallbtn" data-open="${esc(x.id)}">تفاصيل</button></div></div></article>`;
 }
-function tableRow(x){return `<tr><td><b>${esc(x.name)}</b></td><td>${esc(x.gov)}</td><td>${esc(x.cat)}</td><td>${stChip(x.stage)}</td><td style="width:110px">${x.stage==='new'?'—':pctBar(x.pct)}</td><td>${ownerLine(x)}</td><td>${esc(x.follow||'')}</td><td><button class="smallbtn" data-open="${esc(x.id)}">فتح</button></td></tr>`}
+function tableRow(x){const g=x.chk?.page||{};return `<tr><td><span class="owner"><span class="pf ${x.chk?.logo?'has-img':''}" style="width:26px;height:26px;font-size:12px;border-radius:8px">${logo(x)}</span><b>${esc(x.name)}</b></span></td><td>${vdChip(x)}</td><td>${esc(x.gov)}</td><td>${esc(x.cat)}</td><td>${items(x).length||'—'}</td><td>${esc(g.followers||'—')}</td><td>${esc(g.last_activity||'—')}</td><td>${esc((g.phones||[])[0]||'—')}</td><td>${stChip(x.stage)}</td><td style="width:110px">${x.stage==='new'?'—':pctBar(x.pct)}</td><td>${ownerLine(x)}</td><td>${esc(x.follow||'')}</td><td><button class="smallbtn" data-open="${esc(x.id)}">فتح</button></td></tr>`}
 function renderLeads(){
   const r=filtered(),tp=Math.max(1,Math.ceil(r.length/per));if(page>=tp)page=tp-1;
   const shown=r.slice(page*per,(page+1)*per);
@@ -597,7 +601,7 @@ function openLead(id){
       ${pg.bio?`<p class="mini" style="margin-top:4px">📝 ${esc(pg.bio)}</p>`:''}
       <div class="chips" style="margin-top:6px">${pg.followers?`<span class="chip">👥 ${esc(pg.followers)}</span>`:''}${(pg.phones||[]).map(p=>`<a class="chip" href="tel:${esc(p)}">📞 ${esc(p)}</a>`).join('')}${pg.whatsapp?`<a class="chip" target="_blank" rel="noopener noreferrer" href="${esc(/^https?:/.test(pg.whatsapp)?pg.whatsapp:'https://wa.me/'+pg.whatsapp.replace(/\D/g,''))}">واتساب</a>`:''}${pg.instagram?`<span class="chip ig">${esc(pg.instagram)}</span>`:''}${pg.address?`<span class="chip">⌖ ${esc(pg.address)}</span>`:''}${pg.last_activity?`<span class="chip">آخر نشاط ${esc(pg.last_activity)}</span>`:''}${c.menu_link?`<a class="chip bad" target="_blank" rel="noopener noreferrer" href="${esc(c.menu_link)}">منيو حالي ↗</a>`:''}</div>
     </div>
-    ${items(x).length?`<div class="box" style="margin-bottom:12px"><b>آخر المنتجات من الصفحة (${items(x).length})</b><div class="itemgrid">${items(x).map(i=>`<div class="item"><div class="im">${i.image?`<img src="${esc(i.image)}" alt="${esc(i.name)}" loading="lazy">`:''}</div><div class="tx"><b>${esc(i.name)}</b>${i.category?`<span class="mini">${esc(i.category)}</span>`:''}${fmtPrice(i)?`<span class="price">${esc(fmtPrice(i))}</span>`:'<span class="mini">السعر غير معلن</span>'}</div></div>`).join('')}</div></div>`:''}`;
+    ${items(x).length?`<div class="box" style="margin-bottom:12px"><b>آخر المنتجات من الصفحة (${items(x).length})</b><div class="itemgrid">${items(x).map(i=>`<div class="item"><div class="im">${i.image?`<img src="${esc(i.image)}" alt="${esc(i.name)}" loading="lazy">`:''}</div><div class="tx"><b>${esc(i.name)}</b>${i.description?`<span class="mini">${esc(i.description)}</span>`:''}${i.category?`<span class="mini">${esc(i.category)}</span>`:''}${fmtPrice(i)?`<span class="price">${esc(fmtPrice(i))}</span>`:'<span class="mini">السعر غير معلن</span>'}${i.price_text&&fmtPrice(i)!==i.price_text?`<span class="mini">«${esc(i.price_text)}»</span>`:''}${i.source_url?`<a class="mini" style="color:var(--blue)" target="_blank" rel="noopener noreferrer" href="${esc(i.source_url)}">المنشور ↗</a>`:''}</div></div>`).join('')}</div></div>`:''}`;
   if(c?.page?.phones?.length&&!draft.phone){draft.phone=c.page.phones[0]}
   $('durl').href=x.url;$('durl').textContent=x.url;
   $('dextra').innerHTML=[x.instagram_url&&`<a class="link" target="_blank" rel="noopener noreferrer" href="${esc(x.instagram_url)}">إنستغرام ↗</a>`,x.menu_url&&`<a class="link" target="_blank" rel="noopener noreferrer" href="${esc(x.menu_url)}">الكتالوج الحالي ↗</a>`,/^https:\/\//.test(x.source||'')&&`<a class="link" target="_blank" rel="noopener noreferrer" href="${esc(x.source)}">مصدر البيانات ↗</a>`].filter(Boolean).join(' · ');
