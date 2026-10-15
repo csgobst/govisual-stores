@@ -216,6 +216,9 @@ input[type=range]{width:100%;accent-color:var(--teal)}
   .filters select{max-width:none;flex:1 1 140px}
   .barrow{grid-template-columns:96px 1fr 30px}
 }
+.cloud{display:block;width:calc(100% - 24px);margin:10px 12px 0;padding:7px 10px;border-radius:9px;border:1px solid #2b4a57;background:#0f2a34;color:#9fe3c9;font:inherit;font-size:12px;text-align:start;cursor:pointer}
+.cloud[data-s=err],.cloud[data-s=off]{color:#ffc9a8;border-color:#6b3d2a;background:#2e1c15}
+.keyrow{display:block;margin:0 auto 18px;max-width:420px;font-size:12px;color:#9cb7c2;text-align:start}.keyrow input{display:block;width:100%;margin-top:6px;padding:10px 12px;border-radius:10px;border:1px solid #2b4a57;background:#0c222b;color:#fff;font:inherit}
 </style>
 </head>
 <body>
@@ -227,6 +230,7 @@ input[type=range]{width:100%;accent-color:var(--teal)}
     <div class="eyebrow" style="color:#46dbaf">GOVISUAL · STORES TEAM</div>
     <h1 id="pickTitle">مين أنت؟</h1>
     <p>اختر اسمك ليتم تسجيل كل تواصل وتقدّم باسمك. يمكنك التبديل لاحقاً من أسفل القائمة.</p>
+    <label class="keyrow">رمز الفريق (مرة واحدة فقط على هذا الجهاز)<input id="pickKey" type="password" autocomplete="off" placeholder="gv-…"></label>
     <div class="people" id="people"></div>
   </div>
 </div>
@@ -243,7 +247,8 @@ input[type=range]{width:100%;accent-color:var(--teal)}
       <button data-view="sync">⇅ &nbsp;مزامنة ونسخ</button>
     </nav>
     <div class="smallcap">ملاحظة</div>
-    <p class="quiet mini" style="color:#83a6b4;margin:0 12px">البيانات محفوظة في هذا المتصفح. استخدم «مزامنة ونسخ» لمشاركة تقدّمك مع الفريق.</p>
+    <p class="quiet mini" style="color:#83a6b4;margin:0 12px">كل تعديل يُحفظ تلقائياً على السحابة ويظهر لكل الفريق.</p>
+    <button id="cloudDot" class="cloud" data-view="sync"></button>
     <div class="me"><div id="meAv" class="av"></div><div class="who"><b id="meName"></b><button id="switchUser">تبديل المستخدم</button></div></div>
   </aside>
 
@@ -315,8 +320,11 @@ input[type=range]{width:100%;accent-color:var(--teal)}
 
     <!-- SYNC -->
     <section id="v-sync" class="hide">
-      <header class="top"><div><div class="eyebrow">SYNC & BACKUP</div><h1>مزامنة ونسخ احتياطي</h1><p class="muted">الصفحة ثابتة على GitHub بدون خادم، لذلك كل عضو يحفظ تقدّمه في متصفحه.</p></div></header>
-      <div class="banner warn"><b>كيف نشتغل كفريق؟</b> كل عضو يضغط «تصدير تقدّمي» ويرسل الملف بالمجموعة. الباقي يضغطون «استيراد» — يتم الدمج تلقائياً ويُحتفظ بالتحديث الأحدث لكل متجر، فلا يضيع شيء ولا يتكرر اختيار متجر.</div>
+      <header class="top"><div><div class="eyebrow">SYNC & BACKUP</div><h1>مزامنة ونسخ احتياطي</h1><p class="muted">كل اختيار وتعديل يُحفظ تلقائياً على السحابة (Cloudflare R2) ويصل لكل الفريق خلال ثوانٍ.</p></div></header>
+      <div class="panel"><h2>المزامنة السحابية</h2><p class="muted" id="cloudInfo" style="font-size:12px;margin:6px 0 14px"></p>
+        <div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center"><input id="syncKey" type="password" autocomplete="off" placeholder="رمز الفريق" style="flex:1;min-width:160px;padding:9px 12px;border-radius:10px;border:1px solid #d9d2c8;font:inherit"><button class="btn primary" id="saveKey">حفظ الرمز والمزامنة</button><button class="btn" id="syncBtn">⟳ مزامنة الآن</button></div>
+        <p class="muted mini" style="margin-top:10px">إذا انقطع الإنترنت تُحفظ التعديلات في المتصفح وتُرفع تلقائياً عند عودة الاتصال. عند تعديل نفس المتجر من شخصين يُحتفظ بالأحدث، والسجل يُدمج.</p></div>
+      <div class="banner warn"><b>نسخ احتياطي يدوي</b> ما زال بإمكانك تصدير واستيراد ملفات JSON. الاستيراد يُدمج ويُرفع للسحابة تلقائياً.</div>
       <div class="grid3">
         <div class="panel"><h2>تصدير تقدّمي</h2><p class="muted" style="margin:8px 0 14px;font-size:12px">ملف JSON فيه فقط المتاجر التي عدّلتها أنت.</p><button class="btn primary" id="expMine">↓ تصدير تقدّمي</button></div>
         <div class="panel"><h2>تصدير كل البيانات</h2><p class="muted" style="margin:8px 0 14px;font-size:12px">نسخة كاملة لكل الفريق من هذا المتصفح.</p><button class="btn" id="expAll">↓ تصدير الكل</button></div>
@@ -402,7 +410,63 @@ ALL.forEach(x=>x.cat=catNorm(x.cat));
 let state={};try{state=JSON.parse(localStorage.getItem(KEY))||{}}catch(e){}
 let me=null;try{me=localStorage.getItem(UKEY)}catch(e){}
 if(!UMAP[me])me=null;
-function persist(){try{localStorage.setItem(KEY,JSON.stringify(state))}catch(e){toast('تعذر الحفظ في المتصفح — صدّر نسخة احتياطية')}}
+function persist(){try{localStorage.setItem(KEY,JSON.stringify(state));localStorage.setItem(DKEY,JSON.stringify([...dirty]))}catch(e){toast('تعذر الحفظ في المتصفح — صدّر نسخة احتياطية')}}
+
+/* ---------- cloud sync (Cloudflare Worker + R2, shared by the whole team) ---------- */
+const API='https://govisual-stores-api.codex-image-api.workers.dev/state', TKEY='gv_stores_teamkey', DKEY='gv_stores_dirty';
+let teamKey='';try{teamKey=localStorage.getItem(TKEY)||''}catch(e){}
+let dirty=new Set();try{dirty=new Set(JSON.parse(localStorage.getItem(DKEY))||[])}catch(e){}
+let cloud={status:'off',at:0,err:''},pushT=null,busy=false;
+function mergeRec(cur,v){
+  if(!cur)return v;
+  const newer=(v.updatedAt||0)>(cur.updatedAt||0)?v:cur,seen=new Set();
+  const history=[...(v.history||[]),...(cur.history||[])].filter(h=>{const k=h.t+'|'+h.u+'|'+h.a;if(seen.has(k))return false;seen.add(k);return true}).sort((a,b)=>b.t-a.t).slice(0,40);
+  return {...newer,history};
+}
+function setCloud(status,err=''){cloud={status,err,at:status==='ok'?Date.now():cloud.at};paintCloud()}
+function paintCloud(){
+  const el=$('cloudDot');if(!el)return;
+  const t={ok:'☁ متزامن مع الفريق',saving:'☁ جارِ الحفظ…',off:'☁ غير متصل — أدخل رمز الفريق',err:'⚠ لم يتم الحفظ على السحابة'}[cloud.status];
+  el.textContent=t+(dirty.size&&cloud.status!=='saving'?` · ${dirty.size} بانتظار الرفع`:'');el.dataset.s=cloud.status;
+  const d=$('cloudInfo');if(d)d.textContent=cloud.at?`آخر مزامنة: ${new Date(cloud.at).toLocaleTimeString('ar')}${cloud.err?' · '+cloud.err:''}`:(cloud.err||'لم تتم المزامنة بعد');
+}
+async function api(method,body){
+  const r=await fetch(API,{method,headers:{'X-Team-Key':teamKey,'Content-Type':'application/json'},body:body&&JSON.stringify(body),cache:'no-store'});
+  if(r.status===401)throw Object.assign(new Error('رمز الفريق غير صحيح'),{auth:true});
+  if(!r.ok)throw new Error('خطأ '+r.status);
+  return r.json();
+}
+// fold the server copy into ours; per store the newest update wins and histories are joined
+function absorb(data){
+  let changed=0;
+  for(const[id,v]of Object.entries(data||{})){
+    if(!ALL.some(a=>a.id===id))continue;
+    const m=mergeRec(state[id],v);
+    if(JSON.stringify(m)!==JSON.stringify(state[id])){state[id]=m;changed++}
+  }
+  return changed;
+}
+async function syncNow(quiet){
+  if(!teamKey){setCloud('off');return}
+  if(busy){schedulePush();return}
+  busy=true;setCloud('saving');
+  try{
+    const ids=[...dirty].filter(id=>state[id]);
+    const res=ids.length?await api('POST',{data:Object.fromEntries(ids.map(id=>[id,state[id]]))}):await api('GET');
+    // only clear what we sent and that wasn't edited again while the request was in flight
+    ids.forEach(id=>{if(res.data?.[id]&&(res.data[id].updatedAt||0)>=(state[id].updatedAt||0))dirty.delete(id)});
+    const changed=absorb(res.data);persist();setCloud('ok');
+    if(changed&&!sel)render();
+    if(!quiet&&changed)toast(`☁ وصلت ${changed} تحديثات من الفريق`);
+    if(!quiet&&!changed)toast('☁ كل شيء متزامن');
+  }catch(e){setCloud('err',e.message);if(e.auth){teamKey='';try{localStorage.removeItem(TKEY)}catch(_){}if(me)toast('رمز الفريق غير صحيح — أدخله من «مزامنة ونسخ»')}}
+  finally{busy=false;if(dirty.size&&cloud.status==='ok')schedulePush()}
+}
+function schedulePush(){clearTimeout(pushT);pushT=setTimeout(()=>syncNow(true),700)}
+function setTeamKey(k){teamKey=(k||'').trim();try{localStorage.setItem(TKEY,teamKey)}catch(e){}Object.keys(state).forEach(id=>dirty.add(id));syncNow()}
+setInterval(()=>{if(!document.hidden)syncNow(true)},20000);
+document.addEventListener('visibilitychange',()=>{if(!document.hidden)syncNow(true)});
+window.addEventListener('online',()=>syncNow(true));
 
 /* ---------- scoring ---------- */
 // how well the store fits GoVisual (digital menu / catalog builder), 0..100
@@ -449,7 +513,7 @@ function update(id,patch,action){
   const hist=[...(prev.history||[])];
   if(action)hist.unshift({t:Date.now(),u:me,a:action});
   next.history=hist.slice(0,40);
-  state[id]=next;persist();
+  state[id]=next;dirty.add(id);persist();schedulePush();
 }
 function claim(id){
   const x=rec(ALL.find(a=>a.id===id));
@@ -660,13 +724,13 @@ async function importFiles(files){
       for(const[id,v]of Object.entries(data)){
         if(!ALL.some(a=>a.id===id)||typeof v!=='object')continue;
         const cur=state[id];
-        if(!cur){state[id]=v;added++}
+        if(!cur){state[id]=v;dirty.add(id);added++}
         else if((v.updatedAt||0)>(cur.updatedAt||0)){
-          const seen=new Set();state[id]={...v,history:[...(v.history||[]),...(cur.history||[])].filter(h=>{const k=h.t+h.u+h.a;if(seen.has(k))return false;seen.add(k);return true}).sort((a,b)=>b.t-a.t).slice(0,40)};updated++}
+          dirty.add(id);const seen=new Set();state[id]={...v,history:[...(v.history||[]),...(cur.history||[])].filter(h=>{const k=h.t+h.u+h.a;if(seen.has(k))return false;seen.add(k);return true}).sort((a,b)=>b.t-a.t).slice(0,40)};updated++}
       }
     }catch(e){toast('ملف غير صالح: '+file.name)}
   }
-  persist();render();toast(`تم الدمج: ${added} جديد · ${updated} محدّث`);
+  persist();render();schedulePush();toast(`تم الدمج: ${added} جديد · ${updated} محدّث`);
 }
 function csvExport(){
   const hd=[['name','المتجر'],['gov','المحافظة'],['city','المدينة'],['cat','المجال'],['platform','المنصة'],['url','الرابط'],['stage','المرحلة'],['pct','الاحتمال%'],['owner','المسؤول'],['follow','المتابعة'],['access','الوصول'],['phone','الرقم'],['note','ملاحظات']];
@@ -680,7 +744,7 @@ function showPicker(){
   $('people').innerHTML=USERS.map(u=>`<button class="person" data-user="${u.id}">${av(u,'lg')}<b>${esc(u.name)}</b><small>${esc(u.en)}</small></button>`).join('');
   $('picker').classList.remove('hide');
 }
-function pick(id){me=id;try{localStorage.setItem(UKEY,id)}catch(e){}$('boardOwner').value=id;$('picker').classList.add('hide');view='dash';render();toast(`أهلاً ${UMAP[id].name}`)}
+function pick(id){const k=$('pickKey').value.trim();if(!teamKey&&!k){toast('أدخل رمز الفريق أولاً');$('pickKey').focus();return}if(k){setTeamKey(k);$('pickKey').closest('label').classList.add('hide')}me=id;try{localStorage.setItem(UKEY,id)}catch(e){}$('boardOwner').value=id;$('picker').classList.add('hide');view='dash';render();toast(`أهلاً ${UMAP[id].name}`)}
 
 /* ---------- wiring ---------- */
 const sel_=(id,opts,ph)=>$(id).innerHTML=`<option value="">${ph}</option>`+opts.map(([v,l])=>`<option value="${esc(v)}">${esc(l)}</option>`).join('');
@@ -700,6 +764,8 @@ $('prev').onclick=()=>{page--;render();$('v-leads').scrollIntoView()};$('next').
 $('csv').onclick=csvExport;$('boardOwner').onchange=render;
 $('switchUser').onclick=showPicker;
 $('expMine').onclick=()=>exportData(true);$('expAll').onclick=()=>exportData(false);
+$('saveKey').onclick=()=>{const k=$('syncKey').value;if(!k.trim())return toast('أدخل رمز الفريق');setTeamKey(k);$('syncKey').value=''};
+$('syncBtn').onclick=()=>syncNow(false);
 $('impFile').onchange=e=>{importFiles([...e.target.files]);e.target.value=''};
 $('close').onclick=closeModal;$('dcancel').onclick=closeModal;$('dsave').onclick=saveLead;
 $('modal').onclick=e=>{if(e.target===$('modal'))closeModal()};
@@ -721,7 +787,9 @@ document.addEventListener('click',e=>{
 });
 
 const h=location.hash.slice(1);if(['dash','board','leads','team','sync'].includes(h))view=h;
-if(!me)showPicker();else{$('boardOwner').value=me;render()}
+if(!me||!teamKey)showPicker();else{$('boardOwner').value=me;render()}
+$('pickKey').closest('label').classList.toggle('hide',!!teamKey);
+paintCloud();syncNow(true);
 </script>
 </body>
 </html>
