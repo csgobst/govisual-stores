@@ -1,5 +1,5 @@
 // GoVisual stores team sync API. The whole team state lives in one R2 object (state.json):
-// { "<storeId>": { owner, stage, note, ..., updatedAt, updatedBy, history:[...] } }
+// { "<storeId>": { owner, stage, note, ..., updatedAt, updatedBy, history:[...], comments:[...] } }
 // POST merges per store (newest updatedAt wins, histories are unioned), using an R2 etag
 // conditional write so two teammates saving at once never overwrite each other.
 const KEY = 'state.json';
@@ -19,7 +19,11 @@ function mergeRec(cur, v) {
   const history = [...(v.history || []), ...(cur.history || [])]
     .filter(h => { const k = h.t + '|' + h.u + '|' + h.a; if (seen.has(k)) return false; seen.add(k); return true; })
     .sort((a, b) => b.t - a.t).slice(0, 40);
-  return { ...newer, history };
+  // comments are only ever added, so join both sides by id instead of picking one
+  const cs = new Map();
+  [...(cur.comments || []), ...(v.comments || [])].forEach(c => c && c.id && cs.set(c.id, c));
+  const comments = [...cs.values()].sort((a, b) => a.t - b.t).slice(-200);
+  return { ...newer, history, ...(comments.length ? { comments } : {}) };
 }
 
 async function load(env) {

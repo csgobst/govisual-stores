@@ -221,6 +221,20 @@ input[type=range]{width:100%;accent-color:var(--teal)}
 .keyrow{display:block;margin:0 auto 18px;max-width:420px;font-size:12px;color:#9cb7c2;text-align:start}.keyrow input{display:block;width:100%;margin-top:6px;padding:10px 12px;border-radius:10px;border:1px solid #2b4a57;background:#0c222b;color:#fff;font:inherit}
 .pickerr{display:block;margin-top:6px;color:#ffb39a;min-height:1em}
 .people.busy{opacity:.5;pointer-events:none}
+/* comments + notifications */
+.comments{display:flex;flex-direction:column;gap:8px;max-height:260px;overflow:auto;margin:8px 0}
+.cmt{display:flex;gap:8px;align-items:flex-start;font-size:13px}
+.cmt .bub{background:#f3f7f9;border-radius:12px;padding:7px 11px;flex:1;min-width:0;white-space:pre-wrap;word-break:break-word}
+.cmt .bub small{display:block;color:var(--muted);font-size:11px}
+.mention{color:var(--teal);font-weight:700}
+.mchips{display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin-top:6px}
+.mchips button{border:1px solid #dce6eb;border-radius:20px;padding:2px 10px;background:#fff;font-size:12px;cursor:pointer}
+.mchips button.on{background:var(--teal);border-color:var(--teal);color:#fff}
+.nav .cnt.alert{background:var(--red);color:#fff}
+.nav .cnt.alert:empty,.nav .cnt.zero{display:none}
+.notif{align-items:flex-start}
+.notif.unread{border-color:var(--teal);background:var(--teal-l)}
+.notif .txt{display:block;white-space:pre-wrap;word-break:break-word;font-size:13px;color:var(--ink)}
 </style>
 </head>
 <body>
@@ -245,6 +259,7 @@ input[type=range]{width:100%;accent-color:var(--teal)}
       <button data-view="dash">◉ &nbsp;لوحتي</button>
       <button data-view="board">▥ &nbsp;مراحلي <span class="cnt" id="nMine">0</span></button>
       <button data-view="leads">◎ &nbsp;كل المتاجر <span class="cnt" id="nFree">0</span></button>
+      <button data-view="notif">🔔 &nbsp;الإشعارات <span class="cnt alert" id="nNotif"></span></button>
       <button data-view="team">☷ &nbsp;الفريق</button>
       <button data-view="sync">⇅ &nbsp;مزامنة ونسخ</button>
     </nav>
@@ -306,6 +321,12 @@ input[type=range]{width:100%;accent-color:var(--teal)}
       <div class="pagination"><button id="prev">السابق</button><span id="pg"></span><button id="next">التالي</button></div>
     </section>
 
+    <!-- NOTIFICATIONS -->
+    <section id="v-notif" class="hide">
+      <header class="top"><div><div class="eyebrow">NOTIFICATIONS</div><h1>الإشعارات</h1><p class="muted">التعليقات التي ذُكرت فيها، والتعليقات على متاجرك.</p></div></header>
+      <div class="panel"><div class="list" id="notifList" style="display:flex;flex-direction:column;gap:8px"></div></div>
+    </section>
+
     <!-- TEAM -->
     <section id="v-team" class="hide">
       <header class="top"><div><div class="eyebrow">TEAM</div><h1>أداء الفريق</h1><p class="muted">مقارنة بين الأعضاء الخمسة حسب البيانات المحفوظة/المستوردة في هذا المتصفح.</p></div></header>
@@ -358,6 +379,11 @@ input[type=range]{width:100%;accent-color:var(--teal)}
       <div class="box"><div class="field"><label for="daccess">اختبار الوصول للحساب</label><select id="daccess"><option>لم يُفحص</option><option>يفتح ويقبل الرسائل</option><option>يفتح لكن لا رسائل</option><option>يطلب تسجيل الدخول</option><option>الرابط لا يعمل</option></select></div>
         <div class="field" style="margin-top:8px"><label for="dphone">رقم/واتساب المتجر</label><input id="dphone" inputmode="tel" placeholder="+963..."></div></div>
       <div class="box"><b>الروابط</b><a id="durl" class="link" target="_blank" rel="noopener noreferrer"></a><div id="dextra" style="margin-top:6px"></div></div>
+    </div>
+    <div class="box" style="margin-top:12px"><b>التعليقات</b>
+      <div class="comments" id="dcomments"></div>
+      <div class="field"><textarea id="dcomment" placeholder="اكتب تعليقاً… استخدم @الاسم أو اختر من تريد إشعاره" style="min-height:60px"></textarea></div>
+      <div class="mchips"><span class="mini">إشعار:</span><span id="dmentions" class="mchips" style="margin:0"></span><button type="button" class="btn primary" id="dsend" style="margin-inline-start:auto;padding:5px 14px">إرسال التعليق</button></div>
     </div>
     <div class="field" style="margin-top:12px"><label for="dnote">ملاحظات</label><textarea id="dnote" placeholder="ماذا قال؟ ما الاعتراض؟ ما الخطوة القادمة؟"></textarea></div>
     <details style="margin-top:10px"><summary class="mini" style="cursor:pointer">دليل الموقع والمصدر</summary><p class="muted" id="dev" style="font-size:12px;margin-top:6px"></p></details>
@@ -423,7 +449,10 @@ function mergeRec(cur,v){
   if(!cur)return v;
   const newer=(v.updatedAt||0)>(cur.updatedAt||0)?v:cur,seen=new Set();
   const history=[...(v.history||[]),...(cur.history||[])].filter(h=>{const k=h.t+'|'+h.u+'|'+h.a;if(seen.has(k))return false;seen.add(k);return true}).sort((a,b)=>b.t-a.t).slice(0,40);
-  return {...newer,history};
+  // comments are never overwritten, only joined (by id)
+  const cs=new Map();[...(cur.comments||[]),...(v.comments||[])].forEach(c=>c&&c.id&&cs.set(c.id,c));
+  const comments=[...cs.values()].sort((a,b)=>a.t-b.t).slice(-200);
+  return {...newer,history,...(comments.length?{comments}:{})};
 }
 function setCloud(status,err=''){cloud={status,err,at:status==='ok'?Date.now():cloud.at};paintCloud()}
 function paintCloud(){
@@ -458,7 +487,8 @@ async function syncNow(quiet){
     // only clear what we sent and that wasn't edited again while the request was in flight
     ids.forEach(id=>{if(res.data?.[id]&&(res.data[id].updatedAt||0)>=(state[id].updatedAt||0))dirty.delete(id)});
     const changed=absorb(res.data);persist();setCloud('ok');
-    if(changed&&!sel)render();
+    if(changed){if(sel)paintComments();else render()}
+    paintNotifCount(true);
     if(!quiet&&changed)toast(`☁ وصلت ${changed} تحديثات من الفريق`);
     if(!quiet&&!changed)toast('☁ كل شيء متزامن');
   }catch(e){setCloud('err',e.message);if(e.auth)signOut('رمز الفريق غير صحيح — أدخله من جديد')}
@@ -525,6 +555,15 @@ function claim(id){
   toast('✓ صار المتجر من مسؤوليتك');
 }
 function release(id){update(id,{owner:null,stage:'new',pctManual:false},'ترك المتجر');toast('تم ترك المتجر')}
+// a comment is signed with the author and notifies everyone ticked or written as @name
+function addComment(id,text,picked){
+  text=(text||'').trim();if(!text)return false;
+  const to=USERS.filter(u=>u.id!==me&&(picked.has(u.id)||text.includes('@'+u.name)||text.toLowerCase().includes('@'+u.en.toLowerCase()))).map(u=>u.id);
+  const c={id:Date.now().toString(36)+Math.random().toString(36).slice(2,7),t:Date.now(),u:me,text:text.slice(0,2000),to};
+  const prev=state[id]||{};
+  update(id,{comments:[...(prev.comments||[]),c]},'تعليق'+(to.length?' لـ '+to.map(u=>UMAP[u].name).join('، '):''));
+  return true;
+}
 
 /* ---------- UI helpers ---------- */
 function toast(t){const el=$('toast');el.textContent=t;el.classList.add('show');clearTimeout(toast._t);toast._t=setTimeout(()=>el.classList.remove('show'),2200)}
@@ -642,13 +681,36 @@ function renderTeam(){
 function renderSync(){
   $('legend').innerHTML=STAGES.map(s=>`<div class="row">${stChip(s.id)}<span class="grow"><small style="font-size:12px">${esc(s.desc)}</small></span><b class="mini">${s.id==='new'?'حسب الملاءمة':s.id==='won'?'100%':s.base?'~'+s.base+'%':'0%'}</b></div>`).join('');
 }
+/* ---------- notifications: comments that mention me, or comments on my stores ---------- */
+const seenKey=()=>'gv_stores_seen_'+me;
+function getSeen(){try{return +localStorage.getItem(seenKey())||0}catch(e){return 0}}
+function notifs(){
+  const out=[];
+  for(const x of ALL){const s=state[x.id];for(const c of s?.comments||[]){if(c.u===me)continue;const m=(c.to||[]).includes(me);if(m||s.owner===me)out.push({x,c,m})}}
+  return out.sort((a,b)=>b.c.t-a.c.t);
+}
+let notifN=null;
+function paintNotifCount(alert){
+  if(!me)return;
+  const n=notifs().filter(o=>o.c.t>getSeen()).length;
+  if(alert&&notifN!==null&&n>notifN)toast('🔔 لديك إشعار جديد');
+  notifN=n;$('nNotif').textContent=n||'';
+}
+const fmtText=t=>esc(t).replace(/@([^\s@،,.]+)/g,'<span class="mention">@$1</span>');
+function renderNotif(){
+  const seen=getSeen(),list=notifs();
+  $('notifList').innerHTML=list.map(({x,c,m})=>`<button class="row notif ${c.t>seen?'unread':''}" data-open="${esc(x.id)}">${av(UMAP[c.u],'sm')}<span class="grow"><small>${esc(UMAP[c.u]?.name||c.u)} ${m?'ذكرك في':'علّق على متجرك'} <b>${esc(x.name)}</b> · ${ago(c.t)}</small><span class="txt">${fmtText(c.text)}</span></span></button>`).join('')||'<div class="empty">لا توجد إشعارات بعد.</div>';
+  try{localStorage.setItem(seenKey(),String(Date.now()))}catch(e){}
+  paintNotifCount();
+}
 function render(){
   if(!me)return;
-  ['dash','board','leads','team','sync'].forEach(v=>$('v-'+v).classList.toggle('hide',v!==view));
+  paintNotifCount();
+  ['dash','board','leads','notif','team','sync'].forEach(v=>$('v-'+v).classList.toggle('hide',v!==view));
   document.querySelectorAll('#nav button').forEach(b=>b.classList.toggle('active',b.dataset.view===view));
   const all=rows();$('nMine').textContent=all.filter(x=>x.owner===me).length;$('nFree').textContent=all.filter(x=>!x.owner).length;
   const u=UMAP[me];$('meName').textContent=u.name;$('meAv').textContent=u.name[0];$('meAv').style.background=u.color;
-  ({dash:renderDash,board:renderBoard,leads:renderLeads,team:renderTeam,sync:renderSync})[view]();
+  ({dash:renderDash,board:renderBoard,leads:renderLeads,notif:renderNotif,team:renderTeam,sync:renderSync})[view]();
 }
 
 /* ---------- modal ---------- */
@@ -678,6 +740,7 @@ function openLead(id){
   if(!x.owner){ob.className='banner';ob.innerHTML='◌ هذا المتجر متاح. اختره ليصبح من مسؤوليتك ولا يتواصل معه أحد غيرك.';cl.textContent='＋ اختره لي';cl.className='btn primary';cl.dataset.act='claim'}
   else if(x.owner===me){ob.className='banner';ob.innerHTML=`✓ هذا المتجر من مسؤوليتك${x.updatedAt?' · آخر تحديث '+ago(x.updatedAt):''}.`;cl.textContent='ترك المتجر';cl.className='btn danger';cl.dataset.act='release'}
   else{ob.className='banner warn';ob.innerHTML=`⚠️ هذا المتجر اختاره <b>${esc(UMAP[x.owner].name)}</b>. نسّق معه قبل التواصل لتجنب الرسائل المكررة.`;cl.textContent='انقله إليّ';cl.className='btn';cl.dataset.act='claim'}
+  mentionSel=new Set();$('dcomment').value='';paintComments();paintMentions();
   paintDraft();
   $('modal').classList.add('show');document.body.style.overflow='hidden';$('close').focus();
 }
@@ -690,9 +753,20 @@ function paintDraft(){
   $('dpctHint').textContent=draft.pctManual?'تقدير يدوي منك':`تقدير آلي: المرحلة «${ST[draft.stage].label}» + ملاءمة المتجر`;
   $('dauto').classList.toggle('hide',!draft.pctManual);
 }
+let mentionSel=new Set();
+function paintComments(){
+  const el=$('dcomments'),cs=state[sel]?.comments||[];
+  el.innerHTML=cs.map(c=>`<div class="cmt">${av(UMAP[c.u],'sm')}<div class="bub"><small><b>${esc(UMAP[c.u]?.name||c.u)}</b> · ${new Date(c.t).toLocaleString('en-GB',{dateStyle:'short',timeStyle:'short'})}${(c.to||[]).length?' · إلى '+c.to.map(u=>esc(UMAP[u]?.name||u)).join('، '):''}</small>${fmtText(c.text)}</div></div>`).join('')||'<span class="mini">لا توجد تعليقات بعد.</span>';
+  el.scrollTop=el.scrollHeight;
+}
+function paintMentions(){$('dmentions').innerHTML=USERS.filter(u=>u.id!==me).map(u=>`<button type="button" data-m="${u.id}" class="${mentionSel.has(u.id)?'on':''}">@${esc(u.name)}</button>`).join('')}
+function sendComment(){
+  if(!addComment(sel,$('dcomment').value,mentionSel))return false;
+  $('dcomment').value='';mentionSel=new Set();paintComments();paintMentions();return true;
+}
 function closeModal(){$('modal').classList.remove('show');document.body.style.overflow='';sel=null}
 function saveLead(){
-  const id=sel,x=rec(ALL.find(a=>a.id===id));
+  const id=sel,x=rec(ALL.find(a=>a.id===id)),sent=sendComment();
   draft.follow=$('dfollow').value;draft.channel=$('dchannel').value;draft.access=$('daccess').value;draft.phone=$('dphone').value.trim();draft.note=$('dnote').value.trim();
   const changes=[];
   if(draft.stage!==x.stage)changes.push(`المرحلة: ${ST[x.stage].label} ← ${ST[draft.stage].label}`);
@@ -706,7 +780,7 @@ function saveLead(){
   // moving a store forward implicitly claims it
   if(draft.stage!=='new'&&!x.owner)patch.owner=me;
   if(draft.stage==='new'&&x.owner===me)patch.owner=null;
-  if(!changes.length&&patch.owner===undefined){closeModal();return}
+  if(!changes.length&&patch.owner===undefined){closeModal();if(sent){render();toast('✓ تم إرسال التعليق')}return}
   update(id,patch,changes.join(' · ')||'اختار المتجر');
   closeModal();render();toast('✓ تم الحفظ');
 }
@@ -789,6 +863,8 @@ $('switchUser').onclick=()=>signOut();
 $('expMine').onclick=()=>exportData(true);$('expAll').onclick=()=>exportData(false);
 $('syncBtn').onclick=()=>syncNow(false);
 $('impFile').onchange=e=>{importFiles([...e.target.files]);e.target.value=''};
+$('dsend').onclick=()=>{if(sendComment())toast('✓ تم إرسال التعليق');else{toast('اكتب التعليق أولاً');$('dcomment').focus()}};
+$('dmentions').onclick=e=>{const b=e.target.closest('[data-m]');if(!b)return;const u=b.dataset.m;mentionSel.has(u)?mentionSel.delete(u):mentionSel.add(u);paintMentions()};
 $('close').onclick=closeModal;$('dcancel').onclick=closeModal;$('dsave').onclick=saveLead;
 $('modal').onclick=e=>{if(e.target===$('modal'))closeModal()};
 $('dpct').oninput=e=>{draft.pct=+e.target.value;draft.pctManual=true;paintDraft()};
@@ -808,7 +884,7 @@ document.addEventListener('click',e=>{
   else if(t.dataset.userboard){go('board');$('boardOwner').value=t.dataset.userboard;render()}
 });
 
-const h=location.hash.slice(1);if(['dash','board','leads','team','sync'].includes(h))view=h;
+const h=location.hash.slice(1);if(['dash','board','leads','notif','team','sync'].includes(h))view=h;
 if(!me||!teamKey)showPicker();else{$('boardOwner').value=me;render()}
 paintCloud();syncNow(true);
 </script>
