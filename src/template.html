@@ -219,6 +219,8 @@ input[type=range]{width:100%;accent-color:var(--teal)}
 .cloud{display:block;width:calc(100% - 24px);margin:10px 12px 0;padding:7px 10px;border-radius:9px;border:1px solid #2b4a57;background:#0f2a34;color:#9fe3c9;font:inherit;font-size:12px;text-align:start;cursor:pointer}
 .cloud[data-s=err],.cloud[data-s=off]{color:#ffc9a8;border-color:#6b3d2a;background:#2e1c15}
 .keyrow{display:block;margin:0 auto 18px;max-width:420px;font-size:12px;color:#9cb7c2;text-align:start}.keyrow input{display:block;width:100%;margin-top:6px;padding:10px 12px;border-radius:10px;border:1px solid #2b4a57;background:#0c222b;color:#fff;font:inherit}
+.pickerr{display:block;margin-top:6px;color:#ffb39a;min-height:1em}
+.people.busy{opacity:.5;pointer-events:none}
 </style>
 </head>
 <body>
@@ -230,7 +232,7 @@ input[type=range]{width:100%;accent-color:var(--teal)}
     <div class="eyebrow" style="color:#46dbaf">GOVISUAL · STORES TEAM</div>
     <h1 id="pickTitle">مين أنت؟</h1>
     <p>اختر اسمك ليتم تسجيل كل تواصل وتقدّم باسمك. يمكنك التبديل لاحقاً من أسفل القائمة.</p>
-    <label class="keyrow">رمز الفريق (مرة واحدة فقط على هذا الجهاز)<input id="pickKey" type="password" autocomplete="off" placeholder="gv-…"></label>
+    <label class="keyrow">رمز الفريق (مطلوب في كل دخول)<input id="pickKey" type="password" autocomplete="off" placeholder="gv-…"><span id="pickErr" class="pickerr" role="alert"></span></label>
     <div class="people" id="people"></div>
   </div>
 </div>
@@ -322,7 +324,7 @@ input[type=range]{width:100%;accent-color:var(--teal)}
     <section id="v-sync" class="hide">
       <header class="top"><div><div class="eyebrow">SYNC & BACKUP</div><h1>مزامنة ونسخ احتياطي</h1><p class="muted">كل اختيار وتعديل يُحفظ تلقائياً على السحابة (Cloudflare R2) ويصل لكل الفريق خلال ثوانٍ.</p></div></header>
       <div class="panel"><h2>المزامنة السحابية</h2><p class="muted" id="cloudInfo" style="font-size:12px;margin:6px 0 14px"></p>
-        <div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center"><input id="syncKey" type="password" autocomplete="off" placeholder="رمز الفريق" style="flex:1;min-width:160px;padding:9px 12px;border-radius:10px;border:1px solid #d9d2c8;font:inherit"><button class="btn primary" id="saveKey">حفظ الرمز والمزامنة</button><button class="btn" id="syncBtn">⟳ مزامنة الآن</button></div>
+        <div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center"><button class="btn" id="syncBtn">⟳ مزامنة الآن</button></div>
         <p class="muted mini" style="margin-top:10px">إذا انقطع الإنترنت تُحفظ التعديلات في المتصفح وتُرفع تلقائياً عند عودة الاتصال. عند تعديل نفس المتجر من شخصين يُحتفظ بالأحدث، والسجل يُدمج.</p></div>
       <div class="banner warn"><b>نسخ احتياطي يدوي</b> ما زال بإمكانك تصدير واستيراد ملفات JSON. الاستيراد يُدمج ويُرفع للسحابة تلقائياً.</div>
       <div class="grid3">
@@ -459,7 +461,7 @@ async function syncNow(quiet){
     if(changed&&!sel)render();
     if(!quiet&&changed)toast(`☁ وصلت ${changed} تحديثات من الفريق`);
     if(!quiet&&!changed)toast('☁ كل شيء متزامن');
-  }catch(e){setCloud('err',e.message);if(e.auth){teamKey='';try{localStorage.removeItem(TKEY)}catch(_){}if(me)toast('رمز الفريق غير صحيح — أدخله من «مزامنة ونسخ»')}}
+  }catch(e){setCloud('err',e.message);if(e.auth)signOut('رمز الفريق غير صحيح — أدخله من جديد')}
   finally{busy=false;if(dirty.size&&cloud.status==='ok')schedulePush()}
 }
 function schedulePush(){clearTimeout(pushT);pushT=setTimeout(()=>syncNow(true),700)}
@@ -744,7 +746,28 @@ function showPicker(){
   $('people').innerHTML=USERS.map(u=>`<button class="person" data-user="${u.id}">${av(u,'lg')}<b>${esc(u.name)}</b><small>${esc(u.en)}</small></button>`).join('');
   $('picker').classList.remove('hide');
 }
-function pick(id){const k=$('pickKey').value.trim();if(!teamKey&&!k){toast('أدخل رمز الفريق أولاً');$('pickKey').focus();return}if(k){setTeamKey(k);$('pickKey').closest('label').classList.add('hide')}me=id;try{localStorage.setItem(UKEY,id)}catch(e){}$('boardOwner').value=id;$('picker').classList.add('hide');view='dash';render();toast(`أهلاً ${UMAP[id].name}`)}
+// nobody gets in without a key the server accepts
+async function pick(id){
+  const k=$('pickKey').value.trim(),err=$('pickErr');
+  if(!k){err.textContent='أدخل رمز الفريق أولاً';$('pickKey').focus();return}
+  err.textContent='جارِ التحقق من الرمز…';$('people').classList.add('busy');
+  try{
+    const r=await fetch(API,{headers:{'X-Team-Key':k},cache:'no-store'});
+    if(r.status===401){err.textContent='رمز الفريق غير صحيح';$('pickKey').select();return}
+    if(!r.ok)throw new Error('خطأ '+r.status);
+  }catch(e){err.textContent='تعذر التحقق من الرمز — تأكد من الاتصال وحاول مجدداً';return}
+  finally{$('people').classList.remove('busy')}
+  err.textContent='';$('pickKey').value='';
+  me=id;try{localStorage.setItem(UKEY,id)}catch(e){}
+  setTeamKey(k);
+  $('boardOwner').value=id;$('picker').classList.add('hide');view='dash';render();toast(`أهلاً ${UMAP[id].name}`);
+}
+// switching user (or a rejected key) forgets the key, so the next person must type it again
+async function signOut(msg){
+  if(teamKey&&dirty.size&&!msg)await syncNow(true);
+  teamKey='';me=null;try{localStorage.removeItem(TKEY);localStorage.removeItem(UKEY)}catch(e){}
+  setCloud('off');showPicker();$('pickErr').textContent=msg||'';$('pickKey').value='';$('pickKey').focus();
+}
 
 /* ---------- wiring ---------- */
 const sel_=(id,opts,ph)=>$(id).innerHTML=`<option value="">${ph}</option>`+opts.map(([v,l])=>`<option value="${esc(v)}">${esc(l)}</option>`).join('');
@@ -762,9 +785,8 @@ $('reset').onclick=()=>{f={q:'',owner:'',verdict:'',stage:'',gov:'',cat:'',sort:
 $('ctab').onclick=()=>{lview='cards';render()};$('ttab').onclick=()=>{lview='table';render()};
 $('prev').onclick=()=>{page--;render();$('v-leads').scrollIntoView()};$('next').onclick=()=>{page++;render();$('v-leads').scrollIntoView()};
 $('csv').onclick=csvExport;$('boardOwner').onchange=render;
-$('switchUser').onclick=showPicker;
+$('switchUser').onclick=()=>signOut();
 $('expMine').onclick=()=>exportData(true);$('expAll').onclick=()=>exportData(false);
-$('saveKey').onclick=()=>{const k=$('syncKey').value;if(!k.trim())return toast('أدخل رمز الفريق');setTeamKey(k);$('syncKey').value=''};
 $('syncBtn').onclick=()=>syncNow(false);
 $('impFile').onchange=e=>{importFiles([...e.target.files]);e.target.value=''};
 $('close').onclick=closeModal;$('dcancel').onclick=closeModal;$('dsave').onclick=saveLead;
@@ -788,7 +810,6 @@ document.addEventListener('click',e=>{
 
 const h=location.hash.slice(1);if(['dash','board','leads','team','sync'].includes(h))view=h;
 if(!me||!teamKey)showPicker();else{$('boardOwner').value=me;render()}
-$('pickKey').closest('label').classList.toggle('hide',!!teamKey);
 paintCloud();syncNow(true);
 </script>
 </body>
